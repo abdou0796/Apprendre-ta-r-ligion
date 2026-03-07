@@ -1,6 +1,5 @@
 # Bienvenue sur la page d'apprentissage des enseignements islamiques de Cheikh Ahmadou Bamba Mbacké Khadimou Rassoul
-![a68c7718-a659-4b61-97b1-5091caaa88c0](https://github.com/user-attachments/assets/c0589b06-4210-4d1a-9532-5d8923b366ac)
-
+![IMG-20200912-WA0010](https://github.com/user-attachments/assets/66a4730c-9c69-4b24-beb6-afba0507642b)
 ---
 ## Auteur:
 ### **GUENE Abdou Lahat**  
@@ -25,4 +24,5 @@ Puisse ce site être un lieu d’apprentissage, de réflexion et d’élévation
 
 [🔗 RPubs](https://rpubs.com/abdou96 )  
 
-![IMG_5250](https://github.com/user-attachments/assets/ac7a2b4c-3a42-47c9-86eb-c991a1556d9e)
+![IMG-20200629-WA0055](https://github.com/user-attachments/assets/7460b53e-54f7-4336-987e-4c43c0a3d9ac)
+
