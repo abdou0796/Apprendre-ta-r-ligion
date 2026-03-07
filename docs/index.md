@@ -5,6 +5,7 @@
 ## Auteur:
 ### **GUENE Abdou Lahat**  
 Disciple du Cheikh et Géomaticien en France 
+![IMG_5250](https://github.com/user-attachments/assets/ac7a2b4c-3a42-47c9-86eb-c991a1556d9e)
 
 **Mail :** [guenelahad890@gmail.com](mailto:guenelahad890@gmail.com)
 
@@ -24,9 +25,3 @@ Puisse ce site être un lieu d’apprentissage, de réflexion et d’élévation
 [🔗 Linked In](https://www.linkedin.com/in/abdouguene/ )  
 
 [🔗 RPubs](https://rpubs.com/abdou96 )  
-
-
-- *D’autres rubriques seront ajoutées progressivement : Base de données, GDAL, télédétection, traitements Python, métadonnées, etc.*
-
-
-
