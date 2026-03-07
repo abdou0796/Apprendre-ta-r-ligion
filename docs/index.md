@@ -2,32 +2,27 @@
 ---
 ## Auteur:
 ### **GUENE Abdou Lahat**  
-Géomaticien - AUDC Châlons-en-Champagne  
+Disciple du Cheikh et Géomaticien en France 
+
 **Mail :** [guenelahad890@gmail.com](mailto:guenelahad890@gmail.com)
 
-Site développé dans le cadre de l’amélioration continue des outils en géomatique.
-Ce site rassemble l’ensemble des ressources, méthodes et bonnes pratiques utilisées pour la production, la gestion et l’analyse des données géomatiques intéressantes.  
-Il a été conçu pour offrir un cadre clair, structuré et facilement accessible aux agents et partenaires travaillant sur des projets SIG.
-## Objectifs du site
-- Centraliser les connaissances et outils géomatique.
-- Améliorer l’accès aux données, aux procédures et aux référentiels.
-- Garantir la qualité, la traçabilité et la cohérence des traitements.
-- Faciliter le partage d’informations entre les différents projets.
-- Servir de guide aux nouveaux utilisateurs des outils SIG.
+Bienvenue sur cet espace dédié à la lumière, au savoir et à l’héritage spirituel de Cheikh Ahmadou Bamba Mbacké, fondateur du Mouridisme et maître de la voie du travail, de la paix et de la proximité divine.
+À travers ses écrits, ses poèmes et ses enseignements, il a offert à l’humanité un chemin de droiture, de discipline et d’amour sincère pour Dieu et Son Prophète.
+
+Ce site a pour vocation de présenter, avec respect et clarté, les grandes œuvres du Cheikh, leurs messages essentiels et leur portée éducative.
+On y découvre des résumés, des explications et des extraits choisis, afin de permettre à chacun — jeunes, adultes et chercheurs de vérité et de s’imprégner de cette sagesse intemporelle.
+
+Cheikh Ahmadou Bamba rappelait :
+« Ô vous les adolescents ! ne vous préoccupez que de droiture, évertuez-vous à la recherche du savoir. »  
+Cet appel à l’effort, à la connaissance et à la purification du cœur demeure plus actuel que jamais.
+
+Puisse ce site être un lieu d’apprentissage, de réflexion et d’élévation spirituelle, au service de tous ceux qui aspirent à marcher sur la voie de la paix intérieure et de la servitude sincère envers Dieu.
 ### Autres sites:
 
 [🔗 Linked In](https://www.linkedin.com/in/abdouguene/ )  
 
 [🔗 RPubs](https://rpubs.com/abdou96 )  
 
-## Queleques contenus disponibles
-Le site s’organise en différentes thématiques essentielles :
-
-- **Accueil** - Présentation générale de la démarche et des objectifs.
-
-- **Interopérabilité des données en géomatique** - Comprendre l’échange de données entre logiciels, formats SIG et environnements techniques.
-
-- **Sources de données en agence d'urbanisme** - Exemple des sources de données utilisées à l’AUDC de Châlons-en Champagne
 
 - *D’autres rubriques seront ajoutées progressivement : Base de données, GDAL, télédétection, traitements Python, métadonnées, etc.*
 
