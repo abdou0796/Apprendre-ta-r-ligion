@@ -44,7 +44,6 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 17.Par un repentir sincère, se tournant résolument vers DIEU, atteindra la perfection  
 
 18.Attachez-vous à ces conseils que je vous prodigue, vous aurez alors un bénéfice certain Ici-bas  et dans l’Au-delà, en compagnie des bienheureux  
-
 ### SUR LES DIFFERENTES PARTIES DE LA RELIGIONS
 
 19.Les parties qui composent la Religion de notre SEIGNEUR sont : "la Profession de Foi (Imân),  après cela les Pratiques Cultuelles de Soumission à DIEU (Islâm) et la Perfection Spirituelle (Ihsân)"  
@@ -467,7 +466,8 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 213.C’est de l’acquitter délibérémentet qu’elle soit prélevée sur la qualité moyenne du bien  imposable, quel qu’il soit  
 
-214.Troisièmement, de ne pas faire la donation aux yeux des gens, par crainte de l’ostentation qui  est nuisible à la religion   
+214.Troisièmement, de ne pas faire la donation aux yeux des gens, par crainte de l’ostentation qui  est nuisible à la religion 
+
 ### LE PELERINAGE
 
 215.Les Actes Obligatoires du Pèlerinage, selon les Maîtres, sont au nombre de quatre : la  formulation de l’intention est le premier dans la stipulation  
@@ -476,7 +476,9 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 217.Et la course rituelle entre Çafâ et Marwa est comptée comme le troisième, sans équivoque  
 
-218.Puis la station de cArafa \- écoute-moi bien \! \- est le quatrième ; sois donc clairvoyant \!  **SES ACTES TRADITIONNELS** 
+218.Puis la station de cArafa \- écoute-moi bien \! \- est le quatrième ; sois donc clairvoyant \!  
+
+### LES ACTES TRADITIONNELS du PELERINAGE
 
 219.Leur nombre est l’addition des valeurs numériques du combiné alphabétique associant la lettre  "Bâ" à point unique (soit deux), qui vient après la lettre "Yâ" à deux points placés en-dessous et  non au-dessus (soit dix), sois fidèle \!  
 
