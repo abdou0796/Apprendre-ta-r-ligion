@@ -1,4 +1,4 @@
-# Bienvenue sur la page d'apprentissage des enseignements islamiques de Cheikh Ahmadou Bamba Mbacké 
+# Bienvenue sur la page d'apprentissage des enseignements islamiques de Cheikh Ahmadou Bamba Mbacké Khadimou Rassoul
 ![a68c7718-a659-4b61-97b1-5091caaa88c0](https://github.com/user-attachments/assets/c0589b06-4210-4d1a-9532-5d8923b366ac)
 
 ---
@@ -19,7 +19,7 @@ Cheikh Ahmadou Bamba rappelait :
 Cet appel à l’effort, à la connaissance et à la purification du cœur demeure plus actuel que jamais.
 
 Puisse ce site être un lieu d’apprentissage, de réflexion et d’élévation spirituelle, au service de tous ceux qui aspirent à marcher sur la voie de la paix intérieure et de la servitude sincère envers Dieu.
-### Autres sites:
+## Autres sites:
 
 [🔗 Linked In](https://www.linkedin.com/in/abdouguene/ )  
 
