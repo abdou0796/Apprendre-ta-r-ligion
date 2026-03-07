@@ -1,7 +1,7 @@
 # Tazawwudu \- ç \- Çighâr (Le viatique des Adolescents)
 - - -
 
-## AVANT-PROPOS
+### AVANT-PROPOS
 
 Je cherche auprès de DIEU une protection contre les malices de Satan le lapidé "...je la mets sous  Ta Protection, ainsi que sa progéniture, contre la séduction de Satan le lapidé (S.3 V.36)"  SEIGNEUR \! je me mets sous Ta Protection contre les coups d’aiguillon des démons ; et je me mets,  SEIGNEUR \! , sous Ta Protection, afin qu’ils (les démons) ne soient jamais présents en moi (S. 23 V.  98\)  
 
@@ -539,7 +539,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 248.La Sourate Liminaire (Fâtiha), suivie d’une autre sourate quelconque à voix basse, ensuite tu  marques la position assise du Tashahhud, puis tu te lèves   
 
-249.Et tu effectues une autre rakca dans laquelle tu récites la Sourate Mère de la Parole de DIEU et  une autre sourate, sans marquer la posture assise, cela s’enchaîne  
+249.Et tu effectues une autre rakca dans laquelle tu récites la Sourate Mère de la Parole de DIEU et  une autre sourate, sans marquer la posture assise, cela s’enchaîne 
 
 250.Enfin tu exécutes une autre rakca en récitant la Sourate Mère du Coran strictement, à voix  basse, ainsi tu seras quitte avec la compensation  
 
