@@ -5,9 +5,11 @@ theme:
 
 nav:
   - Accueil: index.md
+  - Le viatique des Adolescents: tazawoudous_sikhar.md
 
 extra_css:
   - css/le_style.css
+
 
 
 
