@@ -1,10 +1,11 @@
-**Tazawwudu \- ç \- Çighâr Le viatique des Adolescents** 
+# Tazawwudu \- ç \- Çighâr (Le viatique des Adolescents)
+- - -
 
-**AVANT-PROPOS** 
+## AVANT-PROPOS
 
 Je cherche auprès de DIEU une protection contre les malices de Satan le lapidé "...je la mets sous  Ta Protection, ainsi que sa progéniture, contre la séduction de Satan le lapidé (S.3 V.36)"  SEIGNEUR \! je me mets sous Ta Protection contre les coups d’aiguillon des démons ; et je me mets,  SEIGNEUR \! , sous Ta Protection, afin qu’ils (les démons) ne soient jamais présents en moi (S. 23 V.  98\)  
 
-**AU NOM DE DIEU, LE CLEMENT, LE MISERICORDIEUX** 
+### AU NOM DE DIEU, LE CLEMENT, LE MISERICORDIEUX
 
 Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maître MUHAMMAD, ainsi  que sur sa noble famille et sur ses vertueux compagnons, qu’Il les honore et les bénisse ; Salut,  Paix et Bénédiction conduisant celui qui aura appris ce présent ouvrage vers le Paradis promis aux  pieux \[ainsi soit-il \! (Amen \!)\] Ô Toi le SEIGNEUR DES CREATURES \!  
 
@@ -24,24 +25,31 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 8.Et c’est exclusivement auprès de DIEU, mon SEIGNEUR, que je sollicite l’Agrément, la Sécurité, la  Pureté et la Force de Le vénérer dûment  
 
-9.Et que cette versification soit une Direction sur Sa Voie Droite pour quiconque l’étudie  10.Qu’elle soit le bonheur des adolescents, des vieillards, des jeunes et des femmes  11.A présent, c’est le moment d’aborder le sujet, la FACE de DIEU restant constamment mon but  **PREAMBULE** 
+9.Et que cette versification soit une Direction sur Sa Voie Droite pour quiconque l’étudie  
+
+10.Qu’elle soit le bonheur des adolescents, des vieillards, des jeunes et des femmes  
+
+11.A présent, c’est le moment d’aborder le sujet, la FACE de DIEU restant constamment mon but  **PREAMBULE** 
 
 12.Ô vous les adolescents \! ne vous préoccupez que de droiture, évertuez-vous à la recherche du  savoir  
 
 13.Efforcez-vous d’assimiler et de réviser (vos leçons), fuyez les assemblées qui entraînent la  perdition  
 
-14.Attachez-vous à quelqu’un qui ne cesse d’adorer son SEIGNEUR, afin qu’il vous guide dans Sa  Voie Droite   
+14.Attachez-vous à quelqu’un qui ne cesse d’adorer son SEIGNEUR, afin qu’il vous guide dans Sa  Voie Droite  
+
 15.Quiconque se hâte dans sa jeunesse d’emprunter le Droit Chemin, bénéficiera de la quiétude  quand il sera grand  
 
-16.Celui qui compense ce qu’il a perdu dans la vanité et se consacre à vivifier le temps  17.Par un repentir sincère, se tournant résolument vers DIEU, atteindra la perfection  
+16.Celui qui compense ce qu’il a perdu dans la vanité et se consacre à vivifier le temps  
+
+17.Par un repentir sincère, se tournant résolument vers DIEU, atteindra la perfection  
 
 18.Attachez-vous à ces conseils que je vous prodigue, vous aurez alors un bénéfice certain Ici-bas  et dans l’Au-delà, en compagnie des bienheureux  
 
-**SUR LES DIFFERENTES PARTIES DE LA RELIGIONS** 
+### SUR LES DIFFERENTES PARTIES DE LA RELIGIONS
 
 19.Les parties qui composent la Religion de notre SEIGNEUR sont : "la Profession de Foi (Imân),  après cela les Pratiques Cultuelles de Soumission à DIEU (Islâm) et la Perfection Spirituelle (Ihsân)"  
 
-**CHAPITRE I LA PROFESSION DE FOI MUSULMANE (Al Imân) LA PROFESSION DE FOI EN  DIEU** 
+### CHAPITRE I LA PROFESSION DE FOI MUSULMANE (Al Imân) LA PROFESSION DE FOI EN  DIEU
 
 20.Votre foi \- ô vous les adolescents \! \- en Celui à Qui appartiennent les petits et les grands  
 
@@ -68,6 +76,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 32.Le SAVANT, le VIVANT, l’AUDIANT, c’est Lui qui pourvoie, le MEILLEUR VOYANT  
 
 33.Et le PARLANT : puisse DIEU te guider par l’Onction de la Profession "IL N’Y A DE DIEU  QU’ALLAH"   
+
 34.Et quant à Lui, il est impossible d’accorder à Son Essence les contraires de tels Attributs,  dispensez-Le donc de cela \!  
 
 35.Je fais allusion à l’INEXISTENCE, de même qu’à l’ADVENCITE à l’EXTINCTION, à la  COMPARAISON, de même qu’à Son INDIGENCE, réfléchis \!  
@@ -86,9 +95,11 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 42.Car celui-ci est un prologue au grand traité qui explicite son contenu  
 
-**LES ANGES** (sur eux la Paix et le Salut)  
+### LES ANGES (sur eux la Paix et le Salut)  
 
-43.Quant aux Anges, la croyance en eux est d’affirmer et d’être à la fois convaincu  44.Que leur existence est indiscutable et qu’ils sont préservés des péchés  
+43.Quant aux Anges, la croyance en eux est d’affirmer et d’être à la fois convaincu  
+
+44.Que leur existence est indiscutable et qu’ils sont préservés des péchés  
 
 45.Et qu’ils Sont des créatures qui n’excrètent ni matières fécales, ni urine ; ils sont des êtres  totalement purifiés  
 
@@ -96,15 +107,18 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 47.Mais ils sont des serviteurs placés dans une honorabilité éternelle et aucun d’entre eux ne  désobéit à l’ABSOLU  
 
-48.Chacun accomplit les Ordres qui lui sont assignés ; ils m’ont apporté en toute assurance la joie  49.Et leur SEIGNEUR, le SUBSISTANT, les a créés à partir de la lumière, cela est sans équivoque  
+48.Chacun accomplit les Ordres qui lui sont assignés ; ils m’ont apporté en toute assurance la joie  
+
+49.Et leur SEIGNEUR, le SUBSISTANT, les a créés à partir de la lumière, cela est sans équivoque  
 
 50.Célébrer la Gloire de leur SEIGNEUR reste leur breuvage, Le sanctifier constitue leur nourriture,  n’en doutez point \!  
 
-**LES LIVRES CELESTES** 
+### LES LIVRES CELESTES
 
 51.Votre croyance aux Livres (sacrés) est d’attester que leur Révélation est Véridique  
 
 52.Et que le Message qu’ils véhiculent dans leur totalité est vrai, sans aucun doute, celui qui a foi en  eux gagne en élévation   
+
 53.Leur nombre correspond à la valeur numérique du composé "QADUN" (Qâf \= 100 ; Dâl \= 4, soit  cent quatre) ; parmi eux, dix, soit la valeur numérique de la lettre "Yâ", ont été révélés au Prophète  ADAM, selon la source bien établie  
 
 54.Cinquante, soit la valeur numérique de la lettre "Nûn" , ont été révélés à son fils SETH ; trente,  soit la valeur numérique de la lettre "Lâm", à ESDRAS ; dix, soit la valeur numérique de la lettre  "Yâ", à l’Ami de Dieu(Il s’agit du Prophète ABRAHAM, l’Ami de DIEU) , dans l’ordre de succession  
@@ -115,7 +129,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 57.Sur eux la Paix et le Salut, aussi longtemps qu’ils auront l’Estime du MAÎTRE DES CREATURES,  Lui Qui a pour NOM la PAIX  
 
-**LES ENVOYES** (Paix et Salut sur Eux)  
+### LES ENVOYES (Paix et Salut sur Eux)  
 
 58.Votre croyance aux Envoyés est d’avoir foi en eux et d’admettre l’authenticité du Message reçu  de leur SEIGNEUR  
 
@@ -142,7 +156,8 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 69.Quant à l’ensemble des Prophètes et des Envoyés, leur nombre s’élève, en milliers, à cent vingt  quatre, ô toi bonhomme  
 
 70.Que le Plus Pur Salut de DIEU, accompagné de Sa Prière, soit sur eux, sans fin   
-**LE JOUR ULTIME** (Que DIEU le TRES-HAUT nous préserve de ses frayeurs)  
+
+### LE JOUR ULTIME (Que DIEU le TRES-HAUT nous préserve de ses frayeurs)  
 
 71.Votre croyance en ce Jour est d’être convaincu de son avènement et de ce qu’il comporte,  réveille-toi \!  
 
@@ -168,7 +183,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 82.Ensuite la Grande, qui est consécutive au Souffle dans la Trompette ; ce Jour-là, point mes  transactions ne seront déçues  
 
-**LA CROYANCE AU DECRET DIVIN** (qui ne destine au versificateur "le Cheikkh AHMADOU BAMBA"  aucun trouble)  
+### LA CROYANCE AU DECRET DIVIN (qui ne destine au versificateur "le Cheikkh AHMADOU BAMBA"  aucun trouble)  
 
 83.Votre Foi au Décret du CLEMENT, Celui-là Qui est le NOBLE, le SECURISANT et le BIENFAITEUR  
 
@@ -181,6 +196,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 87.Que ce soit agréable, comme la récompense accordée aux musulmans, ou amer, comme le  châtiment des transgresseurs  
 
 88.Tout ce qui se produit, de façon apparente ou cachée, relève du Décret de mon SEIGNEUR, le  DOMINATEUR   
+
 89.Son Décret réalise sans aucun trouble les vœux de celui qui est épris de Lui et efface les  préjudices de celui-ci  
 
 90.Son Décret entraîne le châtiment et la condamnation vers celui qui Lui est rebelle, de même que  les voiles (des ténèbres)  
@@ -189,13 +205,13 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 92.Il n’est parmi l’ensemble des créatures, une seule qui soit la cause d’un effet quelconque, cette  assertion est apodictique  
 
-**CHAPITRE II LES PRATIQUES CULTUELLES (Islâm) LES PRATIQUES CULTUELLES (Islâm)** 
+### CHAPITRE II LES PRATIQUES CULTUELLES (Islâm) LES PRATIQUES CULTUELLES (Islâm)
 
 93.Votre soumission (Al Islâm) \- ô adolescents \! \- à Celui à Qui appartiennent le monde d’Ici-bas et  celui de l’Au-delà  
 
 94.Consiste en : "la MENTION DU NOM DE DIEU (Dhikr), les PRIERES RITUELLES, le JEUNE, le  PELERINAGE, l’AUMONE LEGALE", chacun d’eux s’acquitte obligatoirement  
 
-**LA MENTION DU NOM DE DIEU (Dhikr)** 
+### LA MENTION DU NOM DE DIEU (Dhikr)
 
 95.La Formule : "Il n’y a point une autre Divinité en dehors de DIEU, MUHAMMAD est l’Envoyé de  DIEU"  
 
@@ -205,7 +221,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 98.Celui qui se consacre à la répéter dans le recueillement acquerra des avantages et sera exempt  de troubles  
 
-**LES CINQ PRIERES** 
+### LES CINQ PRIERES
 
 99.Sache que les cinq prières sont instituées en une Obligation avérée et tu seras préservé de la  confusion  
 
@@ -220,6 +236,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 104.Et point il ne sera soumis au lavage funèbre, ni recouvert de linceul, il sera privé de la prière  sur le mort, point il ne sera inhumé  
 
 105.Parmi les musulmans (dans les cimetières), mais l’Imâm enverra quelqu’un chargé de  l’ensevelir et il ne sera pas tourné vers   
+
 106.La Maison du TRES-HAUT, et l’ensemble de son patrimoine sera déposé au Trésor Public des  musulmans  
 
 107.Mais celui qui reconnaît le caractère obligatoire de la prière et refuse de l’observer, sans excuse  valable  
@@ -252,8 +269,15 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 121.En accomplissant les génuflexions et les prosternations et en exécutant les stations debout et  assises  
 
-122.Et n’omettant apparemment rien dans la prière et qu’après l’achèvement, on lui demande  123.Les Actes Obligatoires ou Traditionnels qui s’y rapportent selon l’avis des Docteurs de la Loi  124.Et le caractère de la prière : est-elle obligatoire, méritoire, ou traditionnelle, selon les Textes ?   
-125.Mais ignorant tout de ce qu’on lui demande, il répond en disant naïvement à son interlocuteur :  126."Je me conforme, au moment où les gens célèbrent l’office, à ce que je les vois faire"  
+122.Et n’omettant apparemment rien dans la prière et qu’après l’achèvement, on lui demande  
+
+123.Les Actes Obligatoires ou Traditionnels qui s’y rapportent selon l’avis des Docteurs de la Loi  
+
+124.Et le caractère de la prière : est-elle obligatoire, méritoire, ou traditionnelle, selon les Textes ?   
+
+125.Mais ignorant tout de ce qu’on lui demande, il répond en disant naïvement à son interlocuteur :  
+
+126."Je me conforme, au moment où les gens célèbrent l’office, à ce que je les vois faire"  
 
 127.Certains des Docteurs de la Loi jugent que la prière de ce dernier ne sera pas agréée, son  excuse non plus ne sera pas acceptée  
 
@@ -288,11 +312,14 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 143.Et laver la jambe droite jusqu’à la cheville, faire de même pour la jambe gauche, et terminer  144.Par son ventre, sa poitrine, après avoir lavé le dos  
 
 145.Et point il ne distingue en la circonstance, à travers tous ces actes, ce qui est obligatoire ou  traditionnel   
+
 146.Celui-là maintient intact son état d’impureté mineure, de même que sa souillure majeure,  sache-le \!  
 
 147.Sa prière aussi est nulle et n’est pas agréée, en vérité, il a commis des péchés dans l’ensemble  (de ces actes)  
 
-148.Il a désobéi à son SEIGNEUR et au Prophète, sur lui les meilleures Prières de DIEU  149.Ce réquisitoire de l’Imâm AI cawfi est plein de crainte révérencielle (envers DIEU)  
+148.Il a désobéi à son SEIGNEUR et au Prophète, sur lui les meilleures Prières de DIEU  
+
+149.Ce réquisitoire de l’Imâm AI cawfi est plein de crainte révérencielle (envers DIEU)  
 
 150.Il ajoute que toute pratique religieuse effectuée dans de telles conditions, parmi les actes  d’adoration, est vaine  
 
@@ -323,6 +350,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 163.Celui qui ignore ses obligations sans se renseigner, encourt sa perte et se porte préjudice  **LES ACTES OBLIGATOIRES DE LA PRIERE** 
 
 164.Les Actes Obligatoires de la prière sont au nombre de quinze, d’après ce qu’a mentionné AI  cAwfi, l’éminent jurisconsulte   
+
 165.Le premier est notre formulation de l’intention, le deuxième est la formule de sacralisation  (Takbîr), attache-toi à mon exposé  
 
 166.Le troisième est la station debout qui l’accompagne, le quatrième est la récitation de la Sourate  Liminaire (Fatiha), au Nom de Celui à Qui est destiné le Jeûne  
@@ -341,7 +369,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 173.Par la position assise du salut final, de l’articulation du Hamza de la lettre "Alîf" au "Mîm" du  "Kum"(il s’agit de la formule " As-salâmu cAleykum" qui achève la prière), comme l’a transmis le  rapporteur  
 
-**LES ACTES TRADITIONNELS DE LA PRIERE** 
+### LES ACTES TRADITIONNELS DE LA PRIERE
 
 174.Quant à ses Actes Traditionnels, leur nombre est équivalent à la valeur numérique du composé  alphabétique "HAYUN", avec la lettre "Hâ" dénuée de point diacritique (soit huit), précédant le "Yâ"  isolé (Soit dix), sans le "Nûn" ; sois donc subtil \!  
 
@@ -358,6 +386,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 180.Sur sa famille et sur ses compagnons et qu’Il assimile cette présente versification à la meilleure  lumière qui est sublime  
 
 181.Cette prière sur le Prophète ne figure que dans la seconde Profession de Foi (Tashahhud), selon  celui qui a acquis (la connaissance)   
+
 182.Et on classe également parmi les Actes Traditionnels, les positions assises du premier et du  second Tashahhud, faites la distinction \!  
 
 183.Et l’observance d’un instant de pause en plus dans toute posture et d’un instant consécutif au  salut final et de même durée que lui, ensuite la prononciation audible qui vient  
@@ -368,7 +397,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 186.A l’usage de l’orant isolé et de l’officiant, mais le fidèle priant sous une direction, se suffit de  l’Imâm (comme Sitr)  
 
-**LES ACTES OBLIGATOIRES DE L’ABLUTION** 
+### LES ACTES OBLIGATOIRES DE L’ABLUTION
 
 187.Notre Ablution comporte huit Obligations, selon les propos de ce Maître(l’Imâm Al cAwfi) ; ne  discute pas  
 
@@ -378,7 +407,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 190.Le passage des mains mouillées sur la tête, le lavage des pieds, le frottement de chacune des  parties avec les mains, l’enchaînement ininterrompu dans l’exécution, de l’avis du rapporteur  
 
-**LES ACTES TRADITIONNELS DE L’ABLUTION** 
+### LES ACTES TRADITIONNELS DE L’ABLUTION
 
 191.Ses Actes Traditionnels font le même nombre que les Obligations ,d’après ce qui relève de Al  cAwfi, l’éminent jurisconsulte  
 
@@ -386,18 +415,19 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 193.Et purge l’eau hors des narines, repasse les mains sur la tête dans le sens inverse (de la nuque  au front), respecte leur enchaînement et tu seras préservé de tout mal  
 
-**LES ACTES OBLIGATOIRES DE LA PURIFICATION MAJEURE** 
+### LES ACTES OBLIGATOIRES DE LA PURIFICATION MAJEURE
 
 194.Les Obligations de notre Purification Majeure s’élèvent au nombre de cinq : notre formulation  de l’intention au début, sois donc conforme \!  
 
 195.Le frottement dans le lavage, l’enchaînement ininterrompu dans l’exécution, la friction des  cheveux et faire passer l’eau sous les tresses pour toute personne ainsi coiffée  
 
-**LES ACTES TRADITIONNELS DE LA PURIFICATION MAJEUR** 
+### LES ACTES TRADITIONNELS DE LA PURIFICATION MAJEUR
 
 196.Ses Actes Traditionnels sont au nombre de quatre : se laver les mains au commencement  comme dans l’Ablution, imite donc cela \!  
 
 197.Se rincer la bouche, de même renifler l’eau et nettoyer par humectage la cavité de l’oreille,  d’après ceux qui excellent   
-**LES ACTES OBLIGATOIRES DE LA LUSTRATION PULVERALE** 
+
+### LES ACTES OBLIGATOIRES DE LA LUSTRATION PULVERALE
 
 198.Quant au nombre des Obligations de la : Lustration Pulvérale, il est symbolisé par la lettre "Hâ",  soit le chiffre huit : la première est la formulation de l’intention, d’après ce qui est mis en évidence  
 
@@ -407,7 +437,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 201.Et son accomplissement doit avoir lieu dans le temps imparti pour la prière, mais pas avant  cette phase, ainsi mon décompte est complet  
 
-**LES ACTES TRADITIONNELS DE LA LUSTRATION PULVERALE** 
+### LES ACTES TRADITIONNELS DE LA LUSTRATION PULVERALE
 
 202.Les Actes Traditionnels du Tayammum (Lustration Pulvérale) sont triples, à savoir : l’ordre de  leur enchaînement, ton renouvellement du tapotement, ô toi l’intelligent \!  
 
@@ -417,7 +447,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 205.Ou bien que tu sois quelqu’un disposant d’une eau, mais ayant une excuse valable, le sable  peut dans ce cas la remplacer ; attache-toi à cette édification \!  
 
-**LE JEÛNE** 
+### LE JEÛNE
 
 206.Notre Jeûne comporte deux Obligations dans sa pratique, ni plus ni moins  
 
@@ -427,22 +457,26 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 209.Deuxièmement, prendre le plus tardivement possible le dernier repas (Suhûr) dans la nuit, le  troisième est de préserver la langue du bavardage  
 
-**L’AUMÔNE LEGALE** 
+### L’AUMÔNE LEGALE
 
 210\. Quant à l’Aumône Légale, on compte ses Obligations au nombre de quatre, observe-les toutes \!  
 
-211\. Dis : c’est l’intention, le terme de l’échéance, que la base imposable soit atteinte par le bien, le  non transfert de la donation, le nombre estcomplet 212.Ensuite on fait mention qu’elle (l’Aumône  Légale) a de bons usages au nombre de trois, qui procurent la récompense  
+211\. Dis : c’est l’intention, le terme de l’échéance, que la base imposable soit atteinte par le bien, le  non transfert de la donation, le nombre estcomplet 
+
+212.Ensuite on fait mention qu’elle (l’Aumône  Légale) a de bons usages au nombre de trois, qui procurent la récompense  
 
 213.C’est de l’acquitter délibérémentet qu’elle soit prélevée sur la qualité moyenne du bien  imposable, quel qu’il soit  
 
 214.Troisièmement, de ne pas faire la donation aux yeux des gens, par crainte de l’ostentation qui  est nuisible à la religion   
-**LE PELERINAGE** 
+### LE PELERINAGE
 
 215.Les Actes Obligatoires du Pèlerinage, selon les Maîtres, sont au nombre de quatre : la  formulation de l’intention est le premier dans la stipulation  
 
 216.Ensuite la procession circumambulatoire autour de la Kacba Tawâful Ifâda compte pour le  deuxième parmi eux, sans réfutation  
 
-217.Et la course rituelle entre Çafâ et Marwa est comptée comme le troisième, sans équivoque  218.Puis la station de cArafa \- écoute-moi bien \! \- est le quatrième ; sois donc clairvoyant \!  **SES ACTES TRADITIONNELS** 
+217.Et la course rituelle entre Çafâ et Marwa est comptée comme le troisième, sans équivoque  
+
+218.Puis la station de cArafa \- écoute-moi bien \! \- est le quatrième ; sois donc clairvoyant \!  **SES ACTES TRADITIONNELS** 
 
 219.Leur nombre est l’addition des valeurs numériques du combiné alphabétique associant la lettre  "Bâ" à point unique (soit deux), qui vient après la lettre "Yâ" à deux points placés en-dessous et  non au-dessus (soit dix), sois fidèle \!  
 
@@ -463,12 +497,12 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 227.L’allure assez rapide de la marche des hommes (Raml) dans les trois premiers tours et la  formulation des vœux, qui se fait au moment de la tournée (Tawâf)  
 
 228.Quatre autres sont rattachés à la Course Rituelle (Sacy) (entre Çafâ et Marwa) : le baisement à  nouveau de la pierre noire en quittant-la Mosquée Sacrée pour Çafâ  
-
 229.Le deuxième de ces quatre est, selon l’avis de l’Exemplaire, la montée entre les collines de Çafâ  et de Marwa  
 
 230.Puis l’accélération de l’allure des hommes à la hauteur de Batnul Masîl est le troisième des  quatre, selon l’avis du Pertinent  
 
 231.Enfin, le quatrième est, sans faute, les vœux que le pèlerin formulera sur chacune des deux  collines (Çafâ et Marwa) et ce, sans limitation assignée à l’invocation L’EPILOGUE   
+
 232.On tient de la meilleure des créatures que celui qui , après avoir fini ses ablutions, prononce  audiblement la Confession de Foi  
 
 233."Je témoigne ("Ashhadu ...") et ainsi de suite jusqu’à la fin, alors on lui ouvre les portes du  Paradis pour qu’il y entre  
@@ -481,7 +515,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 237.Vis-à-vis de lui (l’auteur de ce livre), le SUBSISTANT a honoré l’objet de son commerce sans  mévente et jamais ne pencheront vers lui la damnation ou la jalousie  
 
-**SUR LES MODALITES DU RAPPEL DE CE QU’ON A MANQUE (de la prière) DERRIERE  L’IMAM** 
+### SUR LES MODALITES DU RAPPEL DE CE QU’ON A MANQUE (de la prière) DERRIERE  L’IMAM
 
 238.Admets qu’il est obligatoire pour l’orant de compenser ce qu’il a manqué au cours de la prière  derrière l’officiant qui dirige  
 
@@ -504,6 +538,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 247.Si par ailleurs tu loupes trois rakca au cours de cet office, tu te lèves sans prononcer le Takbîr  et tu entâmes  
 
 248.La Sourate Liminaire (Fâtiha), suivie d’une autre sourate quelconque à voix basse, ensuite tu  marques la position assise du Tashahhud, puis tu te lèves   
+
 249.Et tu effectues une autre rakca dans laquelle tu récites la Sourate Mère de la Parole de DIEU et  une autre sourate, sans marquer la posture assise, cela s’enchaîne  
 
 250.Enfin tu exécutes une autre rakca en récitant la Sourate Mère du Coran strictement, à voix  basse, ainsi tu seras quitte avec la compensation  
@@ -541,6 +576,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 266.Trois rakca, lève-toi, récite la Sourate Mère et une autre sourate à haute voix, ainsi tu auras  fait preuve d’entendement  
 
 267.Tu fais cela sans prononcer le Takbîr, ensuite tu t’assoies et prononces, après cette position, la  Profession de Foi (Tashahhud)   
+
 268.Après cela, tu te lèves à nouveau, exécutes une rakca en récitant la Sourate Mère de notre  Livre Saint et une autre sourate, ne marque pas  
 
 269.La position assise et récite à haute voix, puis tu te lèves pour accomplir une rakca dans laquelle  tu récites la Sourate Mère à voix basse, ainsi tu seras quitte  
@@ -553,28 +589,41 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 
 273.Et dis à l’orant qui arrive dans l’office au moment du dernier Tashahhud de son officiant : "lève toi, puis recommence ta prière \!"  
 
-**CHAPITRE III LA PERFECTION SPIRITUELLE (Ihsân) LA PERFECTION SPIRITUELLE (Ihsân)** 
+### CHAPITRE III LA PERFECTION SPIRITUELLE (Ihsân) LA PERFECTION SPIRITUELLE (Ihsân)
 
 274.Votre Perfection Spirituelle \- ô adolescents \! \- envers Celui à Qui appartiennent les âmes et les  corps  
 
 275.Consiste à adorer DIEU comme Si vous Le voyiez, observez donc scrupuleusement la  Législation  
 
-276.Car Si vous ne Le voyez pas, Lui pourtant vous voit tous, donc contemplez-Le en l’adorant  277.Si vous voulez atteindre de hauts degrés spirituels, attachez-vous à ce présent conseil :  
+276.Car Si vous ne Le voyez pas, Lui pourtant vous voit tous, donc contemplez-Le en l’adorant  
+
+277.Si vous voulez atteindre de hauts degrés spirituels, attachez-vous à ce présent conseil :  
 
 278.Je vous recommande la science, le scrupule, la reconnaissance, la sincérité (dans les actes  d’adoration), la générosité  
 
-279.Le silence, la douceur dans la quête du savoir, la longanimité, la probité et la perspicacité  280.Et persévérez à obéir le MISERICORDIEUX partout où vous vous trouvez, en dehors de l’inimitié  281.Evitez la prolixité, l’excès de sommeil, écartez-vous de tout ce qui engendre la corruption  282.Evitez partout où vous êtes l’ostentation, la fierté, la haine et recherchez toujours la lumière  
+279.Le silence, la douceur dans la quête du savoir, la longanimité, la probité et la perspicacité  
+
+280.Et persévérez à obéir le MISERICORDIEUX partout où vous vous trouvez, en dehors de l’inimitié  
+
+281.Evitez la prolixité, l’excès de sommeil, écartez-vous de tout ce qui engendre la corruption  
+
+282.Evitez partout où vous êtes l’ostentation, la fierté, la haine et recherchez toujours la lumière  
 
 283.Je vous recommande la sincérité, l’abandon confiant à DIEU, la modestie, d’être sobres en  projets  
 
-284.Je vous recommande d’augmenter votre politesse, car cette vertu attire la récompense  285.Avoir une vaste érudition sans lui concilier une politesse, engendre péril et peine  
+284.Je vous recommande d’augmenter votre politesse, car cette vertu attire la récompense  
+
+285.Avoir une vaste érudition sans lui concilier une politesse, engendre péril et peine  
 
 286.Ô vous les adolescents \! ne fréquentez guère une personne insensée, fréquentez surtout le  guide éclairé  
 
 287.Car le guide éclairé est celui qui sort son compagnon de cinq vices et le mène à cinq vertus et  ce, partout où il faillit   
+
 288.Il sort son compagnon de l’ostentation et lui inculque la parfaite sincérité, de manière à le  sauver de l’hypocrisie  
 
-289.Il sort son compagnon de l’orgueil et le mène à la modestie et à la longanimité  290.Il sort son compagnon de la discorde et lui inculque un esprit de concorde, sans malice  
+289.Il sort son compagnon de l’orgueil et le mène à la modestie et à la longanimité  
+
+290.Il sort son compagnon de la discorde et lui inculque un esprit de concorde, sans malice  
 
 291.Il sort son compagnon du doute et le conduit à la meilleure des certitudes, qui le hisse  davantage  
 
@@ -607,6 +656,7 @@ Que le Salut et la Paix de DIEU le TRES-HAUT soient sur notre Seigneur et Maîtr
 305.Sa composition m’a été ordonnée par DIEU, Qui est L’AUTORITE SUPREME et point Il ne dirige  vers moi ce qui cause du chagrin  
 
 306.Je l’ai exclusivement versifiée pour Sa FACE si Honorable et Il a honoré ma transaction en  m’accordant les honneurs   
+
 307.Louange à DIEU et que la Bénédiction Divine se multiplie éternellement sur l’Intercesseur  comblé de Faveurs, du Nom de AHMAD  
 
 308.Sur sa famille et sur ses compagnons et grâce est rendue à son Maître, de la part de l’esclave  et serviteur du nom de Ahmad (le Cheikh AHMADOU BAMBA)  
