@@ -1,6 +1,8 @@
 # Tazawwudu \- ç \- Çighâr (Le viatique des Adolescents)
 - - -
 
+![7bafa6f8-02a0-4872-bd74-982b664c5de8](https://github.com/user-attachments/assets/4bd498e0-66bc-43bc-b333-18b7e1d8b7ff)
+
 ### AVANT-PROPOS
 
 Je cherche auprès de DIEU une protection contre les malices de Satan le lapidé "...je la mets sous  Ta Protection, ainsi que sa progéniture, contre la séduction de Satan le lapidé (S.3 V.36)"  SEIGNEUR \! je me mets sous Ta Protection contre les coups d’aiguillon des démons ; et je me mets,  SEIGNEUR \! , sous Ta Protection, afin qu’ils (les démons) ne soient jamais présents en moi (S. 23 V.  98\)  
