@@ -1,4 +1,4 @@
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
+# <h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
 
 ![da7ee11e-7889-42d4-9c16-4612878be747](https://github.com/user-attachments/assets/5e4a7220-8086-4a4f-a8d6-90ef96f40f42)
 
@@ -225,7 +225,7 @@
 <p><strong>182.</strong> Cherche-la uniquement pour la Face de Dieu ; tu obtiendras des jouissances permanentes</p>
 <p><strong>183.</strong> Celui qui ne craint Dieu n'est pas âlim même s'il maîtrise toutes les disciplines</p>
 
-<h2>SAGESSE PROFONDE EN CITATION</h2>
+## <h2>SAGESSE PROFONDE EN CITATION</h2>
 
 <p><strong>184.</strong> Si tu jouis des biens procurés par Dieu tout en restant détourné de sa voie</p>
 <p><strong>185.</strong> Et que tu t'obstines dans cet égarement sans te repentir, tu seras jeté en enfer</p>
