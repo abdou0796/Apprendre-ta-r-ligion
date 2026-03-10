@@ -4,8 +4,8 @@
 
 <p>www.mamesaliou.canalblog.com</p>
 
-<h2>MASSALIK AL JINAN</h2>
-<h3>(LES ITINERAIRES DU PARADIS)</h3>
+## <h2>MASSALIK AL JINAN</h2>
+## <h3>(LES ITINERAIRES DU PARADIS)</h3>
 
 <p>Par Serigne Touba Khadimou Rassoul</p>
 <p>www.mamesaliou.canalblog.com</p>
@@ -103,7 +103,7 @@
 <p><strong>78.</strong> Voici le moment d'aborder notre sujet, nous sollicitons le secours du Seigneur qui a nom "SALAM"</p>
 <p><strong>79.</strong> Nous disons, après avoir commencé par la "basmala" la louange à Dieu, la prière sur le Prophète, puis la "hawqala"</p>
 
-<h2>PRÉAMBULE</h2>
+## <h2>PRÉAMBULE</h2>
 
 <p><strong>80.</strong> La science se divise, selon les savants, en deux parties, ésotérique et exotérique.</p>
 <p><strong>81.</strong> L'exotérique régit l'action des hommes, l'ésotérique, les états d'âme</p>
@@ -236,7 +236,7 @@
 <p><strong>190.</strong> Agis pour l'Enfer selon ta capacité à en supporter la chaleur</p>
 <p><strong>191.</strong> Si tu crains ton Seigneur l'Un comme il se doit, chaque être vivant te craindra</p>
 
-<h2>ACTES DE DÉVOTION PAR LESQUELS ON VIVIFIE LE TEMPS</h2>
+## <h2>ACTES DE DÉVOTION PAR LESQUELS ON VIVIFIE LE TEMPS</h2>
 
 <p><strong>192.</strong> On recommande la prière facultative de six ou deux "rakas" après celle du coucher du soleil</p>
 <p><strong>193.</strong> De même quatre "raka" avant et après la prière du zuhr ; quatre avant mais non après celle de al-asr</p>
@@ -276,7 +276,7 @@
 <p><strong>222.</strong> Ses péchés tombent de dessus ses épaules et de sa nuque. Heureux celui qui réalise cette action un grand nombre de fois</p>
 <p><strong>223.</strong> On rapporte aussi que la meilleure manière de prier est d'effectuer de longs rakas</p>
 
-<h2>CHAPITRE DU JEÛNE</h2>
+## <h2>CHAPITRE DU JEÛNE</h2>
 
 <p><strong>224.</strong> Quant à l'action de jeûner, elle est parmi les moyens les plus efficaces de chercher l'agrément de Dieu</p>
 <p><strong>225.</strong> Car il existe parmi les portes du Paradis une qui ne sera accessible qu'aux seuls jeûneurs ; sois laborieux dans les actions pieuses</p>
@@ -322,7 +322,7 @@
 <p><strong>265.</strong> Ils croient avoir jeûné mais n’obtiendront rien</p>
 <p><strong>266.</strong> Que Dieu nous préserve de l’illusion et de ce qui nuit</p>
 
-<h2>CHAPITRE DU WIRD</h2>
+## <h2>CHAPITRE DU WIRD</h2>
 
 <p><strong>267.</strong> Si tu ignores l’histoire des "wirds", sache que leur objectif est très important</p>
 <p><strong>268.</strong> Leur place dans la pratique pieuse est parmi les plus éminentes</p>
@@ -357,7 +357,7 @@
 <p><strong>297.</strong> Si tu ne peux atteindre le point d’eau, n’empêche pas les autres d’y aller</p>
 <p><strong>298.</strong> La récompense dépendra de la qualité et du recueillement dans le "wird"</p>
 
-<h2>CHAPITRE DE L’ÉVOCATION (LE DIKR)</h2>
+## <h2>CHAPITRE DE L’ÉVOCATION (LE DIKR)</h2>
 
 <p><strong>299.</strong> L’évocation de Dieu est la meilleure action de l’aspirant</p>
 <p><strong>300.</strong> Cela, je le dis hautement sans me soucier des contestataires</p>
@@ -484,7 +484,7 @@
 <p><strong>407.</strong> Cela te donne une fin de vie très heureuse, et tu es considéré comme ayant accompli chaque année deux pèlerinages.</p>
 <p><strong>408.</strong> Et comme celui qui, quittes de ses plaignants quant à leurs droits, a acheté le Paradis de son Seigneur.</p>
 
-<h2>CHAPITRE SUR LA PRATIQUE DE LA MÉDITATION (FIKR)</h2>
+## <h2>CHAPITRE SUR LA PRATIQUE DE LA MÉDITATION (FIKR)</h2>
 
 <p><strong>409.</strong> Quant à la méditation, elle est comptée parmi les plus précieuses pratiques partout où elle est bien pratiquée.</p>
 <p><strong>410.</strong> Il dit (Ghazali) dans le Ihyâ : “Le meilleur des fruits que la religion puisse donner…”</p>
@@ -548,7 +548,7 @@
 <p><strong>458.</strong> Réfléchis donc sur la terre, le ciel, les astres…</p>
 <p><strong>459.</strong> Le soleil, la lune, les arbres, l’eau, le feu, les pierres, la nuit et le jour : tu obtiendras certitude et lumière.</p>
 
-<h2>CHAPITRE DE L’AUMÔNE ET DE LA BONTÉ FRATERNELLE</h2>
+## <h2>CHAPITRE DE L’AUMÔNE ET DE LA BONTÉ FRATERNELLE</h2>
 
 <p><strong>460.</strong> L’aumône et les dépenses pour Dieu renferment tout bien.</p>
 <p><strong>461.</strong> Ainsi que tout ce qui profite à un musulman et les bienfaits envers les parents.</p>
@@ -620,7 +620,7 @@
 <p><strong>526.</strong> Accompagner un mort jusqu’à la tombe, le porter.</p>
 <p><strong>527.</strong> Présenter des condoléances, rendre visite, tenir compagnie à une personne seule.</p>
 
-<h2>LECTURE DU CORAN ET QUESTIONS RELATIVES</h2>
+## <h2>LECTURE DU CORAN ET QUESTIONS RELATIVES</h2>
 
 <p><strong>528.</strong> Les avantages de la lecture du Coran ont été déclarés très désirables par Al Yadali.</p>
 <p><strong>529.</strong> Quiconque veut se rapprocher de Dieu doit lire le Coran sans jamais l'abandonner.</p>
@@ -697,7 +697,7 @@
 <p><strong>600.</strong> Revenons à la versification des textes qui nous occupent, que Dieu nous accorde Son secours.</p>
 <p><strong>601.</strong> Ce que je viens de dire suffit pour celui qui veut l'appliquer ; mettons maintenant l'accent sur le soufisme.</p>
 
-<h2>CHAPITRE 3 — LES QUALITÉS ET LA BONNE CONDUITE (LES ADAB)</h2>
+## <h2>CHAPITRE 3 — LES QUALITÉS ET LA BONNE CONDUITE (LES ADAB)</h2>
 
 <p><strong>602.</strong> Quant au "soufisme", c'est des obligations divines individuelles aux yeux de l'Imam Al Gazali.</p>
 <p><strong>603.</strong> Parmi ses piliers, nous connaissons sept (7) qui sont : le silence, la faim, l'abandon des innovations blâmables,</p>
@@ -766,7 +766,7 @@
 
 <p><strong>661.</strong> Ici se termine le préambule du Livre. Passons au premier chapitre.</p>
 
-<h2>CHAPITRE 1er : LES CRÉATURES</h2>
+## <h2>CHAPITRE 1er : LES CRÉATURES</h2>
 
 <p><strong>662.</strong> Sache — que Dieu nous préserve — que se tourner vers les créatures constitue une barrière entre le fidèle et Dieu.</p>
 <p><strong>663.</strong> La passion et Satan font partie de ces créatures ; combats-les pour rester dans la bonne voie.</p>
@@ -802,7 +802,7 @@
 <p><strong>693.</strong> Cette vigilance est une bénédiction.</p>
 <p><strong>694.</strong> Car elle pousse à recourir à Dieu.</p>
 
-<h2>SUBDIVISION</h2>
+## <h2>SUBDIVISION</h2>
 
 <p><strong>695.</strong> Le monde ici-bas est vil et sans valeur.</p>
 <p><strong>696.</strong> Il faut t’en détacher pour purifier tes adorations.</p>
@@ -843,7 +843,7 @@
 <p><strong>726.</strong> L’acte secret a plus de poids que l’acte manifeste.</p>
 <p><strong>727.</strong> Car l’acte secret est plus difficile aux âmes.</p>
 
-<h2>SUBDIVISION</h2>
+## <h2>SUBDIVISION</h2>
 
 <p><strong>728.</strong> Les gens avec qui nous vivons peuvent handicaper l’aspirant qui les craint ou s’appuie sur eux.</p>
 <p><strong>729.</strong> Ne pleurniche jamais devant eux : implore Dieu seul.</p>
@@ -860,7 +860,7 @@
 <p><strong>740.</strong> Aime pour eux ce que tu aimes pour toi-même.</p>
 <p><strong>741.</strong> Recours à Dieu contre leur injustice : cela est une adoration.</p>
 
-<h2>SUBDIVISION</h2>
+## <h2>SUBDIVISION</h2>
 
 <p><strong>742.</strong> L’action fait partie des créatures ; ne compte pas entièrement sur elle.</p>
 <p><strong>743.</strong> Ne cherche pas de récompense pour elle : beaucoup d’anomalies apparaîtront au jugement.</p>
@@ -996,7 +996,7 @@
 <p><strong>871.</strong> Elle apporte l’agrément divin et la sécurité contre la disgrâce.</p>
 <p><strong>872.</strong> Si l’ascétisme n’avait que l’agrément de Dieu comme avantage, il suffirait.</p>
 
-<h2>CHAPITRE II : LES VICES GRAVES</h2>
+## <h2>CHAPITRE II : LES VICES GRAVES</h2>
 
 <p><strong>873.</strong> Sache — que Dieu nous accorde la paix absolue —</p>
 <p><strong>874.</strong> Que les vices, qui sont des péchés, entraînent une sécheresse de cœur dangereuse.</p>
@@ -1011,11 +1011,11 @@
 <p><strong>883.</strong> Notamment par Sayyid al-Istighfar, le tasbîh et la méditation.</p>
 <p><strong>884.</strong> Principalement sa salât bénie, comme l’auteur l’a rapporté.</p>
 
-<h2>CHAPITRE DES VICES</h2>
+## <h2>CHAPITRE DES VICES</h2>
 
 <p><strong>885.</strong> Le soufi a réparti ces vices (“radâ’il”) en deux parties : apparents et cachés.</p>
 
-<h2>LES VICES APPARENTS</h2>
+## <h2>LES VICES APPARENTS</h2>
 
 <p><strong>886.</strong> Ceux qui sont extérieurs sont formellement interdits : repentis-toi vite.</p>
 <p><strong>887.</strong> Il faut les éviter par crainte du Maître des humains.</p>
@@ -1027,7 +1027,7 @@
 <p><strong>893.</strong> Mépriser, ridiculiser, trahir, manquer de sincérité…</p>
 <p><strong>894.</strong> Polémiques malsaines, guerre froide, mauvaises relations…</p>
 
-<h2>LES VICES SECRETS</h2>
+## <h2>LES VICES SECRETS</h2>
 
 <p><strong>895.</strong> Les vices cachés sont les défauts de l’âme charnelle.</p>
 <p><strong>896.</strong> On craint une mauvaise fin pour celui qui en est entaché sans repentir.</p>
@@ -1061,7 +1061,7 @@
 <p><strong>919.</strong> Fuir les lieux de tentation et chercher un guide adorateur fait partie des remèdes.</p>
 <p><strong>920.</strong> Pour être sauvé de HINDE et de ses acolytes, garde-toi de descendre dans ses vallées.</p>
 
-<h2>CERTAINS REMÈDES ET VICES EN DÉTAILS</h2>
+## <h2>CERTAINS REMÈDES ET VICES EN DÉTAILS</h2>
 
 <p><strong>921.</strong> Voici en partie les vices et leurs remèdes, en détails.</p>
 <p><strong>922.</strong> L'orgueil est le plus grave car il entame la foi de l’adorateur.</p>
@@ -1341,7 +1341,7 @@
 <p><strong>1185.</strong> La recherche de raffinement, courtiser les autorités pour prestige…</p>
 <p><strong>1186.</strong> S'attribuer la sainteté ou viser les Maqâmât dans l’adoration : à éviter !</p>
 
-<h2>SUBDIVISION</h2>
+## <h2>SUBDIVISION</h2>
 
 <p><strong>1187.</strong> Le respect des droits de chaque moment fait partie des adab.</p>
 <p><strong>1188.</strong> Observe quatre moments qu’on ne peut rattraper une fois passés :</p>
@@ -1386,7 +1386,7 @@
 
 <p><strong>1222.</strong> Habitue-toi à implorer Son pardon avant de Le courroucer.</p>
 
-<h2>SUBDIVISION : LA LONGANIMITÉ</h2>
+## <h2>SUBDIVISION : LA LONGANIMITÉ</h2>
 
 <p><strong>1223.</strong> Ne cesse de louer Dieu et de nier à toute autre créature la puissance d’agir.</p>
 <p><strong>1224.</strong> La longanimité implique ici la patience à endurer la peine dans l’adoration du Clément.</p>
@@ -1480,7 +1480,7 @@
 <p><strong>1312.</strong> Car Lui fait ce qu'Il veut et non ce que veut l’aspirant</p>
 <p><strong>1313.</strong> Ce comportement est appelé le cerveau ou le cœur de la dévotion, hautement apprécié</p>
 
-<h2>CONDITIONS DE PERFECTION DE L’INVOCATION : « ADAB »</h2>
+## <h2>CONDITIONS DE PERFECTION DE L’INVOCATION : « ADAB »</h2>
 
 <p><strong>1314.</strong> Les « Adâb » sont : éviter l’illicite dans la nourriture, l’habillement et la parole</p>
 <p><strong>1315.</strong> Vouer un culte exclusif à Celui qui détient les âmes et les corps</p>
@@ -1502,7 +1502,7 @@
 <p><strong>1331.</strong> Passer les deux mains sur le visage à la fin de l’invocation</p>
 <p><strong>1332.</strong> Celui qui respecte ces conseils sera exaucé sans doute</p>
 
-<h2>LES MOMENTS OÙ DIEU EXAUCE LES PRIÈRES</h2>
+## <h2>LES MOMENTS OÙ DIEU EXAUCE LES PRIÈRES</h2>
 
 <p><strong>1333.</strong> Comme : Ramadan, le jour de Arafa</p>
 <p><strong>1334.</strong> La nuit du Qadr ; la nuit et l’heure bénie du vendredi</p>
@@ -1518,7 +1518,7 @@
 <p><strong>1344.</strong> Lors du dernier mot de la Fâtiha : « walad-dâllîn »</p>
 <p><strong>1345.</strong> Lorsqu’on referme les yeux d’un mort, lors de la pluie, au chant du coq, lors du dhikr</p>
 
-<h2>LIEUX OÙ DIEU EXAUCE LES PRIÈRES</h2>
+## <h2>LIEUX OÙ DIEU EXAUCE LES PRIÈRES</h2>
 
 <p><strong>1346.</strong> Les tournées autour de la Ka‘ba et à Multazam</p>
 <p><strong>1347.</strong> Lorsqu’on aperçoit la Maison sacrée pour la première fois</p>
@@ -1526,7 +1526,7 @@
 <p><strong>1349.</strong> Derrière le Maqâm, à Mina, à Arafa, aux trois Jamra</p>
 <p><strong>1350.</strong> Aux sépulcres des Prophètes, des pieux et des Saints</p>
 
-<h2>CEUX DONT LA PRIÈRE EST EXAUCÉE</h2>
+## <h2>CEUX DONT LA PRIÈRE EST EXAUCÉE</h2>
 
 <p><strong>1351.</strong> Le nécessiteux sincère</p>
 <p><strong>1352.</strong> La victime d’injustice, même idolâtre</p>
@@ -1536,7 +1536,7 @@
 <p><strong>1356.</strong> Le croyant priant pour un autre en son absence</p>
 <p><strong>1357.</strong> Ces adâb se terminent ici : passons au prose du Deymani</p>
 
-<h2>LE « SUKR » — LA RECONNAISSANCE ENVERS DIEU</h2>
+## <h2>LE « SUKR » — LA RECONNAISSANCE ENVERS DIEU</h2>
 
 <p><strong>1358.</strong> Le “sukr” : attester que tout bien vient du Tout‑Puissant</p>
 <p><strong>1359.</strong> Utiliser ces bienfaits en parole et en acte pour Son agrément</p>
@@ -1704,7 +1704,7 @@
 <p><strong>1519.</strong> Matin et soir, tu es préservé de tout danger.</p>
 <p><strong>1520.</strong> Quiconque récite : “Subhâna dil‑Mulki wal‑Malakûti… Rabbu‑l‑Malâ’ikati war‑Rûh”…</p>
 
-<h2>TRADUCTION</h2>
+## <h2>TRADUCTION</h2>
 
 <p><strong>1521.</strong> “Gloire au Maître de l’Univers matériel et spirituel ! Gloire au Maître de la Puissance et de la Force !”</p>
 <p><strong>1522.</strong> “Gloire au Vivant qui ne meurt jamais ! Qu’Il soit tout Glorieux, tout Saint !”</p>
@@ -1715,7 +1715,7 @@
 <p><strong>1526.</strong> La meilleure formule de demande de pardon est “Sayyid al‑Istighfâr” :</p>
 <p><strong>1527.</strong> “Allâhumma anta rabbî, lâ ilâha illâ anta… fa‑innahu lâ yaghfiru‑d‑dhunûba illâ anta.”</p>
 
-<h2>TRADUCTION</h2>
+## <h2>TRADUCTION</h2>
 
 <p>“Ô Seigneur, Tu es mon Maître, il n’y a de divinité que Toi.  
 Tu m'as créé, je suis Ton serviteur.  
@@ -1728,7 +1728,7 @@ Accorde-moi Ton pardon, car nul autre que Toi ne pardonne les péchés.”</p>
 <p><strong>1529.</strong> Ou réponds : “Subhâna‑llâhi wa bi‑hamdihî… lâ ilâha illâ‑llâh, wallâhu akbar…”</p>
 <p><strong>1530.</strong> Cela vaut mieux que ce bas‑monde et tout ce qu’il contient.</p>
 
-<h2>TRADUCTION</h2>
+## <h2>TRADUCTION</h2>
 
 <p><strong>1531.</strong> “Gloire à Dieu ! Louange à Dieu ! Il n’y a de divinité qu’Allah ! Dieu est Grand ! Il n’y a de force ni de puissance qu’en Dieu !”</p>
 
@@ -1755,7 +1755,7 @@ Accorde-moi Ton pardon, car nul autre que Toi ne pardonne les péchés.”</p>
 <p><strong>1551.</strong> Nous avons achevé ce livre : prions Dieu d’en faire de même pour notre vie.</p>
 <p><strong>1552.</strong> Par Sa Générosité, Sa Bonté et Sa Mansuétude.</p>
 
-<h2>CONCLUSION – FIN DE MASSALIK AL JINAN</h2>
+## <h2>CONCLUSION – FIN DE MASSALIK AL JINAN</h2>
 
 <p><strong>1553.</strong> MASSALIK AL JINAN se termine ici, par la Grâce de Dieu.</p>
 <p><strong>1554.</strong> Louange à Dieu qui nous permit d’achever cet ouvrage.</p>
