@@ -1,8 +1,8 @@
-# Jawharu - n - Nafîs
-## (Jurisprudence)
+# Jawharu - n - Nafîs (Jurisprudence)
+---
 ## Le joyau précieux
 
-# AVANT – PROPOS
+## AVANT – PROPOS
 
 - **Le début de cette œuvre est béni, sa fin est agréée –**
 
@@ -27,14 +27,13 @@ puissance si ce n'est en DIEU le SUBLIME, l'INCOMMENSURABLE.
 
 DIEU nous suffit; quel BON GARANT!
 
-# Texte numéroté
+## Texte numéroté
 
 1. **Ahmad, l'indigent spirituel, fils de Habîb dit : je rends grâce au MAÎTRE DES CREATURES, d'une gratitude qui perdure**
 2. **J'adresse mes prières au plus Compétent Juriste, le Guide, MOUHAMMAD et à tout persévérant**
 3. **Sachez qu'à présent, je me fixe comme but de versifier l'œuvre en prose de Al Akdari, le Grand Maître**
 4. **Afin qu'elle soit plus accessible à quiconque voudrait la mémoriser parmi les jeunes de l'époque contemporaine**
 5. **Je m'incline très humblement devant tout érudit scrupuleux, spécialisé en grammaire, en prosodie et en lettres**
-
 6. **Je sollicite auprès de DIEU, mon SEIGNEUR, pour ce travail, l'agrément, l'assistance, la réussite et la conjonction spirituelle**
 7. **Et qu'il soit plus pratique pour les adolescents et pour celui qui, des adultes, en éprouve le besoin**
 8. **Je l'ai intitulé : "LE JOYAU PRECIEUX, DANS LA VERSIFICATION DE LA PROSE DE AL AKDARY LE CHEF"**
@@ -49,7 +48,6 @@ DIEU nous suffit; quel BON GARANT!
 17. **Et il doit s'abstenir de pécher, s'il est transgresseur et ce, sans délai**
 18. **Mais il ne doit jamais retarder le repentir, ni le remettre, il ne doit non plus dire "J'attends,**
 19. **jusqu'à ce que le REPECHEUR me mette sur la Bonne Direction"; c'est là un signe d'abandon (de la part de DIEU) (khidhlân)**
-
 20. **De damnation et de ternissure du cœur ; je cherche refuge auprès de mon SEIGNEUR contre ces deux malheurs**
 21. **De même, la réparation de l'ensemble des injustices commises auprès des victimes compte parmi les clauses du repentir, selon l'avis de l'obéissant**
 22. **Car cela est une Obligation Divine et quiconque y renonce par négligence, a désobéi à son MAÎTRE**
@@ -224,9 +222,9 @@ DIEU nous suffit; quel BON GARANT!
 191. **MOUHAMMAD, notre Bien-Aimé, notre Maître, notre Intercesseur, notre Espoir, notre Prophète**
 192. **Sur lui la Bénédiction et le Salut sans fin du MAîTRE DES CIEUX et sur quiconque est bien guidé par sa Grâce**
 
-# PREMIERE PARTIE
-## CHAPITRE I
-## LA PURIFICATION
+## PREMIERE PARTIE
+### CHAPITRE I
+### LA PURIFICATION
 
 193. **La Purification consiste en : la Purification dite de "Hadath" - sans divergence - et celle dite de "Khabath"**
 194. **Chacune d'elles se réalise par une eau pure, rituellement purifiante, selon l'Avis du Sagace**
@@ -235,7 +233,7 @@ DIEU nous suffit; quel BON GARANT!
 197. **Et comme la saleté, l'huile, le savon, le beurre, dis aussi comme toute autre forme d'impureté, mais non la vase**
 198. **Les lentilles d'eau, les sols halogènes, les particules limoneuses, la mousse verte, sans aucun doute**
 
-## LA SUPPRESSION DE LA SOUILLURE ET CE QUI S'Y RAPPORTE
+### LA SUPPRESSION DE LA SOUILLURE ET CE QUI S'Y RAPPORTE
 
 199. **Au cas où une souillure se révèle quelque part, l'endroit entaché doit être purifié, en signe d'obéissance, avec de l'eau rituellement pure**
 200. **Mais le vêtement doit être purifié totalement, Si tu ne peux pas repérer exactement la partie souillée, ô bonhomme !**
@@ -246,13 +244,13 @@ DIEU nous suffit; quel BON GARANT!
 205. **Quiconque accomplit une prière avec une souillure par oubli et qui, après le salut final, s'en souvient**
 206. **Celui-là répétera sa prière si et seulement si il est encore dans le délai imparti pour celle-ci, conformément au consensus des prédécesseurs (les savants)**
 
-# LES REGLES DE L'ABLUTION RITUELLE (Wudû')
+## LES REGLES DE L'ABLUTION RITUELLE (Wudû')
 
 207. **Le nombre des Actes Obligatoires de l'Ablution est connu, dis qu'ils sont sept, selon l'avis du chef Al Akhdari**
 208. **Formuler l'intention, laver le visage, laver les avant-bras jusqu'aux coudes, humecter la tête par madéfaction, sois juste**
 209. **Laver les pieds jusqu'aux chevilles, enchaîner sans interruption (les actes) et frotter sans complaisance**
 
-# LES ACTES TRADITIONNELS DE L'ABLUTION
+## LES ACTES TRADITIONNELS DE L'ABLUTION
 
 210. **Ensuite ses Obligations Traditionnelles sont au nombre de huit, à savoir : se laver es mains jusqu'aux poignets ; retiens cela**
 211. **Même Si au début de l'exécution tes mains étaient bien propres, réfère-toi à celui qui a assimilé les sciences**
@@ -269,7 +267,7 @@ DIEU nous suffit; quel BON GARANT!
 222. **Si tu te souviens d'un Acte Traditionnel omis, en entamant le lavage du visage, à l'exemple du reniflement de l'eau, tu ne reprends pas celui-ci**
 223. **Avant d'avoir terminé tes Ablutions, mais en tout cas - ô toi homme ! - au sujet de cela, il y'a une divergence des savants qui prévaut**
 
-# LES ACTES MERITOIRES DE L'ABLUTION
+## LES ACTES MERITOIRES DE L'ABLUTION
 
 224. **Quant aux Actes Méritoires de l'Ablution, ils sont : l'Invocation du NQM de DIEU (Tasmiya) au début, le frottement des dents, éloigne-toi de la transgression**
 225. **Et compte tout lavage s'ajoutant au premier comme acte d'adoration méritoire**
@@ -280,7 +278,7 @@ DIEU nous suffit; quel BON GARANT!
 230. **Il est obligatoire de frictionner la barbe quand elle est clairsemée et non quand elle est épaisse**
 231. **J'entends ceci au cours de l'Ablution ; quand il s'agit de la Lotion Générale (Ghusl), il est obligatoire de la frictionner dans les deux cas, d'après ce qu'ils ont établi (les érudits)**
 
-# LES CAUSES DE NULLITE DE L'ABLUTION
+## LES CAUSES DE NULLITE DE L'ABLUTION
 
 232. **L'annulation de l'Ablution, selon les érudits, provient des souillures dites "Ahdâth" et des causes "Asbâb" qui occasionnent sa nullité, d'après la source authentique**
 233. **Les souillures qui l'annulent sont l'urine, la sortie du gaz fétide, la sécrétion prostatique (Madhyu), les selles, de même que l'émission, après la miction, d'un liquide blanc et épais (Madhyu)**
@@ -294,7 +292,7 @@ DIEU nous suffit; quel BON GARANT!
 241. **Les gens qui discernent ont rendu obligatoire le lavage de la verge, par suite de l'écoulement du liquide prostatique (Madhyu), à l'exclusion des testicules**
 242. **La sécrétion prostatique (Madhyu) consiste en un liquide émanant de la jouissance mineure, par le regard lascif ou la pensée voluptueuse**
 
-# CE QU'IL EST INTERDIT DE FAIRE SANS ABLUTIONS
+## CE QU'IL EST INTERDIT DE FAIRE SANS ABLUTIONS
 
 243. **Il n'est pas permis à celui qui ne s'est pas acquitté de ses Ablutions de célébrer la prière et d'effectuer la tournée rituelle autour du Sanctuaire (Kaba) de Celui Qui accorde les Dons**
 244. **Tout comme de toucher à la Sainte Vulgate, ou - dis-le ! - au cuir de sa reliure, ni au moyen d'une baguette ou d'une étoffe, ni par un quelconque autre moyen**
@@ -311,7 +309,7 @@ DIEU nous suffit; quel BON GARANT!
 205. **Quiconque accomplit une prière avec une souillure par oubli et qui, après le salut final, s'en souvient**
 206. **Celui-là répétera sa prière si et seulement si il est encore dans le délai imparti pour celle-ci, conformément au consensus des prédécesseurs (les savants)**
 
-# LES REGLES DE LA PURIFICATION MAJEURE, SES CAUSES ET CE QUI S'Y RAPPORTE
+## LES REGLES DE LA PURIFICATION MAJEURE, SES CAUSES ET CE QUI S'Y RAPPORTE
 
 253. **Il est obligatoire de procéder à la Purification Majeure dans trois sans tergiverser**
 254. **Je veux dire la souillure majeure (Janâba), les menstrues (Hayd) et les lochies (Nifâs) ; mais quant à la souillure majeure, on la divise en deux parties**
@@ -322,7 +320,7 @@ DIEU nous suffit; quel BON GARANT!
 259. **Celui qui découvre sur son vêtement une coagulation de sperme, sans savoir le moment de l'entassement**
 260. **Se purifie et refait ses prières à partir du (dernier) sommeil dans ce vêtement**
 
-# LES ACTES OBLIGATOIRES (ET LES ACTES TRADITIONNELS) DE LA PURIFICATION MAJEURE
+## LES ACTES OBLIGATOIRES (ET LES ACTES TRADITIONNELS) DE LA PURIFICATION MAJEURE
 
 261. **Les Actes Obligatoires sont : l'intention à formuler en commençant, l'enchaînement ininterrompu et le frottement bien marqué**
 262. **Puis procéder systématiquement au passage des mains sur la totalité du corps, avec de l'eau rituellement pure**
@@ -332,7 +330,7 @@ DIEU nous suffit; quel BON GARANT!
 266. **Je veux dire la partie de l'oreille appelée "Çimakh", écrit avec la voyelle brève "i", en-dessous de la lettre "Çâd" ; c'est le conduit auditif visible sur chaque côté de la tête**
 267. **Et laver les pavillons des oreilles à l'extérieur comme à l'intérieur est jugé nécessaire**
 
-# LES ACTES MERITOIRES DE LA PURIFICATION MAJEURE
+## LES ACTES MERITOIRES DE LA PURIFICATION MAJEURE
 
 268. **Quant aux Actes Méritoires, retiens leur nombre : c'est prononcer au début le NOM de DIEU (Tasmiya), comme énoncé plus haut ; après cela**
 269. **Commencer par enlever les souillures entachant ton corps, puis te laver la verge et formuler au même moment l'intention de t'acquitter d'une Obligation Divine**
@@ -344,7 +342,7 @@ DIEU nous suffit; quel BON GARANT!
 275. **Mais s'il retarde le lavage de la partie omise depuis qu'il s'en est rendu compte, cela cause la nullité de la purification**
 276. **Cependant il y 'a compensation quand la partie omise correspond à un des membres qui, par la suite, sera lavé dans l’Ablution Rituelle, cet avis est sans divergence**
 
-# LES PROSCRIPTIONS EN CAS DE SOUILLURE MAJEURE
+## LES PROSCRIPTIONS EN CAS DE SOUILLURE MAJEURE
 
 277. **Il n'est pas permis de pénétrer dans une mosquée, non plus de lire le Saint-Coran, à celui qui est dans un état d'impureté majeure, pas du tout !**
 278. **Sauf si c'est pour réciter un ou deux versets dans le but d'avoir la protection, sans faute**
@@ -352,20 +350,19 @@ DIEU nous suffit; quel BON GARANT!
 280. **D'avoir des rapports sexuels avec sa femme, tant qu'il n'aura pas trouvé le moyen de chauffer l'eau**
 281. **Mais s'il a subi involontairement une pollution nocturne à travers un rêve, il n'encourt pas après cela le blâme**
 
-# LA LUSTRATION PULVERALE (Tayammum)
+## LA LUSTRATION PULVERALE (Tayammum)
 
 282. **Le voyageur qui effectue un déplacement dont l'objet n'est pas prohibé a le droit de recourir à la Lustration Pulvérale, le long du trajet**
 283. **De même que l'homme ou la femme qui souffre d'une maladie, pour toute prière à caractère surérogatoire ou obligatoire**
 284. **Celui qui est chez soi et bien portant, peut la faire pour l'exécution d'une prière obligatoire, s'il craint de passer outre le délai imparti pour celle-ci, ceci ne lui est permis que dans cette condition**
 285. **Mais le Tayammum ne lui est permis ni pour la prière surérogatoire, ni pour celle du Vendredi, ni pour celle sur le mort, sauf Si celui-ci est dans une situation particulière, réfléchis**
 
-# LES ACTES OBLIGATOIRES DE LA LUSTRATION PULVERALE
+## LES ACTES OBLIGATOIRES DE LA LUSTRATION PULVERALE
 
 286. **Le nombre des Actes Obligatoires de la Lustration Pulvérale est de huit, pour le Jurisconsulte Al Akhdari**
 287. **C'est la formulation de l'intention, puis l'usage du çaîd pur et le tapotement initial pour lequel on recommande de secouer (les particules en suspension)**
 288. **De la même manière, le saupoudrage du visage et l'essuyage des mains, de la pointe des doigts jusqu'aux poignets**
 289. **L'enchaînement ininterrompu (des actes), puis son accomplissement dans le temps imparti pour l'office; on compte aussi parmi les Obligations le fait d’enchaîner le Tayammum avec la prière**
-
 290. **Quant au Ça îd, c'est le sable (limon), le pisé et les roches (pierres), ne doutez donc pas!**
 291. **Et la neige, la vase, selon ce qui est rapporté, et d'autres types du genre, comme les sols halogènes et le sable fin**
 292. **Il n'est pas permis de faire le Tayammum sur du bois, sur le plâtre cuit, selon les propos de l'élite**
@@ -373,12 +370,12 @@ DIEU nous suffit; quel BON GARANT!
 294. **Si, étant malade, tu te trouves dans un cadre dont le mur est en pierre ou en pisé, et que la maladie te paralyse le corps**
 295. **Et qu'aussi, tu ne disposes de personne pour te procurer du sable, il t'est alors permis d'y faire la Lustration Pulvérale, en guise de faveur accordée par le PARDONNATEUR**
 
-# LES OBLIGATIONS TRADITIONNELLES DE LA LUSTRATION PULVERALE
+## LES OBLIGATIONS TRADITIONNELLES DE LA LUSTRATION PULVERALE
 
 296. **Les Obligations Traditionnelles de la Lustration Pulvérale sont, si tu décomptes, au nombre de trois la première, c'est le renouvellement du tapotement de la paume des mains**
 297. **Le passage des mains entre les poignets et les coudes, puis la troisième Obligation est l'ordre prescrit dans l'accomplissement des actes, qui complète le nombre**
 
-# LES ACTES MERITOIRES DE LA LUSTRATION PULVERALE
+## LES ACTES MERITOIRES DE LA LUSTRATION PULVERALE
 
 298. **Puis, les Actes Méritoires de la Lustration Pulvérale sont au nombre de quatre. Le premier consiste à prononcer le NOM de DIEU (Tasmiya), conçois cela**
 299. **Le fait de commencer par le côté droit avant le côté gauche, comme cela est aussi méritoire dans ce qui précède (Ablution et Purification Majeure)**
@@ -398,7 +395,7 @@ DIEU nous suffit; quel BON GARANT!
 313. **Si tu effectues la Lustration Pulvérale alors que tu es en état d’impureté majeure, il t'incombe de formuler l'intention pour la circonstance**
 314. **Mais si tu omets d'en formuler l'intention lors de la Lustration Pulvérale, tu dois refaire cette prière, sans conjecturer**
 
-# LES MENSTRUES, LEUR DUREE ET CE QUI S'Y RAPPORTE
+## LES MENSTRUES, LEUR DUREE ET CE QUI S'Y RAPPORTE
 
 315. **Les femmes chez qui se produisent les menstrues sont réparties en trois catégories, Si tu les recenses convenablement**
 316. **D'abord celles qui en sont à leur début, puis les expérimentées et les femmes en grossesse qui espèrent en tirer profit**
@@ -417,7 +414,7 @@ DIEU nous suffit; quel BON GARANT!
 329. **Il est interdit à son mari de toucher à son sexe, volontairement ou par erreur**
 330. **Il ne lui est pas permis de toucher aux parties de la femme situées entre le nombril et les genoux, jusqu'à ce qu'elle achève de se purifier**
 
-# LES LOCHIES ET CE QUI S'Y RAPPORTE
+## LES LOCHIES ET CE QUI S'Y RAPPORTE
 
 331. **Les lochies sont comme les menstrues, du point de vue des exigences ; leur durée la plus longue est évaluée à soixante jours**
 332. **Mais s'il y'a une interruption de l'écoulement sanguinolent avant ce terme, on ordonne à la femme de se purifier et de prier, selon l'usage**
@@ -426,9 +423,8 @@ DIEU nous suffit; quel BON GARANT!
 335. **Par ailleurs, Si entre l'interruption des lochies et la reprise de l'écoulement sanguinolent, la durée est inférieure à quinze jours, il faut ajouter la durée du deuxième écoulement à celle du premier**
 336. **Ainsi en faisant minutieusement le calcul, tu verras qu'elle (la durée) complète l'écoulement lochial**
 
-# CHAPITRE II LA PRIERE
-
-## LA RECONNAISSANCE DES MOMENTS
+## CHAPITRE II LA PRIERE
+### LA RECONNAISSANCE DES MOMENTS
 
 337. **L'espace de temps dévolu à la prière rituelle se divise en un temps d'élection (Mukhtâr) et en un délai ultime (Ad-darûrî), d'après les érudits**
 338. **Le temps d'élection de la prière de midi (Zhuhr) commence quand le soleil est au zénith, jusqu'à ce qu'il y'ait égalité entre le profil et l'ombre qu'il projette, cela est sans équivoque**
@@ -448,7 +444,7 @@ DIEU nous suffit; quel BON GARANT!
 352. **Effectuer une prière surérogatoire quand l'Imâm du Vendredi est monté sur sa chaire est considéré strictement comme blâmable**
 353. **Cependant il est prohibé de l'effectuer après la prière du Vendredi, tant que l'Imâm n'est pas sorti de la mosquée, retiens - cela !**
 
-# LES CONDITIONS INDISPENSABLES DE LA PRIERE RITUELLE
+## LES CONDITIONS INDISPENSABLES DE LA PRIERE RITUELLE
 
 354. **La partie traitant des moments de la prière est terminée, abordons à présent la prière elle-même**
 355. **La pureté dite de "Hadath" est une de ses conditions, de même que celle dite de "Khabath"**
@@ -466,7 +462,7 @@ DIEU nous suffit; quel BON GARANT!
 367. **Tout acte, dont la reprise à titre de rappel est recommandée strictement dans les limites du temps imparti, est un acte jugé méritoire. Que tes désirs se réalisent !**
 368. **Comme par exemple la prière surérogatoire, qui n'est pas reprise Si l'écoulement du temps qui lui est imparti est absolument certain**
 
-# LES OBLIGATIONS DE LA PRIERE
+## LES OBLIGATIONS DE LA PRIERE
 
 369. **Le nombre des Obligations Divines de la prière rituelle est connu, mais les Maîtres Spirituels ne sont pas unanimes là-dessus**
 370. **Certains d'entre eux ont mentionné quinze Obligations Divines et d'autres, seize**
@@ -479,7 +475,7 @@ DIEU nous suffit; quel BON GARANT!
 377. **La règle de la formulation de l’intention consiste en ce qu’elle se fasse au moment du Takbîr de la sacralisation**
 378. **Ici s’achève ce l'énumération des Obligations Divine, d’après ce qu’a rapporté AL Akhdari qui a réalisé l’éminence**
 
-# LES ACTES TRADITIONNELS DE LA PRIERE
+## LES ACTES TRADITIONNELS DE LA PRIERE
 
 379. **Abordons après cela le recensement des Actes Traditionnels et de ceux qui sont méritoires, dans une belle poésie**
 380. **Parmi eux, il y'a le nouvel appel à la prière "Al Iqâma", la sourate qui suit celle d'ouverture (Fâtiha) et la station debout (observée pour la récitation de celle-là), c'est immuable**
@@ -496,7 +492,7 @@ DIEU nous suffit; quel BON GARANT!
 391. **Je veux dire quelqu'un qui prie isolément ou l'Imâm; ce symbole doit au moins avoir, aux yeux des notables**
 392. **Le diamètre d'une lance en bois, la longueur d'une coudée, être de nature à ne pas distraire, de position stable et de nature pure**
 
-# LES ACTES MERITOIRES DE LA PRIERE
+## LES ACTES MERITOIRES DE LA PRIERE
 
 393. **Si tu t'interroges sur le nombre des Actes Méritoires de la prière, retiens alors ici leur nombre, ô toi qui me poses la question!**
 394. **Le fait de soulever les mains jusqu'à la hauteur des oreilles, au moment d'effectuer le Takbîr de sacralisation, est désigné comme un Acte Méritoire**
@@ -524,7 +520,7 @@ DIEU nous suffit; quel BON GARANT!
 416. **Il est blâmable d'émettre en priant des pensées sur les choses de ce Bas-Monde**
 417. **Tout ce qui est de nature à te distraire de l'état d'humilité devant DIEU durant ta prière, évite cela, ô toi homme**
 
-# LES CONDITIONS D'HUMILITE ENVERS DIEU DANS LA PRIERE ET DE CE QUI S'Y RAPPORTE
+## LES CONDITIONS D'HUMILITE ENVERS DIEU DANS LA PRIERE ET DE CE QUI S'Y RAPPORTE
 
 418. **Le Savant (Al Akhdari) a écrit dans son livre que la prière comporte un puissant flux de lumière**
 419. **Et un tel flux de lumière illumine le cœur de celui qui prie en révérant DIEU, réveille-toi**
@@ -542,7 +538,7 @@ DIEU nous suffit; quel BON GARANT!
 431. **Mais à condition de prier en toute humilité et non autrement, sois révérencieux et méfie-toi du découragement**
 432. **Cherche donc secours auprès de ton SEIGNEUR Qui est l'ASSISTANT, car en cherchant le secours d'un autre que Lui, tu seras déçu**
 
-# LA PRIERE DU MALADE : LES STATIONS DEBOUT ET ASSISES, LEURS REGLES ET CE QUI S'Y RAPPORTE
+## LA PRIERE DU MALADE : LES STATIONS DEBOUT ET ASSISES, LEURS REGLES ET CE QUI S'Y RAPPORTE
 
 433. **Il importe à toute personne responsable de ses actes de s'informer sur les questions posées dans ce chapitre, car nul n'est garanti de la maladie.**
 434. **Dans la prière obligatoire, on note sept cas possibles, aux yeux de celui qui est savant**
@@ -562,7 +558,8 @@ DIEU nous suffit; quel BON GARANT!
 448. **Seulement, de l'avis de tout érudit, il sera rétribué pour la moitié de la récompense de celui qui s'en acquitte debout**
 449. **Il est permis à celui qui commence la prière en position assise, de se lever par la suite, réfléchis !**
 450. **De même, Si tu commences debout ta prière et la poursuis en position assise, tu n'auras point de reproche car dans ce cas, la position assise par la suite t'est formellement interdite**
-# LE RAPPEL DES PRIERES MANQUEES ET DE CE QUI S'Y RAPPORTE
+
+## LE RAPPEL DES PRIERES MANQUEES ET DE CE QUI S'Y RAPPORTE
 
 451. **Rappeler ce qui t’incombe comme prières obligatoires omises et ce, de façon urgente, est à vrai dire, un devoir manifeste**
 452. **Il n'est pas licite, pour celui à qui incombent des prières manquées d'être négligent ; il doit s'efforcer de les rappeler**
@@ -582,7 +579,7 @@ DIEU nous suffit; quel BON GARANT!
 466. **Celui qui oublie le nombre de prières omises dont il est redevable - ô toi Qui est intelligent!-**
 467. **Celui-là devra les rappeler, en s'acquittant d'un nombre de prières qui ne lui laisse plus aucun doute qui le troublerait**
 
-# -DEUXIEME PARTIE –
+## -DEUXIEME PARTIE –
 
 468. **On accomplit traditionnellement, comme cela apparaît (dans les sources), pour réparer l'erreur commise en priant, deux prosternations, en cas d'une quelconque addition ou diminution**
 469. **S'il s'agit d'une addition sur la norme rituelle de l'office, on effectue les deux prosternations après le salut final (ba da-s-sa1âm), puis on ajoute après celles-ci la Profession de Foi (Tashahhud) et un (second) salut final**
