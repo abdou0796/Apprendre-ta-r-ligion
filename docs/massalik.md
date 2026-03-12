@@ -10,9 +10,6 @@
 <p>Par Serigne Touba Khadimou Rassoul</p>
 <p>www.mamesaliou.canalblog.com</p>
 
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>1.</strong> AHMAD AL MBACKY, le disciple de son propre père, que Dieu le mette dans le plus haut Paradis</p>
 <p><strong>2.</strong> Avec tous les croyants sincères ainsi que tous ceux qui professent l'exclusivité de culte à Dieu, Amen</p>
 <p><strong>3.</strong> Celui-là : louange à Dieu Qui exige de nous la sincérité des actions, l'observance des règles de la conduite pieuse. (al adab)</p>
@@ -48,11 +45,6 @@
 <p><strong>33.</strong> Espérant avoir, comme récompense, le plus grand bien avec mon frère prédécesseur AL-YADALI, dans les plus hauts lieux du Paradis</p>
 <p><strong>34.</strong> Je sollicite des prières de la part de tous ceux qui regarderont notre ouvrage, qui le liront et surtout de ceux qui l'étudieront</p>
 <p><strong>35.</strong> Que toute personne y jetant un coup d'oeil fasse, en notre faveur, la meilleure des prières jamais faite pour un serviteur</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>36.</strong> Car la prière profite au morts, dans sa tombe, profite au vivant et procure de belles récompenses aux serviteurs de Dieu</p>
 <p><strong>37.</strong> Je lui ai donné comme titre : LES ITINERAIRES DU PARADIS dans la versification de la prose faite par AL DEYMANI</p>
 <p><strong>38.</strong> J'ai donné ici en vers tout ce que ce dernier a mentionné dans son ouvrage intitulé Hâtimat-at-tasawwuf, ''le complément du soufisme''</p>
@@ -90,11 +82,6 @@
 <p><strong>70.</strong> Que je sollicite le salut pour quiconque lit notre livre, pour celui qui y médite</p>
 <p><strong>71.</strong> Pour celui qui l'obtient (en possession), qui le loue, pour celui qui y médite</p>
 <p><strong>72.</strong> Je le sollicite au nom de notre ami, l'intercesseur, AHMED que Dieu lui accorde, tout le temps, salut et paix</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>73.</strong> Qu'Il les accorde à sa Famille, à ses Compagnons et à tous ceux qui suivent ses traces jusqu'au jour des épreuves</p>
 <p><strong>74.</strong> Cet ouvrage se compose de trois chapitres précédés d'un préambule, il faut les considérer tous ensemble</p>
 <p><strong>75.</strong> Le premier chapitre traite des différentes sortes de comportements des personnes, énumérées et détaillées, selon les mystiques, et leurs rapports avec la Vérité (DIEU)</p>
@@ -131,11 +118,6 @@
 <p><strong>103.</strong> Sache, frère, que la science est mieux que l'action, étant son fondement. Heureux est celui qui l'a acquise !</p>
 <p><strong>104.</strong> Mais cette science ne peut porter de fruits qu'avec l'application par la partie, essaie donc de réunir les deux (science et action)</p>
 <p><strong>105.</strong> Un peu de bonnes actions fondées sur la science, a plus de récompense, sans doute, que beaucoup d'actions avec ignorance</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>106.</strong> La seule science utile est celle que la personne a apprise et enseignée exclusivement pour l'amour de Dieu Très-Haut</p>
 <p><strong>107.</strong> Mais non celle qu'elle a apprise pour les disputes et controverses, ni pour la gloire, et le prestige ou autre vanité</p>
 <p><strong>108.</strong> Non plus celle apprise pour des objectifs purement mondains, tels l'amour de l'autorité et l'accession à de hautes charges</p>
@@ -171,11 +153,6 @@
 <p><strong>138.</strong> Sachant que le temps même d'une respiration vaut une pierre précieuse sans égal</p>
 <p><strong>139.</strong> Avec quoi on peut acheter un trésor immense</p>
 <p><strong>140.</strong> Laisser passer ce temps sans bonnes actions est une grande perte le jour du Jugement dernier</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>141.</strong> Si par malheur tu le passes dans la désobéissance, voilà la plus grande catastrophe</p>
 <p><strong>142.</strong> Vivifie les heures de ta vie par les actions facultatives, après avoir accompli les obligations</p>
 <p><strong>143.</strong> Par les jeûnes et les répétitions des Noms saints de Dieu, par la méditation avec persévérance</p>
@@ -211,11 +188,6 @@
 <p><strong>173.</strong> C'est celle qui donne à l'homme les bonnes qualités morales, intellectuelles et spirituelles</p>
 <p><strong>174.</strong> Celle qui l'ouvre à la crainte de Dieu, le dispose à l'abandon, à l'ascèse, à l'espoir et à l'attachement à Dieu</p>
 <p><strong>175.</strong> Celle qui exclut les désirs excessifs, l'envie et la pleurnicherie</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>176.</strong> Celle qui bannit la jalousie, la fierté, l'égarement, la haine et la présomption</p>
 <p><strong>177.</strong> Qui incite à la sagesse et à entretenir de bonnes relations avec les frères musulmans</p>
 <p><strong>178.</strong> La science ne peut que conduire l'homme vers la sagesse ou le pousser vers la perdition</p>
@@ -255,11 +227,6 @@
 <p><strong>206.</strong> Celui qui observe régulièrement la prière de la levée du jour, Dieu le protège et améliore son sort</p>
 <p><strong>207.</strong> Car cette prière se présentera le jour du Jugement dernier et le recommandera au Seigneur, il sera heureux</p>
 <p><strong>208.</strong> Elle dira : "Seigneur, celui-ci m'a observée dans le bas-monde, il faut le protéger aujourd'hui"</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>209.</strong> Mais si tu as négligé ici-bas, elle dira au Seigneur : "Celui-ci m'a négligé dans le bas-monde, il faut l'humilier pour cela"</p>
 <p><strong>210.</strong> Il est blâmable, aux yeux de certains docteurs, de prier plus de huit "rakas" après la levée du soleil</p>
 <p><strong>211.</strong> Car, disent-ils, cela n'est pas conforme à la Tradition du Prophète suprême, salut et paix sur Lui</p>
@@ -372,11 +339,6 @@
 <p><strong>309.</strong> Car si quelqu'un l'imite, il réalise du coup deux récompenses, pour avoir entraîné autrui à faire du bien.</p>
 <p><strong>310.</strong> Chacun des sens de l'homme prend sa part dans les mentions (dikr) des Noms du Maître des créatures.</p>
 <p><strong>311.</strong> Certains ont pris le juste milieu en donnant le détail suivant :</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>312.</strong> Si le fidèle craint de tomber dans le "riya", il récite à voix basse pour échapper à ce vice grave.</p>
 <p><strong>313.</strong> Car pour eux, préserver son action de ce danger ne se réalise que dans cette condition.</p>
 <p><strong>314.</strong> Mais s'il est affranchi de ce risque grâce à sa fermeté, sa perfection intérieure et sa pureté,</p>
@@ -457,11 +419,6 @@
 <p><strong>385.</strong> Elle conduit l’homme jusqu’au Paradis et l’éloigne de l’Enfer.</p>
 <p><strong>386.</strong> Elle illumine l’intérieur et l’extérieur de l’homme.</p>
 <p><strong>387.</strong> Elle vaut l’intercession du Prophète le jour du Jugement.</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>388.</strong> Que Dieu lui accorde salut et paix ainsi qu’à ceux qui l’aiment.</p>
 <p><strong>389.</strong> Il n’est pas possible d’énumérer ses avantages d’ici-bas et de l’au-delà.</p>
 <p><strong>390.</strong> Celui qui la récite constamment s’attache à une corde incassable.</p>
@@ -498,11 +455,6 @@
 <p><strong>418.</strong> La méditation des ascètes sur la fin de ce monde et son inconstance…</p>
 <p><strong>419.</strong> Soutient leur courage et assoit leur rectitude.</p>
 <p><strong>420.</strong> La méditation des adorateurs sur la récompense promise renforce leur ardeur.</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>421.</strong> Il importe d’être persévérant et laborieux.</p>
 <p><strong>422.</strong> La méditation du savant sur les bienfaits de Dieu…</p>
 <p><strong>423.</strong> Renforce son amour pour Dieu, Maître des créatures.</p>
@@ -539,11 +491,6 @@
 <p><strong>454.</strong> Tu laisserais passer ta vie sans profit.</p>
 <p><strong>455.</strong> Le détachement du cœur vient de l’occuper à se purifier constamment.</p>
 <p><strong>456.</strong> Le meilleur jihâd est d’empêcher l’esprit de s’occuper de ce qui ne l’incombe pas.</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>457.</strong> Celui qui ne le pratique pas hors prière ne pourra le pratiquer en prière.</p>
 <p><strong>458.</strong> Réfléchis donc sur la terre, le ciel, les astres…</p>
 <p><strong>459.</strong> Le soleil, la lune, les arbres, l’eau, le feu, les pierres, la nuit et le jour : tu obtiendras certitude et lumière.</p>
@@ -591,7 +538,6 @@
 <p><strong>498.</strong> Ne laisse pas un proche dans le besoin pour donner à un éloigné.</p>
 <p><strong>499.</strong> Le Prophète a ordonné de commencer par soi-même, puis ses voisins.</p>
 <p><strong>500.</strong> Après soi-même, et avant les voisins, viennent ceux à notre charge.</p>
-``
 <p><strong>501.</strong> D'après une tradition prophétique : Dieu n'accepte pas l'aumône de celui qui la pratique avec discrimination.</p>
 <p><strong>502.</strong> On rapporte que si des gens se donnaient à supprimer, pour aumône, un seul bien, l'un à l'autre jusqu'à soixante-dix mille personnes pour l'amour de Dieu,</p>
 <p><strong>503.</strong> La récompense des derniers donneurs égalera celle des premiers.</p>
@@ -702,11 +648,6 @@
 <p><strong>602.</strong> Quant au "soufisme", c'est des obligations divines individuelles aux yeux de l'Imam Al Gazali.</p>
 <p><strong>603.</strong> Parmi ses piliers, nous connaissons sept (7) qui sont : le silence, la faim, l'abandon des innovations blâmables,</p>
 <p><strong>604.</strong> Le repentir, les veilles, l’esseulement et la rectitude : quelles belles qualités !</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>605.</strong> Notre Cheikh Al Yadali ajoute un huitième pilier qui est la crainte de Dieu, intérieure et extérieure.</p>
 <p><strong>606.</strong> L’esseulement est obligatoire quand l’homme craint pour sa foi en fréquentant la société.</p>
 <p><strong>607.</strong> Ou lorsque la société est plongée dans une grande confusion qu’il ne peut résoudre ; sinon, l’esseulement est interdit.</p>
@@ -763,7 +704,6 @@
 <p><strong>658.</strong> Scélérats et justes la foulent, elle reste impassible.</p>
 <p><strong>659.</strong> Comme le nuage qui dispense l’eau sans discrimination.</p>
 <p><strong>660.</strong> Celui qui atteint cela est un vrai soufi ; celui qui le prétend sans l’être est un imposteur.</p>
-
 <p><strong>661.</strong> Ici se termine le préambule du Livre. Passons au premier chapitre.</p>
 
 ## <h2>CHAPITRE 1er : LES CRÉATURES</h2>
@@ -816,11 +756,6 @@
 <p><strong>704.</strong> Son usage pour le simple plaisir amènera, demain, un emprisonnement en plus du règlement de compte.</p>
 <p><strong>705.</strong> Conserver les biens licites pour s'assurer ou par commisération, afin de ne pas recourir aux créatures…</p>
 <p><strong>706.</strong> Et laisser les gens en paix, sauvegarder sa foi et son honneur permettent la meilleure récompense.</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>707.</strong> Posséder juste le strict nécessaire est plus avantageux que la pauvreté ou une grande richesse.</p>
 <p><strong>708.</strong> Si le riche est reconnaissant envers Dieu, il est au-dessus du pauvre résigné.</p>
 <p><strong>709.</strong> Comporte-toi en prenant nourriture comme quelqu'un contraint de manger un cadavre par nécessité.</p>
@@ -901,7 +836,6 @@
 <p><strong>778.</strong> Le manque de honte est une lâcheté.</p>
 <p><strong>779.</strong> Fais ton mieux et compte sur Sa bonté.</p>
 <p><strong>780.</strong> Oriente tes efforts vers Dieu, non vers les créatures.</p>
-
 <p><strong>781.</strong> La clairvoyance spirituelle est comme la vue : un minuscule obstacle la trouble.</p>
 <p><strong>782.</strong> Chaque chose blâmable dans le cœur empêche la lumière divine d’y entrer.</p>
 <p><strong>783.</strong> Se sauver des illusions sataniques est très difficile.</p>
@@ -930,11 +864,6 @@
 <p><strong>806.</strong> Ignorant qu'il eût été mieux pour lui de rester chez lui tout en y pensant avec désir et bonne intention.</p>
 <p><strong>807.</strong> Certains ont été trompés par Satan, que Dieu nous préserve du danger de sa perfidie.</p>
 <p><strong>808.</strong> Se fiant à leur ascétisme, à leur probité, à leur prêche influent et prestigieux en toutes occasions.</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>809.</strong> On les voit refuser de manger même ce qui est licite afin que les gens disent d'eux : “cet homme est probe et très pieux”.</p>
 <p><strong>810.</strong> Pauvres types ! s'ils savaient que cela n'est qu'une maladie enracinée dans leur cœur !</p>
 <p><strong>811.</strong> Se nourrir du licite est plus sain que rechercher les louanges par des moyens perfides.</p>
@@ -963,7 +892,6 @@
 <p><strong>834.</strong> Suffit-il de faire l’ablution sans accomplir la prière ?</p>
 <p><strong>835.</strong> À quoi sert d’aiguiser une arme qu'on n'utilise jamais ?</p>
 <p><strong>836.</strong> La connaissance des remèdes ne guérit pas le malade.</p>
-
 <p><strong>843.</strong> Sache que le Royaume de Dieu est fondé sur des traditions, comme nous le verrons.</p>
 <p><strong>844.</strong> Ne va pas à la chasse sans arme tranchante, ni ne prends ces armes sans chasser.</p>
 <p><strong>845.</strong> Prends l’arme et va à la chasse : fais de ton mieux pour atteindre ton objectif.</p>
@@ -982,7 +910,6 @@
 <p><strong>858.</strong> Tout ascète est loué et honoré de toutes bonnes qualités.</p>
 <p><strong>859.</strong> Parmi ses fruits : le repos du corps et de l’âme ici-bas et dans l’au-delà.</p>
 <p><strong>860.</strong> Ceux qui se détachent du monde sont les vrais monarques et sages.</p>
-
 <p><strong>861.</strong> Leur spéculation aboutit aux meilleurs résultats ; leur contemplation mène à la vertu.</p>
 <p><strong>862.</strong> Selon une tradition, le moins heureux du Paradis</p>
 <p><strong>863.</strong> Aura mille serviteurs et soixante-douze épouses.</p>
@@ -1051,11 +978,6 @@
 <p><strong>914.</strong> La décision ferme d’un homme affamé dans le combat pour le profit fait partie des remèdes.</p>
 <p><strong>915.</strong> Ainsi que priver l’âme des plaisirs qu’elle convoite constamment.</p>
 <p><strong>916.</strong> En lui imposant le poids des œuvres pies et en fréquentant les gens du bien.</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>917.</strong> Ne manger que le pur licite, non le douteux, loin de l'usure et de ses semblables.</p>
 <p><strong>918.</strong> Ô ami, si tu manges n'importe quoi, tu fais n'importe quoi ; si tu fréquentes n’importe qui, tu deviens n’importe qui.</p>
 <p><strong>919.</strong> Fuir les lieux de tentation et chercher un guide adorateur fait partie des remèdes.</p>
@@ -1162,11 +1084,6 @@
 <p><strong>1017.</strong> Acquiers une foi correcte et solide, sois convaincu des sentences du Très-Haut.</p>
 <p><strong>1018.</strong> Dirige tes efforts vers Dieu, abandonne-toi à Sa providence sans t’attarder sur les créatures.</p>
 <p><strong>1019.</strong> Ne donne pas plus de place au riche dans ton cœur en délaissant l’indigent.</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>1020.</strong> Dieu avait reproché cela même à Son Ami et éminent Prophète.</p>
 <p><strong>1021.</strong> Toi, pauvre créature, tu n’auras de la richesse que ce que Dieu t’a donné.</p>
 <p><strong>1022.</strong> Le désir des éloges, la répugnance pour les critiques et la crainte de la honte…</p>
@@ -1232,7 +1149,6 @@
 <p><strong>1082.</strong> Que Dieu nous en préserve.</p>
 <p><strong>1083.</strong> Le remède est de savoir que tout s’accomplit par la Volonté de Dieu.</p>
 <p><strong>1084.</strong> Si tu es frappé d’impatience, remets-toi à Dieu avec humilité.</p>
-
 <p><strong>1086.</strong> Nous prions Dieu de nous illuminer ici-bas et dans l’au-delà.</p>
 <p><strong>1087.</strong> La meilleure parure est la bonne conduite partout où l’homme passe.</p>
 <p><strong>1088.</strong> Elle mène au Paradis et à la proximité de Dieu.</p>
@@ -1267,11 +1183,6 @@
 <p><strong>1117.</strong> Spéculer parallèlement à Sa décision, même seulement dans le cœur…</p>
 <p><strong>1118.</strong> Tourner la tête vers les créatures avec crainte ou désir, se plaindre à elles : à éviter absolument.</p>
 <p><strong>1119.</strong> Choisir systématiquement les solutions de facilité dans la Sharî‘a par paresse ou tiédeur est un danger.</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>1120.</strong> L’aspirant qui prend l’habitude des facilités dans la Sharî‘a ne réussira jamais.</p>
 <p><strong>1121.</strong> Il est condamnable d’utiliser les biens licites sans intention d’adorer Dieu.</p>
 <p><strong>1122.</strong> Se servir de Ses biens sans viser les œuvres pies est une perte.</p>
@@ -1319,7 +1230,6 @@
 <p><strong>1164.</strong> Est l’absorption de choses prohibées : elle corrompt le cœur.</p>
 <p><strong>1165.</strong> Une seule mauvaise nourriture peut empêcher la prière nocturne.</p>
 <p><strong>1166.</strong> Un seul regard interdit peut empêcher la lecture d’une sourate.</p>
-
 <p><strong>1167.</strong> Voici quelques facteurs facilitant la prière de nuit :</p>
 <p><strong>1168.</strong> Connaître ses avantages en écoutant les versets et récits.</p>
 <p><strong>1169.</strong> Garder un cœur sans haine ni innovations blâmables.</p>
@@ -1357,7 +1267,6 @@
 <p><strong>1198.</strong> Tout bien reçu vient du Clément Très-Haut.</p>
 <p><strong>1199.</strong> Ne sois pas content du bien uniquement parce qu’il te satisfait : danger.</p>
 <p><strong>1200.</strong> Aide-toi des bienfaits de Dieu pour Lui obéir : tu seras honoré au moment de ta mort.</p>
-``
 <p><strong>1201.</strong> Si, malgré la multiplicité des faveurs de Dieu à ton profit, tu continues d'agir mal,</p>
 <p><strong>1202.</strong> Si malgré Ses bienfaits successifs, tu ne te montres pas reconnaissant envers ton Bienfaiteur, sache que cette carence te fait encourir la Colère de Dieu.</p>
 <p><strong>1203.</strong> Son droit dans la succession de tes péchés requiert la crainte de Son tourment et le repentir immédiat.</p>
@@ -1379,11 +1288,6 @@
 <p><strong>1219.</strong> Remercie Dieu : la catastrophe aurait pu être plus grande ou toucher ta foi.</p>
 <p><strong>1220.</strong> Remercie-Le de te traiter comme Il traite Ses Saints en les éprouvant.</p>
 <p><strong>1221.</strong> Il est de Sa Bonté de te punir ici-bas plutôt qu’après la mort.</p>
-
-<p>www.mamesaliou.canalblog.com</p>
-<h1>LES AMBASSADEURS DE KHADIM RASSOUL</h1>
-<p>www.mamesaliou.canalblog.com</p>
-
 <p><strong>1222.</strong> Habitue-toi à implorer Son pardon avant de Le courroucer.</p>
 
 ## <h2>SUBDIVISION : LA LONGANIMITÉ</h2>
@@ -1557,7 +1461,6 @@
 <p><strong>1374.</strong> Observer les causes de la mauvaise fin</p>
 <p><strong>1375.</strong> Que Dieu nous en préserve</p>
 <p><strong>1376.</strong> Sur lui, les meilleurs saluts et paix…</p>
-
 <p><strong>1377.</strong> Parmi les choses à refouler : l’amour excessif du monde</p>
 <p><strong>1378.</strong> Y plonger tout son souci et toute son énergie</p>
 <p><strong>1379.</strong> Accumuler les biens et laisser le cœur absorbé par la fortune</p>
@@ -1682,7 +1585,6 @@
 <p><strong>1498.</strong> Lire Al-Hadîd (57) jusqu’au verset 6 équivaut à mille versets.</p>
 <p><strong>1499.</strong> Les sourates Al-Kâfirûn (109) et An-Nasr (110) équivalent à un quart du Coran chacune.</p>
 <p><strong>1500.</strong> Les sourates Al-‘Âdiyât (100) et Az-Zalzala (99) équivalent chacune à la moitié du Coran.</p>
-``
 <p><strong>1501.</strong> Ô mes frères, la surate “Al Ikhlâs” (S.112) équivaut, sachez‑le, au tiers du Qur’ân.</p>
 <p><strong>1502.</strong> Si tu la lis chaque jour deux cents (200) fois, mon ami,</p>
 <p><strong>1503.</strong> Tu obtiens le pardon de cinquante (50) ans de péchés, sauf les dettes réclamées par tes créanciers.</p>
@@ -1749,7 +1651,6 @@ Accorde-moi Ton pardon, car nul autre que Toi ne pardonne les péchés.”</p>
 <p><strong>1546.</strong> “Si tu l’oublies, tu annules ton argument devant Dieu.”</p>
 <p><strong>1547.</strong> Puis il lui fit long récit qui fit trembler Mu‘âdh…</p>
 <p><strong>1548.</strong> Mu‘âdh pleura par la suite.</p>
-
 <p><strong>1549.</strong> Revenons maintenant sur les Adâb qui concluront ce livre.</p>
 <p><strong>1550.</strong> Se soucier des choses menant à une bonne fin fait partie des Adâb.</p>
 <p><strong>1551.</strong> Nous avons achevé ce livre : prions Dieu d’en faire de même pour notre vie.</p>
