@@ -6,9 +6,11 @@ nav:
   - Accueil: index.md
   - Le viatique des Adolescents: tazawoudous_sikhar.md
   - Les itinéraires du paradis: massalik.md
+  - (Jurisprudence: jawharu_nafis
 
 extra_css:
   - css/le_style.css
+
 
 
 
