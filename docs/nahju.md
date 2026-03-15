@@ -2,7 +2,7 @@
 ![IMG-20200912-WA0010](https://github.com/user-attachments/assets/66a4730c-9c69-4b24-beb6-afba0507642b)
 ---
 
-  ## <h2>PRÉLIMINAIRE</h2>
+## <h2>PRÉLIMINAIRE</h2>
   
   <p>AU NOM DE DIEU, LE CLEMENT, LE MISERICORDIEUX</p>
   <p>Que DIEU accorde Son Salut à notre Seigneur MOUHAMMAD et lui assure la Paix.</p>
@@ -27,7 +27,7 @@
   <p>un autre vers dans ce sens, versifiant l ’idée des propos de son Maître - que DIEU Soit satisfait de lui - à savoir :</p>
   <p>"Le règne de l’Erreur est d’un instant, celui de la Vérité perdurera jusqu’à l’Heure" "la vérité s’éternise, alors que l’Erreur, même au paroxysme de la célébrité, finit par s’évanouir et déchoir."</p>
 
-  ## <h2>PRÉAMBULE</h2>
+## <h2>PRÉAMBULE</h2>
   
   <p>AU NOM DE DIEU, LE CLEMENT, LE MISERICORDIEUX.</p>
   <p>Que DIEU le TRES HAUT accorde Paix à notre Maître MOUHAMMAD, à sa famille et à ses compagnons et lui assure le Salut.</p>
