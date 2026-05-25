@@ -1,4 +1,4 @@
-# Arbre généalogique de la famille GUENE, à laquelle appartient l’auteur du site
+# Arbre généalogique de la famille GANDIOOL, à laquelle appartient l’auteur du site 
 - - -
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 04 55" src="https://github.com/user-attachments/assets/69dcf369-ac27-4223-b013-e1c86a248eb8" />
 ___
