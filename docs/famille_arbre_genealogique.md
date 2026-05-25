@@ -1,11 +1,12 @@
 # Arbre généalogique de la famille GANDIOOL, à laquelle appartient l’auteur du site 
 - - -
-## Ceux principalement issus de Ibra Faboye Guene
 
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 04 55" src="https://github.com/user-attachments/assets/69dcf369-ac27-4223-b013-e1c86a248eb8" />
 ___
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 05 03" src="https://github.com/user-attachments/assets/1409c37e-ff42-445d-aa08-2ce4326935a6" />
-___
+
+## Ceux principalement issus de Ibra Faboye Guene
+
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 05 10" src="https://github.com/user-attachments/assets/7d3b0c8d-29da-48b4-8081-58ad3d645aed" />
 ___
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 05 17" src="https://github.com/user-attachments/assets/19db52c5-a3b3-479d-a982-d458dcc37c48" />
