@@ -1,5 +1,7 @@
 # Arbre généalogique de la famille GANDIOOL, à laquelle appartient l’auteur du site 
 - - -
+## Ceux principalement issus de Ibra Faboye Guene
+
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 04 55" src="https://github.com/user-attachments/assets/69dcf369-ac27-4223-b013-e1c86a248eb8" />
 ___
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 05 03" src="https://github.com/user-attachments/assets/1409c37e-ff42-445d-aa08-2ce4326935a6" />
@@ -21,7 +23,9 @@ ___
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 05 58" src="https://github.com/user-attachments/assets/e56a3d11-fac9-4955-b34f-6209a3988934" />
 ___
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 06 05" src="https://github.com/user-attachments/assets/751be227-24f7-4230-842d-eda3edfd7e9d" />
-___
+
+## Ceux principalement issus de Banda Faboye Wade
+
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 06 12" src="https://github.com/user-attachments/assets/00b76619-6d9b-4ce4-9379-941d8ffcaf5f" />
 ___
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 06 19" src="https://github.com/user-attachments/assets/60b83a58-f3f0-4a6f-83da-6317e9e305cf" />
@@ -47,7 +51,9 @@ ___
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 07 43" src="https://github.com/user-attachments/assets/35133e69-b778-44c4-863f-654e5f4e0273" />
 ___
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 07 50" src="https://github.com/user-attachments/assets/aa1aa274-d8fb-4c22-9604-4b78e1c9ef16" />
-___
+
+## Ceux principalement issus de Fagueye Ndiaga
+
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 07 57" src="https://github.com/user-attachments/assets/1bbee638-5683-4a30-83e6-9511b56a0146" />
 ___
 <img width="1668" height="934" alt="Capture d’écran 2026-05-25 à 13 08 03" src="https://github.com/user-attachments/assets/244d595d-6480-4d06-bd14-2cba0a3f2c4f" />
