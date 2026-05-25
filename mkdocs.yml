@@ -4,6 +4,7 @@ theme:
 
 nav:
   - Accueil: index.md
+  - SAINT CORAN:: alxuraane.md
   - Arbre généalogique des figures historiques: arbre_genealogique.md
   - Le viatique des Adolescents: tazawoudous_sikhar.md
   - Les itinéraires du paradis: massalik.md
