@@ -1,4 +1,4 @@
-<img width="1675" height="940" alt="Capture d’écran 2026-05-30 à 15 16 05" src="https://github.com/user-attachments/assets/492b5d7e-b460-4edc-827d-9edd8c42f544" /># SAINT CORAN en langue Wolof (SENEGAL)
+SAINT CORAN en langue Wolof (SENEGAL)
 - - - CI PIRIM AW DÉGGINAM CI WOLOF
  Alxuraan CI PIRIM AW DÉGGINAM CI WOLOF Ñi ko bind ci wolof Allaaji Mamadu Ngeer ak Góorgi Jaw Ndar Senegaal - Sulet 2014 Aji-tekki ji ci wolofal : Sëriñ Seexunaa Lóo Ngaabu Di jàngalekatu Alxuraan
 
