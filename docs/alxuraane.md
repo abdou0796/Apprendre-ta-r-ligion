@@ -1,5 +1,7 @@
-SAINT CORAN en langue Wolof (SENEGAL)
-- - - CI PIRIM AW DÉGGINAM CI WOLOF
+# SAINT CORAN en langue Wolof (SENEGAL)
+
+## CI PIRIM AW DÉGGINAM CI WOLOF
+
  Alxuraan CI PIRIM AW DÉGGINAM CI WOLOF Ñi ko bind ci wolof Allaaji Mamadu Ngeer ak Góorgi Jaw Ndar Senegaal - Sulet 2014 Aji-tekki ji ci wolofal : Sëriñ Seexunaa Lóo Ngaabu Di jàngalekatu Alxuraan
 
 ## Saar 1 : UBBIKU GA (SAAR WU JËKK WI) 7 laaya - Laata Gàddaay ga
@@ -1321,7 +1323,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 81. Ña dem bañ a xeexal Lislaam, bég nañu ca seenub toogaay ngir juuyook Yonent Yàlla bi, te soppuñu di xeex ak seeni alal ak seeni bakkan ngir Yàlla, ñuy wax naan : “Buleen génn xare ji ci tàngaay bi ! ”. Neel : “Tàngaaru Safara moo gën a tar.” - Cëy bu ñu xamoon ! -
 82. Nañuy ree lu néew (ci àddina), danañu jooy lu bari (ca àllaaxira) mu di seenug pey ca la ñu doon fàggu.
 83. Bu la Yàlla delloo ci ab kurél ñoom, te ñu ñaan la ndigalul génn (ànd ak yaw), neeleen : “Dootuleen génn mukk di ànd ak man, te it dootuleen xare ak noon yi ànd ak man. Ndax yéen tànnoon ngeen toog ca njalbéen ga ; kon nag toogleen, ànd ak way-des ña ginnaaw”.
-84. Bul jullee kenn ku dee ci ñoom, te bul taxaw mukk ci bàmmeelam, ndax ñoom dañoo weddi Yàlla ak ub Yonentam ba ñuy dee, fekk ñu di ay saay-saay. 135
+84. Bul jullee kenn ku dee ci ñoom, te bul taxaw mukk ci bàmmeelam, ndax ñoom dañoo weddi Yàlla ak ub Yonentam ba ñuy dee, fekk ñu di ay saay-saay. 
 85. Bumu la yéem seeni alal ak seeni doom ! Yàlla Daleen a namm a mbugal ci yooyu ci àddina, te bu seeni ruu di rot fekk ñu di ay yéefar.
 86. Bu aw saar wàccee (di leen ñaax) ci gëm Yàlla ak ànd xare ak ub Yonentam, woroom alal ya ca ñoom di laaj ndigal, naan : “Bàyyinu nu ànd ak ñay toog”.
 87. Neex na leen ñu ànd ak way-des ginnaaw ña. Tax na tëjeef na seeni xol ba ñoom dootuñu am dégg-dégg.
@@ -1331,7 +1333,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 91. Ña néew dolle ak ña wopp, ak ñi amul yóbbal, amuñu bàkkaar (ci toog bañ a xare ji) ndeem ñu rafet yéene lañu ci Yàlla ak ub Yonentam. Naka noonu it, ca ñay rafetal seeni jëf. Yàlla ab Jéggalaakoon la, ab Jaglewaakoon la.
 92. Ña nga xam ne bu ñu dikkee ci yaw di sàkku waruwaay, nanga leen di wax ne amuloo lu ñu mën a war, ñu dellu ànd ak naqar, di jooy ngir jàq ca la ñu amul waajtaay, ñoom it amuñu bàkkaar. Kenn du am ci ñoom aw yoon.
 93. Ñay am bàkkaar kay ñoo di ña woomal te di la laaj ndigal ci bañ a dem xare ji, bëgg a ànd ak ñay fuuyu. Yàlla fatt na seeni xol te ñoom xamuñu. Ñoom kenn du mën a am ci ñoom aw yoon.
-94. Danañu ñëw ci yéen di lay bu ngeen dellusee. Neel : “Buleen lay : dunuleen gëm mukk. Yàlla nettali nanu ba noppi seen mbir. Te Yàlla ak ub Yonentam Danañu gis seeni jëf. Nu door leen a delloo fa Aji-xam ja kumpa ak la feeñ, Mu xamal leen li ngeen daan def. 136
+94. Danañu ñëw ci yéen di lay bu ngeen dellusee. Neel : “Buleen lay : dunuleen gëm mukk. Yàlla nettali nanu ba noppi seen mbir. Te Yàlla ak ub Yonentam Danañu gis seeni jëf. Nu door leen a delloo fa Aji-xam ja kumpa ak la feeñ, Mu xamal leen li ngeen daan def. 
 95. Danañu leen waatal ci Yàlla, ba ngeen dellusee ci ñoom, ngir ngeen bañ leen a sikk. Waaye nangeen leen dëddu. Ñoom nag sobe lañu te seen delluwaay mooy Safara, muy peyug la ñu nekkoon di ko fàggu.
 96. Ñanga leen di waatal ngir ngeen nangu (seeni ngànt), rafet njort ci ñoom. Bu ngeen nangoo seeni lay, Yàlla du nangul aw lay nit ñu di ay saay-saay.
 97. Sàmm sa, ñoo gën a tar ag weddi ak ug naaféq, te gën a yey ci ñàkk a xam ndigal yi Yàlla wàcce cib Yonentam. Yàlla nag Ku xam la, Ku xereñ la.
@@ -1341,7 +1343,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 101. Am na it ca sàmm sa nekk ca seen wet, ay naaféq, ak waa (Madina). Am na ñu téppeeral cig naaféq. Xamuloo leen, (waaye) Nun xam Nanu leen. Dananu leen mbugal ñaari yoon ba noppi Nu door leen a delloo ca mbugal mu màgg ma.
 102. Ak ñeneen ña nangu seeni bàkkaar (tuub nañu), jaxase woon nañu jëf yu sell ak yeneen yu ñaaw. Xéy-na Yàlla jéggal leen. Yàlla nag Jéggalaakoon la, Jaglewaakoon la.
 103. Jëlal ci seen alal ab sarax (asaka) ngir laabal leen ca ak sellal leen ca, te nga ñaanal leen. Ndax sa ñaan dalum xel la ci ñoom. Te Yàlla Kuy dégg la, Kuy xam la.
-104. Moo ndax dañoo xamul ne Yàlla Moom Dana nangu tuub ciy jaamam, te Dana jël it sarax ya, te Moom Yàlla Mooy Nanguwaakoon cig tuub, di Jaglewaakoon. 137
+104. Moo ndax dañoo xamul ne Yàlla Moom Dana nangu tuub ciy jaamam, te Dana jël it sarax ya, te Moom Yàlla Mooy Nanguwaakoon cig tuub, di Jaglewaakoon. 
 105. Neel : “Jëfleen (lu leen soob), Yàlla ak ub Yonentam ak jullit ña, Danañu gis seeni jëf, te dees na leen delloo ca Aji-xam ja kumpa ak la feeñ. Mu xamal leen la ngeen daan def”.
 106. Ak ñeneen ñoo xam ne dees na leen yeexe ci ndigalul Yàlla, mën naa am Mu mbugal leen, mën naa am it Mu jéggal leen. Yàlla Ku xam la, Ku xereñ la.
 107. Ña nga xam ne dañoo defar jàkka ngir bëgg a lore ak weddi ak téqale way-gëm ña, ak di fàggul (pexem ña fay julli) ku xeex ak Yàlla ak ub Yonentam ca njalbeen ga, ak ngir mën a giñ ne bëgguñu lu dul lu baax. Yàlla seede ne li wóor mooy dañuy fen.
@@ -1351,7 +1353,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 111. Yàlla nag jënd na, ca ña gëm, seeni bakkan ak seeni alal, feye na leen Àjjana. Ndax ñangay xeex ci yoonu Yàlla : di reye, ñu di leen rey. Muy dig bu réy ca Yàlla ci dëgg (na Mu ko waxe) ci Tawreet ak Injiil ak ca Alxuraan. Ana kan moo gën a matal kóllareem ci Yàlla ? Kon bégleen ci njaay mi ngeen jaayanteek Moom. Te loolu moo di texe gu mag ga.
 112. (Ñooña) ñuy tuub lañu, di ñuy jaamu Yàlla, di Ko sant, di ñuy woor, di lunku di sujjóot (julli), di digle lu baax, di tere lu bon, di wattu dëeli Yàlla yi (daytal)... bégalal ña gëm.
 113. Yellul ci Yonent bi ak ñi gëm ñuy baalul bokkaalekat yi, doonte la sax mbokk lañu ginnaaw ba mu leen biree ne ñoom ñuy dugg Safara lañu.
-114. Te it jéggalu ga Ibraayiima doon jéggalul baayam, du utoon dara lu dul ab dig bu mu ko digoon. (Waaye), ba mu ko leeree ne noonub Yàlla la (moom baayam), dafa deñ ba set wecc ci loolu. Ibraahiima ab delluwaakoon la ci Boroomam, ku lewet la. 138
+114. Te it jéggalu ga Ibraayiima doon jéggalul baayam, du utoon dara lu dul ab dig bu mu ko digoon. (Waaye), ba mu ko leeree ne noonub Yàlla la (moom baayam), dafa deñ ba set wecc ci loolu. Ibraahiima ab delluwaakoon la ci Boroomam, ku lewet la. 
 115. Yàlla du bàyyi ñoo xam ne gindi na leen ba noppi ñuy tàbbiwaat cig réer, te leeralal na leen la ñu war a ragal. Yàlla xam na lépp.
 116. Yàllaa moom nguurug asamaan yi ak suuf si. Mooy dundal, di rey. Te amuleen wéeruwaay walla ku leen mën a dimbali ku dul Moom (Yàlla).
 117. Yàlla jéggal na ba noppi Yonent ba ak way-gàddaay ña (Muhaajiruun ya) ak ña leen dalaloon (Lansaar ya) ñoom ña nga xam ne toppoon nañu ko ca jamono ju jafe ja, ginnaaw ba xoli lenn ca ñoom xawoon a jeng. Mu jéggal leen ndax Moom (Yàlla) Ku ñeewant la, di Jaglewaakoon ci ñoom.
@@ -1360,7 +1362,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 120. Yellul ci ñi dëkk Madina ak sàmm sa ko wër, ñuy des ginnaaw, di bàyyi Yonent bi (buy dem jareji), te buleen seeni bakkan gënal bosam. Ndax ñoom, mar walla coono, walla xiif, duleen dale ci yoonu Yàlla, te duñu dëkk senn suuf (soo xam ne, danañu ca taxaw lu dul ne) dana metti yéefar ya, te it duñu am genn nooteel cib noon, te Dana leen ko bindal muy jëf yu yiw ñeel leen. Yàlla du sànk mukk peyug ñiy rafetal.
 121. Te duñu joxe alal ju tuuti, walla ju bari, te it duñu jàll aw xur lu dul ne dees na leen ko bindal, Yàlla feye leen ko lu gën a rafetal.
 122. Warul ci jullit ñépp dem (xareji). Lu tere mbooloo mu ne mu am ñu ca dem (xamluji) xam-xamu diine, ba bu ñu delsee ca seeni mbokk, waar leen ngir ñu mën a wattandiku.
-123. Éy yéen ñi gëm ! Xeexleen ak ñi leen jegeñ ci yéefar yi ; nañu fekk ci yéen dëgër gu mat sëkk. Te ngeen xam ne Yàllaa ngi ànd ak ñi ragal Yàlla. 139
+123. Éy yéen ñi gëm ! Xeexleen ak ñi leen jegeñ ci yéefar yi ; nañu fekk ci yéen dëgër gu mat sëkk. Te ngeen xam ne Yàllaa ngi ànd ak ñi ragal Yàlla. 
 124. Te bu aw saar mësaan a wàcc, dana am ci ñooña (naaféq) ya, ñuy wax naan : “Ana kan la lii mën a dolli ngëmam ? ”. Waaye, ña nga xam ne ñoom gëm nañu, Dana leen yokk ngëm, te it danañu ca bég.
 125. Ña nga xam ne jàngaro nekk na ci seen xol ya, dafay nekk ci ñoom kéefar guy dolliku cig kéefar, te ci kéefar googu lañuy deewaale.
 126. Moo ndax dañoo gisul ne at mu nekk dees na leen not benn walla ñaari yoon ? Te ñooña, duñu tuub, duñu waaru.
@@ -1371,7 +1373,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 ## Saar 10 : YUNUS 109 saar - Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
-1. Alif, Laam, Raa. Lii ay laayay Téere bu ñu xereñe lañu. 140
+1. Alif, Laam, Raa. Lii ay laayay Téere bu ñu xereñe lañu. 
 2. Moo ndax dafa dul yéem ci nit ñi, Nu soloo (xamal) góor gu bokk ci ñoom : “Ndigalul waar nit ñi ci bégal way-gëm ñi te xamal leen ne, am nañu fa seen Boroom dawal bu di dëgg ? Ña weddi ñoom nee nañu : “Lii dey ag njibar gu fés la”.
 3. Yàlla seen Boroom nag Mooy ki bind asamaan yi ak suuf si ci juróom-benni fan, topp Mu yemoo ca gàngunaay ga (Haras), di settantal mbir ya (ndigal ya). Amul kenn ku mën a ramm te du ci ndigalam. Kookoo di seen Boroom. Jaamuleen Ko. Moo ndax dungeen fàttaliku ?
 4. Seen delluwaay yéen ñépp ca Moom la jëm, mooy digub Yàlla bu dëggu ba ! Moom moo sos mbindéef yi (booba dara amul), Moo leen di delloosi (ginnaaw bu ñu dee ba ràpp) ngir Mu feye ña gëm pey gu duun. Waaye ña weddi woon ñoom, seenug naan, ndox mu tàng lay doon ak mbugal mu metti, muy peyug seenug weddi !
@@ -1381,7 +1383,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 8. ñooña seen delluwaay moo di Safara ngir la ñu fàggu.
 9. Ña nga xam ne gëm nañu tey jëf yu yiw, seen Boroom dana leen wommat ngir seen ngëm, tàbbal leen Àjjanay xéewal. Ay dex di daw ci seen suuf.
 10. Seenug jaamu foofa mooy di wax naan : “Cëy sellug sunu Boroom”, te seenug nuyyoo foofa mooy : “Jàmm rekk”, te la ñuy mujjeel ca seenug jaamu, moo di ñu wax ne: “Mbooleem xeeti cant yi ñeel na Yàlla Boroom àddina si”.
-11. Bu Yàlla gaawe woon àtte nit ñi ci mettit kem ni ñu yàkkamtee am alal, àttekoon na seenug yàkkamti. Waaye Dananu bàyyi ña nga xam ne yaakaaruñoo dajeek Nun ñuy laam- laame ca seen biir ngëlamte. 141
+11. Bu Yàlla gaawe woon àtte nit ñi ci mettit kem ni ñu yàkkamtee am alal, àttekoon na seenug yàkkamti. Waaye Dananu bàyyi ña nga xam ne yaakaaruñoo dajeek Nun ñuy laam- laame ca seen biir ngëlamte. 
 12. Nit, bu ko aw naqar dalee, mu daldi Nuy woo, (moo xam dakoo fekk mu) tëdd walla mu toog walla taxaw. Te bu Nu ko tekkilee naqaram woowu, muy wéy (ci kéefaram), fakk mel ni mësunoo woo ci naqar wu ko dal. Noonu la jekkee woon ca ñoom bokkaalekat ya la ñu daan def.
 13. Alag Nanu ay xeet yu bari yu leen jiitu ba ñu tooñee, te Yonent dikkal leen ak i lay yu leer nàññ. Te nanguwuñuleen woon a gëm. Noonu la Nuy feyee nit ñu di ay saay-saay.
 14. Ba noppi Nu def leen ngeen wuutu leen ci suuf si ci seen ginnaaw, ngir Nu seetlu naka ngeen di def.
@@ -1391,7 +1393,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 18. Dañuy jaamu, bàyyi Yàlla, loo xam ne duleen mën a lor, duleen mën a jariñ dara, ñuy wax naan : “Ñii ñoo nuy rammu fa Yàlla”. Neel : “Ndax dangeen a mën a xamal Yàlla lu Mu xamul ci asamaan yi ak suuf si ? ”. Kañ naa Ko, te kawe na lool la ñu Koy bokkaale !
 19. Nit ñi nekkuñu woon lu dul wenn xeet. Ñu juuyoo. Te bu dul koon waxi Yàlla ja jiitu woon, àttekoon na seeni diggante ca la ñu juuyoo.
 20. Ñuy wax naan : “Lu tee woon ñu wàcce ci moom laaya ju tukkee ca Boroomam ? ”. Neel : “Lu fàddu (di kumpa) Yàlla rekk a ko xam. Kon nanga muñandiku ; Man nag, maa ngi ànd ak yéen bokk ca way-muñandiku ña.
-21. Su Nu musalee nit ci yërmaande [niki taw] ginnaaw ba leen naqar dalee, ñuy def i pexe ci Sunuy tegtal. Neel : “Yàllaa gën a gaaw ciy pexe”. Sunuy ndaw danañu bind li ngeen di fexe de. 142
+21. Su Nu musalee nit ci yërmaande [niki taw] ginnaaw ba leen naqar dalee, ñuy def i pexe ci Sunuy tegtal. Neel : “Yàllaa gën a gaaw ciy pexe”. Sunuy ndaw danañu bind li ngeen di fexe de. 
 22. Moom mooy ki leen doxloo, ci suuf si ak ci géej gi, ba ngeen nekkee ca gaal ga. Te gaal googu daw ak ñoom ci ngelaw lu teey. Ñu bég ca ba ngelaw lu tar songu leen, duusi géej wër leen ci wet gu nekk, ba ñu njortu ne ñoom alageef na leen, ñuy ñaan Yàlla, di sellal diineem, di [giñ] ne: “Boo Nu musalee ci lii, fàwwu dananu bokk ci way-sant ña [Yàlla] ! ”
 23. Ba Nu leen musalee, ñu daldi beew ci kaw suuf si ci lu dul dëgg. Éy yéen nit ñi ! Seen beew googu tooñuleen ci kenn ku dul seen bopp. Muy yóbbalub àdduna. Ba noppi nag ngeen dellu jëm ci Nun, Nu xamal leen la ngeen doon def.
 24. Nirale dundug àddina nekkul lu dul lu mel ni ndox mu ñu wàcce mu jóge asamaan sa, gàncax ga ràbboo ci suuf si [ngir màndi ci ndox moomu], muy li nit ñi ak mala yi di lekk. Bu suuf si jot taaram ci rafet ba ña ca dëkk am yaakaar ne am nañu kàttan ci moom, Sunu dogal dikkal ko guddi walla bëccëg, Nu def ko ni lu ñu góob, mu mel ni nekku fa woon démb. Noonu Lanuy leerale laaya yi ci nit ñoo xam ne danañu xalaat.
@@ -1400,7 +1402,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 27. Ña nga xam ne dañoo fàggu lu ñaaw, am nañu lu ñaaw lu ko niru. Te la ñu yayoo mooy toroxte, - te duñu am kenn ku leen musal ci Yàlla -, daanaka day mel ni seeni kanam dañoo muuru ak daggitu guddi gu lëndëm. Ñooña ñoo dugg Safara te dañu fay béel.
 28. Te bis ba ñu leen dajalee ñoom ñépp, te ñu wax ña daan bokkaale : “Beruleen fale ak seeni xërëm ya.”. Dananu téqale seeni diggante, seen xërëm ya naan : “Du nun ñii lañu doon jaamu de”.
 29. Te Yàlla doy na seede ci sunu diggante ak yéen. Nekkewunu woon lu dul di ñàkk a faale seenug jaamu”.
-30. Noonu, bakkan bu nekk la mu jëfoon sadd ko. Ñu delloo leen ca seen Boroom muy dëgg ; ya ñu daan sos réer leen. 143
+30. Noonu, bakkan bu nekk la mu jëfoon sadd ko. Ñu delloo leen ca seen Boroom muy dëgg ; ya ñu daan sos réer leen. 
 31. Neel : “Ana kan moo leen di jox xéewal yu jóge kaw asamaan ak ci suuf si ? Kan moo moom dégg-dégg [nopp yi], ak gis-gis [bët yi], ana kan mooy génne luy dundu ci lu dee, di génne lu dee ci lu dundu, ana kan mooy dogal mbir yi ? ”. Danañu toontu ne : “Yàlla”. Neeleen kon : “Lu leen teree ragal Yàlla ? ”.
 32. Kon noonu la, Yàlla di seen Boroom ba di dëgg ga. Kon lan moo nekk ci ginnaaw dëgg lu dul ag réer ? Kon naka leen leen mën a wëlbatee ? ”.
 33. Noonu la sa kàddug Boroom yayee te dal ca kaw ña di ay saay-saay ndax gëmuñu.
@@ -1411,7 +1413,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 38. Am dañoo wax ne : “Dafa koo duur ” ? Neel : “Indileen saar wu ni mel, te woo ku leen neex ba mu des Yàlla [mu dimbali leen ci loolu] ndeem ñu dëggu ngeen”.
 39. Déedéet : weddi nañu loo xam ne amuñu xam-xamam te ag leeralam agsiwul ci ñoom. Noonu la ña leen jiitu weddee woon. Waaye xoolal rekk la mujjug tooñkat ya deme woon !
 40. Te kat am na ci ñoom ñu ko gëm, am na it ñu ko gëmul. Te sa Boroom moo gën a xam yàqkat ya.
-41. Bu ñu la weddee, neel : “Sama jëf laa moom, ngeen moom seeni jëf. Yéen deñ ngeen ci li may jëf, man it set naa wecc ci li ngeen di dëf”. 144
+41. Bu ñu la weddee, neel : “Sama jëf laa moom, ngeen moom seeni jëf. Yéen deñ ngeen ci li may jëf, man it set naa wecc ci li ngeen di dëf”. 
 42. Te am na ci ñoom ñu lay déglu. Moo ndax yaw mën nga déggloo ab tëx, doonte la nekkuñu ñu am i xel.
 43. Te am na ci ñoom ñu lay xool. Moo ndax dangay gindi gumba, doonte dañu dul gis ?
 44. Yàlla nag du tooñ nit ci dara, waaye nit ñi ñooy tooñ seen bopp.
@@ -1423,7 +1425,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 50. Neel : “Waaw waxleen ma ! Bu leen mbugal bettoon guddi walla bëccëg, lan la bàkkaarkat yi mën a gaawal ?
 51. “Moo ndax bu agsee ngeen koy door a gëm ? [Kon deef na leen wax : “Léegi, yéen a ngi ci biir ba noppi”.] Te yéen a ngi koy yàkkamti”.
 52. Topp waxees tooñkat ya : “Ayca mosleen mbugal mu sax dàkk ! Moo ndax dees na leen feye lu wuuteek la ngeen doon fàggu ? ”
-53. Te danañu sàkku nga leeral : “Ndax loolu dëgg la ? ” - Neel : “Waawaaw ! Giñ naa ci sama Boroom ne dëgg la !Te yéen dungeen mën a raw”. 145
+53. Te danañu sàkku nga leeral : “Ndax loolu dëgg la ? ” - Neel : “Waawaaw ! Giñ naa ci sama Boroom ne dëgg la !Te yéen dungeen mën a raw”. 
 54. Bépp bakkan bu tooñ, bu amoon li nekk ci àddina si, dana ko nangoo joxe ngir jotoo ko.Te bu ñu gisee mbugal ma, dana jéem a nëbb seenug rëccu. Waaye deef na àtte seeni diggante ci maandute, te kenn duleen tooñ [ci wàññil leen dara]..
 55. Moo ndax dafa nekkul ne Yàlla moo moom li nekk ci asamaan yi ak suuf si. Digub Yàlla mooy dëgg tigi. Waaye li ëpp ci ñoom xamuñu.
 56. Moom mooy dundal, Mooy rey ; te ci Moom ngeen di dellu.
@@ -1434,7 +1436,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 61. Doo nekk ci menn mbir, walla ngay jàng dara ci Alxuraan, walla ngeen def jenn jëf te Nekkunu ca seede ba ngeen cay duggu. Te lu toll ni pepp su tuuti du rëcc sa Boroom, du ci suuf si, du ci asamaan yi ; te amul lu ko gën a tuuti walla lu ko gën a rëy lu dul ne mi ngi ci ab téere bu bir.
 62. Ca dëgg-dëgg, ña féeteek Yàlla duñu gis lu ñu ragal, duñu gis njàqare,
 63. Ña gëm te ragal Yàlla,
-64. Am nañu mbégte ci dundug àddina ak ca àllaaxira. - Soppeeku du am ciy kàddu Yàlla - . Loolu mooy texe gu mag ga ! 146
+64. Am nañu mbégte ci dundug àddina ak ca àllaaxira. - Soppeeku du am ciy kàddu Yàlla - . Loolu mooy texe gu mag ga ! 
 65. Li ñuy wax , bumu la naqari. Teraanga nag Yàllaa moom lépp. Te Moom Kuy dégg la, Kuy xam la.
 66. Ca dëgg-dëgg, li nekk ci asamaan yi ak suuf si, Yàllaa leen moom. Ñay jaamu leneen lu dul Yàlla, ñoom daal toppuñu lu dul ay njort. Nekkewuñu lu dul di sos ay fen.
 67. Moom [Yàlla], moo def guddi ngir ngeen di ca noppalu, ak bëccëg ngeen di ca gise. Kéemaan nekk na ci loolu ngir aw nit ñuy dégg !
@@ -1444,7 +1446,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 71. Nettalileen xew-xewu [Nooh], ba mu waxee aw nitam ne leen : "Yéen samaw nit, ndeem sama nekk fii diis na ci yéen, ak samag waare ci kàdduy Yàlla yi, man maa ngi wéeru ci Yàlla. Bu ngeen yaboo ngeen dajale seeni kàttan yéen ak ñi ngeen di jaamu [bàyyi Yàlla]. Te bu seeni pexe nekk aw tiis ci yéen. Te it [lu leen neex] jëme ci man, te buleen négasndiku dara ci def ci man [seeni yéene].
 72. Bu ngeen dëddoo, xamleen ne laajumaleen ag pey... Samag pey nekkul fenn fu dul fa Yàlla. Te digaleef na ma ma bokk ca way-jébbalu ña”.
 73. Ñu weddi ko. Nu musal ko mook ña ànd ak moom ca gaal ga, Nu def leen ñuy ñay wuutu [nit ña ci kaw suuf si]. Nu labal ña weddi sunuy ndigal. Nanga xool nag ña ñu waaroon [ca ña weddi], ni seen mujj deme !
-74. Topp nu yónni ginnaawam ay Yonent ci seenu nit. Nu indil leen ay lay yu leer. Waaye nekkuñu woon di way-gëm la ñu weddi woon ca bu jëkk. Ba noonu Lanu tëjee ràpp xoli ña jéggi woon dayo, daan jalgati. 147
+74. Topp nu yónni ginnaawam ay Yonent ci seenu nit. Nu indil leen ay lay yu leer. Waaye nekkuñu woon di way-gëm la ñu weddi woon ca bu jëkk. Ba noonu Lanu tëjee ràpp xoli ña jéggi woon dayo, daan jalgati. 
 75. Topp Nu yónni ci seen ginnaaw Muusaa ak Haaroona ca [Firawna] ak mbooloo ma [ñu xamal leen] sunuy ndigal. Ñu rëy-rëylu, di aw nit ñu dëng [diy saay-saay].
 76. Ba dëgg ga agsee ca ñoom tukkee ci Nun Yàlla, [ñu ne leen] : “Jibar tigi la ! ”.
 77. Muusaa ne leen : “Moo ndax dangeen di wax ci dëgg gii ba mu agsee ci yéen, naan leen : Ag jibar la ? Te jibarkat yi duñu texe...”.
@@ -1456,7 +1458,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 83. Te kenn gëmul woon Muusaa lu dul ab kurél ci aw nitam, [la ko waral] mooy Firawna ak mbooloo ma lañu ragal seen fitna. Te Firawna dafa rëy-rëylu woon ci kaw suuf si, kawe lool, te moom bokk na ca saay-saay sa.
 84. Muusaa ne : "Yéen samaw nit, ndegam gëm ngeen Yàlla, nangeen wéeru ci Moom ndeem ñu wommatu tigi ngeen te di ay jullit”.
 85. Ñu wax ne : “Ci Yàlla lanuy wéeru. Yaw sunu Boroom, Yàlla boonu teg nattu ya tooñkat ya yayoo.
-86. Te nga musal nu ci sa yërmaande, ca nit ña di ay yéefar”. 148
+86. Te nga musal nu ci sa yërmaande, ca nit ña di ay yéefar”. 
 87. Nu jox Muusaa ak mbokkam ma ndigal, ne leen : “Sàkkleen néeg ca Misra ca seen biiru nit, te ngeen def seen néeg jàkka te nangeen di taxawal julli. Te di bégloo ñi gëm [ca seenug waare]”.
 88. Muusaa ne : "Yaw sunu Boroom, may nga Firawna ak u nitam taar ak alal ci alali àddina. Yaw sunu Boroom, ña réer moy saw yoon, faral seen alal ya te nga fatt seeni xol, duñu gëm mukk ndare bu ñu gisee mbugal mu tar ma”.
 89. Mu ne leen : “Nangoof na seeni ñaan. Taxawleen temm yéen ñaar ci bañ a topp yoonu ña xamule”.
@@ -1467,7 +1469,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 94. Boo amee sikki-sàkka ci li Nu wàcce ci yaw, laajal ña jàngoon Téere ba. Ba li wér dëgg agsi na ci yaw jóge ca sa Boroom : bul bokk ci way-sikki-sàkka ña, werantekat ña.
 95. Bul bokk mukk ci ñiy weddi kàdduy Yàlla. Nde kon nga bokk ca ña yàqule.
 96. Ña nga xam ne seen kàddug Boroom far na dal ca seen kaw, duñu gëm,
-97. doonte la tegtal yépp dikkal na leen it [duñu gëm], mbete ñu gisee mbugal mu metti ma. 149
+97. doonte la tegtal yépp dikkal na leen it [duñu gëm], mbete ñu gisee mbugal mu metti ma. 
 98. Te amul benn dëkk [bu gëmadi, bu alkaande dikkee] buy door a gëm, di jariñoo ngëmam, lu dul nitu Yuunusa ! Ba ñu gëmee Lanu leen teggil mbugal muy toroxale ci dundug àddina gii, teg ca jox leen ay xéewal ab diir.
 99. Bu neexoon sa Boroorm, fàwwu ñi nekk ci kaw suuf si ñépp gëm. Moo ndax yaw dangay ga [gétén] nit ñi ci ñu nekk ñu gëm ?
 100. Yellul ci benn bakkan muy gëm lu dul ci coobarey Yàlla. Te Dana teg mbugal ña xel- luwul [ba mën a ràññee dëgg].
@@ -1478,7 +1480,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 105. Te : “Nga taxaw temm jublu ci diine jii wéetal Yàlla ! Te bul bokk mukk ca way- bokkaale ña ;
 106. bul jaamu, bàyyi Yàlla, loo xam ne mënu laa lor, mënu laa jariñ. Soo ko defee rekk daldi bokk ca tooñkat ya”.
 107. Bu la Yàlla saddee aw naqar, kenn du la ko mën a teggil ku dul Moom. Bu la bégalee ci aw yiw, dara du mën a fànq xéewalam. Dana ko jottale ku ko soob ci jaamam yi. Moo di Xéewalaakoon ba, di Jaglewaakoon ba.
-108. Neel : "Éy yéen nit ñi ! Dëgg gi ñëw na ci yéen tukke ci seen Boroom. Ku jub te gindiku, boppam ; ku réer, sànku it boppam. Man dey warlulumaleen dara [ci seeni mbir]. 150
+108. Neel : "Éy yéen nit ñi ! Dëgg gi ñëw na ci yéen tukke ci seen Boroom. Ku jub te gindiku, boppam ; ku réer, sànku it boppam. Man dey warlulumaleen dara [ci seeni mbir]. 
 109. Te nanga topp [Yaw Yonent bi] la ñu la soloo, te nga sax ci Man ba ba Yàllay àtte te Mooy gën jaa mën a àtte.
 
 ## Saar 11 : HUUD 123 aaya - Laata Gàddaay ga
@@ -1500,7 +1502,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 14. Bu ñu leen wuyyuwul, nangeen xam ne la ñu wàcce, ci xam-xamub Yàlla la, te nag amul jeneen yàlla ju dul Moom. Waaw, ndax dangeen dul wommatu nekk ay jullit ?
 15. Koo xam ne dundug àddina la bëgg ak taaram, Dananu leen fey seeni jëf ci biir dundu googu, te dara du wàññikuwu ci seen cëri àddina.
 16. Ñooña ñoo dul am ca àllaaxira lu dul Safara. Te la ñu liggéeyoon yàqu na, te it la ñu doon def ag neen la.
-17. Moo ndax ku tënku ci [Téere] ba tukkee ca Boroomam te mu am seede su tukkee ca Moom di ko jàng ci ndigalam, [dana niroo ak ñooña] ? te la ko jiitu, téereb Muusaa jaaroon na fa di gindee, di yërmaande itam. Am na ñu ko gëmoon. ku ko weddi ca sàmm sa, Safara mooy 152 nekk li muy dajeel. Bul am benn sikki-sàkka. Te moom mooy dëgg gu tukkee ca sa Boroom ; waaye li ëpp ci nit ñi duñu gëm.
+17. Moo ndax ku tënku ci [Téere] ba tukkee ca Boroomam te mu am seede su tukkee ca Moom di ko jàng ci ndigalam, [dana niroo ak ñooña] ? te la ko jiitu, téereb Muusaa jaaroon na fa di gindee, di yërmaande itam. Am na ñu ko gëmoon. ku ko weddi ca sàmm sa, Safara mooy nekk li muy dajeel. Bul am benn sikki-sàkka. Te moom mooy dëgg gu tukkee ca sa Boroom ; waaye li ëpp ci nit ñi duñu gëm.
 18. Ana kan moo gën a tooñ ku sosal Yàlla ay fen ? Ñooña danañu leen teewal, gaaral leen fa seen Boroom, seede ya daldi wax ne : “Ñii ñooy ña doon fen ci seen Boroom”. Moo ndax rëbbum Yàlla du wàcc ci kaw tooñkat yi waay !
 19. Ñoo di ñay wëlbati [nit ña] ngir ñu bañ a jëm ci yoonu Yàlla, di sàkkal diine ay sikk, boole ca ñoom gëmuñu àllaaxira.
 20. Ñooña duñu mën a raw [rëcc] Yàlla ci kaw suuf si ! Te duñu mën a am ku leen wallu, deef na leen fulal mbugal ma. Ngir ñoom mënuñu woon a am dégg-dégg ak gis-gis.
@@ -1511,7 +1513,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 25. Yónni woon Nanu Nooh ca aw nitam, mu ne leen : “Man waarekat laa bu leen di xamal lu leer
 26. te ngeen bañ a jaamu ku dul Yàlla. Te ragalal naa leen mbugalum bis bu metti dal leen”.
 27. Ña di ay kilifa ci aw nitam, te weddi, ne ko : “Xoolewunu la lu dul ngay kenn rekk ci nun ; te it gisunu ñi la topp ñu dul ñi gën a suufe ci nun te lu yomb a gis ; te ëppalewuleen nu dara. Te sax am nanu njort ci ne ay fenkat ngeen”.
-28. Mu ne leen : "Samaw nit ! Naka ngeen di gisee mbir mi ? Su fekkee maa ngi ci lu wér lu jóge ci sama Boroom, te Mu jox ma yërmaande ju jóge ci Moom ci lu nëbbu ci yéen, ndax dama cee ga te fekk yéen ngeen sib ko ? 153
+28. Mu ne leen : "Samaw nit ! Naka ngeen di gisee mbir mi ? Su fekkee maa ngi ci lu wér lu jóge ci sama Boroom, te Mu jox ma yërmaande ju jóge ci Moom ci lu nëbbu ci yéen, ndax dama cee ga te fekk yéen ngeen sib ko ? 
 29. Te yéen samaw nit, laajumaleen ci alal. Samag pey nekkul ci kenn ku dul Yàlla. Te nekkuma ñiy dàq way-gëm, ñoom danañu dajeek seen Boroom. Waaye ni ma leen gise, aw nit ñu réer ngeen.
 30. te yéen samaw nit, ku may dimbali ci [mbugalu Yàlla] su ma leen dàqee ? Moo ndax dangeen dul xel-lu ?
 31. Te waxumaleen maa yore ndàmbi Yàlla, te xamuma it lu fàddu, neewumaleen Malaaka laa ; te waxuma it ne seeni bët a xeebu, Yàlla duleen jox yiw ; Yàlla moo gën a xam li nekk ci ñoom [su ma leen waxoon yooyu], kon ma bokk ci tooñkat yi.
@@ -1522,7 +1524,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 36. Te soloo woon Nanu Nooh [xamal ko], ne ko : “Kenn dootul gëm ci saw nit lu dul ña xas a gëm ba noppi. Kon bul jàq ca la ñuy def.
 37. Defaral gaal ci Sunug càmm ak ci Sunu ndigal. Te bul wàqanteeti ak Man ci mbirum ñiy tooñ, ñoom dañu leen di labal”.
 38. Muy defar gaal ga. Saa yu ko kenn ci kilifay aw nitam rombee, reetaan ko. Mu ne : “Su ngeen nu reetaanee [tey jii], nun itam [dananu leen reetaan] nu ngeen nu reetaanee woon.
-39. Xalset ngeen a xam ana kan la mbugalam di dal, toroxal ko, ba noppi mbugalam wàcc ci kawam, di lu sax dàkk ! ” 154
+39. Xalset ngeen a xam ana kan la mbugalam di dal, toroxal ko, ba noppi mbugalam wàcc ci kawam, di lu sax dàkk ! ” 
 40. Ba Sunu ndigal agsee, ndox ma di ballee fu ne, Nu ne : “Defal ci gaal gi, ci xeet wu nekk ñaar [góor ak jigéen] ak sa njaboot - ba mu des ña dogal ba xas dal [ña weddi] - ak ña gëm”. Te lim bu néew rekk a gëmoon.
 41. Mu ne leen : “Yéegleen ci biir tey tudd Yàlla, mooy aw xélam, te it ag teeram. Sama Boroom nag Jéggalaakoon la, Jaglewaakoon la”.
 42. Gaal gay daw ak ñoom ciy ganax yu kawe ni ay tundu. Nooh daldi woo doomam, fekk mu beru woon, ne ko : "Sama doom, yéegal ànd ak nun te bul ànd ak yéefar yi”.
@@ -1532,7 +1534,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 46. Mu ne ko : "Nooh, moom nag [sa doom jooju] bokkul ci sa njaboot, sa laaj bii itam du jëf ju sell. Te bul Ma laajati mukk loo xam ne leeru la. Te Maa ngi lay wattandikuloo ngay bokk ci ña réer”.
 47. Mu ne : “Sama Boroom, maa ngiy sàkku ci Nga musal ma ci laaj la loo xam ne amuma ci xam-xam. Te soo ma baalul te yërëm ma, danaa bokk ci ña yàqule”.
 48. Waxeef na ko : "Yaw Nooh, Wàccal te ànd ak mucc gu Nu la defal te barke nekk ci yaw ak ci xeet yi sosoo ci ñi ànd ak yaw. [Waaye, am na] xeet yoo xam ne Dananu leen jox ay xéewal ; ba noppi Dananu leen teg mbugal mu metti”.
-49. Loolu bokk na ci xew-xew yi nëbb ci kumpa te Nu xamal la leen. Te xamooleen woon yaak saw nit lu jiitu lii. Nanga muñ. Ñiy ragal Yàlla ñooy am ag muj [ndam]. 155
+49. Loolu bokk na ci xew-xew yi nëbb ci kumpa te Nu xamal la leen. Te xamooleen woon yaak saw nit lu jiitu lii. Nanga muñ. Ñiy ragal Yàlla ñooy am ag muj [ndam]. 
 50. Te waa Aad, seen mbokk Huud wax na leen ne : “Yéen samaw nit, jaamuleen Yàlla. Amuleen jeneen yàlla ju dul Moom. Nekkeewuleen fa lu dul di duural Yàlla.
 51. Te samaw nit, laajumaleen ci ag pey. Samag pey bokkul ci loxob kenn ku dul Ki ma bind [sàkk]. Moo ndax dangeen dul xel-lu ?
 52. Te yéen samaw nit, baaluleen seen Boroom te ngeen tuub [réccu] jëm ci Moom, kon Dana dottib taw bu jóge asamaan ci seen kaw te Dana leen yokk doole ju dolliku ci seen doole. Bu ngeen dëddoo nekk i bokkaalekat”.
@@ -1555,7 +1557,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 68. ñu mel ni mësuñu faa sax. Waaw, ndax waa Samuuda weddiwuñu woon seen Boroom ? Moo ndax alkaande dalul waa Samuuda ?
 69. Sunuy ndaw indiloon na Ibraahiima mbégte, ñu ne ko : “Jàmmi Yàlla na nekk ci yaw ! ”. Mu ne leen : “Jàmm ci yéen it ! ”, nis tuut mu indil leen sëll wu ñu wàjj.
 70. Ba mu gisee ne seeni yoxo laalu ko, mu am tuuma ak ug tiit ci ñoom. Ñu ne ko : “Bul ragal, nun kat dañunoo yónni ca nitu Lóot ñi”.
-71. Noona soxnaam sa taxawoon [foofa] daldi ree ; Nu bégal ko [te xamal ko ne dana am doom ju tudd] Isaaqa, ak ci ginnaawam Isaaqa, Yanqooba. 157
+71. Noona soxnaam sa taxawoon [foofa] daldi ree ; Nu bégal ko [te xamal ko ne dana am doom ju tudd] Isaaqa, ak ci ginnaawam Isaaqa, Yanqooba. 
 72. Mu wax ne : “Cëy man ! Ndax danaa jurati doom te màggat naa, sama boroom-kër bii it di ku mage ? Lii dey mbir mu doy waar la ! ”
 73. Ñu ne ko : “Ndax dangay yéemu ci mbiru Yàlla ? Yërmaandey Yàlla ak barkeem, yal na nekk ci yéen waa kër gi ! Moom Yàlla moo yeyoo cant ak màggal ko ! ”
 74. Ba tiit ma bàyyee Ibraahiima te mu am mbégte, jéem naa dàggasante ak Nun ci nitu Lóot ña,
@@ -1567,7 +1569,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 80. Mu ne : “[Cëy !] su ma amoon dooley dal ci seen kaw ! mbaa ma mën a tàbbi ci giir gu am doole ! ”
 81. Ñu ne ko : “Éy Lóot, nun ay ndawi sa Boroom lanu. Duñu agsi ci yaw. Nanga rañaan yaak sa njaboot ci biir guddi gi. Te bu kenn ci ñoom gestu. Ba mu des sa soxna ndax moom lu leen dal dana ko dal. Seenub àpp ëllëg rekk la. Moo ndax suba jigeñul ? ”
 82. Ba Sunu dogal agsee, wëlbati Nanu [dëkk ba], la féete woon kaw féete suuf, Nu sotti ca kawam tawu xeer yu jóge Sijjiil [Safara] ay doj yu ñu toftale,
-83. yu ñu màndargaal ca sa Boroom. Te dëkk boobu soreewul ag way-tooñ ya [ya ca Màkka]. 158
+83. yu ñu màndargaal ca sa Boroom. Te dëkk boobu soreewul ag way-tooñ ya [ya ca Màkka]. 
 84. Yónni woon Nanu it ca waa Madyaana seen mbokk Suhaybu, mu ne leen : "Yéen samaw nit, jaamuleen Yàlla ; amuleen jeneen yàlla ju dul Moom. Buleen wàññi nattukaay yi ak màndaxe yi. Gis naa ne yéen a ngi ci biiri xéewal, te ragal naa mbugal dal leen ca bis ba ëmb lépp.
 85. Yéen samaw nit, nangeen di matal natt ak màndaxe cig maandute, te buleen wàññi dara ci lu nit ñi moom, te buleen salfaañe ci suuf si nekk yàqkat..
 86. Wërsëgu Yàlla moo gën ci yéen ndegam ñu gëm ngeen ! Te nekkuma di ku leen di warlul kiiraay”.
@@ -1576,7 +1578,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 89. Yéen samaw nit, bëgg a wuuteek man bumu tax ngeen mel ni la daloon nitu Nooh dal leen, walla la daloon nitu Huud, walla nitu Saalihu, te sax nitu Lóot ña [fa ñu nekkoon] soriwuleen.
 90. Nangeen baalu seen Boroom te ngeen tuub jëm ci Moom. Naka sama Boroom, ab Jéggalaakoon la ku sopp [way-gëm ña] la”.
 91. Ñu ne : "Yaw Suhaybu, amuñu ag dégg lu bari ci say wax ; te gis nanu nga nekk ku ñàkk solo fi nun. Te bu dul koon giir gi nga bokk, dananu la jam ay xeer. Nekkuloo ku tedd ci sunu kaw”.
-92. Mu ne : "Yéen samaw nit, moo ndax sama giir moo gën a tedd ci yéen Yàlla ba tax ngeen bàyyi Ko ginnaaw ? Sama Boroom nag Ku peeg la li ngeen di def. 159
+92. Mu ne : "Yéen samaw nit, moo ndax sama giir moo gën a tedd ci yéen Yàlla ba tax ngeen bàyyi Ko ginnaaw ? Sama Boroom nag Ku peeg la li ngeen di def. 
 93. Yéen samaw nit, defleen lu leen soob. Man it danaa def [li ma sama Boroom sant]. Dangeen mas a xam kan la mbugal di dal, gàcceel ko, ak kan mooy kay fen. Te muñandikuleen ! Maa ngi ànd ak yéen di muñ”.
 94. Ba Sunu ndigal agsee, musal Nanu Suhaybu ak ña gëmoon ànd ak moom ci Sunu yërmaande. Ag xaacu faagaagal ña tooñ, ñu mujj xëy ne lànjaŋ dee fa seen kër ya,
 95. mu mel ni masuñu fa woon a dëkk. Waaw, ndax alkaande dalul waa Madyaana na mu alake woon waa Samuuda ?.
@@ -1588,7 +1590,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 101. Tooñunuleen. Waaye ñoo tooñ seen bopp. Seen yàlla ya ñu doon jaamu, bàyyi fa Yàlla, jariñuleen dara. Ba sa ndigalu Boroom agsee, dolliwuleen lu dul alkaande.
 102. Noonu la sa Boroom di alage, bu alagee njéndi fekk ñu tooñ. Alage ju Muy alag [ñooña], dafay metti tar.
 103. Kaawtéef nekk na ci loolu ci ku ragal mbugalam àllaaxira. Bis boobu bis ba ñu koy dajaleel nit ñi; te bis la bu ñépp di teewe.
-104. Yeexewuñu ko de, dafa di rekk am na dig bu ñu ko àppal. 160
+104. Yeexewuñu ko de, dafa di rekk am na dig bu ñu ko àppal. 
 105. Bu bis ba dikkee, kenn du wax ku dul ku ca am ndigal. Te ca nit ña am na ca ñu texeedi ak ñu texe.
 106. Ña texeedi danañu nekk ca Safara di yikkat ak a jooy.
 107. Dañu fay béel, nekk fa feek asamaan yi ak suuf si - ndare lu neex sa Boroom - ndax Moom lu ko soob Mu def ko.
@@ -1612,7 +1614,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 ## Saar 12 : YUUSUFA 111 laaya - Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
-1. Alif, Laam, Raa. Lii ay xamle la yu nekk ci Téere bu wér péŋŋ bi. 162
+1. Alif, Laam, Raa. Lii ay xamle la yu nekk ci Téere bu wér péŋŋ bi. 
 2. Wàcce Nanu ko mu di ay njàng ci làkku [araab] ngir ngeen xam la mu tekki.
 3. Nun noo ngi lay nettali gën jaa rafeti nettaliin ci Alxuraan jii Nu la xamal te lu ko jiitu nekkoon na loo réere.
 4. [Fàttalikul] ba Yuusufa waxee baayam ne ko : "Yaw sama baay, man gis naa [ci gént] fukki bindiw ak ñaar ak jant bi ak weer wi ; ñu may sujjóotal”.
@@ -1624,7 +1626,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 10. Mu am ca ñoom ku wax ne : “Buleen rey Yuusufa, sànnileen ko ci teen bu lëndëm, kon tukkikat yi danañu ko for su fekkee def ngeen ko”.
 11. Ñu ne : "Yaw sunu baay, ana lan moo tax wóoluwoo nu ci Yuusufa ? Te nun dañu koy laabire doŋŋ.
 12. Bu subaa nga yabal ko mu ànd ak nun muy sàmm jur gi, di fo. Dananu ko wattu”.
-13. Mu ne leen : “Man dey, am naa njàqare ci ngeen ànd ak moom ; danaa ragal ngeen sàggan ba ag till lekk ko”. 163
+13. Mu ne leen : “Man dey, am naa njàqare ci ngeen ànd ak moom ; danaa ragal ngeen sàggan ba ag till lekk ko”. 
 14. Ñu ne : “Till! Su ko lekkee nag ak nii nu nekkee di mbooloo, kon dey nu gën a yées”.
 15. Ba ñu àndeek moom, te mànkoo ci sànni ko ca xóot-xóot ba [teen ba], Nu xamal [Nun Yàlla] Yuusufa ne : “Danga leen mës a nettali seen jëf jii fu ñu ko foogewul”.
 16. Ñu dellu ci seen baay ci marax, di joox.
@@ -1635,7 +1637,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 21. Ka ko jënd di waa Misra, wax na jabaram ne ko : “Teralal ma ko. Xéy-na mu jariñ nu mbaa nu def ko sunu doom.”. Noonu la nu darajaale Yuusufa ci suuf si, ak it ngir Nu jàngal ko pirim gént. Yàlla kuy not la ca la Mu namm : waaye li ëpp ci nit ñi xamuñu.
 22. Ba mu màggee ba tollu ci góor gu mat, jox Nanu ko ràññee ak xam-xam. Te noonu Lanuy feye way-rafetal ña.
 23. Ndaw sa nga xam ne [Moo ko fat ca kërëm] sàkku na ko ci boppam. Tëj na buntu ya ne ko : “Ayca ñëwal ci man” - Mu ne : “Maa ngi muslu ci Yàlla ! [tëdd ak yaw] te sama sang [bi ma jënd] fonk na ma, teral na ma. Te tooñkat ya duñu texe mukk”.
-24. Ndaw sa xemmem na [Yuusufa]. Moom [Yuusufa] it xemmem na [ndaw sa] bu dul koon la mu gis kaawtéefi Boroomam. Noonu la Nu def ngir fegal ko ñaawtéef ak njaaloo. Moom sax dafa bokk ca sunu jaam yu sell ya. 164
+24. Ndaw sa xemmem na [Yuusufa]. Moom [Yuusufa] it xemmem na [ndaw sa] bu dul koon la mu gis kaawtéefi Boroomam. Noonu la Nu def ngir fegal ko ñaawtéef ak njaaloo. Moom sax dafa bokk ca sunu jaam yu sell ya. 
 25. Ñu jëkkante buntu ba, [ndaw sa] xëcc yérey [Yuusufa] ca ginnaaw ga. Ñu dajeek jëkkëram ca buntu ba. [Ndaw sa] daldi ne : “Ana lan moo di peyug ku naral lu bon sa jabar, lu dul tëj ci kaso walla mbugal mu metti ? ”
 26. [Yuusufa] ne : “Moo ma sàkku ci sama jëmm”. Mu am seede su di mbokkum ndaw sa daldi seede ne : “Bu fekkee ne yéreem ci kanam la xottiku, ndaw sa moo wax dëgg, moom mu bokk ca fenkat ya.
 27. Bu yéreem xottikoo ci ginnaaw, ndaw sa moo fen, moom mu bokk ca ñu dëggu ña”.
@@ -1646,7 +1648,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 32. Mu ne : “Mu ngoog lii ngeen ma doon yedde. Maa ko sàkku woon mu bañ. Te bu deful li ma ko sant, waat naa ne dees na ko tëj kaso mu detteelu”.
 33. Mu ne[moom Yuusufa] : "Yaw sama Boroom, kaso laa gën a bëgg ci lii ñu may woo jëme ma ca. Te boo ma wëlbatilul seeni pexe, danaa jeng jëm ca ñoom te kon ma bokk ca ña réer [xamadi]”.
 34. Boroomam nangu ñaanam, daldi ko fegal seeni pexe. Moom [Yàlla] mooy Aji-dégg, di Aji-xam ji.
-35. Ginnaaw ba ñu gisee dëgg ga mu fees ca ñoom, ñu ne fàwwu danañu ko tëj kaso ab diir. 165
+35. Ginnaaw ba ñu gisee dëgg ga mu fees ca ñoom, ñu ne fàwwu danañu ko tëj kaso ab diir. 
 36. Mu duggandoo ca kaso ba ak ñaari xale yu góor. Kenn ca ñoom ne : “Damaa gent di nal sàngara...” Keneen ka ne : “Gént naa man itam yenu ci sama bopp mburu, ay picc di ca lekk. Leeralal nu seenum piri, ndax nun gis nanu la nga bokk ca way-rafetal ña”.
 37. Mu ne leen : “Ñam wii ñu leen di wërsëgale, balaa ñëw ma leeralal leen seen piri. Noonu lay deme ci yéen ñaar ngir la ma sama Boroom xamal. Ndax man bàyyi naa diiney nit ñu gëmul Yàlla te weddi àllaaxira.
 38. Damay topp diiney samay baay Ibraahiima ak Isaaqa ak Yanqooba. Warul ci nun bokkaale Yàlla ak dara. Loola bokk na ci ngëneel yi nu Yàlla defal nun ak nit ñi ; waaye li ëpp ci nit ñi duñu gërëm [Yàlla].
@@ -1656,7 +1658,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 42. Yuusufa wax ka nga xam ne yaakaar na ne dana mucc ca ñoom ñaar, ne ko : “Nanga fexe ba buur fàttaliku ma”. Waaye Séytaane fàtteloo na ko [yóbbante boobu] ba fàttaliwu ko buur ba [ba mu delloo ca moom]. Ba tax mu toog ca kaso ba ay at .
 43. Buur ba wax ne : “Gént naa juróom-ñaari nag yu duuf yu juróom-ñaari nag yu loof di lekk ; ak juróom-ñaari gub yu nëtëx ak yeneen yu wow. Yéen njiit yi, firil-leen ma sama gént gii, ndegam mën ngeen firi gént”.
 44. Ñu ne : “Gént yooyu jaxasoo nañu ! Te sax nun xamunu pirim gént ! ”
-45. Ka muccoon ca ñoom daldi fàttaliku ginnaaw ab diir, daldi wax ne : “Danaa leen leeralal. Yebal-leen ma, Dinaa leen indil am pireem”. 166
+45. Ka muccoon ca ñoom daldi fàttaliku ginnaaw ab diir, daldi wax ne : “Danaa leen leeralal. Yebal-leen ma, Dinaa leen indil am pireem”. 
 46. [Mu dem ca Yuusufa] ne ko : “Yaw waxkatu dëgg ! Ubbee ma ci juróom-ñaari nag yu duuf yu juróom-ñaari nag yu loof di lekk, ak juróom-ñaari gub yu nëtëx ak yeneen yu wow, ndax xéy-na su ma delluwaatee nit ña am ci xam-xam”.
 47. Mu ne : “Nangeen bey juróom-ñaari at ni ngeen ko baaxoo defe. Te lu ngeen góob, bàyyileen ko ca aw gubam [bañ koo bàcc], lu dul lu néew ca la ngeen di lekk.
 48. Dana ca topp gannaaw loolu juróom-ñaari at yu bekkoor yuy lekk la ngeen dencoon ngir ñoom ba mu des lu néew ca la ngeen dencoon.
@@ -1666,7 +1668,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 52. “[Man Yuusufa maa defoon] noonu ngir buur bi xam ne wuruju ma ko ginnaawam, te sax Yàlla du jubale pexem wurujkat ya.
 53. Jéemumaa setal sama bopp, ndax bakkan moom digalaakoon la ci lu bon, [mucctil ci moom] ku dul ku sama Boroom yërëm. Ndax sama Boroom Jéggalaakoon la, Jaglewaakoon la”.
 54. Buur ba ne : “Indil-leen ma ko : def ko mu sës ci man”. Ba mu waxeek moom, mu ne ko : “Bis niki tey, nekk nga ci man ku ñu darajaal, ku ñu wóolu”.
-55. Mu ne : “Dénkleen ma alali réew mi : am naa xam-xamu wattu ko”. 167
+55. Mu ne : “Dénkleen ma alali réew mi : am naa xam-xamu wattu ko”. 
 56. Noonu Lanu darajaale Yuusufa ca réew ma, mu fay wàcc fu ko neex. Dananu jox sunu yërmaande ku Nu neex te Dunu sànk peyug rafetalkat ya.
 57. Te peyug àllaaxira moo gën ci ña gëm, di ña ragal [Yàlla].
 58. Ay doomi-baayi Yuusufa agsi ca moom [jóge seen réew ma]. Mu xàmmee leen te ñoom fakk nañu ko.
@@ -1677,7 +1679,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 63. Ba ñu delloo ca seen baay, ñu ne ko : “Yaw sunu baay, [su nu yóbbaalewul sunu rakk jii weneen yoon, kenn dunu nattal]. Kon yebal ko mu ànd ak nun ndax ñu nattal nu. Kon dey dananu ko wattu”.
 64. Mu ne : “Ndax, wóolu leen ci dafay mel ni ba ma leen wóolu ca bu njëkk ca doomu- ndeyam ja ? Waaye Yàllaa di gën jaa mën a wattu [aar], te Moo ëpp yërmaande yërëmaakoon ya ! ”
 65. Ba ñu ubbee seeni ëmb, ñu fekk ca njëg ga ñu leen delloo. Ñu ne : "Waaw yaw sunu baay. Lan lanu bëggati ? Alal ja [nekkoon ca njëg ga nu feyoon] mi ngi nii ñu delloo nu ko. Dananu mën a jëggiwaat lu nu mën a dundale njaboot gi, mën nanoo wattu sunu doomu-baay te dananu yokk sëfu gëléem, loolu natt bu yomb lay doon”.
-66. - Mu ne leen : “Duma ko bàyyi mukk mu ànd ak yéen li feek waatuleen ci Yàlla ne dangeen ma ko delloosil, ndeem lottuleen ca”. Ba ñu ko waatalee, mu ne : “Li nu waxante, nu ngi ciy wéeru ci Yàlla”. 168
+66. - Mu ne leen : “Duma ko bàyyi mukk mu ànd ak yéen li feek waatuleen ci Yàlla ne dangeen ma ko delloosil, ndeem lottuleen ca”. Ba ñu ko waatalee, mu ne : “Li nu waxante, nu ngi ciy wéeru ci Yàlla”. 
 67. Mu ne : “Yéen samay doom, [bu ngeen àggee ca dëkk ba], buleen ca duggandoo ci benn buntu, nangeen xàjjalikoo dugge ciy buntu yu soriyaantoo. Mënuma leen a fegal dara lu jóge ci Yàlla. Moom rekk a moom àtte : Ci Moom rekk laa wéeru. Te képp kuy wéeru, na weeru ci Moom [Yàlla]”.
 68. Ba ñu duggee na ko seen baay diglee woon, taxul mu jariñ dara ca la Yàlla namm. Lu dul ne Yanqooba soxla woon na yiir leen ci loolu. Naka moom, boroom xam-xam la ci la Nu ko xamal. Waaye li ëpp ci nit ñi xamuñu.
 69. Ba ñu agsee ca Yuusufa, mu daldi xëcc taf ci boppam doomu-ndeyam ja, daldi ne : “Maa di sa doomu-ndey. Bul jàq ca la ñu nekkoon di ko def ci jéem maa sànk”.
@@ -1687,7 +1689,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 73. Ñu ne : “Giñ nanu ci Yàlla, te xam ngeen ne dikkunu fii ci suuf si ngir yàq te it dunu ay sàcckat”.
 74. - Ñu ne: “Luy peyug ku sàcc, bu fekkee dangeen a fen ?”.
 75. Ñu ne : “Ag peyam moom ka ñu fekk [nattukaay ba] ci sëfam mooy : ag peyam moom ci boppam [mu nekk jaam]. Noonu Lanu feye tooñkat ya”.
-76. Mu jëkke ca ndabi doomi-baay ya, di seet, mujje ndabul doomu-ndey ja ; génne ca nattukaay ba. Noonu Lanu joxe pexe Yuusufa. Pexe mu ko tax a téye doomu-ndeyam ja ci lu dëppook yoonu buur ba, [mënu ko woon a def] lu dul lu soob Yàlla. Dananu yékkati darajay ku Nu soob. Te boroom xam-xam bu nekk, am na ku ko ëpp xam-xam. 169
+76. Mu jëkke ca ndabi doomi-baay ya, di seet, mujje ndabul doomu-ndey ja ; génne ca nattukaay ba. Noonu Lanu joxe pexe Yuusufa. Pexe mu ko tax a téye doomu-ndeyam ja ci lu dëppook yoonu buur ba, [mënu ko woon a def] lu dul lu soob Yàlla. Dananu yékkati darajay ku Nu soob. Te boroom xam-xam bu nekk, am na ku ko ëpp xam-xam. 
 77. Ñu ne : “Ndegam sàcc na, am na doomu-ndeyam ju sàccoon bu jëkk. “Yuusufa nëbb ca xelam la mu xalaat, bañ leen koo feeñal. Mu ne [ci xelam] : “Yéen yées ngeen ! Te Yàlla xam na li ngeen jëf”.
 78. - Ñu ne : "Ay yaw kilifa gi, moom dafa am baay bu mage lool ; téyeel kenn ci nun bàyyi ko. Gis nanu ne yaw bokk nga ca rafetalkat ya [seeni jëf]”.
 79. - Mu ne : “Maa ngi ñaan Yàlla mu musal ma ci jàpp ku dul ka ma fekk nattukaay ci moom ! [Su nu ko defee], kon dananu bokk ca tooñkat ya.
@@ -1698,7 +1700,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 84. Mu dummóoyu leen, wax ne : “Céy sama njàqare ci Yuusufa ! ”. Noona ay gëtam weex [gisatul] ngir mer ma mu wann.
 85. - Ñu ne ko : “Céy Yàlla ! Doo deñ di fàttaliku Yuusufa, ba tax na yaa ngi wéradi te mën nga cee loru”.
 86. - Mu ne : “Defuma lu dul tawat sama njàqare ak sama naqar ci Yàlla. Te xam naa ci Yàlla lu ngeen xamul.
-87. Mu ne : “Yéen samay doon ! Demleen xeeñtu ji lu jëm ci Yuusufa ak doomu-ndeyam ja. Te buleen xàddi ci dajeek yërmaande Yàlla. Ndax ay yéefar rekk ñooy xàddi ci dajeek yërmaande Yàlla”. 170
+87. Mu ne : “Yéen samay doon ! Demleen xeeñtu ji lu jëm ci Yuusufa ak doomu-ndeyam ja. Te buleen xàddi ci dajeek yërmaande Yàlla. Ndax ay yéefar rekk ñooy xàddi ci dajeek yërmaande Yàlla”. 
 88. Ba ñu agsee ci Yuusufa, ñu ne ko : “Éy yaw jawriñ ju tedd ji, xiif danoo dal nun ak sunug njaboor ; te indi nanu njëgg gu xeebu. Nattal nu te sarax nu. Yàlla dana fey saraxekat ya ! ”
 89. - Mu ne leen : “Ndax xam ngeen la ngeen defoon Yuusufa ak doomu-ndeyam ja, ba ngeen nekkee cig réer ?”.
 90. - Ñu ne ko : “Ndax yaw yaay Yuusufa ? ” - Mu ne leen : “Maay Yuusufa, kii mooy sama doomu-ndey, Yàlla defal nu ay xéewal. Ndax ku ragal Yàlla te muñ, [dana gis ne] Yàlla du sànk mukk peyug ñay refetal”.
@@ -1709,7 +1711,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 95. Ñu ne ko : “Giñ nanu ci Yàlla ne yaa ngi ci sa njuumte lu jëkk la”.
 96. Waaye, ba kuy bégle ka agsee, daldi koy xëpp yére ya ci kanam. Mu daldi ne xàjj di gis, mu ne : “Moo ndax waxuma leen woon ne xam naa lu ma jële ci Yàlla lu ngeen xamul ? ”
 97. - Ñu ne : "Éy yaw sunu baay, sàkkul nu njéggal [ci Yàlla] sunuy bàkkaar. Ndax nun dey juumoon nanu ba def bàkkaar naka”.
-98. - Mu ne : “Danaa leen ñaanal njéggal ci sama Boroom. Moom Yàlla nag mooy Jéggalaakoon ba, di Jaglewaakoon ba”. 171
+98. - Mu ne : “Danaa leen ñaanal njéggal ci sama Boroom. Moom Yàlla nag mooy Jéggalaakoon ba, di Jaglewaakoon ba”. 
 99. Ba ñu delloo ca Yuusufa, mu song ñaari waajuram, ne leen : “Dugguleen Misra ànd ak kóolute, bu soobee Yàlla ! ”
 100. Mu yéegal ñaari waajuram ci kaw gàngunaay ga, ñu rot sujjóotal ko. Mu ne : "Yaw sama baay, lii moo di pirim sama gént ga woon. Sama Boroom def na ko muy dëgg... Te it defal na ma lu baax ba ma mën a génn ci kaso bi, indi leen ngeen jóge ca àll ba, ginnaaw ba Séytaane yàqee sama diggante ak samay doomi-baay. Sama Boroom nag ku lewet la ca la ko soob. Mooy Ku xam te xereñ.
 101. Yaw sama Boroom, may nga ma nguur, jàngal nga ma it pirim gént. Yaw mi sos asamaan yi ak suuf si, Yaw yaay sama sang, ci àddina ak ca àllaaxira. Yal na nga may rey te fekk may aji-jublu ci Yaw [sama Boroom] sama mbir mépp te yal na nga ma yéege ci ñu yiw ña.
@@ -1720,7 +1722,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 106. Li ëpp ci ñoom duñu gëm Yàlla, xanaa kay dañuy nekk rekk di bokkaale Yàlla.
 107. Ndax dañoo gëmul ne mbugal mu leen muur mën na leen a dal, di mbugalum Yàlla mbaa mu digal leen, bu Bis-pénc baa ci mbetteel te duñu ko yég ?
 108. Neel : “Samaw yoon a, ngir damay woote jëme ci Yàlla ànd ak aw lay. Man bokkuma ci bokkaalekati Yàlla yi, maak ku ma àndal.
-109. Yónniwuñu woon, lu la jiitu [yaw Muhammad], lu dul ay góor yu ñu soloo ñu dëkk ca njénde ya. [Nee leen] ndax dañoo doxul ci suuf si, ba seetlu lan mooy mujjug ña leen jiitu 172 woon ? Te ca dëgg-dëgg kërug àllaaxira moo gën ca ña ragal Yàlla. Moo ndax dangeen dul xel-lu ?
+109. Yónniwuñu woon, lu la jiitu [yaw Muhammad], lu dul ay góor yu ñu soloo ñu dëkk ca njénde ya. [Nee leen] ndax dañoo doxul ci suuf si, ba seetlu lan mooy mujjug ña leen jiitu woon ? Te ca dëgg-dëgg kërug àllaaxira moo gën ca ña ragal Yàlla. Moo ndax dangeen dul xel-lu ?
 110. Ba ña Nu yónni naagoo ne [ndimbal dootul ñëw] te ñu jort ne weddeef nañu leen ba noppi, foofa la Sunu ndimbal agsee ci ñoom. Nu musal ku Nu soob. Te Sunu mbugal amul kenn ku ko mën a fegal tooñkat ya.
 111. Seen nettali yooyu ay waaree nga ca ñeel woroom xel ya. Du waxtaan wu ñu sos. Waaye day dëggal ya jiitu, te it di leeral lépp lu nekk di ag njub, di yërmaande ñeel nit ñu gëm.
 
@@ -1730,7 +1732,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Aliif, Laam, Miim, Raa. Kàdduy Téere ba ñoo ngi nii te di lu ñu wàcce ci yaw, mu jóge ci sa Boroom dëgg ga ; waaye li ëpp ci nit ñi gëmuñu.
 2. Yàlla Moo di ki wàcce asamaan yi ci lu amul keno yu ñu mën a gis. Topp Mu yemoo ca [Aras], Mu tàggat jant bi ak weer wi, ñoom ñépp ñuy daw jëm ci àpp bu ñu dogal. Mooy àtte doxiinu [àddina], Dana leeral ag kàddoom ndax mu wóor leen ne dangeen dajeek seen Boroom.
 3. Moom mooy Ki tàllal suuf si, def ca ay doj ak i dex. Te def na ca mépp meññent ñaar-ñaar [góor ak jigéen]. Dana muure bëccëg ci guddi gi. Nit ñuy xalaat am nañu ci loolu ag waaru.
-4. Nekk na ci kaw suuf si ay déndi suuf yu tàqaloo [te wuute], ak tooli reseñ ak mbeyum pepp, ak garabi tàndarma yu ràngaloo ak yu soreyaantoo, ñoom ñépp ndox mi leen di suuxat menn la. Nuy gënal yenn ya ci kaw yeneen ya ci cafka ga. Ag waare nekk na ci biir loolu ngir nit ñu am xel. 173
+4. Nekk na ci kaw suuf si ay déndi suuf yu tàqaloo [te wuute], ak tooli reseñ ak mbeyum pepp, ak garabi tàndarma yu ràngaloo ak yu soreyaantoo, ñoom ñépp ndox mi leen di suuxat menn la. Nuy gënal yenn ya ci kaw yeneen ya ci cafka ga. Ag waare nekk na ci biir loolu ngir nit ñu am xel. 
 5. Ndeem danga yéemu yaw [Yonent bi], dana la yéem li ñuy wax naan : “Ndax bu ñu deewee ba seey nekk suuf, danañu dekkiwaat nekk i mbindeef ? ”. Ñooña ñooy ña weddi seen Boroom. Te mooy ña gëx nekk ca seen loos. Te ñoom ñoo di waa Safara, te dañu fay béel.
 6. Ñangay yàkkamti naan na mbugal [mi nga nu dig] nëw lu jiitu seenug sàkku yërmaande. Waaye ca la weesu, amoon na ay mbugal [yu daloon ña leen jiitu]. Doonte la sa Boroom kuy jéggal nit ñi la seeni bàkkaar, waaye fekk na sa Boroom di ku tar mbugal itam.
 7. Ña weddi ñangay wax : “Lu tee ñu wàcce ci moom kéemaan gu jóge ca Boroomam ? ”. Te yaw nekkoo lu dul kuy waare, te xeet wu nekk am na ku koy gindi.
@@ -1740,7 +1742,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 11. Kooku jàpp ndigal la, am na [ña koy wattu] ñuy wuutuwante ci kanamam ak ci ginnaawam. Danañu ko sàmm ci ndigalul Yàlla. Naka Yàlla du soppi li nekk ci aw nit li feek soppiwuñu la nekk ca ñoom. Te bu Yàlla nammee teg mbugal aw nit, kenn du ko mën a delloo : te it du am kenn ku leen mën a sàmm ginnaaw Yàlla.
 12. Moom moo leen indil melax ngeen yëg ci am tiit ak njàqare ; te Moo sos niir yu diis yi [ak ndox].
 13. Dënnu ga di ko sàbbaal, màggal cant gi mu yeyoo. Malaaka ya it ànd ak ragal ko. Te dana sànni dënnu, sadd ko ci ku ko soob. Ñoom nit ña, ñangay dàggasante ci Yàlla, te Moom ku tar la ci kàttanam.
-14. Mooy boroom woote bu dëggu ba ! Te ña ñuy jaamu dëddu Ko, duñu mën a wuyyu [ba jariñ leen] ci dara ; dafa mel ni [ku mar], tàllal ay yoxoom ndox ma, bëgg mu jëm ca gémmiñam, te jotu ko. Jaamug ña weddi du jëme fu dul ci sànku. 174
+14. Mooy boroom woote bu dëggu ba ! Te ña ñuy jaamu dëddu Ko, duñu mën a wuyyu [ba jariñ leen] ci dara ; dafa mel ni [ku mar], tàllal ay yoxoom ndox ma, bëgg mu jëm ca gémmiñam, te jotu ko. Jaamug ña weddi du jëme fu dul ci sànku. 
 15. Lépp lu nekk ci asamaan yi ak suuf si danañuy sujjóotal Yàlla cig nangu walla cig nooteel, ak seeni takkandeer suba ak ngoon.
 16. Neel : “Kan mooy boroom asamaan yi ak suuf si ? ”. Neel : “Yàlla”. Neel : “Waaye ndax dangeen Koy bàyyi di jàpp ci ay yàlla yoo xam ne mënaluñu seen bopp njariñ walla jenn lor ? Neel : “Ndax gumba dana yem ak njàccaar walla ndax leer ak lëndëm ñoo yem, walla ndax dañuy sàkkal Yàlla way-bokkaale yu mën a bind lu mel ni li Mu bind ba seeni mbindeef niroo ci ñoom? Neel : “Yàlla mooy Aji-bind ji lépp lu ne te Moom mooy Notaakoon bi di kenn”.
 17. Wàcce na ndox mu jóge asamaan, ay dex walangaan ciy xur. [Lu na toll] yol mu yanu puurit mu njaxlaf, muy nirook puurit muy féey ci kaw lu ñuy teg cib taal ngir defar i takkaay walla ndab. Noonu la Yàlla [di joxee misaal ngir téqale] dëgg ak neen te puurit ma day dem ci neen, lay jariñ mooy la des ca suuf sa. Noonu la Yàlla di joxee misaal.
@@ -1750,7 +1752,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 21. ak ñay jokk la Yàlla santaane ñu jokk ko [mooy mbokk], te ragal nañu seen Boroom, di ragal it [ca àllaaxira] natt bu bon [seen jëf yu ñaaw ëpp seen jëf yu baax],
 22. ak ñay muñ ngir jëmmi seen Boroom, tey taxawal julli tey dundale ca la leen Yàlla wërsëgale ci la nëbbu walla ci lu feeñ, te ñuy jiñe lu ñaaw ak lu rafet. Ñooña am nañu kër gu mujj ga,
 23. Àjjana ju sax ja, danañu ca dugg, ak ña jëfoon lu baax ca seeni baay ak ca seeni jabar ak seeni doom ak i sët. Te Malaaka ya dañuy duggandook ñoom ci buntu yépp :
-24. [Ñu naan leen] - “Jàmmi Yàlla na nekk ci yéen ngir la ngeen muñoon ! ” - Aka rafet kërug mujj ga ! ” 175
+24. [Ñu naan leen] - “Jàmmi Yàlla na nekk ci yéen ngir la ngeen muñoon ! ” - Aka rafet kërug mujj ga ! ” 
 25. [Waaye] ñiy firi kóllareg Yàlla ginnaaw ba mu fasoo, te muy dog la Mu santaane ñu jokk ko [mooy ag mbokk], di yàq ci kaw suuf si, ñooña am rëbb dal na ci seen kaw [sori yërmaandey Yàlla], te it am nañu kër gu bon ga.
 26. Yàlla dana yaatal wërsëg ci ku ko soob, Dana ko xatal it. Te ñoom dundu àdduna neex na leen, te dundu àdduna soo ko méngaleek gu àllaaxira, du nekk lu dul xéewal gu ñàkk solo.
 27. Te ñoom ña weddi dañuy wax naan : “Lu tee woon ñu wàcce ci moom kéemaan gu jóge ca Boroomam ? ”. Waxal ne : “Yàlla dana bàyyi cig réer ku ko soob, te it Dana gindi jëme ci Moom ku dellu [jëm ci topp Yàlla],
@@ -1759,7 +1761,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 30. Ci noonu yónni Naa la ci xeet woo xam ne - yeneen xeet ya wéy jiitu woon nañu ko - ngir nga jàngal leen la Nu la soloo, ci noonu ñuy wéy di weddi Yërëmaakoon bi [Yàlla]. Waxal ne : “Moom moo di sama Boroom. Amul jeneen yàlla ju dul Moom. Ci Moom laa wéeru te ci Moom la delluwaay ba nekk”.
 31. Alxuraan, bu ñu ci doxloo woon tundi doj yi, walla xotti suuf si, walla waxloo ñu dee ñi, [du tax ñu gëm]. Waaye li am moo di mépp mbir Yàllaa ko moom. Moo ndax ñi gëm dañoo xamul ne bu neexoon Yàlla Mu jubal nit ñépp. Waaye ñi weddi duñu deñ mukk njuuma di leen dal ngir seen jëf yu ñaaw, walla xanaa mu wàcc fu jegeñ seeni kër ba digub Yàlla di agsi. Te Yàlla du wuute ab digam.
 32. Yéjjeefoon na ay Yonent lu la jiitu. Ma yeexe ña weddi woon. Topp Ma mbugal leen. Naka la sama mbugal mel ? Xanaa metti rekk !
-33. Ndax ku di kay fuglu lu bakkan bu ne fàggu [danañu ko niroole ak leneen ?...]. Te ñoom dañoo sàkkal Yàlla ay bokkaale. Neel : “Tuddleen leen. Walla moo ndax dangeen koy soloo [Moom Yàlla] ci la Mu xamul ci suuf si ? Walla lu ngeen di wax rekk la ci kaw [te eggul ci seen xol]? Déedéet”. Ñooña rafetaleef na leen seen kéefar ba fekk na ñu soril leen yoon [wu jub wa]. Te ku Yàlla bàyyi cig réeram, du am ku ko gindi. 176
+33. Ndax ku di kay fuglu lu bakkan bu ne fàggu [danañu ko niroole ak leneen ?...]. Te ñoom dañoo sàkkal Yàlla ay bokkaale. Neel : “Tuddleen leen. Walla moo ndax dangeen koy soloo [Moom Yàlla] ci la Mu xamul ci suuf si ? Walla lu ngeen di wax rekk la ci kaw [te eggul ci seen xol]? Déedéet”. Ñooña rafetaleef na leen seen kéefar ba fekk na ñu soril leen yoon [wu jub wa]. Te ku Yàlla bàyyi cig réeram, du am ku ko gindi. 
 34. Am na ñu am mbugal ci dundug àddina. Te ca dëgg-dëgg mbugalum àllaaxira moo gën a tiis te duñu am ku leen aar ci la Yàlla dogal ci ñoom.
 35. Àjjana ja ñu dig ña ragal Yàlla [kem ni tool] bu ay dex di daw ci suufam ; ay meññantam ak i keram day sax ba fàww. Loolooy mujjug ña ragal Yàlla, te ña weddi Yàlla seen mujj mooy Safara.
 36. Ña nga xam ne jox nañu leen Téere ba, nekk nañu ci la wàcceef na ko ci yaw. Te am na ñenn ci kurél ya, ñu weddi lenn ci Alxuraan. Neel : “Man dey digaleef na ma may jaamu Yàlla te du ma ko bokkaaleek [dara]. Maa ngi woote jëme ci Moom, Te samab delluwaay ma nga fa Moom”.
@@ -1780,7 +1782,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 4. Dunu yónni ab Yonent lu dul ci làkku nitam ña [lay waxe] ngir mu leeralal leen [la ñu ko yónni]. Te Yàlla mooy bàyyi cig réer ku ko soob, Dana gindi itam ku ko soob. Ndax Moom moo di boroom kàttan gi tey Aji-xereñ [ciy àtteem].
 5. Yónni woon Nanu Muusaa, dooleel kook Sunuy kaawtéef, ne ko : “Génneel saw nit cig lëndëm jëme leen cig réer, te nga waar leen ci xéewali Yàlla yi”. Ndax kéemtaan a ngi ci loolu ñeel képp ku di ab muñaakoon, di ab santaakoon.
 6. (Fàttalikul) ba Muusaa waxee aw nitam ne leen : “Fàttalikuleen xéewalu Yàlla ga Mu leen defaloon ba Mu leen musaloon ci waa kër Firawna, ñu leen doon teg mbugal mu bon. Di rey seen doon yu góor, di bàyyi jigéen ña. Te loolu nekkoon na ab nattu bu rëy bu jóge ci seen Boroom”,
-7. Ak ba seen Boroom xamlee ne : “Bu ngeen gërëmee, fàwwu Mu dolli leen. Bu ngeen weddee nag, [na ngeen xam ne ] Sama mbugal lu tar la”. 178
+7. Ak ba seen Boroom xamlee ne : “Bu ngeen gërëmee, fàwwu Mu dolli leen. Bu ngeen weddee nag, [na ngeen xam ne ] Sama mbugal lu tar la”. 
 8. Te Muusaa ne leen : “Bu ngeen weddi woon, yéen ak ñi nekk ci suuf si yépp [du wàññi Boroom bi dara], ngir Yàlla Aji-doylu la ci boppam [wëliis ay mbindéefam], Aji-yeyoo cant la”.
 9. Ndax agsi na ci yéen nettalib xew-xew ya leen jiitu woon? Niki nitu Nooh ak waa Haad, ak waa Samuuda ak ña ñëw seen ginnaaw, kenn xamuleen ku dul Yàlla. Seeni Yonent dikkaloon nañu leen, ànd ak lay yu leer, te ñu màtt seeni waaraam wiccax, ñu ne : “Nun weddi nanu li nga xam ne yónneef na leen ko, te nun am nanu sikk gu tar ci li ngeen nuy won”.
 10. Seeni Yonent ne leen : “Moo ndax dangeen di am sikk ci Yàlla, Moom mi sos asamaan yi ak suuf si, Ma nga leen di woo ngir Mu baal leen seeni ñaawtéef te Mu muñal leen ba ca àpp bu ñu dogal ? ”. Ñu tontu ne : “Dungeen dara lu dul aw nit ni nun. Dangeen noo bëgg a tàggaleek la sunu maam ya daan jaamu. Indil-leen nu aw lay wu bir”.
@@ -1790,7 +1792,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 14. te ci seen ginnaaw Danaa leen jox suuf si muy seen dëkkuwaay [yéen Yonent yi ak ñi leen topp]. Loolu mooy peyug ku ragal Sama taxawaay [ak moom] te ragal Samay tëkku”.
 15. Ñu sàkku ndimbal [ñoom Yonent ya]. Képp ku doon rëy-rëylu te jeng daldi yàqule.
 16. Te Safaraa nga xaar ca ginnaaw te dees na ko nàndal ndox mu bon te tàng jér
-17. dana ko guux. Waaye du ko xaw a mën a wann. Dee di ko dikkale wet gu nekk, te du dee ; te it mbugal mu tar dana ca topp. 179
+17. dana ko guux. Waaye du ko xaw a mën a wann. Dee di ko dikkale wet gu nekk, te du dee ; te it mbugal mu tar dana ca topp. 
 18. Ña weddi seen Boroom, seeni jëf dafa mel cig niróole ni ab dóom bu ngelaw ëf ci bisu mbóoya mu ràddi. Duñu mën a jariñoo dara ca la ñu fàggu woon. Loolu moo di réer gu sori dëgg.
 19. Ndax dañoo gisul ne Yàllaa bind asamaan yi ak suuf si ci dëgg ? Bu ko neexoon Mu jële leen fi, indi fi ay mbindéef yu bees,
 20. Loolu nekkul lu jafe Yàlla.
@@ -1800,7 +1802,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 24. Ndax gisoo ni sa Boroom di joxee ci waxiinu léebu baat bu sell bu mel ni garab gu sell goo xam ne dàtt ba lu sampu la ba dëgër te wanqaas ya nekk ca kaw asamaan ?
 25. Muy joxi meññantam saa su nekk ci ndigalul Boroomam. Yàlla danay gaaral nit ñi ay léebu ndaxtelee ñu fàttaliku [seen Boroom].
 26. Te itam, léeboo wax : “Baat bu bon dafa mel ni garab gu ñu buddee ci suuf te amul fu mu sax.”
-27. Yàlla dana dëgëral ña gëm ci wax ju dëggu, ci dundug àddina ak ca àllaaxira. Te Dana bàyyi tooñkat ya ca seen réer ga. Te Yàlla dana def lu ko soob. 180
+27. Yàlla dana dëgëral ña gëm ci wax ju dëggu, ci dundug àddina ak ca àllaaxira. Te Dana bàyyi tooñkat ya ca seen réer ga. Te Yàlla dana def lu ko soob. 
 28. Ndax gisuloo ñay feye xéewali Yàlla ci di Ko weddi tey wàcce seenu nit ci kërug alkaande
 29. danañu séndal ci Safara ? Ndaw saxuwaay bu bon !
 30. Ñay sàkkal Yàlla nawle ngir réeral [seenu nit] soreel leen yoonu [Yàlla] : “Xéewluleen rekk, Safara ngeen di mujj di”.
@@ -1811,7 +1813,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 35. [Fàttalikul] ba Ibraahiima waxee ne : “Sama Boroom, [ñaan naa la] nga def dëkk bii di fu am kóolute, te maak samag njaboot nga soril nu ak jaamu xërëm.
 36. Boroom sama, xërëm yooyu dey réeral nañu [sànk] lu bari ci nit ñi. Képp ku ma topp ci man la bokk. Képp ku ma weddi. .. [Yaa xam noo koy def], ndax Yaw Jéggalaakoon nga, Jaglewaakoon nga !
 37. Yaw sama Boroom, dëkkal naa lenn ci sama njaboot ci xur wu amul mbey, ci sa néeg bu ñu wormaal ba [Kaaba ga], ngir ñuy taxawal julli. Defal seenug cofeel ci xoli nit ñi. Te nga wërsëgal leen ay meññent. Ndax xéy-na ñu gërëm la ?
-38. Yaw sunu Boroom dey, xam nga li ñuy nëbb ak li ñuy fésal : - te amul menn mbir mu umpu Yàlla ci suuf si, waxantuma laak asamaan ! - 181
+38. Yaw sunu Boroom dey, xam nga li ñuy nëbb ak li ñuy fésal : - te amul menn mbir mu umpu Yàlla ci suuf si, waxantuma laak asamaan ! - 
 39. Xéeti cant yépp moomale naa ko Yàlla, Mi nga xam ne Moo ma may cig mage [sama doom] Ismaahiila ak Isaaqa. Sama Boroom daal kuy dégg ñaan la.
 40. [Éy] Yaw Boroom bi !, def ma maak samay doom ak i sët, nuy taxawalkati julli ; waay- waay nangul sunu ñaan !
 41. Yaw Boroom sama ! Jéggal ma maak samay waajur ak ñi gëm ca bis ba Yàlla di natt jëfi mbindéef yi”.
@@ -1822,7 +1824,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 46. Dañoo fexe seen pexe te umpul Yàlla. Doonte la sax, seen pexe moomu mën naa dindi tundi doj yi...
 47. Bul njort ne Yàlla dana soppi la Mu dig ay Yonentam. Yàlla ku am kàttan la, di Kuy feyu [tooñeel],
 48. ba bis ba ñuy weccee suuf sii seneen suuf ak asamaan yi itam te nit ñi génne [ca seeni bàmmeel] teew ca Yàlla ja di jenn, te di Notaakoon ba.
-49. ca bis booba, danga gis saay-saay sa ñu lëkkale leen ca jéng ya, 182
+49. ca bis booba, danga gis saay-saay sa ñu lëkkale leen ca jéng ya, 
 50. seeni yére keteraan la, ñu muure seeni kanam ak safara.
 51. [La ko waral] moo di Yàllaa feye bakkan bu nekk la mu fàggu. Te nag Yàlla moom Ku gaaw ka ci natt lu ne.
 52. Ngir ñu waaru te xame ca itam Moom Yàlla jenn Yàlla doŋŋ la, ak itam woroom xel ya fàttalikoo ci.
@@ -1836,7 +1838,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 4. Dunu alag benn dëkk te fekk amul àpp bu ñu xam.
 5. Benn xeet du jiitu àppam te it mënu koo weesu.
 6. Ñu naan leen : “Yaw mii, wàcceef na ci yéen Téere ba, yaw dof tigi nga !
-7. Lu teewoon nga indil nu ay Malaaka, ndegam bokk nga ca ñu dëggu ña ? ” 183
+7. Lu teewoon nga indil nu ay Malaaka, ndegam bokk nga ca ñu dëggu ña ? ” 
 8. Nun dunu wàcce ay Malaaka lu dul ci dëgg (gu Nu doxal mu jeex) ; te kon dungeen doon ñu ñuy muñandiku ab diir.
 9. Nun noo wàcce Téere ba [Alxuraan] te Nun noo koy wattu.
 10. Yónni Nanu ci lu la jiitu ay Yonent ca kurél yu njëkk ya.
@@ -1850,7 +1852,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 18. Lu dul ku jéem a sàcc lu mu dégg, [te ku ko ca jéem] ay jumu safara soxal ko.
 19. Tàllal Nanu suuf si te samp ci ay tundi doj (yu tax mu dal) ; saxal Nanu itam wépp xeetu gàncax muy lu ñu nattale.
 20. Nu defaral leen ca lu ngeen di dunde, yéen ak ñi ngeen dundalul.
-21. Amul lenn loo xam ne ndàmbam nekkul ci nun, waaye Dunu ca wàcce lu dul ab natt bu ñu xam (bu yem ak bu doy). 184
+21. Amul lenn loo xam ne ndàmbam nekkul ci nun, waaye Dunu ca wàcce lu dul ab natt bu ñu xam (bu yem ak bu doy). 
 22. Yónni Nanu ngelaw luy sos (taw ci niir yi) ; wàcce Nanu ndox mu jóge asamaan, nàndal Nanu leen ci te mënuleen ko woon a denc.
 23. Te Nun nooy dundal te Nun nooy rey te Nun nooy donn (mujje) àddina bi yépp.
 24. Sunu xam-xam làmb na ña jiitu woon ak ñay mujj ci yéen.
@@ -1865,7 +1867,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 33. Mu tontu ne : “Man kat duma sujjóotal nit koo binde ci ban bu wow bu jóge ci banit bu ñu togg”.
 34. -Mu ne ko [Moom Yàlla]: “Génnal, yaw ku ñu dàkku (dàq) nga bis niki tey !
 35. Te am rëbb dal na ci sa kaw ba Bis-pénc ba di taxaw ! ”
-36. -Mu ne : "Yaw sama Boroom, kon muñal ma ba bisu dekki ba”. 185
+36. -Mu ne : "Yaw sama Boroom, kon muñal ma ba bisu dekki ba”. 
 37. Mu ne : bokk nga ca ña ñu muñal,
 38. ba ca Bis ba nga xam ne waxtoom lu ñu xam la.
 39. - Ibliis ne : "Yaw sama Boroom, ci sababus li nga ma beewloo, fàwwu danaa leen rafetalal ci àddina [lu bon], te fàwwu danaa leen beewloo ñoom ñépp,
@@ -1879,7 +1881,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 47. Te Nu rocci [raxas] la nekkoon ci seeni xol cig noonoo : ñu nekk ay mbokk yu jaaxaan ca seeni lal jàkkaarloo.
 48. Coono duleen fa laal. Te dootuñu fa génnati.
 49. Xamalal samay jaam ne, Man Jéggalaakoon laa, Jaglewaakoon laa.
-50. Waaye sama mbugal mooy mbugal mu metti mi. 186
+50. Waaye sama mbugal mooy mbugal mu metti mi. 
 51. Te nga nettalileen la xewoon ca gani Ibraahiima ya
 52. Ba ñu agsee ca moom ne ko : “Jàmmu ngaam” - Mu ne leen : “Am naa njàqare ci yéen”.
 53. Ñu ne : “Bul jàq ci nun ! Noo ngi lay bégal ne [danga am doom] ju góor juy bari xam- xam”.
@@ -1894,7 +1896,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 62. Lóot ne leen : “Yéen dey aw nit ñu ma xamul ngeen”.
 63. - Ñu ne ko : “Axakay, digal nanu la ànd ak la ñu doon sikki-sàkka.
 64. Te ñëw nanu ci yaw indil la dëgg. Te it ñu dëggu lanu.
-65. Te nanga dem rañaan yaak sa njaboot bu guddi xaajee ; te nga topp ca seen ginnaaw te bu kenn ci yéen geestu. Te ngeen jublu fa ñu leen digal”. 187
+65. Te nanga dem rañaan yaak sa njaboot bu guddi xaajee ; te nga topp ca seen ginnaaw te bu kenn ci yéen geestu. Te ngeen jublu fa ñu leen digal”. 
 66. Noo xamal Lóot sunu ndigal la : te danañu alag nitam ña ci njël.
 67. Waa dëkk ba agsi ànd ak mbégte.
 68. - Lóot ne leen : “Ñii samay gan lañu, buleen ma ci rusloo.
@@ -1908,7 +1910,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 76. Te [dëkk boobu] nekk na ci yoon wuñuy faral di jaar.
 77. Loolu nekk na di kéemtaan ci ñi gëm !
 78. Te waa Leykata ay tooñkat lañu woon.
-79. Nu mbugal leen. Te [ñaari dëkk yooyu] ñanga ca yoon wu neex a xam. 188
+79. Nu mbugal leen. Te [ñaari dëkk yooyu] ñanga ca yoon wu neex a xam. 
 80. Waa Hijri weddi woon nañu Yonent ya.
 81. Nu joxoon leen sunuy kawtéef, ñu dëddu leen.
 82. Ñu nekkoon ñu daan yatt i néeg ci ay tundi doj.
@@ -1923,7 +1925,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 91. ca ña séddale Téere ba ay xaaj, pàcc-pàccee Alxuraan ngir sànkaate.
 92. Giñ naa ci sama màggug Boroom ! Fàwwu danañu leen laaj ñoom ñépp
 93. la ñu nekkon di ko def [ci ay ñaawtéef].
-94. Waxal ci kaw li Nu la digal te nanga dëddu bokkaalekat yi. 189
+94. Waxal ci kaw li Nu la digal te nanga dëddu bokkaalekat yi. 
 95. Naka Nun fegal nanu la ña lay téjji.
 96. Ña nga xam ne dañuy boole Yàlla ak jeneen yàlla, danañu mës a xam.
 97. Xam Nanu ne la ñuy wax tiis na ci sa xol.
@@ -1936,7 +1938,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Mbirum Yàlla jege na. Buleen ko yàkkamti. Sellam ga màgg na ! Te kawe na, sori lañu koy bokkaale.
 2. Mooy wàcce ay Malaaka yuy ànd ak ug soloo, ciy ndigalam, jox ko ku ko soob ci ay jaamam, neeleen : “Nangeen waare ci xamle ne amul jeneen Yàlla ju dul Man. Ragal-leen Ma”.
 3. Moo bind asamaan yi ak suuf si ci dëgg. Kawe na, sori lool la ñu koy bokkaale.
-4. Moo bind nit ñi ci toqent ; te moom [nit] mu nekk di pànk mu mën a xuloo. 190
+4. Moo bind nit ñi ci toqent ; te moom [nit] mu nekk di pànk mu mën a xuloo. 
 5. [Moo bind it] mala yi, ngeen di ca jële ay yére yu nuggu ak yeneen njariñ. Ak lu ngeen di lekk.
 6. Te it yéen a ngi bànneexu ci seeni taar bu ngeen di jofal ci ngoon ak bu ngeen di wëtal ci suba.
 7. Te danañu yenu seen [yóbbal], yóbbul leen ko ca dëkk ba ngeen dul woon mën a dem lu dul ci ab coono bub bakkan. Naka seen Boroom Aji-ñeewant la, Jaglewaakoon la.
@@ -1948,7 +1950,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 13. Te li Mu leen wesaareel ci kaw suuf si am nañu ay melo yu wuute. Te ci biir yooyu, am na ca ay kéemaan ñeel aw nit ñuy waaru.
 14. Te Moom moo leen tàggatal géej gi ngir ngeen mën ciy jële yàpp wu tooy wu ngeen di lekk, ak ngeen ciy mën a génne ay takkaay yu ngeen di takk. Te gis ngeen ne gaal yaa ngi cay daw, ak it ngeen di ca sàkku ci xéewalam ya, te kon xéy-na di ngeen ko gërëm.
 15. Te Moo samp ci suuf si ay ndëgërlaay [mu dal] bañ a jaayu ak yéen, ak i dex ak i yoon,
-16. [def na it ci suuf si] ay màndarga, nit ña mën a gindikoo ci bidiw yi. 191
+16. [def na it ci suuf si] ay màndarga, nit ña mën a gindikoo ci bidiw yi. 
 17. Waaw ndax ku bind dana mën a yem ak ku bindul dara ? Moo ndax dangeen dul fàttaliku ?
 18. Te bu ngeen doon jéem a lim xéewal yi leen Yàlla defal, dungeen ko mën. Te Yàlla Moom Jéggalaakoon la, Jaglewaakoon la.
 19. Te Yàlla xam na li ngeen nëbb ak li ngeen feeñal.
@@ -1960,7 +1962,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 25. Danañu yenu seeni bàkkaar ba mu mat sëkk, Bis-pénc ba, ak lenn ca bàkkaari ña ñu réeral, ci loo xam ne amuñu ca woon xam-xam ; cëy ndaw yen bu bon !
 26. Ña leen jiitu woon defoon nañu ay pexe, Yàlla toj seeni tabax ya dale ko ca ndëgërlaay ja. Téeg ma daanu seen kaw, mbugal ma agsi ca ñoom jaare fu ñu ko foogewul woon.
 27. Te bu Bis-pénc baa, Dana leen gàcceel, ne leen : “Waa ana sama bokkaale ya taxoon ngeen wuuteeg [jullit ñi] ? ” - Ña amoom xam-xam tontu ne : “Bis niki tey, toroxteeg mbugal dal na ci kaw yéefar yi”.
-28. Ñoom ña Malaaka yay song, fekk ñoo tooñ seen bopp, ñu sànnib nuyyoo, naan : “Defunu woon dara lu bon ! ” - “Axakañ, Yàlla ku xam la li ngeen daan def”. 192
+28. Ñoom ña Malaaka yay song, fekk ñoo tooñ seen bopp, ñu sànnib nuyyoo, naan : “Defunu woon dara lu bon ! ” - “Axakañ, Yàlla ku xam la li ngeen daan def”. 
 29. Kon dugguleen ciy buntu Safara, te dangeen cay béel. Te bon na lool dëkkukaayu ña daan rëy-rëylu !
 30. Ñuy wax [ña ragal seen Boroom] : “Ana lan la seen Boroom wàcce ? ”. Ñu tontu ne : “Yiw”. Ñeel na ñi rafetal ci àddina Samay teraanga ; waaye kërug àllaaxiraa gën. Te aka baax kërug way-ragal ña [seen Boroom] !
 31. Àjjana ju sax la, ñu tàbbi ca, te ay dex danañuy daw-dawaan ci suufam. Te danañu fa am lu ñu bëgg ; Noonu la Yàlla di feye way-ragal ña [Yàlla].
@@ -1970,7 +1972,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 35. Ña daan bokkaale wax ne : “Bu neexoon Yàlla, dunu jaamu kenn ku dul Moom, du nun du kenn ci sunuy baay ; te kon dunu ne dara araam na te du ci ndigalam. Ña leen jiitu woon noonu lañu defoon. Te li war ab Yonent ndax dafa dul jottali rekk [la ñu ko yónni] ba mu mat sëkk ?
 36. Yónni nañu ci xeet wu nekk ab Yonent [buy xamle ne] : “Jaamuleen Yàlla te ngeen moytuy xërëm”. Mu am ci ñoom [xeet yooyu] ñu Yàlla jubal ak ñoo xam ne réer war na ci ñoom. Doxleen ci seeni suuf te xool ña weddi woon naka lañu mujje.
 37. Loo xér xér ci jubal leen...Yàlla moom du gindi ku Mu bàyyi cig réer. Te duñu am ñu leen dimbali.
-38. Ñangay giñ ba fa seeni ngiñ yem naan : “Yàlla du dekkal ku dee”. Axakañ ! Loolu dig bu dëggu la ci Moom [Yàlla], waaye li ëpp ci nit ñi xamuñu. 193
+38. Ñangay giñ ba fa seeni ngiñ yem naan : “Yàlla du dekkal ku dee”. Axakañ ! Loolu dig bu dëggu la ci Moom [Yàlla], waaye li ëpp ci nit ñi xamuñu. 
 39. Ngir mu leeralal leen [lay dëgg] ca la ñu daan wuute, ak it ña weddi xam ne dañu daan fen.
 40. [Li am mooy], Sunu kàddu ci mbir, bu Nu ko bëggee, Danu ko naan : “Nekkal”. Mu daldi nekk.
 41. Ña gàddaay jëm ci Yàlla, ginnaaw ba ñu leen tooñee, Dananu leen wàcceel aw yiw ci àddina. Te peyug àllaaxira moo gën a màgg, cëy bu ñu xamoon !
@@ -1983,7 +1985,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 48. Moo ndax seetlu nañu lenn lu Yàlla bind, loolu keram danay jeng jëm càmmoñ, ak a jengiy jëm ndeyjoor ngir sujjóotal Yàlla ak a toroxlu ?
 49. Lépp lu nekk ci asamaan yi ak suuf si tey dukkat, ak Malaaka yi, dañuy sujjóotal Yàlla te duñu rëy-rëylu.
 50. Dañuy ragal seen Boroom bi leen tiim, te dañuy def la ñu leen digal.
-51. Yàlla nee na : “Buleen sàkk ñaari yàlla. Yàlla jenn rekk la. Kon nangeen Ma ragal”. 194
+51. Yàlla nee na : “Buleen sàkk ñaari yàlla. Yàlla jenn rekk la. Kon nangeen Ma ragal”. 
 52. Te Moo moom li nekk ci asamaan yi ak suuf ; te Moo moom it ñu war koo jaamu ci diine ju sax. Moo ndax dangeen di ragal keneen ku dul Yàlla ?
 53. Li ngeen am ciw yiw mi ngi jóge ca Yàlla. Te bu leen lu metti dalee, Moom ngeen di ñaan ndimbal.
 54. Te bu leen lor ja deggikoo, mu am ab kurél buy bokkaaleeti seen Boroom,
@@ -1995,7 +1997,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 60. Ñeel na ñi gëmul àllaaxira nekkin wu bon. Te ñeel na Yàlla nekkin wa gën a kawe. Te Moom mooy Aji-not ji ; Aji-xereñ.
 61. Bu Yàlla [doon] gaaw a duma nit ñi ngir seen tooñeel, kon du bàyyi kenn ci kaw suuf si. Waaye Dafa leen ci yeexe ba ci àpp bu ñu dogal ba noppi. Kon bu seen àpp agsee, duñu ko weesu mbaa ñu jiitu ko wenn waxtu.
 62. Ñangay sédd Yàlla la ñu sib ñoom. Te seeni làmmiñ di sos i fen naan ñoo moom Àjjana. Te ca dëgg-dëgg ñoo yeyoo Safara te ñoo cay jiitu.
-63. Giñ Nanu Nun Yàlla ne yónni woon Nanu ay Yonent cay xeet ya la jiitu. Waaye Séytaane rafetalal leen seeni jëf ba faf mu nekk tey seeni àndandoo. Te ñeel na leen mbugal mu metti. 195
+63. Giñ Nanu Nun Yàlla ne yónni woon Nanu ay Yonent cay xeet ya la jiitu. Waaye Séytaane rafetalal leen seeni jëf ba faf mu nekk tey seeni àndandoo. Te ñeel na leen mbugal mu metti. 
 64. Wàccewuñu ci yaaw Téere [Alxuraan] ba lu dul ngir nga leeralal leen la ñu nekkoon ci juuyoo, ak ngir mu nekk di njub ak yërmaande ci nit ñu gëm.
 65. Te Yàlla moo wàcce ndox mu jóge ca kaw, mu dundal ci suuf si ginnaaw ba mu bekkooree. Te nekk na ci loolu tegtal ci nit ñuy dégg.
 66. Te sax am ngeen lu ngeen mën a waaroo ci mala yi : Noo ngi leen di nàndal ci li nekk ci seen biir - lu génne ci diggante sebret ak deret - muy meew mu neex te sell ca ña koy naan.
@@ -2006,7 +2008,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 71. Yàlla yékkati na ñenn ña ci kaw ñeneen ña ci wërsëg. Te ña Mu jox ngëneel loolu, duñu delloo dara ci wërsëg woowu, jox ko seeni jaam ngir ñu yemoo ca wërsëg wa. Moo ndax dañuy weddi xéewali Yàlla ? Fàkk
 72. Yàlla sàkkal na leen ay jabar yu jóge ci yéen, Mu sàkkal leen ay doom yu jóge ci seeni jabar ak i sët. Mu boole ca wërsëgal leen ñam yu sell. Waa ndax [yéefar yi] dañuy gëm ay xërëm tey weddi xéewali Yàlla yi ?
 73. Te dañoo bàyyi Yàlla di jaamu loo xam ne moomul dara lu mu leen mën a wërsërgal ci kaw asamaan yi ak ci suuf si. Te mënul dara.
-74. Buleen wutal Yàlla niraale mukk. Yàlla xam na te yéen xamuleen. 196
+74. Buleen wutal Yàlla niraale mukk. Yàlla xam na te yéen xamuleen. 
 75. Yàllaa ngay joxe léebu ci jaam bu ñu moom, te amul mën-mën ci dara, ak ki nga xam ne [gor] la te Nu wërsëgal ko lu jóge ci Nun wërsëg wu rafet, te mu di ca dimbalee ci lu nëbb ak ci lu feeñ. Ñooña ñaar ndax yem nañu ? Cant ñeel na Yàlla ! Waaye li ëpp ci ñoom xamuñu.
 76. Yàllaa ngay joxe ba-tey léebu ñaari góor yoo xam ne : kenn ka dafa luu [muuma], mënul dara te moom dafa wéeru ci sangam ; Te fu mu mën di jubale, du ca jële njariñ ; ndax dafay yem ak ki nga xam ne dafay digle maandute te lu mu def mu àntu tegu ci njub ?
 77. Ñeel na Yàlla kumpag asamaan yi ak suuf si. Te mbiru Bis-pénc ba dafay mel ni xef ak xippi mbaa lu ko gën a gaaw ! Naka Yàlla lu nekk la mën.
@@ -2017,7 +2019,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 82. Bu ñu dëddoo Yàlla... dara waru la [yaw Yonent bi] lu dul jottali gu mat, bu ñu ko xasee dégg rekk wàcc na la.
 83. Xam nañu xell Yàlla ba noppi ; ñu fakk ko. Te ñu bari ci ñoom yéefar lañu.
 84. Ca bis ba Nu dogalee ci xeet wu ne seen seede, te deeful may [ña weddi] lay, te duñu leen nangul it ngànt.
-85. Ña tooñ, bis ba ñu gisee mbugal ma, deesuleen woyofalal dara, te deefuleen yeexe. 197
+85. Ña tooñ, bis ba ñu gisee mbugal ma, deesuleen woyofalal dara, te deefuleen yeexe. 
 86. Te ña doon bokkaale, bu ñu gisee seen xërëm ya, danañu ne : “Yaw sunu Boroom, ñile ñoo di ñanu daan bokkaalee, di leen jaamu bàyyi la”. Ñoom it ñu tontu ne : “Yéen ay fenkat ngeen”.
 87. Ñu sànni jëme ca Yàlla, ca bis booba njébbal la ñu doon duur réer leen [Yàlla rekk a fi sës].
 88. Ña weddi tey wëlbati nit ñi bañ ñu jëm ca yoonu Yàlla, Dananu leen dolli mbugal mu tegu ci mbugal ya ngir la ñu nekkoon di yàq.
@@ -2027,7 +2029,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 92. Buleen mel ni ndaw sa firinci buum ga mu raw ba mu dëgër, mu firinci ko ba mu nekk i dogit, ngeen di jàppe seeni ngiñ li ngeen di wuruje ci seen diggante, ngeen defe ne ku ëpp mbooloo mën naa wor. Te Yàlla dafa leen ciy natt. Te bu Bis-pénc baa Dana leen leeralal la ngeen nekkoon di ca juyoo.
 93. Su neexoon Yàlla Mu def leen ngeen nekk wenn xeet doŋŋ. Waaye Mooy bàyyi cig réeram ku ko soob, di gindi ku ko soob. Te fàwwu ñu laaj leen ca la ngeen defoon.
 94. Buleen def seeni ngiñ muy yàq li nekk seeni diggante, ba tax tànk bu sampu woon tarxiis, kon dangeen mos lu bon ndax seen dëddëleek nit ñeek yoonu Yàlla, mbugal mu mag dal leen.
-95. Buleen di jaaye kóllareg Yàlla ci njëg gu néew. La nekk fa Yàlla moo gën ci yéen, cëy bu ngeen xamoon ! 198
+95. Buleen di jaaye kóllareg Yàlla ci njëg gu néew. La nekk fa Yàlla moo gën ci yéen, cëy bu ngeen xamoon ! 
 96. Li ngeen moom day jeex, la Yàlla moom nag luy des la. Te fàwwu Dananu feye ñiy muñ ca na mu gën a rafete, ngir la ñu nekkoon di ko def.
 97. Ku jëf u yiw, di ku góor walla ku jigéen te muy ku gëm, fàwwu Dananu ko dundal dundu gu sell. Te fàwwu Dananu leen fey seenug pey na mu gën a rafete la ñu nekkoon di ko jëf.
 98. Booy jàng Alxuraan, nanga muslu ci Yàlla Mu musal la ci Séytaane su ñu rëbb sa.
@@ -2039,7 +2041,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 104. Ña nga xam ne gëmuñu kàdduy Yàlla yi, Yàlla duleen gindi. Te ñeel na leen mbugal mu metti.
 105. Ca dëgg-dëgg ñay duur ay fen ñooy ña gëmul kàdduy Yàlla yi, ñoom ñooy fenkat yi.
 106. Ku weddi Yàlla ginnaaw ba mu gëmee... - ku dul ka ñu not fekk xelam sax na ci gëm Yàlla - ak ña ubbi seen dënn cig kéefar, mer mu tukkee ca Yàlla dana leen sadd te ñeel na leen mbugal mu màgg.
-107. Li waral loolu moo di dañoo tànn dundug àddina ci kaw dundug àllaaxira. Te nag Yàlla du gindi aw nit ñu di ay yéefar. 199
+107. Li waral loolu moo di dañoo tànn dundug àddina ci kaw dundug àllaaxira. Te nag Yàlla du gindi aw nit ñu di ay yéefar. 
 108. Ñooñooy ña Yàlla fatt seeni xol, ak seeni dégg-dégg, ak seeni gis-gis. Te ñoom ñooy ña sàggan.
 109. Ca dëgg-dëgg, ñoom ñooy ñay yàqule ci àllaaxira.
 110. La cay topp moo di sa Boroom dana jéggal ña gàddaayoon te muñ, ginnaaw loolu sa Boroom dana jagle njéggalam ak yërmaandeem.
@@ -2051,7 +2053,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 116. Buleen wax loo xam ne seeni làmmiñ a koy melal ciy fen, naan : “Lii dagan na, lii araam na”, di duural Yàlla ay fen. Te ñiy duural Yàlla ay fen duñu texe.
 117. Ñeel na leen yóbbal bu néew, ak mbugal mu metti.
 118. Te araamaloon nañu ca yahuud ya li Nu la nettali ca bu jëkk. Te tooñunu leen ; waaye ñoo tooñ seen bopp.
-119. Mu des nag ne sa Boroom, lu jëm ci ña jëfoon [lu bon niki bokkaale] cig réer, ginnaaw loola ñu tuub ko, rafetal seeni jëf, ñooña sa Boroom fàwwu Mu jéggal leen, yërëm leen naka. 200
+119. Mu des nag ne sa Boroom, lu jëm ci ña jëfoon [lu bon niki bokkaale] cig réer, ginnaaw loola ñu tuub ko, rafetal seeni jëf, ñooña sa Boroom fàwwu Mu jéggal leen, yërëm leen naka. 
 120. Ibraahiima nag roytéef la. Di jaamukatu Yàlla, di ko wéetal, musul a bokk ca bokkaalekat ya.
 121. Ku daan gërëm [Yàlla] la ci xéewalam yi, Yàlla tànn na ko, gindi ko, teg ko ci yoon wu jub xocc wa.
 122. Te may Nanu ko ci àddina tagg wu rafet. Te ca àllaaxira, dana bokk ca ñu sell, ñu [yiw] ña.
@@ -2074,7 +2076,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 7. “Su ngeen rafetalee, jariñoo ko ; su ngeen ko yàqee loroo ca”. Su dig bu mujj ba agsee, ñu toroxal leen, duggaat fa, jaxasewaat lépp.
 8. Xéy-na seen Boroom yërëm leen. Waaye bu ngeen delloo [def lu bon], Nu dellu [mbugal leen]. Te def Nanu Safara mu di géttub yéefar yi.
 9. Alxuraan jii nag dafay gindee jëm ci la gën a jub, tey bégal way-gëm ñay jëf jëf yu sell, [xamal leen ne] ñeel na leen pey gu rëy,
-10. [Te xamal it ne] ña gëmul àllaaxira, xaroo Nanu leen mbugal mu metti. 202
+10. [Te xamal it ne] ña gëmul àllaaxira, xaroo Nanu leen mbugal mu metti. 
 11. Te nit dana ñaan lu bon ak lu baax, ndax dafa nekk di ku yàkkamti.
 12. Def Nanu guddi ak bëccëg ñu nekk ñaari kéemaan, te far Nanu lëndëmi guddi ak leeraayu bëccëg, ngir ngeen mën a gis, di sàkku xéewal gu jóge ci seen Boroom, ak ngir ngeen mën a xam limi at yi ak ngir ngeen mën a waññi. Te lu nekk faramfàcce Nanu ko ci anam yu leer.
 13. Te nit ku nekk, tàbbal Nanu ko jëfam ci doqam. Ca Bis-pénc ba, Dananu ko génneel ab téere bu muy dajeel, ñu tàllal ko ko :
@@ -2085,7 +2087,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 18. Képp ku bëggul lu dul teraangay àddina, Dananu gaaw ci jox ko la Nu neex ; ca ku Nu neex. Topp Nu def Safara fa muy séndalu, di ku ñu xas, ku ñu génne [ci yërmaandey Yàlla].
 19. Ku bëgg [teraangay] àllaaxira te mu jëf lu méngook moom, te muy ku gëm... ñooñu seeni jëf lu ñu gërëm lay doon.
 20. Ñoom ñépp Dananu leen tëbb ; ñii ak ñële, ay may yu jóge ca sa Boroom. Te sa mayu Boroom nekkul lu ñu tere kenn.Làndi na!
-21. Gisal ni Nu gënalee ñenn ñi ci kaw ñeneen ña. Te ca dëgg-dëgg àllaaxira moo gën a màgg daraja te moo gën a màgg i xéewal. 203
+21. Gisal ni Nu gënalee ñenn ñi ci kaw ñeneen ña. Te ca dëgg-dëgg àllaaxira moo gën a màgg daraja te moo gën a màgg i xéewal. 
 22. Bul sàkk jeneen yàlla di ko booleek Yàlla ; kon dey danga doon ku ñu xas, ku ñu wacc mu beddiku.
 23. Sa Boroom dogal na ne : “Buleen jaamu ku dul Moom doŋŋ ; te ngeen rafetal jëme ci seeni waajur : te ndeem kenn ci ñoom walla ñoom ñaar egg nañu ci màggat ci sa teewaay ; buleen wax : “Kuf ma la ! ”, buleen leen gëdd, nangeen leen wax wax ju yiw.
 24. Nanga suufeel sa bopp ngir ñoom ; di toroxlu ci yërmaande ; te deel wax : "Sama Boroom yërëm leen [ni ñu ma yërëme woon] ba ñu may yar ba ma nekkee xale”.
@@ -2097,7 +2099,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 30. Naka sa Boroom mooy yaatal wërsëgu ku Ko soob. Moo koy xatal it, naka Moom ku xam tey gis la jaamam yi.
 31. Buleen rey seeni doom ngir ragal ag ñàkk ; Nun noo leen di wërsëgal ñoom ak yéen. Rey leen bàkkaar bu rëy la.
 32. Te buleen jegeñ njaaloo. Ndax moom nekk na lu ñaaw tey yoonu lu bon !
-33. Buleen rey bakkan ngir lu Yàlla araamal la, lu dul ci dëgg. Képp ku ñu rey, di ku ñu tooñ, jox Nanu kay taxawu mbiram sañ-sañ. Waaye bu mu jéggi dayo ci rey, ndax moom ku [yoon] dimbali la. 204
+33. Buleen rey bakkan ngir lu Yàlla araamal la, lu dul ci dëgg. Képp ku ñu rey, di ku ñu tooñ, jox Nanu kay taxawu mbiram sañ-sañ. Waaye bu mu jéggi dayo ci rey, ndax moom ku [yoon] dimbali la. 
 34. Buleen jegeñ alali jirim lu dul ca na mu gën a rafete, ba kero muy nekk mag te sàmm kóllare ga. Ndax kóllare lu ñuy laaj la ëllëg ca àllaaxira
 35. Nangeen di matal natt bu ngeen di natt ; te nangeen di peese cig maandute gu jàpp. Looloo gën te moo gën a rafet ag muj.
 36. Bul toppati loo xam ne amoo ca xam-xam. Naka dégg-dégg ak gis-gis ak li nga fas ci sa xol : loolu lépp Dananu la ca laaj ca Bis-pénc ba.
@@ -2109,7 +2111,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 42. Neel : “Bu amoon yeneeni Yàlla tu nekk ak Moom, ni ñu ko waxe, kon dinañu sàkk [yoon wu leen yóbb] ca Boroom gàngune ga”.(yab Yàlla)
 43. Cëy sellam ga ! Kawe na, jomb na li ñuy wax, jombute gu màgg a màgg !
 44. Juróom-ñaari asamaan yi ak suuf si, ñi ngi koy sàbbaal, ak li nekk ci seen biir. Te sax amul dara lu nekk te du Ko sàbbaal ci li Mu yeyoo mboolem cant. Waaye dangeen a amul dégg-dégg ci seeni sàbbaal. Naka Moom Aji-lewet la, Jéggalaakoon la.
-45. Booy jàng Alxuraan, Dananu def ci sa diggante ak ñi gëmul àllaaxira kiiraay lu nëbbu, 205
+45. Booy jàng Alxuraan, Dananu def ci sa diggante ak ñi gëmul àllaaxira kiiraay lu nëbbu, 
 46. Nu def ci seeni xol muuraay ba duñu ca am dégg-dégg : te nekk na ci seeni nopp ab daaj. Te booy tudd sa Boroom moom doŋŋ ci Alxuraan, ñu dëddu, foñ.
 47. Nun noo gën a xam li ñuy dégg bu ñu lay déglu. Ak bu ñuy déeytoo ci wax ñoom tooñkat ya : “Toppuñu lu dul as waay su ñu jibar”.
 48. Gisal li ñu lay nirale ! Tax na réer nañu te dootuñu mën a am yoonu dellusi (ci ag njub).
@@ -2121,7 +2123,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 53. Neel samay jaam, nañuy wax wax ju gën a rafet, ndax séytaane yi dañuy yàq seen diggante. Séytaane nag nekk na di noon tigi ci nit ñi.
 54. Seen Boroom moo leen gën a xam. Bu ko neexee Mu yërëm leen, walla Bu ko neexee Mu mbugal leen. Te yónniwunu la ci ñoom ngir nga warlul leen [seen texe].
 55. Te sa Boroom moo gën a xam ña nekk ci asmaan yi ak suuf si. Te def Nanu yenn Yonent yi gën ñeneen ña. Te Noo jox Daawuda “Zabour” [Téere].
-56. Neel : “Wooleen ñi ngeen jàpp ne [Yàlla lañu] bàyyi Ko. Duñu mën a wuññi lor ja leen dal, duñu mën a soppi dara. 206
+56. Neel : “Wooleen ñi ngeen jàpp ne [Yàlla lañu] bàyyi Ko. Duñu mën a wuññi lor ja leen dal, duñu mën a soppi dara. 
 57. Ña ñuy jaamu dañu ne siiw am pexem gën a jegeñ seen Boroom. Te yaakaar nañu yërmaandeem, ragal nañu mbugalam. Naka sa mbugalum Boroom, lu mat a wattandiku la.
 58. Amul benn dëkk bu Nu dul alag balaa Bis-pénc ba, walla Nu mbugal ko mbugal mu tar. Looloo nekk ci Téere bu ñu bind. [Yàlla kuy nose la].
 59. Lu Nu terey wàcce ay kéemaan, lu dul ñu jëkk ña dañu leen a weddi woon. Te sax joxoon Nanu waa Samooda giléem gu jigéen [muy kéemaan] gu leer : ñu def cag tooñeel. Te Nun dunu wàcce kéemaan lu dul ne Danuy xuppe ci kéemaan googu ak di ca àrtu nit ña.
@@ -2132,7 +2134,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 64. Génnal ak say kàddu, loo mën ci ñoom, nanga leen song ak say xarekat ak say gawar, nanga bokk ak ñoom alal ak i doomn te digleen”. Waaye Séytaane duleen dig lu dul ay nax.
 65. Naka samay jaam, doo am genn kàttan ci ñoom”. Ndax sa Boroom doy na cëslaay.
 66. Sa Boroom mooy kiy dawloo gaal ci géej, ngir ngeen mën a sàkku ay xéewalam ; Naka Moom ku am yërmaande la ci yéen,
-67. Bu leen naqar dabee ci géej, ña ngeen doon jaamu réer leen ginnaawam. Te bu Nu leen musalee ba ñu agsi ci jéeri ji, ngeen dëddu. Nit daal ku goreedi la ! 207
+67. Bu leen naqar dabee ci géej, ña ngeen doon jaamu réer leen ginnaawam. Te bu Nu leen musalee ba ñu agsi ci jéeri ji, ngeen dëddu. Nit daal ku goreedi la ! 
 68. Moo ndax dangeen a naagu ne : du xar suuf si [mëdd leen], walla duleen yónnee ngelawu sànniy xeer fekk dungeen ci am ku leen ci yiir.
 69. Am dangeen a wóolu ne duleen ca delloo [ca biir géej] beneen yoon, yónnee leen ngelaw lu tar, Mu labal leen ngir seen weddi ? Te fekk dungeen mën a am ku leen dimbali ci Nun !
 70. Ca dëgg-dëgg, teral Nanu doomi aadama. Yónni Nanu leen ci jéeri ji ak ci géej gi, te xéewal Nanu leen [ciy ñam] yu sell, Nu defal leen ngëneel ci kaw ñu bari ca ña Nu bind ngëneel lu fés.
@@ -2144,7 +2146,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 76. Te xaw nañu laa génne ca suuf sa [suufi Madiina] ngir ñu jële la fa. Te kon duñu fa toog lu dul diir bu néew ci sa ginnaw. [alag leen].
 77. Loolu aada la ca ña Nu yónni woon la la jiitu ci Sunuy Yonent. Te doo gis lu soppiku ci Sunuy aada.
 78. Nanga taxawal julli bu jant fenkee ba ba muy suux, ba ba guddi gi di ñuul, ak it jullig suba, ndax jullig suba lu ñuy seede la.
-79. Te nangay julli ci suba, def ko muy naafila : xéy-na kon sa Boroom dekkal la, jox la ndam lu yeyoo cant. 208
+79. Te nangay julli ci suba, def ko muy naafila : xéy-na kon sa Boroom dekkal la, jox la ndam lu yeyoo cant. 
 80. Neel : "Sama Boroom ; dugal ma ci duggukaayu dëggu te nga génne ma ci génnukaayu dëgg ; te nga defal ma kàttan gu tukke ci yaw di dimbal”.
 81. Te neel : “Dëgg ga egsi na. Caaxaan wéy na. Caaxaan nag luy dem la naaxsaay”.
 82. Wàcce Nanu ci Alxuraan loo xam ne saafara la ak yërmaande ca way-gëm ña. Waaye du yokk tooñkat ya lu dul yàqule.
@@ -2156,7 +2158,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 88. Neel : “Bu nit ak jinne booloo woon ngir fexee indi lu mel ni Alxuraan jii, duñu mën a indi lu ni mel, doonte dañu caa dimbalante”.
 89. Te ca dëgg-dëgg, jox Nanu nit ñi ci Alxuraan jii léebu wu ne [wuy leeral]. Waaye terewul li ëpp ci ñoom wéy di weddi.
 90. Ñu naan : “Duñu gëm mukk li feek ballaloonu ci suuf si ay seewnde [bëti ndox] ;
-91. walla nga am tooli garabi tàndarma ak garabu reseñ, nga ballal ay dex ci seen diggante yuy ball bu baax ; 209
+91. walla nga am tooli garabi tàndarma ak garabu reseñ, nga ballal ay dex ci seen diggante yuy ball bu baax ; 
 92. walla nga rotal ci sunu kaw asamaan si ni nga ko dige, mu nekk ay daggit, mbaa nga indi Yàlla ak Malaaka yi nu jàkkaarloo ;
 93. mbaa nga am këru wurus ; mbaa nga yéeg ci kaw asamaan si. Te dunu gëm sa yéeg feek wàcceloonu Téere bu nuy jàng”. Neel : “Tudd naa sellug sama Boroom ! Moo ndax man nekkuma lu dul nit ku ñu yónni doŋŋ ? "
 94. Te lan moo tere nit ñi gëm, ba leen njub ga dikkalee, lu dul la ñuy wax naan : “Moo ndax Yàlla dana yónni nit [nit ni nun]muy ab Yonent ? ”
@@ -2166,7 +2168,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 98. Loolu moo di seen pey, ndax ñoom dañoo weddi Samay kàddu, naan : “Ndax [bu ñu deewee] ba nekk yax yu funux, dananu dekki nekk mbindeef yu bees ? ”
 99. Ndax dañoo gisul ne Yàlla moo bind asamaan yi ak suuf si, te Ku kàttanu la ci bind leneen lu mel ni ñoom ? Te Mu àppal leen dig bu amul benn sikki-sàkka, waaye way-tooñ ña wéy nañu ci seenug weddi.
 100. Neel : “Su fekkoon ne yéen a moom ndàmbi yërmaandey Yàlla yi ; kon ngeen nay [ci joxe ko] ngir ŋott. Nit dafa di ku ŋott !
-101. Tigi, joxoon Nanu Muusaa juróom-ñeenti kéemaan yu leer. Laajal waa Bani-Israayiil, ba mu ñëwee fa ñoom, Firawna ne ko : “Muusaa, dama defe ne dañu laa jabar”. 210
+101. Tigi, joxoon Nanu Muusaa juróom-ñeenti kéemaan yu leer. Laajal waa Bani-Israayiil, ba mu ñëwee fa ñoom, Firawna ne ko : “Muusaa, dama defe ne dañu laa jabar”. 
 102. [Muusaa tontu ne] : “Xam nga ne kenn wàccewul yile [kéemaan] ku dul Boroom asamaan yi ak suuf si ngir ñu nekk di waare ; te damaa defe ni, yaw Firawna, dangaa nekk ku alku”.
 103. Mu bëgg leen a génne suuf sa. Nu labal ko mook ña mu àndaloon ñépp.
 104. Nu wax ginnaawam ñeel (waa Bani-Israayiil)ne leen : “Dëkkeleen suuf sa”. Ba àppu bisub àllaaxira jotee, Dananu leen indi ngeen di mbooloo.
@@ -2192,7 +2194,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 9. Ndax amuloo njort ci ne, ñoñ-xunt ma ak ñoñ-mbind ma [téere ba] bokkoon nañu ca Sunuy kéemaan yu doy waar [yéeme] ?
 10. [Fàttalikul] ba waxamaande ya làqoo ca xunt ma, te ñu waxoon ne : “Yaw sunu Boroom, may nu yërmaande ju bawoo ci yaw; te nga yéwénal sunuy mbir mu nekk cig njub”.
 11. Nu fëkk seeni nopp [nelawloo leen] ca biir xunt ma ay at yu limu.
-12. Topp Nu yee leen ngir bëgg a xam ban ci ñaari kurél yii moo gën a xayma diir ba ñu fa toog. 212
+12. Topp Nu yee leen ngir bëgg a xam ban ci ñaari kurél yii moo gën a xayma diir ba ñu fa toog. 
 13. Noo ngi lay nettali seeni mbir ci dëgg. Ne ko ñoom ay waxambaane lañu yu gëmoon seen Boroom ; ba tax na ñu gën leen a dëgëral cig njub.
 14. Nu dëgëral seeni xol ba ñu taxawee [ca kanamu buur ba nekkoon jaamukatu xërëm], wax ne : “Sunu Boroom mooy Boroom asamaan yi ak suuf si : dunu jaamu jeneen Yàlla bàyyi ko, ndax kon dananu wax lu jeng.
 15. Sunuy nit a ngi nii di jaamu yu ñu tudde ay yàlla bañ a jaamu Yàlla. Lu tee ñu indi ci ñooom ay lay yu bir ?
@@ -2201,7 +2203,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 18. [Boo leen gisoon], dangay defe ne dañoo yewwu te fekk ñoo ngay nelaw. Nu leen di wëlbati lee-lee jëme càmmoñ, seen xaj ba it di nelaw tàllal ñaari tànk ya ca ëttu xunt ma. Boo leen yëroon kon dey danga wëlbatiku daw ngir tiitaange.
 19. Noonu la Nu leen yewwuloo ngir ñu laajante. Mu am ci ñoom ku ne : “Ana ban diir ngeen fi toog ? ” Ils dirent : “Nous avons demeuré un jour ou une partie d'un jour”. Ñu ne : “Seen Boroom dal a gën a xam diir bi ngeen fi toog. Léegi yónnileen ken ci yéen ak seen xaalis bii, den ca dëkk ba utal nu fa ñam wu gën a sell, mu indil nu ci xéewal. Na beru te bumu yégal kenn dara ci yéen.
 20. Ñoom bu ñu leen yëgee, danañu leen rey, mbaa ñu delloo leen ci seen diine te kon dootuleen texe ba fàwwu”.
-21. Nu feeñal leen ca waa dëkk ba, ngir ñu xam ne digu Yàlla lu dëggu la te xam it ne waxtu wa [àddinay jeex] amul sikk ci ne luy am la. Ba ñuy xëccoo ci seen biir ci mbirum [waxembaane ya], ñu naan : “Tabaxleen ci seen kaw am taax. Seen Boroom a gën a xam seen mbir”. Ña not wax ja ci seen mbir ne : “Nanu def ci seen kaw jàkka”. 213
+21. Nu feeñal leen ca waa dëkk ba, ngir ñu xam ne digu Yàlla lu dëggu la te xam it ne waxtu wa [àddinay jeex] amul sikk ci ne luy am la. Ba ñuy xëccoo ci seen biir ci mbirum [waxembaane ya], ñu naan : “Tabaxleen ci seen kaw am taax. Seen Boroom a gën a xam seen mbir”. Ña not wax ja ci seen mbir ne : “Nanu def ci seen kaw jàkka”. 
 22. Danañu wax ne : “Ñett lañu woon, seen xaj ba ñeenteel leen”. Danañu wax it ne juróom lañu woon, seen xaj bi juróom-benneel leen, muy njort ci lu fàddu. Te danañu wax ne : “Juróom-ñaar lañu woon, seen xaj ba juróom-ñetteel leen”. Neel : “Sama Boroom a gën a xam seen lim. Te kenn xamu ko lu dul ñu néew”. Bul werante ci ñoom lu dul ci waxi biti te bul sàkku xam ci kenn ci ñoom.
 23. Bul wax mukk ci dara ne : “Man dana def nàngam ëllëg”.
 24. [te boolewoo ca] : “Bu soobee Yàlla”, tuddal sa Boroom, boo fàttee fàttaliku Ko te nga wax ne : “Xéy-na sama Boroom gindi ma jëme ma ca la gën a jegeñ lii cig njub”.
@@ -2211,7 +2213,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 28. Nangay muñ ànd ak ñay jaamu seen Boroom suba ak ngoon ngir xemmem jëmam. Te say gët bumu leen jéggi ngir xemmem taaru dundu àddina. Te bul topp koo xam ne sàgganloo nañu xelam ba dunu fàttaliku, di ku topp bakkanam, mbiram di lu jéggi dayoo.
 29. Neel : “Dëgg ga ca seen Boroom la jóge”. Ku yabu na gëm, ku yabu na weddi”. Naka Nun xaroo Nanu way-tooñ ña Safara soo xam ne ay sàkketam wër na leen. Te bu ñu bëggee xettaliku, ñangay xettalikoo ndox mu deme ni weñ gu ruy guy ñoral kanam. Ndaw naan gu bon ak yenduwaay bu bon te naqari!
 30. Naka ña gëm tey jëf jëf yu yiw... , [nañu xam ne] Dunu sànk peyug kuy rafetal jëfam.
-31. Ñooña ñeel na leen Àjjana dëkkuwaay boo xam ne ay dex dañuy daw ca suufam. Te deef na takkaayale ca foofa ay lam yu wurus te danañu fa sol ay yére yu nëtëx, di yéréy sooy bu sew ak sooy bu tal, ñu sóonu ca seen lal ya. Ndaw yool bu neex, waay-waay ndaw yenduwaay bu rafet te neex ! 214
+31. Ñooña ñeel na leen Àjjana dëkkuwaay boo xam ne ay dex dañuy daw ca suufam. Te deef na takkaayale ca foofa ay lam yu wurus te danañu fa sol ay yére yu nëtëx, di yéréy sooy bu sew ak sooy bu tal, ñu sóonu ca seen lal ya. Ndaw yool bu neex, waay-waay ndaw yenduwaay bu rafet te neex ! 
 32. Joxleen leebuw ñaari góor ñoo xam ne : kenn ka jox Nanu ko tool bu am garabi reseñ, Nu wërsëgale leen ak garabi tàndarma, Nu def ca seen diggante ay tooli mbey.
 33. Ñaari tool yépp ñu cay jële meññent mu dara wàññeekuwut. Nu xotti ca seen diggante ag dex.
 34. Mu am meññent [mu bari] tax mu wax ak moroom ma neko : “Maa la ëpp alal te gën laa bari mbooloo”.
@@ -2223,7 +2225,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 40. xéy-na sama Boroom jox ma lu gën sa tool, te yabal ca sa tool jéyya ju jóge asamaan ba mu nekk dénd bu amutul dara,
 41. walla ndox ma ŋiis te dootu ko ame feneen”.
 42. Alageef na meññent ma mu xëy di moqarñi ñaari yoxoom ngir la mu ca tàbbal ci alal, te fekk tool ba yàqu na, garab ya daanu, dàmme ca dàtt ya. Mu naan : “Ay aka neexoon bokkaalewuma kenn ak sama Boroom ! ”.
-43. Te amatul mbooloo mu ko mën a dimbali ku dul Yàlla. Te nekkul it di mënal boppam dara. 215
+43. Te amatul mbooloo mu ko mën a dimbali ku dul Yàlla. Te nekkul it di mënal boppam dara. 
 44. Fu mu doon, kaaraange ñeel na Yàlla ju dëggu ja. Mooy joxe gën ji yool ak gën ji muj.
 45. Joxleen léebug dundu àddina. Dafa mel ni ndox mu ñu wàcce mu jóge asamaan ; tax gàncax ga jóge ci suuf sax. Mu mujj nekk mboob mu wow, ngelaw yi tasaare ko. Yàlla ku am kàttan la ci def lu ne !
 46. Alal ak i doom ci yiy neexal àddina lañu bokk. Waaye way-des ya di [jëf] yu yiw, ñooy ya gën ca sa Boroom ci wàllu yool ak yaakaar.
@@ -2233,7 +2235,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 50. [Fàttalikul] ba Nu waxee Malaaka ya ne leen : “Sujjóotleen ci Aadama”, ñu sujjóot [ñoom ñépp] ba mu des Ibliis, moom bokkoon na ca jinne ya, daldi sàqi ndigalu Boroomam. Ndax dangeen koy jàppe xarit mook i sëtam, bàyyi Nu [Nun Yàlla], te ñoom seeni noon lañu ? Bon na, li tooñkat ya di weccee !
 51. Seedeloowunu leen it sos ga Nu sos seeni bakkan. Te it jàppewuma [ñiy sànk nit ñi] ñu may jàppale.
 52. Ca bis ba Mu waxee ne : “Wooleen sama bokkaale ya ngeen sos”. Bu ñu leen woo dey, duñu leen wuyyu ndax def Nanu ci seen diggante aw xur.
-53. Te saay-saay sa jenook Safara daldi foog ne dañu cay tàbbi te duñu ca am aw rawtukaay bu ñu ca rëccee. 216
+53. Te saay-saay sa jenook Safara daldi foog ne dañu cay tàbbi te duñu ca am aw rawtukaay bu ñu ca rëccee. 
 54. Te Nun biral nanu ci Alxuraan jii, ngir nit ñi, léebu wu nekk. Waaye nit mooy ki gën a mën a dàggasante ci mbindeef yi.
 55. Li tere nit ñi ñu gëm ba leen njub ga dikkalee, te ñu baalu seen Boroom, lu dul dañoo bëgg mu dikkal leen la daloon seen maam ya, walla mbugal dikkal leen [mu leen bett] jàkkaarlook ñoom.
 56. Dunu yónni Yonent yi lu dul ngir ñuy bégle, di xuppe. Te ña weddi di dàggasante cig neen, ngir bëgg cee yàq dëgg ga, di weddi Sunuy kàddu ak la ñu leen di waare.
@@ -2245,7 +2247,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 62. Ba ñu ko weesoo, mu ne surgaam ba : “Indil sunu añ : daj nanu coono ci sunu tukki bii”.
 63. Mu tontu ne : “Ndax gisoo ba nu toogee ca doj wa, damaa fàtte jën wa - te dara fàttewooluma ko lu dul Séytaane mi tax xalaatuma ko - mu dem yoonam ci géej, lu yéeme”.
 64. Muusaa ne ko : “Loolu lanu doon sàkku”. Ñu dellu fa ñu jaaroon di xeeñtu.
-65. Ñu daje ak ab jaam ci sama jaam yi boo xam ne may Nanu ko yërmaande lu jóge ci Nun, te jàngal Nanu ko xam-xam bu bàyyikoo ci Nun. 217
+65. Ñu daje ak ab jaam ci sama jaam yi boo xam ne may Nanu ko yërmaande lu jóge ci Nun, te jàngal Nanu ko xam-xam bu bàyyikoo ci Nun. 
 66. Muusaa ne ko : “Ndax ma topp la ci kaw nga jàngal ma ci lu xamaleef na la ko ci luy gindee [ak xamle] ? ”.
 67. Mu tontu ko, ne: “Doo mën a ànd ak man ci sag muñ.
 68. Naka ngay muñee ci loo xam ne peeguloo ko ci xam-xam ? ”.
@@ -2258,7 +2260,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 75. Mu ne ko : “Ndax waxuma la woon ne mënuloo muñ li may def soo àndeek man ? ”
 76. [Muusaa] toontu ko ne : “Saa yu ma la laajee menn mbir, kon bul àndateek man. Ndax am nga ngànt ci tàggook man”.
 77. Ñuy dox ba egg cib dëkk, ñu sàkku ca waa dëkk ba lekk, ñu lànk leen a ganale. Noona mu gis ab tabax buy bëgg a daanu. Mu yékkatiwaat ko. [Muusaa] ne ko : “Su la neexoon dey nga laaj ag pey”.
-78. Mu ne ko : “Maak yaw fii la nuy tàqalikoo.Waaye danaa la leeralal mbirum li nga mënul woon a muñ. 218
+78. Mu ne ko : “Maak yaw fii la nuy tàqalikoo.Waaye danaa la leeralal mbirum li nga mënul woon a muñ. 
 79. [Gaal ga ma bënoon], ay ndóol ñoo ko móomoon, daan ca daan seen doole ngir dundu. La tax ma bënn ko moo di dafa buur bu daan siif gépp gaal gu mu romb, ma bënn ko ngir mu bañ koo yóbb.
 80. Xale [ba ma reyoon], ay waajuram dañoo doonoon ñu gëm Yàlla ; te su màggoon, dana leen weddiloo, beewloo leen.
 81. Nu bëgg Yàlla soppil leen ko ku gën a sell, gën a topp i [waajuram].
@@ -2269,7 +2271,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 86. Mu takk xare dem ba fa sowwu yem, mu fekk ne jant ba ma ngay sowe fa ndox ma ànd ak ban, mu fekk itam aw xeet [wa ko dëkke]. Ñu ne ko : “Fàwwu yaw Zul-Qarnayni ! nga mbugal leen walla nga yërëm leen”.
 87. Mu wax ne : “Képp koo xam ne dafay tooñ, dananu ko mbugal fii ; te su delloo fa Boroomam, Dana ko mbugal mbugal mu gën a tar.
 88. Képp koo xam ne dafa gëm tey jëf u yiw, dana am pey gu gën a rafet. Te it fu mu tollu di gis yombal gu bawoo fi nun”.
-89. Mu dellu sóobu ci bëgg-bëggam. 219
+89. Mu dellu sóobu ci bëgg-bëggam. 
 90. Mu takk xare dem ba fa penku yem, mu fekk fa xeet wu amul lu leen yiiral tàngooru jant bi.
 91. Mu wax ne : na ñu defoon ñële rekk la ñuy def ñii, waxoon nanu lépp la mu nar.
 92. Mu wéyati ci bëgg-bëggamdi dox di wéy.
@@ -2282,7 +2284,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 99. Bu boobaa, nit ñi dañuy mbëkkënte ni ay duusi géej, bu ñu walee buftu ba, Nu daldi leen di dajale ñoom ñépp.
 100. Ca boobale bis Dananu gaaral yéefar yi ca Safara,
 101. [Yéefar] yi nga xam ne dañu daan muur seeni gët ngir bañ a gis Sunuy tegtal, te daan ko bañ a dégg.
-102. Ndax ña weddi [Yéefar ya], dañoo njort ne mën nañoo am wéeruwaay ci sama jaam ñi féddiku Ma ? Déedéet yéefar yi Safara la leen di xaaroo de. 220
+102. Ndax ña weddi [Yéefar ya], dañoo njort ne mën nañoo am wéeruwaay ci sama jaam ñi féddiku Ma ? Déedéet yéefar yi Safara la leen di xaaroo de. 
 103. Neel : “Moo ndax duma leen xamal ñi gën a sànk seen jëf ?
 104. Ñoo di gaa ña nga xam ne sànk nañu seeni jëf, dara baaxu ca, ba noppi ñuy njort ne li ñuy jëf baax na.
 105. Ñoom ñoo di ña daan weddi kàdduy Yàlla seen Boroom ak daje ga ñu nar a dajeek Moom. Seeni jëf sippiku na”. Kenn duleen peeseel dara.
@@ -2294,7 +2296,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 ## Saar 19 : MARYAM 98 laaya–Laata Gàddaay ga
 
-Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba. 221
+Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba. 
 1. Kaaf, Haa, Yaa, Ayin, Saad.
 2. [Fàttalikul] firndey yërmaandey sa Boroom ca jaamam ba Zakariyaa.
 3. Jamono ja muy ñaan Boroomam ci ag yalu,
@@ -2307,7 +2309,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba. 221
 10. Mu ne ko : “[Yàlla] sama Boroom, defal ma màndarga”. Mu ne ko : “Sa màndarga mooy danga am ñetti fan yoo dul mën a waxante.
 11. Mu daldi génne ca fa [mu doon jaaamoo Yàlla] ; jottale leen ne nañuy sàbbal Yàlla suba ak ngoon.
 12. "Éy Yahyaa, jàngal Téere ba [cig settantal] ! ”.Jox Nanu la xam-xamu xereñe [àtte ya] ca ba nga doonee ndaw,
-13. ci ag ñeewant ak ug sellal. Mu doonoon ku ragal Yàlla, 222
+13. ci ag ñeewant ak ug sellal. Mu doonoon ku ragal Yàlla, 
 14. di ku toppoon ay waajuram ; doonutoon ku fétterlu mbaa muy kut.
 15. Te jàmm rekk la am ca ba mu juddoo ak ca ba muy dee, ak ca ba muy dekkiwaat !
 16. [Fàttalikul], ca Téere ba, Maryaama ba mu fàddoo mbokk ya, génn dem fa penku dëkk ba.
@@ -2320,7 +2322,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba. 221
 23. Mat ma dikkal ko mu wattatu ba ca benn dàttu tàndarma, mu daldi ne: “Aka neexoon ma dee lu jiitu ! Kon fàttees na ma ! ”
 24. Mu daldi koy woo ci ronam, ne ko : “Bul ragal, bul jàq. Yàlla defal na la ag dex ci sa ron [ci suuf] ndox.
 25. Gësëmal tàndarma gi : meññent mu nooy dana rot ci say tànk.
-26. Lekkal te naan te dalal sam xel ! Nit koo fi mëna gis nee ko: “Damaa woor, tey duma wax ak kenn nit”. 223
+26. Lekkal te naan te dalal sam xel ! Nit koo fi mëna gis nee ko: “Damaa woor, tey duma wax ak kenn nit”. 
 27. Mu lewu [doom ja] indi ko fa mbokk ya. Ñu ne ko : “Indi nga fi mbir mu juunu !
 28. Yaw jigéenub Haaruuna bi, sa baay de doonul woon ku bon, sa yaay it du ku baaloy [taxawaalukat]”.
 29. Mu joxoñ leen liir ba. Ñu ne ko : “Naka la nuy waxeek liir bu tëdd ciy laltaay ? ”
@@ -2333,7 +2335,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba. 221
 36. “Te nag Yàlla moo di sama Boroom, di seen Boroom. Jaamuleen ko. Lii moo di yoon wu jub wi xocc”.
 37. Kurél yi juuyoo nañu ci seen diggante. Ñay weddi, xuru Safara ñeel na leen ca teewaayub bis bu màgg ba !
 38. [Bu bis baa, tooñkat yi danañu dégg], danañu gis ! Waaye tey fii ci àddina, ñi ngi ci réer gu bir.
-39. Nanga leen xupp ci tiisu bisub jagle ga ; ndax àtte ba dog na te ñoom ña nga cig càggante te duñu gëm. 224
+39. Nanga leen xupp ci tiisu bisub jagle ga ; ndax àtte ba dog na te ñoom ña nga cig càggante te duñu gëm. 
 40. Nun nooy donnu suuf si ak lépp lu nekk ci kawam, te it fi Nun la ñuy dellusi [Bis-pénc ba].
 41. [Fàttalikul] Ibraahiima ca Téere ba, moom dey ku dëggu woon la, di ab Yonent.
 42. [Fàttalikul] ba mu waxee baayam ne ko : “Ana lan moo tax ngay jaamu loo xam ne du dégg du gis, te du la fajal dara ?
@@ -2345,7 +2347,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba. 221
 48. Danaa leen beru yéen ak ñi ngeen di jaamu te du Yàlla, tey ñaan sama Boroom. Yaakaar naa ne duma xañ”.
 49. Ba mu leen beroo, [dëddu leen] ñoom ak la ñu daan jaamu te duñu Yàlla, booba Lanu ko may Isaaqa ak Yànqooba ; def leen ñoom ñaar ñépp ñu di ay Yonent.
 50. Nu daldi leen may ci Sunu yërmaande, defal leen làmmiñ wu dëggu wu kawe.
-51. [Fàttalikul] Muusaa ca Téere ba. Moom dey ku sellal la woon, di ku ñu soloo, di ab Yonent. 225
+51. [Fàttalikul] Muusaa ca Téere ba. Moom dey ku sellal la woon, di ku ñu soloo, di ab Yonent. 
 52. Woo Nanu ko ca wetug ndeyjooru tundu Sinaay wa, sësloo ko rëkk ci Nun.
 53. Nu daldi koy may ci Sunu yërmaande, defal ko mbokkam ma Aaruuna mu di ab Yonent.
 54. [Fàttalikul] Ismayla ca Téere ba. Doonoon na boroom dégg bu dëggu ; dib Yonent.
@@ -2358,7 +2360,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba. 221
 61. àjjana yu sax ya, àjjana ya Yàlla dig jaamam ña ci kumpa te digub Yàlla fàwwu mu ñëw.
 62. Duñu fa dégg lenn coow ; daldi leen kañ ci : “Jàmm” ; te ñam ya du dogamtal suba ak ngoon.
 63. Àjjana jooju la Nuy donnale képp ku ragal Yàlla ci Sunu jaam ñi.
-64. “Dunu wàcce ca Àjjana ja lu dul ci ndigalul Yàlla. Mooy Boroom li wéy ak li teew ak liy ñëw. Sa Boroom du fàtte de. 226
+64. “Dunu wàcce ca Àjjana ja lu dul ci ndigalul Yàlla. Mooy Boroom li wéy ak li teew ak liy ñëw. Sa Boroom du fàtte de. 
 65. Boroom asamaan yi ak suuf si ak li nekk ci seen diggante. Nanga ko jaamu te nanga sax ci jaamu Ko. Waaw ndax xamal nga ko benn turandoo? Mukk amul ”
 66. Nit nag di wax naan : “Ndax su ma dee danañu ma génnewaat may dundu ? ”
 67. Moo ndax nit dafa fàttalikuwul ne Noo ko bindoon bu njëkk te doonutoon dara ?
@@ -2371,7 +2373,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba. 221
 74. Aka bari ña Nu alagoon ca ña leen jiitu, ñoo xam ne ñoo leen ëppoon alal, gën leen a jekk ?
 75. Neel : “Ku nekk cig réer, Yàlla da koy yoor ba mu ne ticcët ca la Nu ko doon dig, benn muy mbugal walla muy Bis-pénc ba. Bu boobaa danañu xam ñoo, ana kan moo yées wàccuwaay te gën a néew doole [ci way gëm ña ak yéefar ya]”.
 76. Yàlla dana dolli njub ña gindiku woon. Jëf yuy des te di yu jiw [sell] moo gën a ëpp ab yool fa sa Boroom te moo gën wàccuwaay.
-77. Xanaa gisoo ka weddi Sunuy kàddu bay wax naan : “[Ak lu mën a xew], man danaa am alal ak i doom” ? 227
+77. Xanaa gisoo ka weddi Sunuy kàddu bay wax naan : “[Ak lu mën a xew], man danaa am alal ak i doom” ? 
 78. Moo ndax dafa xam kumpa, walla mu digaaleek Yàlla ?
 79. Déewallaay ! Dananu bind la muy wax, te it Dananu ko mbugal.
 80. [Doom ya ak alal ja] Dananu ko donn, te buy dikk fi Nun jubbu boppam lay àndal.
@@ -2386,7 +2388,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba. 221
 89. Indi ngeen lu juunu !
 90. [Loo xam ne] asamaan yi xaw na cee xottiku, suuf si xar, tundi doj yi màbb [ngir wax jooju],
 91. ña wax ne alamikk Yàlla am na doom,
-92. Waay-waay yellut ci Yërëmaakoon bi muy am doom waay ! 228
+92. Waay-waay yellut ci Yërëmaakoon bi muy am doom waay ! 
 93. Képp ku nekk ci asamaan yi ak suuf si, jaamub Yàlla rekk lay doon.
 94. [Moom Yàlla] xam na fa ñu nekk ak na ñu day [na ñu tollu].
 95. Te bu Bis-pénc baa, bindéef yépp danañu taxaw ci kanamam kennoo kenn.
@@ -2399,7 +2401,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba. 221
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Taa Haa.
 2. Wàccewunu Alxuraan jii ci yaw ngir nga texeedi [tiis],
-3. [waaye] Danu koo wàcce ngir muy waar ñi ragal Yàlla, 229
+3. [waaye] Danu koo wàcce ngir muy waar ñi ragal Yàlla, 
 4. dafa wàcc bawoo ca Ka bind suuf si ak asamaan yu kawe ya.
 5. Yàllaa nga yemoo ca Gàngunaay ga [Aras].
 6. Moo moom li nekk ci asamaan yi ak ci suuf si ak li nekk ci seen diggante, ak li nekk ci ron déeley suuf si.
@@ -2413,7 +2415,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 14. Man mii maay Yàlla : amul jeneen yàlla ju dul Man. Nanga may jaamu, tey taxawal julli, di Ma màggal.
 15. Te Bis-pénc ba daanaka ñëw na. Dama koo xaw a làq rekk ngir fey bakkan bu nekk la muy jëf.
 16. [Kon farlul ba] képp ku gëmul tey topp bànneexam, bañ laa gàllankoor ngay alku.
-17. Waaw Muusaa, li nekk ci sa loxo ndeyjoor lan la ? ” 230
+17. Waaw Muusaa, li nekk ci sa loxo ndeyjoor lan la ? ” 
 18. Mu wax ne : “Samaw yet la, dama ciy sukkóotu, di ci waññ samag jur ak yeneeni mbir”.
 19. [Yàlla ne ko] : “Sànni ko yaw Muusaa”.
 20. Mu sànni ko : ndekete yoo jaan a ngay bélaw-bélawi.
@@ -2428,7 +2430,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 29. te nga may ma, defal ma ci samag njaboot ku may jàppale :
 30. Te mu far doon sax Haaruuna, sama mbokk,
 31. Doolel ma ci moom !
-32. te boole ko ci samay mbir, 231
+32. te boole ko ci samay mbir, 
 33. ngir nu mën di la sàbbaal lu bari,
 34. di La tuddu, di la fàttaliku lu bari.
 35. Te Yaa gën a xam sunuy mbir, Yaa nu gën a gis”.
@@ -2442,7 +2444,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 43. Demleen yéen ñaar fa Firawna : ndax moom dafa beew.
 44. Nangeen wax ak moom wax ju nooy. Ndax amaana mu waaru walla mu ragal Yàlla ?
 45. Ñu ne Ko : "Yaw sunu Boroom, nun dey danuy ragal, bu nu demee fa moom, mu jaay nu doole”.
-46. [Yàlla]ne leen : “Buleen ragal, yéen laa àndal : Maa ngi dégg di gis. 232
+46. [Yàlla]ne leen : “Buleen ragal, yéen laa àndal : Maa ngi dégg di gis. 
 47. Demleen fa Moom ne ko : “Ñun ñaar ñii ndawi Yàlla lanu. Delloo nu waa Banii-Israayiila [ñi nga jàppe jaam] te buleen mbugalati. Ndax indi nanu ci yaw ay kàddu yu jóge fa sa Boroom. Te jàmmi Yàlla nay nekk ca kay topp njub ga !
 48. Xamalees nanu ne : képp ku weddi te dummóoyu [kàdduy Yàlla], kooka mbugal dana ko dal”.
 49. [Firawna] ne leen : “Waaw yéen ñaar kan moo di seen Boroom ? ”
@@ -2455,7 +2457,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 56. Won Nanu ko Sunu kéemaan yépp mu lànk weddi [Yàlla].
 57. Mu daldi ne : “Waaw yaw Muusaa, danga noo bëgg génne ci sunuy suuf ak sa njibar gi ?
 58. Dananu la indil njibar gu ni mel. Nu sàkk bis ak barab te kenn bañ koo wuute ci nun ñépp”.
-59. Mu wax ne : “Kon jàpp nanu bis ba nu daan daje, di ca fo. Ca yoor-yoor ba”. 233
+59. Mu wax ne : “Kon jàpp nanu bis ba nu daan daje, di ca fo. Ca yoor-yoor ba”. 
 60. Firawna daldi dëddu, dem dajale ay pexeem, daldi dellusiwaat.
 61. Muusaa ne leen : “Tuskare ngeen ! Fexeleen ba bu leen duural Yàlla ay fen : kon Mu toroxal leen de. Te duurkat sooy nañu”.
 62. Ñu xëccoo ca seen biir, gise, déeyoo di yum-yumi.
@@ -2467,7 +2469,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 68. Nu ne ko : “Bul ragal [yaa leen mën], yaa leen fare kaw.
 69. Sànnil li ci sa loxo ndeyjoor [yet wa] ; li ñuy wone lépp pexey njibarkat doŋŋ la ; te njibarkat moom fàwwu ay tappaleem naaxsaay”. Ba mu ko sànni, yet waa daldi wann yooya yépp
 70. Njibarkat yépp far daldi tëdd ci suuf sujjóot, daldi ne : “Gëm nanu bis niki tey Yàllaay Muusaa ak Haaruuna”.
-71. [Firawna] ne leen : “Gëmoon ngeen ko la jiitu lii. [Xam naa ne] Muusaa mooy kàndiŋ mi leen jàngal ag njibar. Danaa dàgg seeni tànk ak seeni yoxo cig jàllawle, danaa leen daaj ci dàtti tàndarma yi, dangeen xam kan ci nun moo gën a mettile te gën a tarle mbugal”. 234
+71. [Firawna] ne leen : “Gëmoon ngeen ko la jiitu lii. [Xam naa ne] Muusaa mooy kàndiŋ mi leen jàngal ag njibar. Danaa dàgg seeni tànk ak seeni yoxo cig jàllawle, danaa leen daaj ci dàtti tàndarma yi, dangeen xam kan ci nun moo gën a mettile te gën a tarle mbugal”. 
 72. Ñu ne ko : “Yàlla mi ñu bind ak kàddoom yii Mu nu indil moo nu la gënal fàwwu. Dogalal loo bëgg a dogal. Waaye nag say àtte moom àddina rekk la yem.
 73. Nun dey gëm nanu sunu Boroom ngir mu jéggal nu sunuy bàkkaar, ak njibar gii nga nu jaay doole ba tax nu def ko”. Te Yàlla Moo gën te Mooy des.
 74. Kuy saay-saay ba dem fa Boroomam, dana tàbbi Safara te du fa dee du fa dundu.
@@ -2480,7 +2482,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 81. “Lekk-leen ci lu teey [sell] li Nu leen wërsëgale te buleen ca beew, [bu ngeen beewee], kon Sama mer day wàcc ci seen kaw : te képp ku Sama mer wàcc ci kawam, sànku na.
 82. Te moo ne Man dey ab Jéggalaakoon laa ci képp ku tuub, te gëm, te jëf u yiw tey jubal”.
 83. “Waaw Muusaa, ana lan moo tax nga jiitu saw nit ? ”
-84. Mu ne ko ñoom dey ñanga ca sama ginnaaw. Ma yàkkamtee agsi ci Yaw ba am sa ngërëm. 235
+84. Mu ne ko ñoom dey ñanga ca sama ginnaaw. Ma yàkkamtee agsi ci Yaw ba am sa ngërëm. 
 85. [Yàlla] ne ko : “Nattu woon Nanu saw nit sa ginnaaw. Saamiriyu ñëw moom sànk leen”.
 86. Muusaa dellu fa nitam ña mer bay fuur ; ne leen : "Yéen samaw nit, ndax Yàlla digu leen woon dig wu rafet ? Walla dig wa dafa yàgg ? Walla dangeen bëgg merum Yàlla wàcc ci seen kaw, ba tax ngeen wuute samag dig ay yéen ? ”
 87. Ñu ne ko : “Wuutewuñu sab dig. Waaye danu noo nax sànniloo nu takkaay ya ; ca noona la ko Saamiriyu sànnee ca safara wa.
@@ -2492,7 +2494,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 93. Danga maa toppatul walla dangaa mooy léegi samay ndigal ? ”
 94. [Aaruuna] ne ko : “Doom ndey, bul bipp samab sikkim mbaa sama kawari bopp. Damaa ragaloon nga naan ma : “Féewale nga giiru Bani-Israayiila, toppoo sama ndigal, [lii rekk la]”.
 95. Muusaa ne : “Ayca Saamiriyu, waxal book ? ”
-96. Mu ne : “Gis naa lu ñu gisul : ma daldi ŋoor ci suufi jeexiti Yonent bi, daldi koy sànni li am am. Loolu la ma sama xel joxoon”. 236
+96. Mu ne : “Gis naa lu ñu gisul : ma daldi ŋoor ci suufi jeexiti Yonent bi, daldi koy sànni li am am. Loolu la ma sama xel joxoon”. 
 97. [Muusaa] daldi ne ko : “Ayca, demal. Toppal sa një : “Dootoo jegeñ kenn ! ” Te am nga dig boo dul wuute. Te xoolal sa yàlla ji nga daan jaamu. Dananu ko lakk, sànni ko ca ndox ma.
 98. [Seen Yàlla tigi] mooy Yàlla jenn ja, amul jeneen ju dul Moom. Moo xam lépp.
 99. Noonu la Nu lay nettalee xew-xewi ña jiitu woon. Indil naa la njàng mu bawoo fi Man.
@@ -2518,7 +2520,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 119. doo fi yëg u mar, doo fi màggat”.
 120. Séytaane daldi koy jax-jaxal [nëxal xelam] ne ko : "Yaw Aadama, ndax duma la tegtal garab guy tax nga am nguur gu dootul foq ? ”
 121. Ñu daldi cay lekk [garab ga]. Seen rafle wa daldi feeñ. Ñu tàmbalee witt ca xobi garab ya nekk Àjjana di ko làmboo. Aadama moy na ndigalu Boroomam, tooñ tàbbi.
-122. Yàlla delloo cim xelam ba mu tuub, Mu daldi koy jéggal, Mu daldi it jubbanti ko. 238
+122. Yàlla delloo cim xelam ba mu tuub, Mu daldi koy jéggal, Mu daldi it jubbanti ko. 
 123. Yàlla daldi ne leen : “Génnleen Àjjana, wàcc jëm suuf, ñennat ci yéen di noonoo ñeneen ña ca des. Dana am nag njub gu bawoo fi Man dikk ci yéen, képp ku topp Sama njub googu, du sànku, du sonn.
 124. Képp ku ko dummóoyu, dana dundu dund gu metti, te buy dekki Bis-pénc ba gumba lay doon ñu gotti ko”.
 125. [Su ko defee] muy laaj naan : "Sama Boroom, lan moo tax nga pang ma may gumba te ca àddina ma doon gis ? ”
@@ -2530,7 +2532,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 131. Bul wékk say gët ci li Nu leen wërsëgal ci ay jabar ak alali àddina, ngir sànk leen ci doŋŋ la. Sa peyug Boroom moo gën [fuuf] te moo gën a sax.
 132. Nanga digal sag njaboot ñuy julli, te nanga saxoo muñ. Tegunu la wut ub dundu : Nun noo warloo sab dund. Ña ragal Yàlla ñoo ëppug muj.
 133. Ñuy wax naan : “Lan moo tax indilunu kiiman gu bawoo ca Boroomam ? Moo ndax xalam mujjug ña leen jiitu woon da leen a doyul am njàng ?
-134. Bu fekkoon ne Danu leen a mbugal la ko jiitu, kon ñuy wax naan : "Cëy Yàlla soo yónni woon ab Yonent ci nun, kon dananu topp say ndigal bala noo torox ak a tuskare”. 239
+134. Bu fekkoon ne Danu leen a mbugal la ko jiitu, kon ñuy wax naan : "Cëy Yàlla soo yónni woon ab Yonent ci nun, kon dananu topp say ndigal bala noo torox ak a tuskare”. 
 135. Neel : “Ñépp a ngay xaar. Xaarleen yéen it ! Dangeen xam ñan ñoo jaaroon ca yoon wu jub wa xocc ak ana ñan ñoo gënoon a gindiku”.
 
 ## Saar 21 : YONENT YA 112 laaya - Laata Gàddaay ga
@@ -2542,7 +2544,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba.
 4. Neel : “Sama Boroom xam na lépp lu ñu wax ; ci kaw asamaan yi ak suuf, mooy Aji-dégg di Aji-gis”.
 5. Waaye ñu naan : “Way-jaxasook ay gént rekk la ! Du lenn lu dul lu mu sos. Ndax [moom Yonent bi] waykat la. Nanu indil kaawtéef ni ñu ko daan yónnee ñu njëkk ña”.
 6. Xeet ya leen jiitu woon te gëmuñu, alag Nanu leen. [Kon] ñoon ndax danañu gëm ?
-7. Mësunoo yónni ñu la jiitu lu dul aw góor yu Nu soloo. Laajleen ña jotoon Téere ndeem xamu leen. 240
+7. Mësunoo yónni ñu la jiitu lu dul aw góor yu Nu soloo. Laajleen ña jotoon Téere ndeem xamu leen. 
 8. Defunuleen woon [boroom] yaram yu dul lekk ñam. Te it nekkuñu woon ñuy béel [dañu daa lekk, di wopp, di dee].
 9. Topp, Nu def la Nu leen digoon. Daldi leen boole musal ak ku Nu soob. Yàqkat ya ñoom, Nu rey leen.
 10. Wàcce Nanu ci yéen ab Téere boo xam ne seen teraangaa nekk ca biir. Moo ndax dangeen dul xel-lu ?
@@ -2555,7 +2557,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba.
 17. Su Nu bëggoon po, kon [Dunu soxla bind dara], ci Sunu bopp la Nu koy sose, ndegam lu Nu nammoon a def la
 18. Déedéet Dananu sanni dëgg ci kaw fen mu tojte ko, tax mu raaf. Te li ngeen di nirale [Yàlla] dana tax ngeen toskare.
 19. Moo moom lépp li nekk ci asamaan yi ak suuf si. Te ña nekk fa Moom duñu rëy-rëylu [ci di ko jaamu], te it duñu ca lott.
-20. Dañu Koy sàbbaal guddi ak bëccëg, duñu ca jóge. 241
+20. Dañu Koy sàbbaal guddi ak bëccëg, duñu ca jóge. 
 21. Ndax ñoom dañuy jaamu ay yàlla ci suuf si [yuy mën a dekkal ku dee ni Boroom bi] ? [Mukk du am]
 22. Su jeneen yàlla ju dul Yàlla amoon ci asamaan yeek suuf si, kon ñoom ñaar ñépp yàqu. Cëy sellam ga, Mooy Boroom Gàngunaay ga [Aras] ; Jomb na li ñu koy nirale !
 23. Deefu ko sañ a laaj ci li Muy def, waaye ñoom la ñuy sañ a laaj.
@@ -2567,7 +2569,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba.
 29. Te ku ca waxoon bokk ca ñoom ne : “Man yàlla laa, ju dul Moom”. Loola Safara la Nu ko koy feyee. Te noona it la Nuy feye tooñkat ya.
 30. Ndax ña weddi dañoo gisul ne asamaan yi ak suuf si dañoo taqaloodef [benn dank] ? Nu daldi leen téqale, te Nu sose ndox lépp luy dundu. Moo ndax dañu dul gëm ?
 31. Te def Nanu ci biir suuf si ay tundi doj, ngir mu bañ a baj-baji ak ñoom. Te def Nanu ci ay yoon ngir ñu mën a gindiku.
-32. Te def Nanu asamaan si mu nekk am téeg mu Nu wattu. Te ñoom ñangay dëddu Sunuy kéemtaan [bañ leen a seetlu]. 242
+32. Te def Nanu asamaan si mu nekk am téeg mu Nu wattu. Te ñoom ñangay dëddu Sunuy kéemtaan [bañ leen a seetlu]. 
 33. Te Moom mooy ki bind guddi gi ak bëccëg bi, ak jant bi ak weer wi, ku ci nekk di daw caw rëdd [wa ñu ko rëddal].
 34. Te defalunu kenn nit ca la la jiitu muy ku fi sax. Waaw konndax yaw ginnaaw boo deewee, ñoom dañu fiy sax ba fàwwu ? [Déedéet]
 35. Bakkan bu nekk dana mos dee. Te Dananu leen nattu ci lu bon ak yiw mu dib sànje. Te ci Nun ngeen di dellusi.
@@ -2578,7 +2580,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba.
 40. Déedéet, ndekete yoo ci mbetteel la leen di dikkale, gëlëmal leen ; duñu ko mën a fànq, te kenn duleen ca yéexe.
 41. Yéjjeefoon na Yonent ya la jiitu woon. Faf ña doon yéjji, la ñu doon reetaan wàcc ci seen kaw.
 42. Neel : “Kan moo leen mëna yërëm guddi ak bëccëg ci Yërëmaakoon bi ? ” Teewul ñoom ñangay dëddoo tuddu seen Boroom [Fàttaliku Ko].
-43. Am dañoo am ay yàlla ju dul Nun, ju leen di mën a aar ? Duñu mën a dimbali seen bopp, te deefuleen mën a xettali ci Nun. 243
+43. Am dañoo am ay yàlla ju dul Nun, ju leen di mën a aar ? Duñu mën a dimbali seen bopp, te deefuleen mën a xettali ci Nun. 
 44. Li am mooy, xéewalal Nanu ñooñook seeni baay ba seenug dund yàgg ci ñoom. Waaye ndax dañoo gisul ne wàññi Nanu suuf si cig wàññi ay catam ? Moo ndax ñoom ñooy not ?
 45. Neel : “Defuma lu dul ragal-loo leen li ñu ma soloo”. Waaye ay tëx duñu dégg wooteb ña leen di waar.
 46. Te bu leen lu tuuti daloon ci sa ndigalu Boroom, ñu dellu tàmbalee wax naan : “Ngalla nun ! Nun ay tooñkat lanu woon”.
@@ -2591,7 +2593,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba.
 53. Ñu tontu ne : “Dañoo fekk sunuy baay di leen jaamu”.
 54. Mu ne leen : “Ca dëgg-dëgg, yéen ak seeni baay dangeen a nekk ci réer gu fés”.
 55. Ñu ne ko : “Ndax li nga nu dig dëgg la ci yaw walla dangay kaf ? ”.
-56. Mu ne déedéet : “Seen Boroom mooy Boroom asamaan yi ak suuf si, te Moo leen sàkk. Te man dey bokk naa ci ñiy seede loolu ci yéen. 244
+56. Mu ne déedéet : “Seen Boroom mooy Boroom asamaan yi ak suuf si, te Moo leen sàkk. Te man dey bokk naa ci ñiy seede loolu ci yéen. 
 57. Te waat naa ci Yàlla ! Ne danaa fexeel seen xërëm yi ci seen ginnaaw, bu ngeen dëddoo”.
 58. Mu dàggate leen ba mu des xërëm bu mag ba. Ngir xéy-na mu mën cee delloo [seeni xel].
 59. Ñu ne : “Ku def lii sunu yàlla yi ? Kooka dey bokk na ca tooñkat ya”.
@@ -2605,7 +2607,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba.
 67. Kuf ma leen yéen ak li ngeen di jaamu bàyyi Yàlla ! Ndax dangeen dul xel-lu ? ”
 68. Ñu ne : “Lakk-leen ko ngir ngeen dimbali seen xërëm yi ndegam nar ngeen ko”.
 69. Nu wax ne [Nun Yàlla] : "Yaw safara, nekkal lu sedd te am jàmm ci kaw Ibraahiima”.
-70. Ñu bëgg a def seeni pexe ci moom, Nu def leen ñu di ñu yàqule ña. 245
+70. Ñu bëgg a def seeni pexe ci moom, Nu def leen ñu di ñu yàqule ña. 
 71. Nu daldi koy musal moom ak Lóot jëme leen fa suuf sa Nu barkeel ngir waa àddina si yépp.
 72. Nu may ko Isaaqa ak Yàqooba, muy ndollent, Nu def leen ñu nekk ñoom ñépp di ñu sell.
 73. Def leen ay njiit yuy gindee ci Sunu ndigal. Nu soloo leen jëf yu yiw, ak taxawal julli ak génne asaka. Te ñoom daal daanañu Ma jaamu.
@@ -2617,7 +2619,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba.
 79. Déggloo Nanu Suleymaan àtte ba. Te ñoom ñaar ñépp mayoon Nanu leen ràññee dëgg ak xam-xam. Te tàggatoon Nanu tundi doj ak njanaaw ya ñu àndak Daawuda di Nu sàbbaal. Te Nun noo ko defoon.
 80. Te jàngal Nanu ko ràbbiinu mbubbi koŋ ngir mu musal leen ci seen ngaañ. Moo ndax yéen du ngeen sant [delloo njukkal] ?
 81. Suleymaan tàggatal Nanu ko ngelaw luy ràddi, di daw ci ndigalam, mu jëm ci suuf su Nu barkeel. Te kat Nun xam Nanu lépp lëf,
-82. te ci jinne yi am na ci ñu ko daan nuural [ci géej te daan nañu ko liggéeyal yeneeni liggéey, te Daan naa leen wattu [Man Yàlla]. 246
+82. te ci jinne yi am na ci ñu ko daan nuural [ci géej te daan nañu ko liggéeyal yeneeni liggéey, te Daan naa leen wattu [Man Yàlla]. 
 83. Ak Ayuuba [fàttalikul] ba mu woowee Boroomam ne ko : “Man dey mettit dal na ma. Te Yaw yaay gën jaa yërëme yërëmaakoon ya” !
 84. Te Nu nangul ko, daldi wuññi lor ja nekkon ca moom, Nu may ko njabootam te boole ca ñeneen ñu tollu ni ñoom, muy yërmaande ju tukkee fi Nun, ak fàttali jaamukati Yàlla yi.
 85. Ak Ismaayiila, ak Idriisa ak Zul-Kifli, ñoom ñépp bokkoon nañu ca muñkat ya ;
@@ -2629,7 +2631,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba.
 91. Ak jigéen ja ñoŋal boppam [Maryam] ! Nu wal ci moom lenn ci Sunu ruu, daldi koy def mook doomam [Iisaa] ñuy kaawtéef ci àddina si yépp.
 92. Lii nag moo di seen diine, mu di jenn diine doŋŋ, te Man maa di seen Boroom. Waay- waay kon jaamuleen Ma.
 93. De daggate nañu seeni mbir ca seen diggante. Te ñoom ñépp fi Nun lañuy dellusi.
-94. Képp kuy jëf ca jëf yu yiw ya te muy ku gëm, deesul fakk jëfam ndax Nun noo ko koy bindal. 247
+94. Képp kuy jëf ca jëf yu yiw ya te muy ku gëm, deesul fakk jëfam ndax Nun noo ko koy bindal. 
 95. Te dëkk bu Nu rey, waa dëkk ba duñu mënatee dellusi!
 96. Ba ba kerook Nuy ubbi Yaajuuja ak Maajuuja ñuy sottiku di rogaat ci tunduwu nekk ;
 97. dig bu dëggu ba daldi gën a jegeñ, bu boobaa bëti ña weddi dana buqiku, ñu naan : “Ngalla nun ! Nekkoon nanu cig càggante ci lii. Te nekkoon nanu di ay tooñkat”.
@@ -2642,7 +2644,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba.
 104. Bis boobu Dananu taxañ asamaam ni Nuy taxañe këyit gu am bind. Na nu tàmbalee woon sos ga bu jëkk ba, Dananu dellu [defaat ko] ; muy dëel bu Nu warlu [lu Nuy def la] !
 105. Te bind Nanu ba noppi ca Téere ya ginnaaw bind ga nekk [ca Lawhul Mahfuuz] Àlluwa ja, ne suuf si Sunu jaam yu yiw yi ñoo koy donn”.
 106. Nekk na ci biir loolu ab jottali ñeel aw nit ñuy jaamu Yàlla !
-107. Yónniwunu la ngir dara lu dul nga nekk yërmaandey waa àddina. 248
+107. Yónniwunu la ngir dara lu dul nga nekk yërmaandey waa àddina. 
 108. Neel : “Man dey dañu may soloo doŋŋ : Waaye seen Yàlla jenn doŋŋ la ; kon ndax yéen dungeen wommatu jébbalu? ” [dugg ci Lislaam]
 109. Bu ñu dëddoo, neel : “Xamal naa leen loo xam ne noo ca yem ; mu di ndax li ñu leen dig dafa jegeñ walla dafa sori.
 110. Moom dey xam na li ñuy biral ciy wax ak it li ngeen di nëbb.
@@ -2654,7 +2656,7 @@ Ci turu Yàlla Yërëmaakoon ba, Jaglewaakoon ba.
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Éy yéen nit ñi ! Ragal-leen seen Boroom. Yëngutug Bis-pénc ba nag mbir mu rëy la.
 2. Bis bu ngeen ko gisee, képp ku doon nàmpal dana fàtte la mu doon nàmpal, te ku ëmboon dana wësin la mu ëmb. Te nga gis nit ña màndi fekk màndiwuñu. Mbugalu Yàllaa tar [ci ñoom].
-3. Am na ci nit ñi ñuy dàggasante ci Yàlla cig ñàkk a xam ci di topp Séytaane mi féttérlu. 249
+3. Am na ci nit ñi ñuy dàggasante ci Yàlla cig ñàkk a xam ci di topp Séytaane mi féttérlu. 
 4. Te dogaleef na ca moom [Séytaane soosu] ne képp ku ko def sëriñam, dana la réeral, yóbbee la mbugalum Safara.
 5. Éy yéen nit ñi ! Ndegam dangeen a nekk cig sikki-sàkka, [xamleen ne] Nun nag noo leen binde ci suuf, topp ci toqente [maniyyu], topp ci aw lumbu, topp ci suuxu yàpp wu Nu matal bindam ak wu Nu matalul bindam ngir Nu leeralal leen, ak Nu saxal ci ëmbukaay ba lu Nu soob ba ca àpp bu Nu tudd. Topp Nu génne leen ngeen di ay liir, topp ngeen màgg ba dëgër. Te mu am ci yéen ñuy teel a dee ak ñuy dundu ba egg ci gën jaa boni dundu ba tootuñu xam dara ginnaaw ba ñu nekkoon di ñu xam. Te nga gis suuf si mu wow koŋŋ : te bu Nu ca wàccee ndox mu yëngutu, fokki, saxal gépp xeetu gàncax gu rafet.
 6. Loolu [lu wér la] ngir Yàlla mooy dëgg ga ; te Moom mooy dekkal ñi dee ; te Moom am na kàttan ci def lu ne.
@@ -2664,7 +2666,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 10. Loolu la yelloo ngir la ñaari yoxoom ya def ci àddina ! Te Yàlla du tooñ jaamam ñi.
 11. Ci nit ñi am na ñuy jaamu Yàlla ci genn wet rekk. Tax na bu amee lu baax mu nekk ku dal, bu ko lu naqari dalee, mu soppeeku ca la mu nekke woon, yàqule na ci àddina ak àllaaxira. Te loolu mooy yàqule tigi !
 12. Mangay jaamu, bàyyi Yàlla, loo xam ne mënu koo lor, mënu koo jariñ. Loolu moo di réer gu sori dëgg !
-13. Mangay jaamu loo xam ne loram moo gën jegeñnjariñam. Aka bon wéeruwaay te aka bon àndandoo ! 250
+13. Mangay jaamu loo xam ne loram moo gën jegeñnjariñam. Aka bon wéeruwaay te aka bon àndandoo ! 
 14. Naka Yàlla, Dana dugal ñi gëm tey jëf u yiw ci Àjjana yoo xam ne dex dañuy daw ci seen suuf [ron], Yàllaay def lu ko soob.
 15. Ku jort ne Yàlla du dimbali [Muhammad] ci àddina ak àllaaxira, na tàllal buum jëme ko asamaan, topp mu dog ko, te na xool nag ndax pexeem dana fa jële la ko tax a mer.
 16. Noonu la Nu ko wàccelee ay kàddu yu leer te Yàlla dana gindi ku ko soob.
@@ -2676,7 +2678,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 22. Saa su fa bëggee génne ca njàqare ja, Nu delloo leen, di leen toqamtikuloo mbugal muy lakke.
 23. Yàlla nag Dana dugal ña gëm te jëf jëf ju yiw ay Àjjana yoo xam ne ay dexay daw ci suufam. Dees na leen fa takkal ay lami wurus ak i per ; te foofa yérey sooy lañu fay sol.
 24. Te jubaleef na leen ca wax ju teey te jubaleef na leen it ca yoon wu ñu gërëm.
-25. Ña weddi tey wëlbatiku jëm ci yoonu Yàlla ak ca Jàkka ju ñu wormaal ja Nu def muy jëmukaay ci nit ñi : te aji-dëkk ak gan ñoo ca yem kepp... Ku fa bëgg a jeng ngir tooñ, Dananu ko musal mbugal mu tar, 251
+25. Ña weddi tey wëlbatiku jëm ci yoonu Yàlla ak ca Jàkka ju ñu wormaal ja Nu def muy jëmukaay ci nit ñi : te aji-dëkk ak gan ñoo ca yem kepp... Ku fa bëgg a jeng ngir tooñ, Dananu ko musal mbugal mu tar, 
 26. Fàttalikul ba Nu biralee Ibraahiima bérabu néeg ba [Kaaba ga], ne ko : “Bul ma bokkaaleek dara te nga laabal sama néeg ngir ñi koy wër, ña fay taxaw, di sukk di sujjóot”.
 27. Te nanga woote ci nit ñi ngir aji Màkka. Danañu la dikkal ñuy dox ak ñeneen ñuy war xeetu waruwaay wu ne, jóge ca barab yu soree,
 28. ngir ñu tase fa ak seeni njariñ tey tudd turu Yàlla ci ay bis yu ñu xam, ca la Mu leen wërsëgale ci mala yi ngeen di dunde, “Kon lekkleen ca te nangeen ca leel ñu ñàkk ña amul dara.
@@ -2686,7 +2688,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 32. Noonu la. Képp ku màggal jaamukaayu Yàlla, na xam ne màggal googu bokk na ca ragalug Yàlla ci xol yi.
 33. Ñeel na leen ci loolu ay njariñ ba àpp bu ñu tudd ; te it seen barab ba ñuy loje ma nga ca Néeg bu yàgg a yàgg ba.
 34. Te xeet wu nekk, defal Nanu ko jaamukaay ngir ñuy tudd turu Yàlla ci li Mu leen wërsëgal ci juri kër yi. Kon seen Boroom jenn Yàlla doŋŋ la. Kon nangeen wommatu jëm ci Moom. Bégalal way-toroxlu ña,
-35. ña nga xam ne fu ñu tudde Yàlla seeni xol yëngu, ak way-muñ ña ca la leen dal, ak ñay taxawal julli tey lele ca la Nu leen wërsëgale. 252
+35. ña nga xam ne fu ñu tudde Yàlla seeni xol yëngu, ak way-muñ ña ca la leen dal, ak ñay taxawal julli tey lele ca la Nu leen wërsëgale. 
 36. Te giléem yu suur ya, defal Nanu leen ñu bokk ca ya ñuy jaamoo Yàlla. Aw yiw doŋŋ la ñeel leen. Nangeen ci tudd turu Yàlla bu ñu leen di loj. Bu ñu daanoo tëdd ci seeni wet, nangeen ca lekk te ngeen leel ca way-doylu ña ak yalwaankat ya. Noonu la Nu leen tegtale ndax yéen ngeen gërëm.
 37. Te Yàlla amul soxla ci yàpp wi walla dereet ji. Waaye la Ko soxal moo di ragal Yàlla gi nekk ci yéen. Noonu la Nu leen leen tàggate ngir ngeen màggal Yàlla ci li Mu leen gindi. Te nga bégal way-rafetal ña.
 38. Te Yàlla dana jiñal lu bon ña gëm. Te Yàlla soppul bépp wurujaakoon ju di weddikat.
@@ -2697,7 +2699,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 43. ak nitu Ibraahiima ak nitu Lóot.
 44. ak waa Madyaana. Te wedd woon nañu it Muusaa ; Teewul mu muñal yéefar yi, topp Ma sadd leen. Kaawtéef Sama mbugal ma !
 45. Ak mbiru dëkk ya Nu alag, te fekk dañoo tooñ. Ñu màbbal seen bopp : Teen ya yàqu ! Tabax ya gent !
-46. Moo ndax dañoo doxul ci kaw suuf ? Kon danañu am xol bu am ràññee ci loolu ak nopp yu ca am dégg gu wér.Te sax du gët yi ñoo di gumba, waaye xol yi nekk ci seeni dënn ñooy gumba. 253
+46. Moo ndax dañoo doxul ci kaw suuf ? Kon danañu am xol bu am ràññee ci loolu ak nopp yu ca am dégg gu wér.Te sax du gët yi ñoo di gumba, waaye xol yi nekk ci seeni dënn ñooy gumba. 
 47. Ña nga lay yàkkamti ci mbugal mi. Te Yàlla du soppi àppam. Te benn bis ca sa Boroom mi ngi mel ni junni at ci seen waññi.
 48. Aka bari dëkk yu Mu muñal te ñu tooñoon ? Ba noppi Mu fàdd leen. Te ci Man la lépp di mujj.
 49. Neel : “Éy yéen nit ñi ! Man nekkuma ci yéen lu dul ab waaraatekat bu wér”.
@@ -2708,7 +2710,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 54. Te Moo dogal loolu lépp ngir ña nga xam ne joxeef na leen xam-xam, ràññee ne Alxuraan ak moom dëgg la gu bawoo fa sa Boroom, ak ngir ñu gëm ko ci seeni xol, dellu ci Moom. Te ñu xam ne Yàlla dana gindi ñi gëm teg leen ca yoon wu jub xocc wa.
 55. Te ña weddi duñu deñ ci sikki-sàkka ci moom Alxuraan ba baa Bis-pénc di leen dikkal ci mbetteel walla mbugalum bis bu tiis ba dikkal leen.
 56. Bis niki tey nguur gi Yàllaa lo moom. Dana àtte seen diggante. Kon ña gëm tey jëf jëf ju yiw, danañu nekk ci Àjjanay xéewal,
-57. waaye ña weddi te jàppe ay fen Sunuy kàddu, ñooña ñeel na leen mbugal muy toroxale ! 254
+57. waaye ña weddi te jàppe ay fen Sunuy kàddu, ñooña ñeel na leen mbugal muy toroxale ! 
 58. Ña gàdday ngir liggéey ci yoonu Yàlla, topp ñu rey leen mbaa ñu dee, fàwwu Yàlla dana leen wërsëgal wërsëg wu rafet, te nag Yàlla moo di Ki gën a mën a wërsëgal ci képp kuy wërsëgal.
 59. fàwwu dana leen tàbbal barab boo xam ne danañu ca bég, te Yàlla ku xam la, Ku lewet la.
 60. Noonu la. Ku mbugale lu toll ni la ñu ko tooñ, topp ñu tooñaat ko, Yàlla dana ko dimbali, Yàlla Jéggalaakoon, Baalewaakoon la.
@@ -2720,7 +2722,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 66. Te Moom mooy ki leen dundal te Dana leen rey, ba noppi Mu dundalaat leen. Waaye nit weddiwaakoon la.
 67. Xeet wu nekk defal Nanu ko jaamukaay wu ñu koy jaamoo. Kon buñu xëccook yaw ci mbir yi ! Te nanga woote jëme ci sa Boroom. Yaw de yaa ngi ci njub gu ne xocc.
 68. Bu ñu dàggasanteek yaw, neel : “Yàlla moo gën a xam li ngeen di def.
-69. Yàlla dana àtte seen diggante bu Bis-pénc baa ca la ngeen doon juuyoo”. 255
+69. Yàlla dana àtte seen diggante bu Bis-pénc baa ca la ngeen doon juuyoo”. 
 70. Ndax dangaa xamul ne Yàlla xam na li nekk ci asamaan yi ak suuf si ? Te loolu nekk na ci ab Téere, te it loolu lu yomb Yàlla la.
 71. Te ña ngay jaamu, bàyyi Yàlla, loo xam ne wenn lay wàccu ca te amuñu ci benn xam- xam. Tooñkat ya duñu am dimbal de.
 72. Bu ñu jàngee ci seen kanam Sunu kàddu yu leer yi, danga ràññee ca kanamu ña weddi weddi ga. Te tuuti kon ñu songu ña jàng Sunuy kàddu ci seen kanam. Neel : “Ndax ma xamal leen lu yées loolu ci yéen ? - Mooy Safara : Yàlla dig na ko ña weddi. Ndax daluwaay bu bon ! ”
@@ -2744,7 +2746,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 8. ña nga xam ne nag dañuy sàmm la ñu leen dénk ak seeni kàddu,
 9. tey wattu seeni julli [di ko sàmm].
 10. Ñoom dey ñooy donnkat ya,
-11. ña nga xam ne danañu donn Àjjana Firdawsi, te dañu cay béel. 257
+11. ña nga xam ne danañu donn Àjjana Firdawsi, te dañu cay béel. 
 12. Nun bind Nanu nit [sàkk ko]mu bawoo ci cosaanul ban [suuf],
 13. ginnaaw ba Nu def ko mu di maniyu ma mu di aw lumbu.
 14. Ginnaaw ba Nu def lumbu ma di aw suux ; ginnaaw ba Nu def suux wa mu di ay yax, daldi sànge yax ya aw yàpp. Daldi koy def jëmm,Yàllaa mën a sakkanal. Moom miy gën gi Bindkat !
@@ -2756,7 +2758,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 20. ak garab gay génne ci tuuri Siinaa, mu am diw gu ngeen di tabasoote di ko rënde li ngeen di lekk [garabug oliw].
 21. Te xanaa war ngeen a am xalaatu fàttaliku ca jur ga leen Yàlla xéewale : Dananu leen nàndale ci li nekk ci biiram [meew], am ngeen ca itam ay njariñ yu bari ; te it ca ngeen di lekk.
 22. Ngeen di ca war, di ca lonk la ngeen di war.
-23. Yónni woon Nanu Nooh ca aw nitam. Mu ne leen : "Éy yéen samaw nit, jaamuleen Yàlla. Amuleen jeneen yàlla ju dul Moom. Moo ndax dangeen dul ragal Yàlla ? ” 258
+23. Yónni woon Nanu Nooh ca aw nitam. Mu ne leen : "Éy yéen samaw nit, jaamuleen Yàlla. Amuleen jeneen yàlla ju dul Moom. Moo ndax dangeen dul ragal Yàlla ? ” 
 24. Gaa ña weddi woon ca aw nitam di wax naan : “Kii daal nit la ni yéen, dafa bëgg toog ci seen kaw doŋŋ. Te sax bu neexoon Yàlla mu wàcce ay Malaaka. Mësunoo dégg lii ca sunu maam ya jiitu woon.
 25. Kii daal as waay la su jinne sadd, muñal-leen ko tuuti.
 26. [Nooh]ne : “Yaw sama Boroom ! Dimbali ma ci weddi gi ñu ma weddi”.
@@ -2769,7 +2771,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 33. Ña jiite yéefar ya cig nitam tey weddi ne danañu dajeek seen Boroom Bis-pénc ba, daldi wax ne : “Kii daal nit la ni yéen, ci li ngeen di lekk lay lekk, di naan ci li ngeen di naan.
 34. Te bu ngeen toppee ci moom (nitug njorondaay)ni yéen, dangeen yàqule.
 35. Moo ndax daleen a dig ne bu ngeen faatoo ba doon suuf ak i yax, dangeen génnaat dekki ?
-36. Mukk, mukk li ñu leen dig ! 259
+36. Mukk, mukk li ñu leen dig ! 
 37. Lii daal du lenn lu dul sunug dundug àddina sii : danuy dundu, dee ; waaye dunu dekki.
 38. Kii daal as waay la suy duural Yàlla ay fen ; te nun sax gëmunu ko”.
 39. Mu ne : “Yaw sama Boroom ! May ma ndimbal ci weddi gi ñu may weddi”.
@@ -2782,7 +2784,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 46. jëmale ko ca Firawna ak gàngooram ña doon rëy-rëylu te doon aw nit ñuy kawe-kawelu.
 47. Ñuy wax naan : “Ndax dananu gëm ñaari nit ñu mel ni nun, ñoo xam ne seenu xeet sunuy jaam lañu.
 48. Ñu daldi leen weddi, daldi alku.
-49. Jox Nanu Muusaa Téere ba ngir mu waar leen ca ba ba ñuy gindiku. 260
+49. Jox Nanu Muusaa Téere ba ngir mu waar leen ca ba ba ñuy gindiku. 
 50. Te Noo def doomi Maryaama [Iisaa] ak yaayam di kéemaan ; te Nu dugal leen ci aw tundu, mu maasee ànd ak bëti-ndox [naan].
 51. Éy yéen Yonent yi ! lekk-leen ci yi teey yi tey jëf u yiw. Man dey kuy xam laa li ngeen di def.
 52. Te diine jii mooy seen diine, di jenn diine, te maa di seen Boroom. Ragal-leen Ma”.
@@ -2796,7 +2798,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 60. ña joxe ca la ñu leen xéewale, te seeni xol di nux-nuxi ci [di xalaat] ne danañu delluwaat ca seen Boroom.
 61. Ñooña ñooy jëkkante ci jëfu yiw te jëkk nañu ca.
 62. Dunu teg benn bakkan lu dul la mu àttan. Te ab Téeree ngi fi buy àtte ci dëgg, te kenn du leen ca noonu [ci waññi yiw walla yokk safaan].
-63. Waaye seeni xol réere na lii [di Alxuraan]. Te am nañu ay jëf yu yées yooyu te ña nga koy jëf, 261
+63. Waaye seeni xol réere na lii [di Alxuraan]. Te am nañu ay jëf yu yées yooyu te ña nga koy jëf, 
 64. ba ba ñuy mbugal seen njiit ya ñu seet seet di yuuxu walla.
 65. “Buleen wooteg wallu tey. Kenn duleen dimbali ci Nun.
 66. Samay kàddu wàccoon na ci yéen ; ngeen daan ko dummóoyu,
@@ -2810,7 +2812,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 74. Ña xamul àllaaxira nag ñoom xamuñu yoon wa.
 75. Bu Nu leen yërëmoon ba wàññi seeni tiis, ñu dellooti nuur ca seen bew ga.
 76. Dananu leen mbugal ndax toroxlu wuñu ngir seen Boroom ; jaamuwuñu Ko,
-77. ba ba kerook Nuy ubbi ci ñoom buntub mbugal mu tar, ñu ne ca xiim. 262
+77. ba ba kerook Nuy ubbi ci ñoom buntub mbugal mu tar, ñu ne ca xiim. 
 78. Moom moo leen sàkkal ag dégg, ak ug gis, ak i xel. Néewaana ngeen gërëm.
 79. Moom moo leen bàyyi ci kaw suuf si, te dees na leen pang jëme ci Moom.
 80. Moom mooy dundal, mooy rey ; Moom mooy jàllasante guddeek bëccëg. Ndax dangeen dul xel-lu ?
@@ -2823,7 +2825,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 87. Danañu wax ne : “Yàllaa ko moom”. Neel : “Ndax dangeen dul ragal Yàlla ? ”
 88. Neel : “Ana kan moo ame ci loxoom nguurug lépp, kiy aare te soxlawul ku ko aar ? Waxleen rekk, ndax xam ngeen ko ! ”
 89. Danañu wax ne : “Yàllaa ko moom”. Neel : “Ana fu ñu leen jibare ? ” [ba mënuleen a gëm].
-90. Indil Nanu leen dëgg waaye ñoom ay fenkat lañu. 263
+90. Indil Nanu leen dëgg waaye ñoom ay fenkat lañu. 
 91. Yàlla jàppewul kenn doomam te it amul jeneen Yàlla ju muy àndal ; su loolu amoom, kon yàlla ju nekk dem ak boppam ak la mu sàkk te kon danañuy ëppantey doole. [Tudd naa sellam ga] ! Rawante naak li ñu koy melal.
 92. Mooy ki xam kumpaag li teew ! Kawe na [lool] li ñu koy bokkaaleel !
 93. Neel : “Sama Boroom, cëy boo ma wonoon li nga leen dig ;
@@ -2838,7 +2840,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 102. Képp ku peeseem diis [ak jëf yu baax]ñoom ñooy ña texe ;
 103. képp ku peeseem woyof [ak jëf yu baax], ñooña ñoo di ña sànku ci biir Safara te béel fa.
 104. Safara waa ngay làkk seeni kanam, ñu ne fa xuum.
-105. “Moo ndax daa weesul jàng samag waareci yéen, ngeen jàppe ko ay fen ? ” 264
+105. “Moo ndax daa weesul jàng samag waareci yéen, ngeen jàppe ko ay fen ? ” 
 106. Ñu wax ne : “Boroom sunu ! Texeedi not nanu te xamadi woon nanu itam.
 107. Boroom sunu, génne nu ci ! Bu nu tey-teyloo ba dellu ci, noo tooñ”.
 108. Mu ne leen : “Jattleen ci biir te buleen ma tuddati”.
@@ -2851,7 +2853,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 115. Moo ndax dangeen a jortoon ne caaxaan rekk a taxoon Ma bind leen, ngeen jort it ne dungeen dellusi ci Man [Yàlla] ? ”
 116. Yàlla buur biy dëgg, kawe na ! Amul jeneen yàlla ju dul Moom, Mooy Boroom gàngunaay [Aras] gu tedd ga !
 117. Képp kuy jaamu leneen di ko boole ak Yàlla, [na bir ne] amu ca firnde, te Yàllaa koy lijjanti. Li wér mooy yéefar ya duñu texe.
-118. Waxal ne : “Boroom sama, jéggaleel te yërëme. Yaw yaa di gën ji yërëmaakoon yi”. 265
+118. Waxal ne : “Boroom sama, jéggaleel te yërëme. Yaw yaa di gën ji yërëmaakoon yi”. 
 
 ## Saar 24 : LEER GA 64 laaya - Ginnaaw Gàddaay ga
 
@@ -2862,7 +2864,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 4. Ñay yàq deru jigéen ña, saŋewu [ci jiiñ leen njaaloo] ba noppi ñàkk a indi ñeenti seede, nangeen leen dóor juróom-ñetti fukki yar, te buleen nangooti ñuy seede ba fàwwu. Ñoom ay saay-saay lañu,
 5. ba mu des ña rëccu, tuub ginnaaw loolu, tey jëf u yiw, Yàlla Jéggalaakoon la, Jaglewaakoon la.
 6. Ñay tuumaal seeni jabar te amuñu ay seede lu dul seen bopp, na waat ci Yàlla ñeenti yoon ne ku dëggu la,
-7. juróomeel ba mu waat ne “rëbbum Yàlla [sori yërmaandeem] na dal ci kawam su dee fenkat la”. 266
+7. juróomeel ba mu waat ne “rëbbum Yàlla [sori yërmaandeem] na dal ci kawam su dee fenkat la”. 
 8. Su jabar ja waate ñeenti yoon ci Yàlla ne waa ja fenkat la, kenn du ko sànni xeer [rajmu],
 9. ndaw sa itam na waat ne merum Yàlla na wàcc ci kawam su jëkkëram ja waxee dëgg [pasem rëbboo dootu ko fàttaliku mukk] muy juróomeelu waatam.
 10. Cëy dugankoon ak ngënéelul Yàlla ci yéen ak yërmaandeem, waaye nag Yàlla Nanguwaakoonu tuub la bu xeréñ !
@@ -2874,7 +2876,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 16. Ana lan moo tere, ba ngeen ko déggee, ngeen sàbbaal Yàlla te wax ne : “Wii duur wu rëy warut a génne ci seeni làmmiñ” ?
 17. Yàllaa ngi leen di ñaax ngeen bañ a dellu mukk ci jëf ju ni mel, ndegam ay way-gëm ngeen.
 18. Yàllaa ngi leen di faramfàcceel i laayam de, te Yàlla Ku xam la, Ku xereñ la.
-19. Ñi bëgg a tasaarey ñaawtéef ci biir jullit ñi, mbugal mu metti dana leen dal ci àddina ak àllaaxira. Yàlla xam na te yéen xamuleen. 267
+19. Ñi bëgg a tasaarey ñaawtéef ci biir jullit ñi, mbugal mu metti dana leen dal ci àddina ak àllaaxira. Yàlla xam na te yéen xamuleen. 
 20. Cëy dogankoon ak ngënéelul Yàlla ak yëmaandeem ci yéen, waaye Yàlla Moom ku ñeewant la, di Jaglewaakoon ...
 21. Éy yéen ñi gëm ! Buleen topp jeegoy Séytaane. Ku topp jéegoy Séytaane, [na xam ne] Séytaane ñaawtéef ak njekkar la am. Dogankoon ak ngënéelul Yàlla ak yërmaandeem, kenn ci yéen du sellal. Waaye nag Moom Yàlla mooy sellal ku Ko soob. Te Yàlla Kuy dégg la, Ku xam la.
 22. Te ña Yàlla jox wërsëg te ñu bokk ci yéen, buñu cay ñàkk a jox jegeñaale ya ak ndóol ya ak ñay gàddaay ci yoonu Yàlla. Nañuy jéggale tey jéllale. Moo xanaa bëgguleen Yàlla jéggal leen ? Yàlla dey Jéggalaakoon la, Jaglewaakoon la !
@@ -2885,7 +2887,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 27. Éy yéen ñi gëm ! Buleen dugg kër gu dul seeni kër ndare bu dangeen a yéglu te nuyyu waa kër ga. Loolu dey moo gën ci yéen ndax xéy-na ngeen fàttaliku.
 28. Bu ngeen ca fekkul kenn, buleen ca dugg li feek joxuñuleen ca ndigal. Te bu ñu la nee : “Dellul [damaa jàpp]”, dellul. Loolu moo gën a sell ci yéen. Yàlla aka xam li ngeen di def.
 29. [Waaye] bàkkaar amul ci yéen ngeen dugg ci kër gu ñu dëkkewul te seen tobarte nekk fa. Yàlla xam na li ngeen feeñal ak li ngeen di nëbb.
-30. Neel war na ci way-gëm ñi ñuy sajj seenub gis tey sàmm seen pëy. Looloo gën a sell ci yéen. Te nag Yàlla ku deñ la kumpa ci li ngeen di def. 268
+30. Neel war na ci way-gëm ñi ñuy sajj seenub gis tey sàmm seen pëy. Looloo gën a sell ci yéen. Te nag Yàlla ku deñ la kumpa ci li ngeen di def. 
 31. Waxal jullit ñu jigéen ñi ne leen : nañuy sajj seenub gis, nañuy sàmm seen pëy, te nañuy bañ a feeñal seenub taar lu dul li ca feeñ, nañuy sàng [muur] seeni yaram ; te buñu feeñalal seenub taar ku dul seen jëkkër, walla seen baay, walla seen baayi jëkkër, walla seen doom, walla seen doomi jëkkër, walla seen càmmiñ, walla seen doomi càmmiñ, walla seen dommi jigéen, walla seen tàpp, walla xaleel yu géwantagul. Te it nañuy bañ a dóor seeni tànk ngir di feeñal li làqu ca seenub taar. Tuub-leen yéen ñépp jëm ci Yàlla yéen ña di way-gëm ndaxtelee ngeen texe.
 32. Takk-leen [jabar/jëkkër] ci ña séyul ak ca ña yiw te bokk ci seeni jaam [góor, jigéen]. Su fekkee dañoo ndóol, Yàlla Dana leen woomalal ci ngënéelam. Yàlla ku yaatu la, Ku xam la.
 33. Ña amul lu ñu takkee jabar, nañu sàmmu ba baa Yàlla di leen wërsëgal ci ngënéelam. Seen jaam ñii, sàkku ngeen goreel leen, nangeen bindanteek ñoom su ñu dee ñu yiw ; te it nangeen di joxe ca alali Yàlla ja leen Yàlla jox. Buleen di xiirtal seen jaam yu jigéen ci ñuy jaay seen bopp ngir bëgg doŋŋ ci loolu alali àddina. Ku ko daan def [te tuub ko], Yàlla Jéggalaakoon la, Jaglewaakoon la.
@@ -2893,7 +2895,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 35. Yàllaay leerug asamaan yeek suuf si. Te leeram googu dafa mel ni ab cëgg bu ami làmp ci biiram. Làmp boobu nekkaat ci ab weer, weer boobu mel ni bidiw buy nes-nesi ; ñu di ko taalee ci diwub garabug oliw gu tedd [gu wuuteeg yi ñu miin]. Diwam ga xaw naa mën a leeral te safara laalu ko. Te Yàlla dana saddal nit ñi ay leebu te Yàlla xam na lu ne.
 36. Ci biiri kër [jàkka] yoo xam ne Yàlla digle ñu di fa tudd aw Turam, di Ko yékkati ; di Ko ca sàbbaal suba ak ngoon,
 37. aw gaay ñoo xam ne njulaakum njaay duleen mës a fàbbi ci tudd Yàlla ak a taxawal julli, ak génne asaka, ngir ñoom kat dañoo ragal Bis ba xol ya di wëlbëtiku ak gët ya.
-38. [Ci loolu], Yàlla dana leen feye la gën a rafet ca la ñu jëf. Dana leen dolli ngëneel. Te Yàlla dana wërsëgal ku ko soob ci lu àndul ak ug waññi [lijjanti]. 269
+38. [Ci loolu], Yàlla dana leen feye la gën a rafet ca la ñu jëf. Dana leen dolli ngëneel. Te Yàlla dana wërsëgal ku ko soob ci lu àndul ak ug waññi [lijjanti]. 
 39. Ña weddi, di ay jéefar, ñoom seeni jëf dafa mel ni ñàndóox, bu ko boroomu mar séenee, dakoy jàppe ndox. Saa bu fa agsee, du fa fekk tus ; Yàlla rekk la fay fekk Mu waññal ko ay jëfam ba mu mat sëkk, te moo ne Yàllaa ka gaaw ab lijjanti.
 40. [Jëfi yéefar ba-tey dafa mel ni] lëndëmug géej guy duusu : ganax ci kaw ganax, ay niir yu lëndëm tegaloo tiim ko. Ba sax moom bu génnee loxoom, du ko xaw a gis. Te képp ku Yàlla defalul ag leer, du am ag leer.
 41. [Xanaa gisuloo ne] ñépp ñu nekk diggante asamaan yeek suuf si, dañuy sàbbaal Yàlla ; picc yi sax dañuy sàppe. Lenn lu nekk xam na naka lay jullee ak na muy sàbbaalee. Yàlla xam na li ñuy def.
@@ -2904,7 +2906,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 46. [Wér na céŋŋ ne] wàcce Nanu ay laaya [kàddu] yu leer nàññ. Te Yàlla dana gindi ku ko soob jëme ko ci yoon wu jub xocc wa.
 47. Danañuy wax naan : “Gën nanu Yàlla ak Yonent bi, topp nanu it”. Mu am kurél bu bokk ñoom wëlbëtiku ginnaaw loolu. Ñoom gëmuñu.
 48. Saa su wootees leen jëme ci Yàlla ak ci Yonentam ngir Mu àtte seen diggante, ndekete yoo ab kurél ci ñoom day dummóoyu.
-49. Su ñu nekkoon ci dëgg kon danañu dikk [ci Yonent bi] topp ko. 270
+49. Su ñu nekkoon ci dëgg kon danañu dikk [ci Yonent bi] topp ko. 
 50. Moo ndax dañoo am woppi xol ? Walla dañuy jiixi-jaaxa ? Walla dañuy ragal Yàlla ak ub Yonentam yiir leen ? Deewalaay !... ñoom ay tooñkat lañu.
 51. Ñi gëm Yàlla [jullit ñi], saa su ñu déggee woote buy jëme ci Yàlla ak ub Yonentam ngir àtte seen diggante, seeni wax du doon lu dul ne : “Dégg nanu, topp nanu”. Ñooña ñooy ña texe.
 52. Képp kuy topp Yàlla ak ub Yonentam, ragal Yàlla te di Ko fuglu, ñooña ñooy ña texe.
@@ -2914,7 +2916,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 56. Nangeen di taxawal julli tey génne asaka, te it nangeen topp Yonent bi, ndaxtele yërëmees leen.
 57. Buleen foog ne yéefar yi dañoo tiiñ [Yàlla] ci kaw suuf. Seenub daluwaay Safara la. Ndaw muj gu bon.
 58. Éy yéen ñi gëm ! Na leen seeni jaam ak seeni xale yi matagul [mukkàllaf] di yëglu ba la ñoo dugg ci yéen ci ñetti waxtu yii : lu jiitu jullig fajar, ak bu ngeen summikoo ci njolloor, ak ginnaaw jullig gee ; loolu ñetti awra la ba ca waxtuy julli ya. Aayul ci yéen ngeen di gëwéelu di nemmeekuwante. Lii nag, Yàllaa leen cay faramfàcceel ay laayaam [kàddu], Yàlla ku xam la, Ku xereñ la.
-59. Xale yi itam [nañuy yëglu saa su ñu matee mukkàllaf], nañu yëglu na ko ña leen jiitu daan yëgloo. Nii la leen Yàlla di faramfàccelee ay kàddoom, te Yàlla ku xam la, Ku xereñ la. 271
+59. Xale yi itam [nañuy yëglu saa su ñu matee mukkàllaf], nañu yëglu na ko ña leen jiitu daan yëgloo. Nii la leen Yàlla di faramfàccelee ay kàddoom, te Yàlla ku xam la, Ku xereñ la. 
 60. Aayul ci jigéen ñi toog ba yaakaaratuñoo sëy ñuy summiku te bañ a wut ab taar, [waaye] bu ñu muuroon seeni yaram moo gën ci ñoom. Yàlla kuy dégg la, Ku xam la.
 61. Aayul itam ci silmaxa [gumba], aayul itam ci ku lompoñ [làggi], aayul itam ci ku wopp, aayul itam ci yéen ci seen bopp ngeen di lekke ci seeni kër walla seeni këri baay, walla seeni këri mbokk yu jigéen, walla seeni këru baay-tëx, walla seeni këru bàjjen, walla seeni kër nijaay, walla seeni këri yaay-tëx, walla seeni jaam, walla seeni xarit. Aayul ci yéen ngeen di lekkandoon walla ngeen beru. Bu ngeen duggee ci kër, nangeen di nuyyuwante ci nuyyoo bu bawoo ca Yàlla, teey te barkeel . Noonu la leen Yàlla di faramfàccelee laaya ya ndaxtele ngeen xel-lu.
 62. Way-gëm ña dëgg-dëgg ñooy ña gëm Yàlla ak ub Yonentam, te mépp mbir mu ñu bokk ak nit ñi, bala ñu caa jëfandiku, laaj ndigal. Ñooñii nga xam ne ñoo lay laaj ndigal ngir seen itte bopp, na nga jox ndigal ña la soob ; te nanga leen jéggalul Yàlla, Yàlla Jéggalaakoon la, Jaglewaakoon la.
@@ -2924,7 +2926,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 ## Saar 25 : TÉQALE GA (ALQURAAN) 77 laaya - Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
-1. Yàlla barkeel na [màgg na] Moom mi wàcce Téere ba [Alxuraan] ca jaamam ba ngir mu doon luy xupp waa àddina si yépp. 272
+1. Yàlla barkeel na [màgg na] Moom mi wàcce Téere ba [Alxuraan] ca jaamam ba ngir mu doon luy xupp waa àddina si yépp. 
 2. Moom mi nga xam ne Moo moom nguurug asamaan yeek suuf si, te jàppewul kenn doomam, te it amul ku Mu bokkal nguur gi, Moo bind lépp te jox na ko dayo ba mu témbool.
 3. Te ñoom dañoo jàppe ay yàlla ñenenn ñoo xam ne binduñu tus, faf ñoom sax dañu leen a bind, te it mënuñoo lor seen bopp waxantumalaak njariñ, amuñu dee amuñu dundu waxantumalaak dekki.
 4. Yéefar yi wax nañu ne : “[Alxuraan] jii daal aw duur la wu [Muhammad] moo ko sos, te dafa am ñu ko cay jàppale”. Li ñu fi indi tooñ ak i fen la.
@@ -2936,7 +2938,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 10. Yàlla ju barkeel ja nga xam ne bu Ko sooboon Mu defal la ci loolu Àjjana joo xam ay dex dañuy daw ci suufam ; Mu defal la it ay jénde.
 11. Waaye wedd nañu Bis-pénc ba. Te Nun kat waajalal Nanu, képp ku weddi Bis-pénc ba, aw safara wuy jér-jéri.
 12. Saa su leen Safara soosu séenee fu sori, dinañu dégg riiram.
-13. Bu ñu leen ca sànnee ci pukus bu xat, lëkke leen [jéng], ñuy wél-wéliy juuxu ci toskare. 273
+13. Bu ñu leen ca sànnee ci pukus bu xat, lëkke leen [jéng], ñuy wél-wéliy juuxu ci toskare. 
 14. “Bisu tey jii, buleen yuuxu jenn tuskare doŋŋ, ay tuskare yu bari la”.
 15. Neel : “Ndax loolu moo gën ? Walla Àjjanay xéewal ju sax ju ma digee fey gaa ña ragal Yàlla, muy seen kër ?”
 16. Am nañu fa lépp lu leen fa soob te dañu fay béel. Yàllaa ko warlu.
@@ -2948,7 +2950,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 22. Bis ba ñuy mën a gis malaaka ya du neex ci ñoom de, ndax Malaaka yaa nga naan leen : “Seeni mbir sakk na” !
 23. Nu fab jépp jëf ju ñu mësoon a jëf, def ko pënd bu ñu wasaare.
 24. [Bu keroogee Bis-pénc ba], waa Àjjana ñooy gën delluwaay te ñooy dàq ub nooflaay.
-25. [Bu Bis baa] ba niiri asamaan si di xottiku, ñuy wàcce Malaaka yi, 274
+25. [Bu Bis baa] ba niiri asamaan si di xottiku, ñuy wàcce Malaaka yi, 
 26. bu keroogee [buntub] nguur dëgg, Yërëmaakoon baa koy ame, mu doon nag Bis bu jafe ci yéefar yi.
 27. Bis ba tooñkat yi di màtt seeni yoxo, te naan : “Aka neexoon ma ànd ak Yonent aw yoon !...
 28. Ngalla man ! Aka neexoon jàppewuma diw sàngam ab xarit !...
@@ -2961,7 +2963,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 35. Jox Nanu Muusaa Téere ba, defal ko Aaruuna mbokkam mu di ko jàppale.
 36. Nu wax leen ne : “Demleen yéen ñaar ca nit ña weddi woon Sunuy kàddu”. Nu alag leen.
 37. Te nitu Nooh ya, ba ñu weddee Yonent ya, labal Nanu leen, def Nanu leen it kéemaan ci nit ñi. Te waajalal Nanu tooñkat ya mbugal mu metti.
-38. Ak nitu Aad, ak nitu Samooda ak waa Rasi, ak maas yu bari yu nekkoon seeni diggante ! 275
+38. Ak nitu Aad, ak nitu Samooda ak waa Rasi, ak maas yu bari yu nekkoon seeni diggante ! 
 39. Ku nekk ci ñoom, sadd Nanu koy léebu, alag Nanu leen ñoom ñépp.
 40. Romb nañu dëkk ba mbugal ma wàcce woon. Moo ndax gisuñu ko woon ? Ñoom kay dañoo foogoon ne duñu dekki !
 41. Bu ñu la gisee dañu lay téjji naan : “Ndax kii la Yàlla yónni ?
@@ -2974,7 +2976,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 48. Moom moo yebal ngelaw muy bégal ci yërmaandey Yàlla. Te wàcce Nanu ci asamaan si ndox mu laab,
 49. ngir Nu dundalaat ci dëkk bu dee woon, màndal ci ña Nu bind ci mala ak nit ñu bari.
 50. Tasaare Nanu ko ci seen diggante ngir ñu fàttalikoo ca. Li ëpp ci nit ñi lànk di ay yéefar.
-51. Bu Nu sooboon, dëkk bu nekk Dananu fa yebal ab xuppekat. 276
+51. Bu Nu sooboon, dëkk bu nekk Dananu fa yebal ab xuppekat. 
 52. Bul topp ñiy weddi Alxuraan ; te nanga xeex ak ñoom xeex bu rëy.
 53. Mooy Kiy dawloo ñaari géej : bii neex, lewet, ba ca des saf xorom, naqari. Te moo def ci seen diggante aw téq [bu kenn mënul a jaxase].
 54. Mooy ki sos nit ci ndox, def ci aw askan ak ug goromle. Sa Boroom di Ku am kàttan [ci def lu nekk].
@@ -2986,7 +2988,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 60. Saa su Nu leen waxee : “Sujjóotal-leen [Yàlla] Mi di ab Yërëmaakoon”, ñu tontu ne : “Kuy kooku ?” - Mu faf dolli leen ug foñ.
 61. Barkeel na [Moom Yàlla] mi def ci asamaan si ay yoon, def ca ab làmp [jant bi] ak weer wu leer nàññ !
 62. Mooy Ki def guddeek bëccëg ñuy jëlasante ngir ku bëgg a xalaat, fàttaliku, mbaa mu bëgg a sant.
-63. Ak jaami Yàlla yii dox ci kaw suuf si ndànk, su ñu réer ña di wàqanteek ñoom, ñuy wax jàmm, 277
+63. Ak jaami Yàlla yii dox ci kaw suuf si ndànk, su ñu réer ña di wàqanteek ñoom, ñuy wax jàmm, 
 64. ñoom ñooy fanaanee julli te Yàlla rekk tax [taxaw ak a sujjóot] ;
 65. ñoom ñooy wax naan : “Yàlla, yal na nga nu dëddëleek mbugalum Safara”. - mbugalum Safara soosu lu ne dànk la.
 66. Ndaw dëkkuwaay bu soof !
@@ -2999,7 +3001,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 73. ña nga xam ne bu ñu déggee seen kàdduy Boroom, duñu ca tëx, duñu ca gumba ;
 74. ña nga xam ne dañuy wax naan : “Yaw sunu Boroom, defal nu ci sunuy jabar ak sunuy doom ñuy seral xol, te nga def nu ay njiit ca ña ragal Yàlla tey wattandiku”.
 75. Ñoom dees na leen feye ay néeg yu kawe [ca Àjjana], muy peyug la ñu doon muñ, te dees na leen fa teeroo ab nuyyoo ak jàmm [ju ne béyyi],
-76. dañu fay béel. Ndaw dëkkuwaay bu neex ! 278
+76. dañu fay béel. Ndaw dëkkuwaay bu neex ! 
 77. Neel : “Seen Boroom duleen faale, xanaa sax bu fekkoon ne yéen a ngi Koy jaamu ; waaye weddi woon ngeen Yonent bi. Seen mbugal, dungeen ko mën a raw, te dafay doo lu sax.
 
 ## Saar 26 : WOYKAT YA 227 laaya - Laata Gàddaay ga
@@ -3013,7 +3015,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 6. Weddi woon nañu, te danañu mës a joti xibaari la ñu doon téjji.
 7. Xanaa dañoo gisul yu bari yi Nu saxal ci kaw suuf, ci xeeti gàncax muy tollént ?
 8. Ay kéemaan yu bari nekk ci loolu ! Waaye taxut li ëpp ci ñoom gëm [diy jullit].
-9. Te sa Boroom mooy Boroom kàttan ga te di Jaglewaakoonug [yërmaande]. 279
+9. Te sa Boroom mooy Boroom kàttan ga te di Jaglewaakoonug [yërmaande]. 
 10. [Fàttalikul] ba Yàlla woo na Muusaa, [ne ko] : “Demal [jubbanti ji] tooñkat ya,
 11. nitu Firawna” ; moo ndax ñoom duñu ragal Yàlla ?
 12. [Muusaa] wax ne : “Yaw Sama Boroom, damaa ragal ñu jàppe ma ab fenkat [weddi ma] ;
@@ -3027,7 +3029,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 20. Muusaa ne ko : “Defoon naa ko, waaye teyuma ko.
 21. Ma daldi daw ba ma tiitee : faf Yàlla jox ma xam-xamu [baatin], def ma ma bokk ca Yonent ya.
 22. Te loolu xéewal la goo may mën a xéewale, ndax liggéeyloo nga giir Banii-Israayil lu ne ? ”
-23. [Firawna] ne ko : “Waaw, ana kan mooy Boroom àddina si ? ”. 280
+23. [Firawna] ne ko : “Waaw, ana kan mooy Boroom àddina si ? ”. 
 24. [Muusaa ne ko] : “Mooy Boroom asamaan yeek suuf si ak li nekk seen diggante, ndegam wóolu nga ! ”
 25. [Firawna] daldi wax ak ña ko wëroon, ne leen : “Gaa ñi xanaa dégguleen ? ”
 26. [Muusaa] ne ko : “... Mooy seen Boroom, di Boroomub seeni baay”.
@@ -3042,7 +3044,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 35. Da leen a bëgg a génne ci seen suuf sii ak jibaram gi. Lu ngeen ma ciy digal ? ”
 36. Ñu ne ko : “Joxleen ñoom ñaar beneen bis te nga yónni ci gox yi ñuy woo nit ñi, di leen dajale,
 37. danañu la indil bépp jibar bu fi xor”.
-38. Ñu dajale mbooleemi jibarkat ca bis ba ñu waxoon. 281
+38. Ñu dajale mbooleemi jibarkat ca bis ba ñu waxoon. 
 39. Mu am ku yéene wax ne : “Ndax nit ñépp yemb nañu,
 40. xéy-na bu nu toppee njibarkat yi, ndegam ñoo not ? ”
 41. Ba jibar ya agsee, dellu wax Firawna ne ko : “Ndax dananu am ag pey bu fekkee ne not nanu [Muusaa] ? ”
@@ -3056,7 +3058,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 49. [Firawna] ne leen : “Gëmoon ngeen ko ba ma leen a laataa woo. [Xam naa ne] mooy kàndiŋ mi leen jàngal njibar ! Dangeen xam ne ! Danaa dagg seen yoxook seeni tànk, jalawle ko, danaa leen daaj yéen ñépp”.
 50. Ñu ne ko : “Boo yaboo ! Nun daal jublu nanu sunu Boroom.
 51. Danoo xemmem Yàlla jéggal nu sunuy njuumte, xemmem it doon ñu njëkk a gëm”.
-52. Nu daldi soloo Muusaa, digal ko mu rañaan ànd ak samay jaam te danañu leen dabsi. 282
+52. Nu daldi soloo Muusaa, digal ko mu rañaan ànd ak samay jaam te danañu leen dabsi. 
 53. Firawna daldi yónnee ci gox yi ñuy yéene dajale nit ñi :
 54. “Ñoom dey, ay mbooloo yu néew lañu,
 55. te it mere nañu nu,
@@ -3071,7 +3073,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 64. Nu tañcale Firawna mook u nitam.
 65. Nu daldi musal Muusaa mook ña mu àndanloon ñépp ;
 66. Nu daldi labal ña ca des [Firawna ak i gaayam].
-67. Kéemaan a ngi ci biir loolu te taxut woon li ëpp ci ñoom gëm. 283
+67. Kéemaan a ngi ci biir loolu te taxut woon li ëpp ci ñoom gëm. 
 68. Te sa Boroom, mooy Boroom kàttan, di Jaglewaakoon ba.
 69. Jàngal-leen xibaari Ibraahiima:
 70. Ba mu waxee baayam ak u nitam, ne leen : “Lu ngeen di jaamu ? ”
@@ -3086,7 +3088,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 79. Mooy ki may leel di ma nàndal ;
 80. su ma woppee, Mu faj ma,
 81. Moo may rey, di ma dundal,
-82. Mooy ki ma xemmem mu jéggal ma samay ñaawtéef bu Bis-pénc baa. 284
+82. Mooy ki ma xemmem mu jéggal ma samay ñaawtéef bu Bis-pénc baa. 
 83. Yaw sama Boroom, may ma xam-xam te def ma joti ca gaa ñu baax ña ;
 84. defal ma am làmmiñ wu dëggu;
 85. def ma ma bokk ca way-donn ya Àjjanay xéewal ya.
@@ -3101,7 +3103,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 94. Ñu sànni leen fa, galajaane leen ñook mboxos ma,
 95. ak gàngoorug Ibliis ga gépp.
 96. Ñuy wax ca biir tey xuloo :
-97. “Waat naa ci Yàlla ne ! Noo ngi woon ci réer gu bir, 285
+97. “Waat naa ci Yàlla ne ! Noo ngi woon ci réer gu bir,
 98. jamono ya nu leen doon yemaleek Boroom àddina si.
 99. Te tooñkat ya doŋŋ a nga nu sànk.
 100. Amunu ku nu tinu,
@@ -3116,7 +3118,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 109. Te laajuma leen ci génn pey ; samag pey Boroom àddina si moo ko warlu.
 110. Ragal-leen Yàlla te topp ma”.
 111. Ñu wax ko ne : “Ndax dananu la gëm te ñi gën a saay-saay a ngi la topp? ”
-112. Mu wax ne : “Ana man lu ma xam ca la ñu daan def. 286
+112. Mu wax ne : “Ana man lu ma xam ca la ñu daan def. 
 113. Seenub waññoo nga ca Yàlla [Moo koy taxawe]. Céy bu ngeen yëgoon.
 114. Man dey du maay dàq ñi gëm.
 115. Man doonuma lu dul ab xuppekat bu bir”.
@@ -3131,7 +3133,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 124. Ba leen seen mbokk ma Huud waxee ne : “Ndax dangeen dul ragal Yàlla ? ”
 125. Man dey, ab Yonent laa bu wóor,
 126. Ragal-leen Yàlla te topp ma.
-127. Duma leen ca laaj genn pey ; samag pey Boroom àddina see ko warlu. 287
+127. Duma leen ca laaj genn pey ; samag pey Boroom àddina see ko warlu. 
 128. Ndax dangeen di tabax ci kaw wépp tundu ab jàjj ngir caaxaan ?
 129. Ngeen di liggéey i njéndi mel ni dangeen fiy béel ?
 130. Te saa su ngeen songee mu jéggi dayo.
@@ -3146,7 +3148,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 139. Ñu weddi ko. Nu daldi leen mbugal. Te ca biir, ay kéemaan a nga ca ! Te taxul la ëpp ca ñoom gëm.
 140. Te sa Boroom, moo di Boroom kàttan, di Jaglewaakoon.
 141. Waa Samuuda, weddi woon nañu Yonent ya.
-142. Ba leen seen mbokk Saalihu waxee ne : “Moo ndax dungeen ragal Yàlla ? ” 288
+142. Ba leen seen mbokk Saalihu waxee ne : “Moo ndax dungeen ragal Yàlla ? ” 
 143. Man mii dey, ab Yonent laa ci yéen bu wóor.
 144. Ragal-leen Yàlla te topp ma [samay ndigal].
 145. Te duma leen ca laaj genn pey, samag pey Boroom àddina see ko warlu.
@@ -3161,7 +3163,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 154. Yaw daal, doo kenn ku dul nit ni nun. Indil kaawtéef ndegam li ngay wax dëgg la”.
 155. Saalihu ne leen : “Lii giléem gu jigéen la [naaga] : am na bis bu muy naan, yéen it am ngeen seen bis.
 156. Buleen ko def mukk lu bon, [su ngeen ko ko defee], di ngeen yendu bisub mbugal mu tar”.
-157. Ñu rey ko, daldi koy rëccu ! 289
+157. Ñu rey ko, daldi koy rëccu ! 
 158. Mbugal ma dal leen. Ci biir loolu ay kéemaan a nga ca. Te taxul li ëpp ci ñoom gëm.
 159. Te sa Boroom, moo Boroom kàtta, di Jaglewaakoon bi.
 160. Nitu Lóot weddi woon nañu Yonent ya,
@@ -3176,7 +3178,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 169. Yaw sama Boroom, yal na nga musal maak saag njaboot ci lii ñuy def”.
 170. [Nun Yàlla] Nu daldi koy musal mook njabootam gépp,
 171. ba mu des menn màggat mu àndoon ca mbokk ga.
-172. Topp [Nun Yàlla] Nu faagaagal ña des ; 290
+172. Topp [Nun Yàlla] Nu faagaagal ña des ; 
 173. Nu dottil leen [taw] waame doj. A ndaw taw bu bon ca ña mu dal !
 174. Ay kéemaan a ngi ci biir loolu. Te taxul ña ëppoon ca ñoom gëm.
 175. Sa Boroom, Mooy Boroom kàttan, di Jaglewaakoon ba [yërmaandeem].
@@ -3191,7 +3193,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 184. Nangeen ragal Yàlla mi leen sàkk, mook maas ya leen jiitu woon”.
 185. Ñu ne ko : “Yaw daal ag njibar moo la ŋëb ;
 186. Te doo kenn ku dul nit ni nun ; nun sax foog nanu ne ci fenkat yi nga bokk.
-187. Waay-waay li nga ne su dee dëgg, rotalal ci sunu kaw ay dogiiti asamaan si ! ” 291
+187. Waay-waay li nga ne su dee dëgg, rotalal ci sunu kaw ay dogiiti asamaan si ! ” 
 188. Suhaybu ne leen : “Sama Boroom a gën a xam li ngeen di def”.
 189. Ñu weddi ko. Mbugalum niir wa dal ca seen kaw. Doon mbugalum bis bu màgg.
 190. Ay kéemaan a ngi ci biir loolu. Te taxul ña ëppoon ca ñoom gëm.
@@ -3206,7 +3208,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 199. mu jàngal leen ko, du tax kon ngeen gëm ko.
 200. Noonu it la nu dugalee jiixi-jaaxa ca biir xoli tooñkat yi ba gëmuñu ko ;
 201. duñu ko gëm mukk ndare ba ñu gisee mbugal mu metti ma,
-202. mu dikke leen ci mbettel te ñoom bëgguñu ko; 292
+202. mu dikke leen ci mbettel te ñoom bëgguñu ko; 
 203. ñuy wax naan : “Ndax deesu yeexe sunuy mbir ? ”
 204. Ndax dañoo yàkkamti Sunu mbugal ?
 205. Xanaa gisuloo ne bàyyi woon Nanu leen ay ati at ñuy xaab-xaabi,
@@ -3221,7 +3223,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 214. Nangay xupp yaw [Muhammad] nit ñi la gën a jegeñ.
 215. Nangay suufeel sa bopp ci jullit ñi la topp [say ndigal].
 216. Bu ñu moyee nag, neeleen : “Samaw yoon nekkatul ci li ngeen di def”.
-217. Nangay wéeru ci Yàlla Miy Boroom kàttan tey Jaglewaakoonu yërmaande, 293
+217. Nangay wéeru ci Yàlla Miy Boroom kàttan tey Jaglewaakoonu yërmaande, 
 218. Moom mi lay gis boo taxawee,
 219. ak say jëfiin ba nga nekkee ci biir ñay sujjóot [julli].
 220. Mooy dégg, di xam.
@@ -3235,7 +3237,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 ## Saar 27 : XORONDOM YA 93 laaya - Laata Gàddaay ga
 
-Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 294
+Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 
 1. Taa, Siin. Lii ay laayay Alxuraan la tey tere bu bir, leer nàññ,
 2. di njub ak mbégte ci way-gëm ñi,
 3. ñay taxawal julli tey génne asaka te wóolu ne àllaaxira am na.
@@ -3248,7 +3250,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 294
 10. Te : “Nanga sànni sa yet wi”. Ba mu ko gisee muy yëngantu mel ni jaan, mu tiit bëgg a daw. “Éy yaw Muusaa. Bul ragal, Yonent yi duñu ragal ci sama wet.
 11. lu dul kuy tooñ te ginnaaw ba mu soppi ñaawtéef ak lu rafet... naka Man Jéggalaakoon laa, Jaglewaakoon laa”.
 12. Sóobal sa loxo ci sa mbubbu. Dana génn weex tàll - muy benn ci juróom-ñeenti kéemaan yi jëm ca Firawna ak u nitam, ñoom ay saay-saay lañu woon”.
-13. Ndax ba leen Sunuy laaya dikkalee, leer nàññ, dañoo wax ne : “Lii ag njibar la gu bir ! ” 295
+13. Ndax ba leen Sunuy laaya dikkalee, leer nàññ, dañoo wax ne : “Lii ag njibar la gu bir ! ” 
 14. Weddi nañu ko waaye seeni xol gëm na ko, xanaa kay rëy a leen jàpp. Xoolal nag yàqkat naka la ñuy mujje.
 15. Joxoon Nanu Daawuda ak Suleymaan xam-xam ; ñuy wax naan : “Xeeti cant yépp ñeel na Yàlla, Moom mi nu gënal ci kaw nit ñu bari ñi bokkoon ci jaamam ñi gëm”.
 16. Suleymaan wuutu na Daawuda, daldi ne : “Éy yéen nit ñi ! Xam naa waxi picc yi ; te am naa lu ne. Loolu mooy ngëneel lu bir.
@@ -3260,7 +3262,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 294
 22. Mu sax fa tuuti, [picc] ma dellusi ne ko : “Xam naa loo xamul te indil naa la xibaar bu wóor bu bawoo réewum Sabaa” :
 23. Fekk naa leen ñu am buur bu jigéen, am na lépp, am it gàngunaay gu rëy.
 24. Fekk naa ko it mook aw nitam ñuy jaamu jant bi bàyyi Yàlla. Séytaane taaralal leen jëf jooju, wëlbati leen ñu dëddu yoonu Yàlla ba gëmuñu.
-25. Moo ndax duñu jaamu Yàlla Miy génne li nëbbu ci asamaan yeek suuf si, te Moo xam li ngeen di nëbb ak li ngeen di feeñal ? 296
+25. Moo ndax duñu jaamu Yàlla Miy génne li nëbbu ci asamaan yeek suuf si, te Moo xam li ngeen di nëbb ak li ngeen di feeñal ? 
 26. [Cëy] Yàlla ! Jeneen yàlla amul ju dul Moom, Mooy boroom gàngunaay [Aras] gu màgg ga.
 27. Suleymaan ne ko : “Dananu xool ndax wax nga dëgg walla dangay fen.
 28. Jëlal sama bataaxal bii ; boo demee nga sànni leen ko ; te dëppal xool ba xam na ñuy def.
@@ -3273,7 +3275,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 294
 35. Man, dama leen di yónnee alal [neexal], su ma ko defee nag xool lu ndaw ya di delloosi”.
 36. [Ba ndaw ya àggee] ca Suleymaan, mu ne leen : “Yéen daal dangeen may jéem a gere alal ? Maa leen ko gënle fuuf. Mbaa du ! Lii doŋŋ la.
 37. Dellul ca ñoom. Neleen danaa leen indil xare bu ñu dul mën a dékku. Te danaa leen fa génne toroxal leen ba ñu ne tott.
-38. Suleymaan ne : "Yéen kilifa yi ! Ana kan moo may indil gàngunaayam ba la ñoo agsi di jébbalesi seen bopp ? ” 297
+38. Suleymaan ne : "Yéen kilifa yi ! Ana kan moo may indil gàngunaayam ba la ñoo agsi di jébbalesi seen bopp ? ” 
 39. Mu am jinne ju ne ko : “Mën naa la koo indil bala ngaa jóge fii nga toog : Mën naa ko te wóor na”.
 40. Ka ame woon xam-xamu Téere ba ne ko : “Mën naa la koo indil ba la ngaa xef”. [Ne ko mingi nii] , ba ko Suleymaan gisee ci kanamam, dafa wax ne : “Lii dey ngënéelul sama Boroom bi la. Dama ciy nattu ndax damay sant walla damay xarab... képp kuy sant yaw caak, ku weddi nag, sama Boroom moom di Ku doylu, di Ku tedd”.
 41. Suleymaan réerantal leen, toog na di xool ndax dana gindiku am déet.
@@ -3284,7 +3286,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 294
 46. Mu ne leen : "Éy samaw nit, lu tax ngeen di gën a yàkkamti lu bon ci lu baax ? Céy bu ngeen jéggalu woon Yàlla ? Kon xéy-na Mu yërëm leen.
 47. Ñu ne ko : “Gaafal nanu la yaak ña nga àndal.”. Mu ne leen : “Kon dey cig sànje ngeen di sax ndax li ngeen di gaafal moo nekk fa Yàlla.
 48. Mu amoon kurél bu nekkoon ca dëkk ba di juróom-ñeenti nit, daan yàq rekk te daawuñu defar.
-49. Ñu wax ne : “Nanu waatoo ci Yàlla rey ko mook njabootam. Bu ñu xëyee ba ñay dese mbir ma laaj nu, nu tontu ne : “Nun kat teewewunu woon seenug rey”. 298
+49. Ñu wax ne : “Nanu waatoo ci Yàlla rey ko mook njabootam. Bu ñu xëyee ba ñay dese mbir ma laaj nu, nu tontu ne : “Nun kat teewewunu woon seenug rey”. 
 50. Ñangay fexe am pexe, Nun it Noo ngi fexe am pexe te ñoom yéguñu ko.
 51. Xoolal naka seen pexe ya mujje woon : Danu leen a faagaagal ñook seeni xeet wépp.
 52. Seen kër yaa ngi noonu gent na ngir la ñu tooñoon. Ay kéemaan a ngi ci loolu ngir aw nit ñuy xam.
@@ -3296,7 +3298,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 294
 58. Dotti Nanu ca seen kaw waamem [doj]. Ndaw taw bu bon ca ña mu dal ca seen kaw!
 59. Waxal : “Xeeti cant yépp ñeel na Yàlla te yal na jàmm wàcc ci kaw jaamam ña Mu tànn ! ” Waaw! Ana lan moo gën : Yàlla walla li ngeen di bokkaale ?
 60. Ana kan moo bind [sàkk] asamaan yeek suuf si te Mu wàcceel leen am ndox mu bawoo asamaan, daldi cay saxale ay tool yu taaru yoo xam ne mënuleen ko woon a saxal. Moo ndax dafa am jeneen yàlla juy ànd ak Yàlla ? [Amul], ñoom kay fu ñu toll ña ngay jéem a utal Yàlla ndend.
-61. Ana kan moo waajal suuf si ba mu doon dëkkuwaay, mu def ci biir ay dex ak tundi doj te def ci diggante ñaari géej yi ay téq [muy tax ndox mu neex mi ak mu xorome mi duñu jaxasoo], - Moo ndax dafa am jeneen yàlla ju ànd ak Yàlla ? Déedéet amul, waaye li ëpp ci ñoom xamuñu. 299
+61. Ana kan moo waajal suuf si ba mu doon dëkkuwaay, mu def ci biir ay dex ak tundi doj te def ci diggante ñaari géej yi ay téq [muy tax ndox mu neex mi ak mu xorome mi duñu jaxasoo], - Moo ndax dafa am jeneen yàlla ju ànd ak Yàlla ? Déedéet amul, waaye li ëpp ci ñoom xamuñu. 
 62. Ana kan mooy wuyyu boroom tiitaange saa yu Ko woowee, ana kan it mooy dindi njàqare ji, te def leen ngeen wuutu ko ci suuf si, - Moo ndax dafa am jeneen yàlla ju ànd ak Yàlla? [Déedéet amul]. Li ñuy fàttaliku moo néew doŋŋ !
 63. Ana kan moo leen di gindi ci lëndëmug jéeri jeek géej gi, tey yebal ngelaw liy bégle ci yërmaandeem [xamle taw buy bëgg sóob]. Moo ndax dafa am jeneen yàlla ju ànd ak Yàlla ? Déedéet [amul de]. Yàlla kawe na li ñu koy bokkaaleel.
 64. Ana kan mooy tàmbali sosu ga, topp Mu di ko delloosi, ana kan moo leen di dundal ci la bawoo asamaan ak suuf. Moo ndax dafa am jeneen yàlla ju ànd ak Yàlla ? [Déedéet amul de]. Neeleen : “Indileen seen firnde ndegam wax ngeen dëgg ! ”
@@ -3308,7 +3310,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 294
 70. Bul jàq ci ñoom te seeni pexe itam bu mu la xatal.
 71. Ñangay wax naan : “Dig bi moom kañ lay doon ndegam wax ngeen dëgg ? ”
 72. Neel : “Amaana lii ngeen di yàkkamtee ngi ci seen kaw”.
-73. Te nag sa Boroom aka bari ngëneel yu Muy jox nit ñi, waaye li ëpp ci ñoom duñu sant. 300
+73. Te nag sa Boroom aka bari ngëneel yu Muy jox nit ñi, waaye li ëpp ci ñoom duñu sant. 
 74. Te it sa Boroom xam na li ngeen rënk ci seeni dënn ak li ngeen di feeñal.
 75. Te it amul lenn lu fàddu nekk ci asamaan si walla ci suuf si te dul ne nekk na ci biir ab Téere bu ñu faramfàcce.
 76. Alxuraan jii dafay nettali ci giir Bani-Israayiila, li ëpp ci la ñu daan juuyoo ak a wuute,
@@ -3321,7 +3323,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 294
 83. Bu keroogee Bis ba Nuy pang, ci wépp xeet ay mbooloo yu daan jàppe Sunu kàddu yii ay fen [di ko weddi], Nu def leen ñu di ay sàppe.
 84. Bu ñu agsee, [Yàlla] ne leen : “Waaw, yéen a daan weddi Samay kàddu te xamuleen ci woon dara ? Walla lan ngeen daan def ? ”
 85. Su wax ja agsee ci ñoom, seen tooñ ga dana tax duñu àddu.
-86. Ndax dañoo gisul ne [Man Yàlla] maa leen defal guddi ngir ñu di ca dal-lu, def bëccëg muy yëngukaay ? Ay kéemaan nekk na ci biir loolu ngir ñi gëm. 301
+86. Ndax dañoo gisul ne [Man Yàlla] maa leen defal guddi ngir ñu di ca dal-lu, def bëccëg muy yëngukaay ? Ay kéemaan nekk na ci biir loolu ngir ñi gëm. 
 87. Bu keroogee Bis ba ñuy wal buftu bi, ñi nekk ci asamaan yeek suuf si ñoom ñépp danañu tiit, ku dul ku soob Yàlla ! – Ñoom ñépp danañu dikk fa Yàlla te tott.
 88. Ngay gis tundi doj yi foog ni dafa taxaw benn barab, te fekk na booba ñangay daw niw niir. Loolu mooy liggéeyub Yàlla. Te Mooy Xereñaakoonub mépp mbir, te Ku deñ-kumpa la ci li ngeen di def !
 89. Moo ndax du ku indi ag yiw dana ca ame pey gu ko gën, te bu Bis-pénc baa dana mucc ci am tiit.
@@ -3333,7 +3335,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 294
 ## Saar 28 : NETTALI YA 88 laaya - Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
-1. Taa, Siin, Miim. 302
+1. Taa, Siin, Miim. 
 2. Lii mooy laayay Téere ba Nu biral.
 3. Dananu la nettali ci xibaari Muusaa ak Frhawna ci dëgg, muy lu ñeel aw nit ñu gëm.
 4. Firawna dadoon kawe-kawelu ci suuf si ; féewale waa réew ma, di jaamuloo ab kurél ci ñoom : ak a réndi seeni doom yu góor, di bàyyi jigéen ña. Moom Firawna yàqkat la woon.
@@ -3345,7 +3347,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 10. Xolub ndeyu Muusaa ja jeex na tàkk. Ba mu xaw a feeñal, cëy bu Nu ko dëfëlul woon xolam ak la mu doonoon di ab jullit.
 11. Mu wax mbokkam mu jigéen ma ne ko : “Topp ko” ; mu di ko bàyyi xel, topp ko te kenn xamut.
 12. Noo ko bañloo woon nàmpalkat ya. Ba mbokkam mu jigéen ma agsee, daldi wax ne : “Ndax duma leen tegtal waa kër goo xam ne danañu leen ko yaral te di ko toppatoo ? ”...
-13. Nu daldi koy delloo ndeyam ja ngir mu wéttaliku ba bañ a tiit ak it ngir mu xam ne digub Yàlla lu dëggu la. Waaye li ëpp ci ñoom xamuñu. 303
+13. Nu daldi koy delloo ndeyam ja ngir mu wéttaliku ba bañ a tiit ak it ngir mu xam ne digub Yàlla lu dëggu la. Waaye li ëpp ci ñoom xamuñu. 
 14. Ba mu matee sëkk te ñor xomm, [Muusaa] jox Nanu ko àtte ya ak xam-xam. Noonu la Nuy feye rafetalkat yi.
 15. Mu dugg ca dëkk ba te yëguñu ko ; mu fekk fa ñaari gaay yuy xeex, kenn ka bokkoon ci ay farandoon, ka ca des bokkoon ci ay noonam. Muusaa daldi koy dóor mbëkk mu dee. - Mu daldi wax ne : “Lii dey ci liggéeyub Séytaane la bokk. Ab noon la buy sànke bu bir”.
 16. Mu wax ne : “Yaw sama Boroom, man dey tooñ naa sama bopp ; jéggal ma”. Mu daldi koy jéggal. Moom Yàlla, Jéggalaakoon la, Jaglewaakoon la !
@@ -3355,7 +3357,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 20. Mu am waa ju bawoo ca aanéeri dëkk ba di dox, dikk ne ko : “Kilifay dëkk yaa ngi takktoo ngir rey la. Génnal (dëkk bi). Man dama lay laabire”.
 21. Mu génne ca [dëkk] ba, tiit lool di moytu. Daldi wax ne : “Yaw sama Boroom, maa ngi sàkku nga musal ma ci tooñkat yi ! ”.
 22. Ba mu jubloo njëlal Madiyaana, wax na ne : “Amaana sama Boroom gindi ma, teg ma ci yoon wu jub wa”.
-23. Ba mu agsee ca rootukaayub waa Madiyaana, mu fekk fa aw nit ñuy wëgg di jukki, mu fekk fa ba-tey ñaari jigéen ñu beru wëgguñu. Mu ne leen : “Lu xew ba wëgguleen ? ” Ñu ne ko : “Dunu wëgg lu dul ginnaaw ba sàmm si génnee ba dem ; te sunu baay màggat na”. 304
+23. Ba mu agsee ca rootukaayub waa Madiyaana, mu fekk fa aw nit ñuy wëgg di jukki, mu fekk fa ba-tey ñaari jigéen ñu beru wëgguñu. Mu ne leen : “Lu xew ba wëgguleen ? ” Ñu ne ko : “Dunu wëgg lu dul ginnaaw ba sàmm si génnee ba dem ; te sunu baay màggat na”. 
 24. Mu wëggal leen ba eggal, dem toog ca ker ga, daldi ne : “Sama Boroom, cëy aka maa ittewoo li nga may wërsëgale”.
 25. Kenn ca ñaari xale yu jigéen ña dikk fa moom ak kersa ga, daldi ne ko : “Saa baay nee na nga ñëw mu fey la li nga nu wëggaloon”. Ba Muusaa agsee ba nettali ko xew-xew ba, mu ne ko : “Bul tiit : mucc nga ci tooñkat ya”.
 26. Kenn ca ñaari jigéen ña ne ko : “Baay jàpp ko surga, koy dey nga am surga bu am doole te wóor”.
@@ -3366,7 +3368,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 31. Te : “Nanga sànni sa yet wi” ; [Ba mu ko sànnee] gis ne ma ngay yëngatu mel ni jaan, mu ne baxarñit.”. Yàlla woowaat ko, ne ko : “Dellusil te bul tiit : yaa ngi ci lu wóor”.
 32. Sóobal sa loxo ci sa mbagg, dina génn weex tàll. Te nanga taf sa loxo bi ci sa kaw ngir bañ a tiit. Yooyu yaari mbir ay firnde la yu bawoo ca sa Boroom Mu jëme ko ci Firawna ak gàngooram. Ñoom ay saay-saay lañu”.
 33. [Muusaa wax na ne] : “Rey naa ci ñoom bakkan te ragal naa ñu rey ma.
-34. Te Aaruuna moo ma gën a leer i wax. Yebal ko mu ànd ak man di ma ruqandi, di ma dëggal : man daal ragal naa ñu jàppe ma fenkat”. 305
+34. Te Aaruuna moo ma gën a leer i wax. Yebal ko mu ànd ak man di ma ruqandi, di ma dëggal : man daal ragal naa ñu jàppe ma fenkat”. 
 35. [Yàlla] ne ko : “Dananu dëgërale sa përëg ci sa mbokk mi, Dananu leen defal ay firnde [doole joo xam ne dana mën a agsi ci yéen] ak Sunuy kéemaan. Yéen ñaar ñépp ak ña leen topp yéen ay not.
 36. Ba leen Muusaa dikkee, indil leen Sunuy kàddu yu leer ñàññ, wax nañu ne : “Lii daal du lenn du dul ag njibar gu ñu sos, te sax nun lii mësunu leen woon a dégg ca sunuy maam”.
 37. Muusaa ne leen : “Sama Boroom moo gën a xam ana kaan moo indi dëgg te jóge fa Moom, ak kan mooy ëppug mujj. Tooñkat ya duñu texe de”.
@@ -3377,7 +3379,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 42. Nu toqal leen am rëbb ci àddina sii. Te bu Bis-pénc baa dañuy bokk ca ña ñuy siibiibal.
 43. Jox Nanu Muusaa Téere ba, - ca ginnaaw ba Nu faagaagalee maas ya ko jiitu, - ngir mu doon am njis ak njub, ak yërmaande ak it ngir ñu mën caa fàttalikoo.
 44. Te yaw [Muhammad], nekkoo woon ca xuru sowwu wa ca ba Nuy jox Muusaa ndigal ya: te fekkewoo ko woon [seede ko].
-45. Waaye sosoon Nanu ay maas yu guddu na fan. Te it nekkoo woon ca waa Madiyaana di leen nettali Sunuy kàddu; waaye Nun [Yàlla], Noo daan yable. 306
+45. Waaye sosoon Nanu ay maas yu guddu na fan. Te it nekkoo woon ca waa Madiyaana di leen nettali Sunuy kàddu; waaye Nun [Yàlla], Noo daan yable. 
 46. Nekkoo woon it wetu Tuur jamono ja Nuy woote. [Waaye dangaa dikk di] yërmaandey sa Boroom, ak it ngir nga xupp aw nit ñoo xam ne mësuñoo am ab xuppekat ci la ko jiitu, ndax it ñu mën caa fàttalikoo.
 47. Bu fekkoon ne musaba da leen dale ca la ñu daan jëf ci seeni yoxo, kon dey danañu wax naan : “Yaw sunu Boroom, lu tax yónni woo ci nun ab Yonent ? [Soo ko defoon dey], dinanu topp say ndigal te it dananu gëm doon ay jullit”.
 48. Ba leen dëgg ga dikkalee bawoo fi Nun, ñuy wax naan : “Cëy bu nu amoon la ñu joxoon Muusaa ! ”. [Kon ñoom], ndax weddiwuñu woon bu jëkk la Nu joxoon Muusaa ? Te daan wax naan : “Ñaar ñii daal ay jibarkat lañu yuy jàppalante ! ”. Tey wax naan : “Weddi nanu leen ñoom ñépp”.
@@ -3388,7 +3390,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 53. Te bunu leen ko mësaan a jàngal, dañu daan wax ne : “Gëm nanu ko. Te mooy dëgg ga jóge ca sunu Boroom. Faf nun jébbalu nanu ba mu laataa na ñëw”.
 54. Ñooña danañu seen pey ñaari yoon ca la ñu daan muñ, daan toontoo aw ñaawtéef ak lu rafet, te di joxe ca la Ma leen wërsëgal ;
 55. te saa yu ñu déggee ay caaxaan, dummóoyu ko tey wax naan : “Nun ak sunuy jëf, yéen ak séeni jëf. Yal na ngeen am jàmm. Nun dey, dunu sàkkuji mukk ñu réer ña”.
-56. Yaw (Muhammad) du ut ne yaay gindi ku la soob : waaye Yàlla mooy gindi ku ko soob. Te moo gën a xam ñiy gindiku. 307
+56. Yaw (Muhammad) du ut ne yaay gindi ku la soob : waaye Yàlla mooy gindi ku ko soob. Te moo gën a xam ñiy gindiku. 
 57. Ñuy wax naan : “Su nu toppee njub gi ànd ak yaw, kon deef nanu foqarñee ci sunu suuf si”. - Ndax defalunu leen woon am réew wuñu wormaal, ñuy jëmmal wépp xeetu meññeef muy bawoo ci Nun [Yàlla] ? Waaye li ëpp ci ñoom xamuñu.
 58. Aka bari dëkk bu Nu faagaagal ci sababus seenug weddi te ñu daan dunde xéewal, ca seen kër ya lu néew la, te keneen dëkkee seen ginnaaw, Nun Yàlla noo doon donnale.
 59. Yàlla du faagaagal yenn dëkk ndare du dafa yebal ab Yonent ca dëkk ba fa gën a rëy, mu di leen nettali ay kàddoom. Te Nun Yàlla dunu faagaagal ay dëkk lu dul ne dañuy tooñ.
@@ -3400,7 +3402,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 65. Bu keroogee bis ba Mu leen di woo naan leen : “Ana lan ngeen tontu woon Yonent ya ? ”
 66. Seeni firnde jaxasoo, bu boobaa [dañu naa xuum] dootuñu laajante.
 67. Képp ku ca tuub te gëm te jëf u yiw, amaana mu texe.
-68. Te sa Boroom mooy sàkk lu ko soob te neex ko ; ñoom amuñu coppan. Tudd naa sellug Yàlla ! Te kawe na lool ci la ñuy bokkaale ! 308
+68. Te sa Boroom mooy sàkk lu ko soob te neex ko ; ñoom amuñu coppan. Tudd naa sellug Yàlla ! Te kawe na lool ci la ñuy bokkaale ! 
 69. Te it sa Boroom a xam li seeni xol nëbb ak li ñuy feeñal.
 70. Te Moom mooy Yàlla te amul jeneen yàlla ju dul Moom. Moo moom xeeti cant yépp cig njalbéen ba cig mujj. Te Moo moom àtte ya. Te ca Moom lañu di delloo ñépp.
 71. Neel : “Xanaa gisuleen ne bu Yàlla defoon guddi gi muy lu sax ba Bis-pénc ba, ana jan yàlla ju dul Moom moo leen di indil ag leer ? Moo ndax dungeen dégg ? ”
@@ -3411,7 +3413,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 76. [Bir na ne], Xaaruuna ci nitu Muusaa la bokkoon, waaye dafa bewoon. Joxoon Nanu ko ci ay ndàmb, loo xam ne, bu ñu lewaa caabi ya mu diis gann ay ponkal. Fàttalikul ba ko ay nitam waxee ne ko : “Bul rëy-rëylu. Yàlla safoowul ñuy rëy-rëylu.
 77. Li la Yàlla jox, sàkku ci kërug àllaaxira [Àjjana]. Te bul fàtte sa wàll ci àdduna. Te nangay rafetal kem ni Yàlla di rafetale jëme ci yaw. Bul di sàkku ag yàq ci suuf si. Ndax Yàlla dey safoowul yàqkat yi”.
 78. Xaaruuna wax ne : “Lii ci sama xam-xam laa ko ame”. Xanaa moom dafa xamul ña Yàlla faagaagal ca maas ya ko jiitu, ña ko gënoon a ñàng ëpp ko fuuf dooleek alal ? Te tooñkat ña deefuleen laaj seen bàkkaar !
-79. Mu génn ca nitam ña, ànd ak alalam ja. Ñi bëgg dundu àddina wax ne : “Aka neexoon nu am lii Xaaruuna am. Moom dey boroom cër bu duun na”. 309
+79. Mu génn ca nitam ña, ànd ak alalam ja. Ñi bëgg dundu àddina wax ne : “Aka neexoon nu am lii Xaaruuna am. Moom dey boroom cër bu duun na”. 
 80. Ña am xam-xam ne leen : “Toskare ngeen ! Yoolub Yàllaa gënal képp ku gëm tey jëf u yiw”. Ku dul muñkat du ko am.
 81. Nu mëdd ko ci biir suuf si mook kërëm ga. Amul kenn ku ko mënoon a dimbali ku dul Yàlla, te it kenn dimbaliwu ko woon.
 82. Ba ñu xëyee, ña doon xemmem wàccuwaayam ca démb sa, daldi wax ne : “Dafa mel ni Yàlla dana tàbbalal wërsëg ku ko neex, ci jaamam yi. Bu dul kon ak xéewalam, kon dey mëddoon Nanu. Te it yéefar yi duñu texe”.
@@ -3435,7 +3437,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 8. Dénk Nanu nit muy def yiw ciy ñaari way-juram, “bu ñu la sonnalee nag ci bëgg nga bokkaale Ma ak loo xamul, buleen ca topp”. Ci Man ngeen di dellusi, Ma xibaar leen la ngeen daan def.
 9. Ña gën tey jëf u yiw, Dananu leen dugal ca nit ñu yiw ña.
 10. Am na ci nit ñi ñuy wax naan : “Gëm Nanu Yàlla” ; te bu ñu leen loree ci ànd gi ñu ànd ak Yàlla, dañuy jàppe sànjeb nit ñooñu ni mbugalum Yàlla. Bu leen ndimbal dikkalee lu bawoo ca sa Boroom, ñu tàmbalee wax naan : “Nun ak yéen a àndoon ! ” Moo ndax Yàlla dafa gënul a xam li nekk ci dënni waa àddina si yépp ?
-11. Yàlla xam na tigi ña gëm, xam na itam naaféq yi . 311
+11. Yàlla xam na tigi ña gëm, xam na itam naaféq yi . 
 12. Yéefar yaa ngay wax ña gëm naan leen ; “Toppleen sunu mboor, dananu yenu seeni ñaawteef”. [Mukk] duñu mas a yenu tus ci seeni ñaawteef. Li wóor moo di ñoom ay fenkat lañu.
 13. Danañu yenu seen yu diis ya ak yeneen yu diis boole ko ca. Te bu Bis-pénc baa, danañu leen laaj la ñu daan duur [fen].
 14. Yónni woon Nanu Nooh ca aw nitam. Mu sax fa ñoom junniy at yu yées juróom-fukk. Mbënn ma daldi leen di mëdd ba ñu tooñee.
@@ -3447,7 +3449,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 20. Neel : “Wërleen [dox] ci kaw suuf si te ngeen xool naka la Yàlla sosee mbindéef yi. Ak itam naka lay sos gu mujj ga di deme. Yàlla mën na lépp lu ne”.
 21. Dana mbugal ku ko soob te it Dana yërëm ku ko soob ; te yéen ñépp ca Moom ngeen jëm.
 22. Mënuleen a të ci kaw suuf si waxantumaak asamaan si ; te itam amuleen wenn wéeruwaay mbaa dimbalikat bu dul Yàlla.
-23. Ña nga xam ne dañoo weddi kàdduy Yàlla ak dajeek Moom, ñooña naag nañu ci Sama yërmaande. Te it danañu am mbugal mu mitti. 312
+23. Ña nga xam ne dañoo weddi kàdduy Yàlla ak dajeek Moom, ñooña naag nañu ci Sama yërmaande. Te it danañu am mbugal mu mitti. 
 24. Tontul aw nitam doonul woon lu dul ñuy wax naan : “reyleen ko mbaa ngeen lakk ko”. Yàlla musal na ko ca safara sa. Ay kéemaan a ngi ci biir loolu ngir aw nit ñu gëm.
 25. [Ibraahiima] wax na ne : “Yéen a ngi jàpp xërëm yi bàyyi Yàlla ngir dëgëral seenug cofeel seen diggante fii ci dundug àddina. Waaye bu Bis-pénc baa, dangeen weddiwante, rëbbante te Safara mooy doon seen kër, te it dungeen fa am ndimbal.
 26. Lóot daldi koy gëm. Wax ne : “Maa ngi gàddaay jëm ci sama Boroom, Mooy boroom Kàttan, di Ku Xereñ”.
@@ -3458,7 +3460,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 31. Ba Sunuy Malaaka dikkalee Ibraahiima ak xibaari mbégte, ne ko : “Danuy faagaagale waa dëkk bii ndax ña fa dëkk ay tooñkat lañu”.
 32. Ibraahiima ne leen : “Waaye Lóot ma nga fa ! ”. Ñu tontu ko ne ko : “Noo gën a xam ña fa nekk : Dananu musal [moom Lóot] mook njabootam, ba mu des soxnaam, moom day bokk ca ña alku”.
 33. ba Sunu ndawi Malaaka yi agsee ci Lóot, ñaawalees na jëme ci ñoom, mu tiit ci seeni mbir. Ñu ne ko : “Bul tiit, bul ragal... Dananu la musal yaak sa njaboot, ba mu des sa jabar, dafay alku.
-34. Wàcce Nanu ci kaw waa dëkk bi mbugal mu bawoo asamaan ngir seen caay-caay ga”. 313
+34. Wàcce Nanu ci kaw waa dëkk bi mbugal mu bawoo asamaan ngir seen caay-caay ga”. 
 35. Bàyyi Nanu fa lu bokk ca ñoom muy kéemaan gu leer nàññ ngir aw nit ñuy xel-lu.
 36. [Naka noonu], la seen mbokk Chuhaybu demee woon Madyaana, ne leen : “Éy yéen samaw nit, jaamuleen Yàlla te gëm Bis-pénc ba, te buleen dox di yàq ci kaw suuf si”.
 37. Ñu weddi ko. Yëngu-yëngu ba fab leen, ñu xëy ne lànjax ci seen kër.
@@ -3481,7 +3483,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 54. Ña nga lay laaj mbugal ma cig yàkkamti, te fekk Safara waa ngay gaw yéefar ya.
 55. Bu keroogee ba mbugal ma muur leen ci seen kaw ak seen ndëgguy tànk. Mu di leen wax naan : “Mosleen, toqamtikuleen li ngeen daan def ! ”
 56. Éy yéen sama jaam ñi gëm ! Sama suuf si yaatu na [lool]. Waay-waay jaamuleen Ma !
-57. Bakkan bu nekk dana mos dee. Te [ñéppay] dellusi ci Nun. 315
+57. Bakkan bu nekk dana mos dee. Te [ñéppay] dellusi ci Nun. 
 58. Ña gëmoon tey jëf u yiw, Dananu leen dëkkal ay néeg yu kawe yoo xam ne ay dex ñooy daw ca suufam. Dañu fay béel, ndaw pey gu neex,
 59. ña daan muñ te wéeru woon ca seen Boroom !
 60. Amul jenn daaba ju warlul boppam wërsëg ! [Waaye] Yàlla moo koy wërsëgal ak yéen. Te Moo di Aji-dégg, di Ku xam.
@@ -3492,7 +3494,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 65. Saa yu ñu waree ci gaal, dañuy ñaan Yàlla di ko sellal. Waaye, saa su leen musalee ba wàcce leen ci jéeri ji, ndeke yoo ña ngay bokkaale.
 66. Dañuy xebet la ñu leen di jox ak di bànneexu ! Danañu xala xam !
 67. Xanaa dañoo gisul ne def Nanu [Màkka] muy barab bu ñu wormaal bu wóor, te nit ñi leen wër, dees na leen dax-daxee ? Moo ndax ñoom dañoo gëm ag neen tey weddi xéewali Yàlla yi ?
-68. Ana kan moo gën a tooñ kuy duural Yàlla ay fen, walla mu weddi dëgg ga koy dëggal ? Moo ndax ca biir Safara dëkkuwaayu yéefar yi dafaa amul ? [Axakañ] 316
+68. Ana kan moo gën a tooñ kuy duural Yàlla ay fen, walla mu weddi dëgg ga koy dëggal ? Moo ndax ca biir Safara dëkkuwaayu yéefar yi dafaa amul ? [Axakañ] 
 69. Ñay xare di jànkuwante [samaw yoon], danañu leen gindi Sunuy yoon, te Yàlla ànd naak way-rafetal ña.
 
 ## Saar 30 : ROM (WAA ROM) 60 laaya - Laata-Gàddaay ga
@@ -3505,7 +3507,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 5. ci ndimbalul Yàlla. [Moom Yàlla] mooy dimbali ku ko soob, Mooy boroom Kàttan, di Jaglewaakon bi.
 6. Loolu mooy li Yàlla di dige. Te Yàlla du wuute ab digam, waaye li ëpp ci nit ñi gëmuñu.
 7. Danañu xam li feeñ ci dundug àddina, te ñoom ñu sàggan lañu ci mbiri àllaaxira,.
-8. Ndax dañoo xalaatul ci seen bopp ? Yàlla bindul asamaan yeek suuf si ak li nekk ci seen diggante lu dul ci dëgg, te sàkkal na lépp ay dig. Te nag li bari ci nit ñi dañoo weddi te danañu dajeek seen Boroom. 317
+8. Ndax dañoo xalaatul ci seen bopp ? Yàlla bindul asamaan yeek suuf si ak li nekk ci seen diggante lu dul ci dëgg, te sàkkal na lépp ay dig. Te nag li bari ci nit ñi dañoo weddi te danañu dajeek seen Boroom. 
 9. Ndax dañoo doxul ci suuf tey xool naka la ñu mujje ña leen fa jiitu woon ? Ñoo leen ëppoon doole, daan réjji suuf si, feesoon ko dell ak seeni njaboot. Seeni Yonent indiloon leen ay kàddu yu leer. Yàlla tooñuleen, waaye ñoo tooñ seen bopp.
 10. Ña daan jëf u ñaawteef, seenug mujj dellu ñaaw, ndax ñoom weddi woon nañu kàdduy Yàlla, daan ko yéjji.
 11. Yàllaa bind yëf yi ; yi di ko defaraat ; te ca Moom la ñuy dellu.
@@ -3517,7 +3519,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 17. Tudd naa sellug Yàlla, kañ naa ko !
 18. Xeeti cant yépp ñeel na Ko ci asamaan yeek suuf si, ca marax ga ak njolloor.
 19. Mooy génne ndundu ci ndee, di génne ndee ci ndundu. Mooy dundal suuf ginnaaw ba mu dewee. Noonu it lees leen di génnee [yéen ñépp] ca bisub dekki ba.
-20. Bokk na ci kéemaanam yi : Mu binde leen suuf, - léegi nag, yéen a ngi nii tasaaroo ci àddina si - . 318
+20. Bokk na ci kéemaanam yi : Mu binde leen suuf, - léegi nag, yéen a ngi nii tasaaroo ci àddina si - . 
 21. Te bokk na ci kéemaanam yi, mu sàkkal leen ci seeni jëmm ay soxna ngir ngeen di ca dall, Mu def ci seen diggante cofeel ak yërmaande. Ay kéemaan a ngi ci biir loolu ngir aw nit ñuy xalaat.
 22. Bokk na it ci ay kéemaanam, bindug asamaan yeek suuf si ak wuuteeg seeni làmmiñ ak seeni melo. Ay kéemaan a ngi ci loolu ñeel ñeel waa àddina si yépp.
 23. Bokk na it ci ay kéemaanam, seeni nelaw ci guddi gi ak seenug sàkku wërsëg. Ay kéemaan a ngi ci biir loolu ngir aw nit ñuy dégg.
@@ -3528,7 +3530,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 28. Yàlla sadd na leen ay léebu ci seen bopp : Ndax seen jaam ñi bokk nañu ak yéen seeni alal, ngeen yem ci kepp ? [Mukk], loolu rekk ngeen ragal. Nii la Nul leerale laaya yi ngir aw nit ñuy xalaat.
 29. Tooñkat yi dañoo topp seen bànneex, te àndul ak xam-xam. Ana kan mooy mën a gindi ku Yàlla réeral ? Duñu am ku leen dimbali.
 30. Nangay jubbantiku topp diine Yàlla jiy cosaan te Mu sos ci nit ñi - bindéefu Yàlla du soppiku -. Loolu mooy diine ju jub ja ; waaye li ëpp ci nit ñi duñu xam.
-31. Wommatuleen jëm ci Moom ; te nangeen ko ragal, tey taxawal julli te buleen bokk ca way-bokkaale ña, 319
+31. Wommatuleen jëm ci Moom ; te nangeen ko ragal, tey taxawal julli te buleen bokk ca way-bokkaale ña, 
 32. ña téqale seen diine di ay kurél, xaaj bu nekk ne siiw la fa moom.
 33. Bu lor ju laal nit ña amee, dañuy ñaan Yàlla di Ko woo booleek toroxlu. Waaye su leen di mosal yërmaande rekk, [nga gis] ñu delluy bokkaale,
 34. di fakk la Mu leen indiloon. “Bànneexuleen. Dangeen xala xam”.
@@ -3540,7 +3542,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 40. Yàlla mi leen sàkk, wërsëgal leen. Di leen rey te di leen dundalaat. Moo ndax ñi ngeen koy bokkaaleel am na ñu mën a def loolu ? Tudd naa sellam ga, kañ naa Ko ! Soree na lool ak li ngeen di bokkaale.
 41. Yàqute feeñ na ci jéeri ji ak géej gi ci jëfi nit ñi ; ci loolu, Yàlla da leen ñamal tuuti rekk ci seen [peyug] jëf yu bon yooyu ; ngir ñu mën caa jàjjoo, dellu ginnaaw, dëpp [dem jëf lu baax].
 42. Neel : “Doxleen ci suuf si tey xool naka la mujje woon ña leen jiitu woon. Te li ëpp ci ñoom doon bokkaale [Yàlla]”.
-43. Jubbantikul topp diine ju jub ja, ba laa bis di ñëw boo xam ne kenn du ko mën a randal ca Yàlla. Bu keroogee, danañu fallaxoo [réeroo, téqalikoo] : 320
+43. Jubbantikul topp diine ju jub ja, ba laa bis di ñëw boo xam ne kenn du ko mën a randal ca Yàlla. Bu keroogee, danañu fallaxoo [réeroo, téqalikoo] : 
 44. Ku weddi, weddeem ga dana dal ca kawam. Ñay jëf yiw nag... Ñoom ña ngay waajal seen bopp [daluwaay bu maase] néeg,
 45. Nar naa feye ñi gëm tey jëf u yiw, ngënéelam. Moom safoowul yéefar yi.
 46. Bokk na ci ay kéemaanam, muy yebal yërmaandeem, ak gaal yi di daw ci ndigalam, te ngeen di sàkku ci xéewalam yi. Ak ngir ngeen di gëm !
@@ -3551,7 +3553,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 51. Bu Nu yebaloon ngelaw, ñu gis ne [seen gàncax ga] mbokk, di [lax ak a dee], dañuy daldi weddi, fakk xéewal ya.
 52. Yaw dey, mënoo tax a dégg ñu dee ; waxantumalaak tëx, su ñu nee wërëñ dummóoyu, ak lu woote ba xumb xumb nag.
 53. Du caageene yaw yaaw gindi gumba yi ci seen réer ga. Ñi nga mën a dégtal [sa woote bii] daal, ñooy ña gëm, di ay jullit.
-54. Yàlla mi leen bind cig lott, teg ca kàttan ; delloo ci lott gu ànd ak kumur, màggat [bijjaaw] : Te mooy sàkk lu ko soob, Mooy ki Xam te Mën. 321
+54. Yàlla mi leen bind cig lott, teg ca kàttan ; delloo ci lott gu ànd ak kumur, màggat [bijjaaw] : Te mooy sàkk lu ko soob, Mooy ki Xam te Mën. 
 55. Bu Bis-pénc ba taxawee, tooñkat ya danañu giñ naan as ndiir su ndaw la nu fi saxoon. Noonu la Nu leen daan férawale, soreel leen dëgg ;
 56. Gaa ña amoon xam-xam ak ngëm, ne leen : “Sax ngeen fa ci dogalu Yàlla ba bisub dekki ba, - lii nag mooy bisub dekki ba, - waaye yéen xamuleen woon”.
 57. Su boobaa, tooñkat ya, seenug tinu du fa jariñ dara te kenn duleen faale.
@@ -3565,7 +3567,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Aliif, Laam, Miim.
 2. Lii ay laaya la yu Téere bu xereñ,
 3. jub la, yërmaande la ngir ñuy rafetal ,
-4. ñiy taxawal julli, di génne asaka te amug wóolu ci ne àllaaxira dina ñëw. 322
+4. ñiy taxawal julli, di génne asaka te amug wóolu ci ne àllaaxira dina ñëw. 
 5. Ñooñaa nga tege ca kaw seen yoonu Boroom wu jub xocc wa, te ñoom ñooña ñoo texe.
 6. Am na ci nit ñuy nëbb xam-xam, di feeñal waxi caaxaan ngir namm a soreel nit ñi, sànk leen, réeral leen yoonu Yàlla ci lu àndul ak xam-xam, weddi ko, jàppe ko ag doyadal. Ñoom ñooña am nañu mbugal muy toroxale.
 7. Saa su ñu jàngee Sunuy laaya ci moom, mu dummóoyu mel ni ku ko déggul, mel ni ab saañ dafa nekk ca nopp ya. Yégal ko ne [am na] mbugal mu metti.
@@ -3576,7 +3578,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 12. Joxoon Nanu Luqmaan xam-xamu xereñ, ne ko : “Santal Yàlla, [gërëm Ko], ku Ko sant ci di Ko dello jukkal, boppam ; ku Ko xarab it..., [Na xam ni] Yàlla ku doylu la, Yayoowaakoonug cant la”.
 13. [Fàttalikul] ba Luqmaan waxee doomam ja, di ko waar, naan ko : “Yaw samas doom, bul bokkaale mukk dara ak Yàlla, ndax bokkaale kat ag tooñ gu réy la”.
 14. Dénk Nanu nit muy rafetal jëme ci ñaari waajuram ; ndax yaayam ëmb na ko muy coono ci biir coono : ba feral ko diirub ñaari at. “Nanga may sant Man [Yàlla] ak sa ñaari waajur. Ci Man la lépp di mujj.
-15. Saa su ñu la sonnalee ci bëgg nga bokkaale Maak loo amul xam-xam, bulen ca topp ; waaye nangay ànd ak ñoom ci àddina si ak njekk. Te nanga topp yoon wa jëmsi ci Man. Fi Man ngeen di mujje [yéen ñépp], su ko defee, Ma téqantalal leen la ngeen daan def”. 323
+15. Saa su ñu la sonnalee ci bëgg nga bokkaale Maak loo amul xam-xam, bulen ca topp ; waaye nangay ànd ak ñoom ci àddina si ak njekk. Te nanga topp yoon wa jëmsi ci Man. Fi Man ngeen di mujje [yéen ñépp], su ko defee, Ma téqantalal leen la ngeen daan def”. 
 16. “Yaw sama doom, dIisaay woowu, doonte la sax dafa tollu ni as fepp, nekk ci kaw doj mbaa ci biir asamaan yi, walla ci biir suuf, du tee Yàlla indi ko . Yàlla Ku deñ-kumpa la .
 17. Yaw sama doom, taxawalal julli tey digle njekk, te it nangay tere njekkar, te it nangay muñ li lay dal. Loolu mooy dégu !
 18. Bul dox di dummóoyu nit ñi, bul dox it di fuukarewu : Yàlla safoowul képp kuy fuukarewu ak a damu.
@@ -3587,7 +3589,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 23. Képp ku weddi it, weddeem ga bumu la jaaxal : danañu dellusi ci Nun, ñu xibaar leen la ñu jëfoon. Yàlla xam na xéll li nekk ci dënn yi.
 24. Dananu leen bànneexal as ndiir ; daldi leen mbaq ci mbugal mu diis.
 25. Te su leen laajoon : “Ku bind asamaan yeek suuf si ? ”, kon ñu ne : “Yàlla ! ”. Waxal : “Cant ñeel na Yàlla ! ”. Waaye ñi ëpp ci ñoom xamuñu.
-26. Yàllaa moom li ci asamaan yeek suuf si. Yàlla Ku doylu la, di Yayoowaakoonub cant ! 324
+26. Yàllaa moom li ci asamaan yeek suuf si. Yàlla Ku doylu la, di Yayoowaakoonub cant ! 
 27. Su fekkoon ne mboolem li nekk ci suuf si ciy garab, dafa doon ay xalima, géej gi amaat yeneen juróom-ñaari géej yu koy dolli, lépp di daa, kon dey du tax kàdduy Yàlla jeex. Yàlla Borom Kàttan la, di Ku Xereñ.
 28. Seenug sosu ak seenug dekkiwaat yéen ñépp, mi ngi yombe Yàlla ni benn bakkan kepp. Yàlla Kuy Dégg la, Kuy Gis la.
 29. Xanaa gisoo ne Yàlla mooy dugal guddi ci bëccëg, Moom dugal it bëccëg it ci guddi, Moo tàggat jant beek weer wi, ku ca nekk a ngay daw ci ab dig bu ñu ko àppal ? Te Yàlla Ku Deñ- kumpa la, Ku Xàmmee li ngeen di def la.
@@ -3609,7 +3611,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 7. Moo jekkal sosug lu ne. Daldi door sosug nit ci ban,
 8. daldi nay defe askanam wa mu càllaloo ci am ndox mu doyadi;
 9. daldi koy yemale, ëf ci Ruuwam. Defaral leen dégg-dégg, ak ub gis ak i xol. Te néewaana ngeen di Ko sant !
-10. Ñuy wax naan : “Ndax bu nu seeyee ci biir suuf si, dananu dekkiwaat ? ”. Ñoom dañoo weddi ne danañu dajeek seen Boroom. 326
+10. Ñuy wax naan : “Ndax bu nu seeyee ci biir suuf si, dananu dekkiwaat ? ”. Ñoom dañoo weddi ne danañu dajeek seen Boroom. 
 11. Neel : “Malaakam ndee ma ñu sasee loolu ci yéen moo leen di rey. Su ko defee, ngeen dellu ca seen Boroom”.
 12. Cëy soo gisoon, tooñkat yaa ngay jatt seeni loos, naan ! “Yaw sunu Boroom, gis nanu, dégg nanu, delloo nu ca [àddina], kon de nu jëf lu baax ; léegi, xam nanu ne lii lu wóor la”.
 13. “Bu Nu sooboon, Dananu indil bakkan bu nekk ag njubam. Waaye dafa fekk ne li Ma wax fàwwu mu am : “Danaa feesal Safara ci nit ak jinne mbooleseen”.
@@ -3621,7 +3623,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 19. Ña gëmoon tey jëf u yiw, am nañu ay dër ca Àjjana, muy seen wàccuwaay ngir la ñu daan jëf.
 20. Ña saay-saayoon, ñoom Safaraa di seen kër : saa su ñu ca bëggee génn, ñu delloo leen ca, te naan leen : “Toqamtikuleen mbugalum Safara sa ngeen daan weddi”.
 21. Dananu leen ñamal ci àdduna [takkandeerub mbugalum àllaaxira] ndax ñu mën a dellu ca yoon wu jub wa !
-22. Ana kan moo gën a tooñ ka nga xam ne, saa su ñu ko fàttalee laayay Boroomam, mu dummóoyu ko ? Dananu feyyu ci tooñkat yi. 327
+22. Ana kan moo gën a tooñ ka nga xam ne, saa su ñu ko fàttalee laayay Boroomam, mu dummóoyu ko ? Dananu feyyu ci tooñkat yi. 
 23. Joxoon Nanu Muusaa Téere ba - bul am xel-yaar ci dajeek moom [yaw Muhammad] -, te defoon Nanu Téere ba mu di njub ñeel Bani-Israayiila gépp.
 24. Defoon Nanu ci ñoom ay njiit yuy gindee ci Sunu ndigal, waxtu wa ñu muñee te wóolu Sunuy laaya [kàddu].
 25. Sa Boroom ci boppam dana àtte seen diggante ca la ñu daan wuute.
@@ -3633,7 +3635,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 ## Saar 33 : FARANDOO YI 73 laaya - Laata Gàddaay ga
 
-Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 328
+Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 
 1. Éy yaw Yonent bi ! Ragalal Yàlla te bul topp yéefar yi ak naaféq yi, Yàlla ku xam la, Ku xereñ la.
 2. Toppal li ñu lay soloo te mu bawoo ca sa Boroom. Yàlla xàmmee na ca la ngeen di def.
 3. Te nangay wéeru ci Yàlla. [Ndax] Yàlla doy na sëkk wéeruwaay.
@@ -3644,7 +3646,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 328
 8. ngir laaj [Moom Yàlla] ñi dëggal ci seenug dëggal. Te waajalal na yéefar yi mbugal mu metti.
 9. Éy yéen ñi gëm ! Fàttalikuleen xéewali Yàlla ci yéen, ba leen xarekat ya songee te Nu yebaloon ci ñom ngelaw ak i xarekat yu ngeen gisul. Yàllaa ngi doon gis li ngeen doon def.
 10. Ba ñu leen songee, jóge leen kaw ak ci suuf [fépp], seen gët ya di tiiw-tiiwi, ngeen rët ba seeni xol nekk ci seeni boli, ngeen di njort ci Yàlla njort lu nekk...
-11. Foofee la Nu nattoo jullit ña, yëngal leen yëngal gu tar. 329
+11. Foofee la Nu nattoo jullit ña, yëngal leen yëngal gu tar. 
 12. Ak ba naaféq ya ak ña seen xol tawat di wax naan : “Yàlla ak Yonentam diguñu nu lu dul ay nax”.
 13. Ak ba mu amee kurél ci ñoom buy wax naan : “Yéen waa Yasriba [Madina] ! Buleen fa toog. Delluleen [ginnaaw]”. Mu am it kurél ci ñoom buy ñaan ndigal Yonent bi, di wax naan : “Sunuy kër dafa aaruwul”, du loolu de : waaye dañoo bëggoon a daw doŋŋ.
 14. Ku leen doxe woon ginnaaw, ne leen na ñu weddi, kon ñu def ko, te duñu ca yéex,
@@ -3654,7 +3656,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 328
 18. Yàlla xam na ñay gàllankoore ci yéen ak ñay wax : “Ñëwleen ci nun”, fekk na yabuñu ab xare,
 19. Dañuy soxore loolu ci yéen. Bu am tiit dikke, nga gis ñu di la xool, seen gët yi di wur- wuri mel ni ñuy sukkraat. Bu tiit ma jeexee, ñu di leen teg ay baat yu ñaaw. Ña bañ aw yiw, ñoom ñooñee gëmuñu. Yàlla daldi sepi seeni jëf. Te loolu yomb na Yàlla.
 20. Te ñuy foog ne farandoo ya demuñu. Te bu ñu dikkoon, dañu naa ngéeju bokk ca màngaan ya, duñu xam li ngeen xewle lu dul bu ñu ko laajtoo. Bu ñu nekkee ci seen biir itam, lu néew la ñuy xareji.
-21. Am ngeen royuwaay wu jekk ci Yonentub Yàlla, te képp ku yaakaar Yàlla te gëm Bis- pénc bu mujj ba, tey tuddu, di fàttaliku Yàlla lu bari . 330
+21. Am ngeen royuwaay wu jekk ci Yonentub Yàlla, te képp ku yaakaar Yàlla te gëm Bis- pénc bu mujj ba, tey tuddu, di fàttaliku Yàlla lu bari . 
 22. Ña gëm tigi, ba ñu gisee farandoo ya, dañoo wax ne : “Lii la Nu Yàlla ak ub Yonentam doon dig ; te Yàlla ak ub Yonentam dëggal Nañu”. Te dolliwuleen lenn lu dul ngëm ak jébbulu.
 23. Am na ci jullit ñi ñuy dëggal la ñu dëelante woon ak Yàlla. Am na ci ñoom ñu ko matal, am it ci ñoom ñuy négandiku ; te soppiwuñu ca dara ;
 24. Yàlla dana fey ña dëggaloon ca seen dëggu ga, Dana mbugal it naaféq ya bu ko soobee, walla Mu baal leen. Yàlla Yërëmaakoon la, Jaglewaakoonu [yërmaandeem] la.
@@ -3665,7 +3667,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 328
 29. Su fekkee nag ne Yàlla ak Yonentam ak kër gu mujj ga di àllaaxira rekk a leen ñor, [nangeen xam ne] képp kuy rafetal ci yéen, Yàlla dana ko waajalal ag pey gu màgg.
 30. Éy yéen soxnaay Yonent bi ! Képp ku bokk ci yéen te def aw ñaawtéef wu bir, dees na ko fulal mbugalam ñaari yoon ! Te loolu yomb na Yàlla.
 31. Képp ku bokk ci yéen te jébbal boppam Yàlla ak ub Yonentam tey jëf u yiw, Dananu ko fulal ag peyam ñaari yoon, te waajalal Nanu ko xéewal gu màgg.
-32. Éy yéen soxnaay Yonent bi ! Yemuleen ak yeneen jigéen ñi. Su fekkee ne ragal ngeen Yàlla, buleen di wax waxi caaxaan, yuy tax góor gu xolam tawat di xemmem. Nangeen di wax wax ju yiw njekk. 331
+32. Éy yéen soxnaay Yonent bi ! Yemuleen ak yeneen jigéen ñi. Su fekkee ne ragal ngeen Yàlla, buleen di wax waxi caaxaan, yuy tax góor gu xolam tawat di xemmem. Nangeen di wax wax ju yiw njekk. 
 33. Nangeen di sax ci seeni kër ; te buleen di baraj-baraji kem ni ko jigéenu jaahiliya yu njëkk ya daan ko defe. Te nangeen di taxawal julli tey génne asaka te nangeen di topp Yàlla ak ub Yonentam. Ndax Yàlla dafa namm a dindi ci yéen, waa kër Yonent bi, lépp luy taq-taq, te laabal leen ba ngeen sell.
 34. Nangeen fàttaliku li Nu leen jàngal ci seen biiri kër, te mu bokk ci laayay Yàlla yi , Alxuraan ak lépp luy xereñe. Yàlla dey Kuy ñeewante la, di Kuy xàmmee.
 35. Naka jullit yu góor yi ak jullit yu jigéen yi, way-gëm yu góor ak way-gëm yu jigéen, way- wommatu yu góor ak way-wommatu yu jigéen yi, way-dëggu yu góor ak way-dëggu yu jigéen yi, way-muñ yu góor ak way-muñ yu jigéen, way-ragal yu góor ak way-ragal yu jigéen ya, saraxekat yu góor ak saraxekat yu jigéen yi, woorkat yu góor ak woorkat yu jigéen yi, góor ñiy sàmm seeni pëy ak yu jigéen yi, ñiy tuddu Yàlla lu bari ci góor ñeek jigéen ñi, Yàlla waajalal na leen njéggal ak pey gu màgg.
@@ -3675,7 +3677,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 328
 39. Ña nga xam ne ñooy jottali bataaxali Yàlla yi te ragal Ko, te it duñu ragal keneen ku dul Moom. Ndax Yàlla doy na sëkk ci waññi [natt] jëf yi.
 40. Muhammad du baayub kenn ci seeni gaay, waaye ndawul Yàlla te di mujjug Yonent yi. Yàlla xam na lépp lu ne.
 41. Éy yéen ñi gëm ! Nangeen di farataal, di tudd Yàlla lu bari.
-42. te nangeen di Ko sàbbaal suba ak ngoon. 332
+42. te nangeen di Ko sàbbaal suba ak ngoon. 
 43. Mooy kiy julli ci yéen, di leen ñaanal, - Mook ay Malaakaam, - ngir génne leen cig lëndëm, jëme leen cig leer ; te Mu di Jaglewaakoonu yërmaandeem ci ñi gëm.
 44. Seenub nuyyoo Bis nuy dajeek Moom : “Jàmm rekk”, te mu waajal leen ag pey gu tedd .
 45. Éy yaw Yonent bi ! Noo la yebal ngir nga doon seede, di béglekat, di xuppekat.
@@ -3696,7 +3698,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 328
 60. Su fekkee ne naaféq yeek lëjëlkat yeek woroom xel yu tawat yi dëkk [Medina] bàyyiwuñu, Danaa xiir ci seen kaw, te kon lim bu néew moo ca déeti dëkkaale ak yéen.
 61. Muy ñuñu rëbb. Fu ñu jublu, ñu faagaagal leen :
 62. Lii mooy sunnas Yàlla, ab dogalam ci ña fi jiitu woon te sunnas Yàlla du soppiku mukk.
-63. Nit ñaa ngi lay laaj ci mbiri Bis-pénc ba. Waxal ne : “Yàllaa ko xam”. Te yaw sax loo ci xam ? Amaana Bis-pénc ba di lu jegeñ. 334
+63. Nit ñaa ngi lay laaj ci mbiri Bis-pénc ba. Waxal ne : “Yàllaa ko xam”. Te yaw sax loo ci xam ? Amaana Bis-pénc ba di lu jegeñ. 
 64. Yàlla rëbb na yéefar yi te waajalal na leen aw safara,
 65. dañu fay béel fàww, duñu fa am ku leen méngoo, duñu fa am ndimbal.
 66. Bis ba ñuy wëlbati seeni kanam ca Safara, ñuy wax naan : “Aka neexoon nu toppoon Yàlla, nu toppoon Yonent ba ! ”.
@@ -3719,7 +3721,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 6. Woroom xam-xam ya danañu gis ne li Nu wàcce ci yaw mu bawoo ca sa Boroom, mooy dëgg te dafay gindee jëme ca yoonu Yàlla wu jub wa xocc, Yàlla miy boroom kàttan, di Yayowaakoonu cant.
 7. Ña weddee ngay wax naan : “Ndax dunu leen tegtal ci waa joo xam ne nee naay su ngeen deewee ba daggatoo, di ngeen dekkiwaat?
 8. Moo ndax dafay sosal Yàlla ay fen ? Walla jinne dakoo sadd ? ” La am kay moo di ña gëmul àllaaxira ñanga ca mbugal ak réer gu sori.
-9. Ndax dañoo gisul li leen wër ci asamaan ak suuf ? Su Nu sooboon, mën Nanu leen a jaxaseek suuf si, walla Nu rotale ay dogit yu bawoo ci asamaan si. Ay kéemaan a ngi ci loolu ngir bépp jaam buy delluwaakoon ci Boroom bi . 336
+9. Ndax dañoo gisul li leen wër ci asamaan ak suuf ? Su Nu sooboon, mën Nanu leen a jaxaseek suuf si, walla Nu rotale ay dogit yu bawoo ci asamaan si. Ay kéemaan a ngi ci loolu ngir bépp jaam buy delluwaakoon ci Boroom bi . 
 10. Joxoon Nanu Daawuda ngëneel lu bawoo ci Nun. Doj yeek njanaaw yi ànd ak moom di sàbbaal. Te it nooyalaloon Nanu ko weñ gu ñuul.
 11. (ne ko) : “Liggéeyal ay mbubbi koŋ te jekkal ko”. Te ngeen di jëf u yiw. Kuy gis laa [Man Yàlla] li ngeen di def.
 12. Tàggataloon Nanu Suleymaan ngelaw li, am xëyëm doxub weer la woon, am ngontam it, doxub weer la woon. Nu nooyalaloon ko bëtub mbellum përëm. Amoon na ci jinne yi ñu koy liggéeyal ci ndigalul Yàlla. Ku ca fétt nag, Dananu ko mosal mbugalum safara.
@@ -3741,7 +3743,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 28. Yónniwunu la [yaw Muhammad] lu dul nga daj képp nit ñi, di béglekat, di xuppekat. Waaye li ëpp ci nit ñi duñu xam.
 29. Ñuy wax naan : “Dig ba kañ lay doon su fekkee ne li ngeen di wax dëgg la ? ” .
 30. Waxal ne : “Am ngeen digub Bis boo xam ne dungeen ko jiitu, dungen ko yées ! ”.
-31. Yéefar ya nee nañu : “Duñu gëm Alxuraan walla lu ko jiitu”. Cëy boo gisoon tooñkat ya bu keroogee ba ñu taxawal leen ci seen kanamu Boroom, nga gis leen ñuy wàqante ! Ña néewoon doole di wax kilifa ya, naan leen : “Bu dul kon ak yéen, ay jullit la nuy doon”. 338
+31. Yéefar ya nee nañu : “Duñu gëm Alxuraan walla lu ko jiitu”. Cëy boo gisoon tooñkat ya bu keroogee ba ñu taxawal leen ci seen kanamu Boroom, nga gis leen ñuy wàqante ! Ña néewoon doole di wax kilifa ya, naan leen : “Bu dul kon ak yéen, ay jullit la nuy doon”. 
 32. Ña ca doonoon kilifa wax ña ca néewoon doole, ne leen : “Ndax Nun noo leen féewale woon ak njub ga ca ba mu leen dikkalee ? Li wér kay mooy yéen ay tooñkat ngeen”.
 33. Ña ca néewoon doole wax ña ca doonoon ay kilifa, ne leen : “Moom ngeen daan fexe guddi ak bëccëg, ndax yéen a nu daan digal nuy weddi Yàlla, di ko sàkkal ay bokkaale”. Daldi nañu rëccu ba ñu gisee mbugal ma. Nu daldi def ay jéng ca loosi ña weddi : moo ndax feyewuñu leen lu dul la ñu daan def ? ”
 34. Amul benn dëkk bu Nu mës a yebal ab xuppekat lu dul ne kilifa ya dañuy wax naan : “Nun dey weddi nanu lii ñu leen yónni”.
@@ -3751,7 +3753,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 38. Waaye ña daan dox, di dëgërante bopp ak Sunuy kàddu, ñoom ña nga ne xeew ci biir mbugal ma.
 39. Waxal ne : “Yàlla sama Boroom mooy yaatalal ku ko soob wërsëgam ci jaamam yi, Moo koy xatal it. Lépp lu ngeen mën a joxe [ci alal], moom Yàlla moo koy wuutalaat, te Yàlla moo di ngën ji kuy wërsëgal”.
 40. Bu keroogee Bis ba leen Yàlla di dajale mbooleseen. Ba noppi daldi wax Malaaka ya ne leen : “Moo ndax ñii yéen la ñu daan jaamu ? ”.
-41. Ñu ne : “Tudd nanu sag sell ! Yaw yaay sunu wéeruwaay, du ñoom. Li am moo di, ñoom jinne yi la ñu daan jaamu, li ëppoon ci ñoom jinne la ñu gëm. 339
+41. Ñu ne : “Tudd nanu sag sell ! Yaw yaay sunu wéeruwaay, du ñoom. Li am moo di, ñoom jinne yi la ñu daan jaamu, li ëppoon ci ñoom jinne la ñu gëm. 
 42. Tey jii nag, kenn ci ñoom ëmbalut moroomam lor mbaa njariñ, te Dananu wax ña daan tooñ ne leen: “Tokkamtikuleen mbugamal Safara sa ngeen doon weddi”.
 43. Bu ñu mësaan a jàng ci ñoom laaya yu leer, dañu naan : “Waa jii daal nammul lu dul féewale leen ak li leen seeni baay daan jaamu”. Ñuy wax it naan : “Lii daal du dara lu dul ay fen yu ñu sos”. Ña weddi woon dëgg it ba mu leen dikkalee, ña nga naan : “Lii daal ag njibar doŋŋ la ! ”.
 44. [Moonte] Joxuñuleen woon ay téere yu ñuy mën a jàng. Mësuñoo yónni it ca ñoom ab xuppekat bu la jiitu.
@@ -3763,7 +3765,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 50. Waxal ne : “Su ma réeree , sama bopp doŋŋ laay sànk ; su ma gindikoo it, ci sababus li ma Yàlla soloo lay ame, Moom Yàlla kuy Dégg, kuy Jigeñ la”.
 51. Cëy soo leen gisoon ba ñu jàqee, - kenn du raw, - dañu leen a ndar-kepp ci barab bu nekk !
 52. Ñu neey : “Gëm nañu”, - Moo fu leen ngëm di bawoo ?
-53. te fekkoon ñu weddi lu jiitu, di sànney kumpa ci barab bu sori ! 340
+53. te fekkoon ñu weddi lu jiitu, di sànney kumpa ci barab bu sori ! 
 54. Ñu gàllankoor seen digganteek la ñu doon wuneen [sopp], kem nañu ko defe woon ca ña leen jiitu, ña nga woon ci biir sikki-sàkka gu xóot.
 
 ## Saar 35 : AJI-SÀKKE JI 45 laaya – Laata Gàddaay ga
@@ -3774,7 +3776,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 3. Éy yéen nit ñi ! Fàttalikuleen xéewali Yàlla yi ci yéen : moo ndax amuñu bindkat bu dul Yàlla, bu leen di wërsëgal ci asamaan yeek suuf si ? Amul jeneen yàlla ju dul Moom ! Moo yéen ndax mën ngeen koo dummóoyu ?
 4. Bu ñu la weddee it, xamal ne weddi woon nañu ay Yonent yu la jiitu woon. Te ca Yàlla la mbir yi di mujj.
 5. Éy yéen nit ñi ! Li Yàllay dige dëgg la. Buleen dundug àddina bii di fàbbi, buleen Séytaane tax a fakku ci Yàlla.
-6. Séytaane, seenub noon la. Nangeen ko jàppe ab noon. Li muy woote di ci xiirtal gàngooram moo di ngir ñu nekk waa Safara doŋŋ la. 341
+6. Séytaane, seenub noon la. Nangeen ko jàppe ab noon. Li muy woote di ci xiirtal gàngooram moo di ngir ñu nekk waa Safara doŋŋ la. 
 7. Ña weddi, mbugal mu metti dana leen dal, ña gëm nag tey jëf u yiw, danañu am njéggal ak pey gu rëy .
 8. Naka kay jàppee ñaawtéefam ya muy lu rafet... ? – Yàllaay réeral ku ko soob, di gindi ku ko soob – Bul sonnal sa bopp ci ñoom : Yàlla xam na xéll la ñuy def.
 9. Yàlla miy yebal ngelaw muy niir, Nu wommat ko jëme ko ci dëkk bu deewoon ; di ca dundal suuf si ginnaaw ba mu deewee. Noonu la Dekki di ame.
@@ -3785,7 +3787,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 14. Bu ngeen leen di woo, duñu leen dégg ; bu ñu leen déggoon it, duñu leen tontu. Bu Bis- pénc baa, danañu teggi ba mu set li ngeen ko doon bokkaale. Amul kenn ku la mën a jox xibaar yu wére nii.
 15. Éy yéen nit ñi, yéen ay soxlaa woo Yàlla, waaye Yàlla moom Ku doylu la ci boppam, di Yeyoowaakoonu cant.
 16. Su ko neexoon Mu yóbbu leen, indi ñeneen mbindeef yu bees.
-17. Te loolu du lu jafe ci Yàlla. 342
+17. Te loolu du lu jafe ci Yàlla. 
 18. Kenn du yenu bàkkaarub keneen. Te képp ku diis gann ak bàkkaar, bumu cay woote ndimbal, kenn du ko yenul dara, doonte la sax dafa di mbokkug jegeñaale. Da di rekk ne nangay xupp ña di ña ragal seen Boroom ci kumpa tey taxawal julli. Te képp ku cay sellal, na xam ne boppam la koy defal, te ca Yàlla la lépp di mujj.
 19. Gumba ak njàccaar niróowuñu.
 20. du caagene lëndëm ak leer.
@@ -3797,7 +3799,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 26. Ginnaaw ba, Ma jël ña weddi. Cëy na Ma leen jële.
 27. Xanaa gisuloo ne Yàlla moo wàcce ndox mu bawoo ci asamaan si ? Nu daldi cay génne ay meññent yu wuute ay wirgu. Am na it ci tundi doj yi yuy sësëloo te weex, ak yuy xonk, yu wuute ay wirgu, ak yu ñuul kukk.
 28. Am na it ci nit ñi, ci daaba yeek mala yi yu wuute ay wirgu, noonu rekk la. Jaami Yàlla yi ko ragal ñoo di woroom xam-xam yi. Te Yàlla boroom xam-xam la, di Jéggalaakoon.
-29. Ñay jàng Téereb Yàlla ba, tey taxawe julli, tey joxe ci [alal] ji Nu leen wërsëgale, ci lu nëbbu ak ci lu feeñ, ñoom yaakaar nañu am njula mu dul yàqu. 343
+29. Ñay jàng Téereb Yàlla ba, tey taxawe julli, tey joxe ci [alal] ji Nu leen wërsëgale, ci lu nëbbu ak ci lu feeñ, ñoom yaakaar nañu am njula mu dul yàqu. 
 30. loolu lépp ngir Yàlla jox leen seenug pey te dolli leen ciy ngënéelam. Moom Yàlla, Jéggalaakoon la, Kuy sant la.
 31. La Nu la soloo ci Téere bi mooy dëgg tey saxal la ko jiitu woon . Yàlla kuy Xàmmee la, Kuy Gis jaamam ñi la.
 32. Ginnaaw ba, donnale Nanu Téere ba sunu jaam ña Nu tànn. Am na ci ñoom kuy tooñ boppam, am na ci ñoom ñuy yamamaay, am na it ci ñoom ñuy jëkkante ciy jëf yu baax ci ndimbalu Yàlla ; loolu nag tigi mooy ngëneel la gën a màgg.
@@ -3807,7 +3809,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 36. Ñay weddi nag, ñoom Safara la ñuy dëkk : ñu di leen xorñoññal, duñu dee ; te it deesuleen woyofalal mbugal ma. Noonu la Nuy feye képp ku di ab weddiwaakoon.
 37. Ña ngay yuuxu ca biir, di wax naan : “Yaw sunu Boroom, génne nu ; kon dey dananu jëf u yiw, wu bokkul ak la ñu daan jëf ”. “Waaw, moo ndax dundalunuleen fa woon diir bu tax, ña fàttaliku ñépp, fàttaliku nañu ca ? Te ay xuppekat it dëkkaloon nañu leen. Kon book, toqamtikuleen mbugal mi. Tooñkat yi, kenn duleen dimbali”.
 38. Yàllaa xam kumpag asamaan yeek suuf si. Moom ab Xamaakoon la li nekk ci dënn yi .
-39. Moo leen def ngeen di ay kuutaatam ci kaw suuf si. Képp kuy weddi, weddeem ga dana daanu ci kawam. Te yéefar ya, seenug weddi duleen dolli lu dul jéppig Yàlla. Te it seen weddi googu duleen dolli lu dul yàqule. 344
+39. Moo leen def ngeen di ay kuutaatam ci kaw suuf si. Képp kuy weddi, weddeem ga dana daanu ci kawam. Te yéefar ya, seenug weddi duleen dolli lu dul jéppig Yàlla. Te it seen weddi googu duleen dolli lu dul yàqule. 
 40. Neel : “Ndax gis ngeen ñi ngeen bokkaleek Yàlla, di leen jaamu ? Wonleen ma ñoom ana lan la ñu bind ci kaw suuf si. Walla dañoo am sañ-sañ ci asamaan yi ? Walla dañu leen a joxoon Téere bu leen bir” Déedéet ! Li am kay moo di ne tooñkat ñi ñoom wor rekk la ñuy digante.
 41. Yàlla moo téye asamaan yeek suuf si ba daanuwuñu. Te bu ko dindi woon it, amul kenn ci ñoom ku ko cay téye ginnaawam. Moom Yàlla ab Jéggalaakoon la, ku Lewet la.
 42. Dañu daan waat ci Yàlla fu ngiñ gën a ñàngee, di wax naan : su leen ab xuppekat dikkaloon, ñooy gën a gindiku weneen xeet wu dul ñoom. Waaye ba leen ab xuppekat dikkalee , dolliwuleen lu dul dummóoyu .
@@ -3818,7 +3820,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 ## Saar 36 : YAA-SIIN 83 laaya – Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
-1. Yaa-Siin. 345
+1. Yaa-Siin. 
 2. Maa ngi waat ci Alxuraan jii fees dell ag xereñ.
 3. Ci ne yaw [Muhammad] bokk nga ci limub Yonent yi.
 4. ci kaw yoon wu jub xocc wa.
@@ -3832,7 +3834,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 12. Nun Yàlla nooy dundal néew tey bind la ñu defoon ak seeni jeexit. Te mbir mu ci bokk yéege Nanu ko ci biir ab téere bu bir , bind ko ca.
 13. Joxleen misaal ci waa dëkk ba ab Yonent dikkaloon.
 14. Ba Nu leen jebalee ñaari ndaw ñu weddi leen. Nu daldi leen kàttanalaat ci ndaw lu leen ñetteel, ñu ànd ñoom ñett, ne leen : “Nun ndawi Yàlla lanu”.
-15. [Waa dëkk ba] tontu [Antaakiya] ne leen : “Yéen daal, ay mbindeef ngeen ni nun. Te Yàlla wàccewul dara, yéen daal ay fenkat doŋŋ ngeen”. 346
+15. [Waa dëkk ba] tontu [Antaakiya] ne leen : “Yéen daal, ay mbindeef ngeen ni nun. Te Yàlla wàccewul dara, yéen daal ay fenkat doŋŋ ngeen”. 
 16. [Yonent ya] waxaat ne : “Yàlla xam na ne nun ay Yonent lanu ci yéen.
 17. te dara warunu lu dul jottali ba mu leer nàññ.”
 18. Ñu ne : “Gaafal nanu leen. Te bu ngeen bàyyiwul, dananu leen jóori xeer te dananu leen mbugal mbugal mu tar”.
@@ -3845,7 +3847,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 25. Man dey, gëm naa seen Boroom, dëggal-leen ma”.
 26. Waxees na ko, ne ko : “Tàbbil Àjjana”. Mu wax ne : “Cëy aka neexoon samaw nit xam !
 27. li tax Yàlla jéggal ma, def ma ma bokk ci ña Muy teral”.
-28. Wàccewunu ci aw nitam ginnaaw ba mu jàllee, ay xarekat ñuy bawoo asamaan. Bëggunu fa woon a wàcce dara itam. 347
+28. Wàccewunu ci aw nitam ginnaaw ba mu jàllee, ay xarekat ñuy bawoo asamaan. Bëggunu fa woon a wàcce dara itam. 
 29. Génn xaacu rekk a fa jaar, ñu faf giim.
 30. Ndeysaan jaam ñi le ! Ab Yonent mësuleen a dikkal mukk te du dañu koy ñaawal.
 31. Xanaa gisuñu na Nu faagale woon maas ya leen jiitu woon ? Te kenn du ca dellusi.
@@ -3860,7 +3862,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 40. Jant bi du jot weer wi, guddi it du jiitu bëccëg ; ku nekk a nga ca yoonam di féey.
 41. Ak firndey yenu gi Nu yenu seeni sët ci biir ag gaal gu ñu sëf ;
 42. Te sàkkal Nanu leen yeneen yu ni mel ñu di ca war.
-43. Bu Nu sooboon, Nu labal leen ; duñu xam fu ñuy yuuxu jëmële, te kenn du leen xettali, 348
+43. Bu Nu sooboon, Nu labal leen ; duñu xam fu ñuy yuuxu jëmële, te kenn du leen xettali, 
 44. lu dul yërmaande ju bawoo ci Nun, ak i xéewal ba jëmmi jamono.
 45. Te saa su ñu leen waxee ne : “Wattandikuleen li nekk ci seen kanam ak li ci seen ginnaaw ndax amaana yërmaande wàcc ci yéen” !...
 46. Amul yenn laaya , yu bokk ci seeni laayay Boroom, dikkal leen te dañu koo dëddu.
@@ -3888,7 +3890,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 68. Képp ku Ma defal aw fan wu guddi, Danaa ko màggatloo, xanaa dungeen xalaat ?
 69. Jàngalunu Muhammad woy mbaa lu koy nuru ; lii daal du dara lu dul ag fàttali ak Alxuraan juy biral,
 70. ngir muy xupp ñiy dundu, wax ja itam di lu yay ca yéefar ya.
-71. Xanaa dañoo gisul ne sàkkal Nanu leen ci Sunu liggéeyu loxo ag jur gu ñuy moom ; 350
+71. Xanaa dañoo gisul ne sàkkal Nanu leen ci Sunu liggéeyu loxo ag jur gu ñuy moom ; 
 72. Nu tàggatal leen ko ; ñu di ca war te it ñu di ca lekk ;
 73. am nañu ci ay njariñ ak i naan. Moo ndax dañu dul sant ?
 74. Ñuy jàppe yàlla leneen lu dul Yàlla, ngir ñu neey danuy sàkku ndimbal...
@@ -3915,7 +3917,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 8. Duñu mën yëddu waa péey ba gën a kawe ; te dañu leen fay mbàqe wet gu nekk,
 9. dàqe leen fa. Ñu am mbugal muy sax.
 10. Xanaa rekk léeg-léeg mu am ñu cay sàcc ay xibaar ; ñu di ko dàq ak jumu safara buy bënn.
-11. Laajleen baxam dañoo gën a jafe bind ñeneen ña Nu bind ? Noo ngi leen binde ci ban bu tikk ! 352
+11. Laajleen baxam dañoo gën a jafe bind ñeneen ña Nu bind ? Noo ngi leen binde ci ban bu tikk ! 
 12. Yaw waaru nga, te ñoom ña ngay tejjiy reetaan !
 13. Te bu ñu leen di fàttali, duñu fàttaliku [Alxuraan] ;
 14. dañuy wàkkante ak a reetaan [saa su ñu gisee keemaan],
@@ -3930,7 +3932,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 23. bàyyi woon Yàlla. Te wëtal leen jëme yoonu Safara.
 24. Te ngeen taxawlooleen : ndax dañu leen di laaj”.
 25. “Ana lan moo tax dungeen dimbalante” ?
-26. Li wér mooy bis niki tey jébbalu nañu, 353
+26. Li wér mooy bis niki tey jébbalu nañu, 
 27. ku nekk di geesu moroom ma, ñuy laajante ;
 28. Ñuy wax naan : “Yéen a nu daan ga ci kéefar”.
 29. [Kilifa ya] ne leen : “Yéen kay yéen a gëmul woon.
@@ -3945,7 +3947,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 38. Yéen dangeen mos mbugal mu mitti.
 39. Te it kenn du leen feye lu dul la ngeen daan jëfe,
 40. ba mu des jaami Yàlla yay sellal,
-41. Ñoom am nañu wërsëg wu ñu xam : 354
+41. Ñoom am nañu wërsëg wu ñu xam : 
 42. ay fuytéef ak i teraanga,
 43. ca biir Àjjanay xéewal ja,
 44. ñuy jàkkaarloo ca seen kawi lal.
@@ -3960,7 +3962,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 53. Ndax bu nu faatoo ba doon suuf ak i yax, dara dananu warati ? ”
 54. Mu wax ne : “Xanaa téenuleen ? ”
 55. Mu daldi téen, gis ko ca biir Safara,
-56. mu wax ne : “Waat naa ci Yàlla ne ! Xaw nga maa tax a alku ! 355
+56. mu wax ne : “Waat naa ci Yàlla ne ! Xaw nga maa tax a alku ! 
 57. dogankoon ak sama dimbalul Boroom, danaa sànku.
 58. Xanaa nun dey dunu dee
 59. lu dul ca dee gu jëkk ga te xanaa kenn dunu mbugal ? ”
@@ -3975,7 +3977,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 68. Safara rekk mooy seen kër.
 69. Daje nañu faak seeni [baay ak i maam] cig cànkute,
 70. ñuy yolli-yolli topp leen.
-71. Li ëppoon ca ña leen jiitu woon sàkku woon nañu. 356
+71. Li ëppoon ca ña leen jiitu woon sàkku woon nañu. 
 72. Ndax yónni woon Nanu ci ñoom ñuy xuppe, di waaraate .
 73. Xoolal mujjug ñanu daan xupp !
 74. Ña ca dul jaami Yàlla ya ca daan sellal :
@@ -3990,7 +3992,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 83. Ibrahiima bokkoon na ca ay njabootam.
 84. Fàttalikul ba mu dikkee ca Boroomam ànd ak xol bu mucc ayib.
 85. Ak ba mu waxee baayam ak nitam, ne leen : “Ana li ngeen di jaamu ? ”
-86. Moo ndax ay nar ngeen di namm a def ay yàlla bàyyi Yàlla Moom ? 357
+86. Moo ndax ay nar ngeen di namm a def ay yàlla bàyyi Yàlla Moom ? 
 87. Waaw, lu ngeen njort ci Yàlla boroom asamaan si ? ”
 88. Mu téen xool biddéew yi [di settantal],
 89. mu daldi wax ne : “Man damaa wopp”.
@@ -4005,7 +4007,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 98. Ñu bëggoon koo fexeel ; Nu suufeel leen, detteel leen.
 99. Mu wax ne : “Maa ngi dem ca sama Boroom, Dana ma gindi.
 100. Yaw sama Boroom, may ma ay sët yu yiw”.
-101. Nu bégal ko, may ko doom ju lewet . 358
+101. Nu bégal ko, may ko doom ju lewet . 
 102. Ba mu amee ati àndak moom, Ibraahiima wax na ne : "Yaw samas doom, gis naa ci bi may nelaw, ci biir gént, ndigalul war laa rendi. Seetal looy xalaat”. (Ismaayiila) ne ko : “Yaw sama baay, defal lu ñu la digal : bu soobee Yàlla, danga gis ne maag muñkat yee ànd”.
 103. Ba ñu wéyalee seen ndigalul Boroom, mu di dëféenal ko,
 104. Nu woo ko, ne ko : “Éy yaw Ibraahiima !
@@ -4020,7 +4022,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 113. Nu barkeel ko moom ak Isaaqa. Mu am ci seeni sët kuy rafetal ak kuy tooñ boppam.
 114. Xéewaloon Nanu Muusaa ak Haaruuna,
 115. Musaloon Nanu leen ñoom seeni sët ca tiit mu rëy ma,
-116. Nu dimbali woon leen, ñoom ñoo nootoon. 359
+116. Nu dimbali woon leen, ñoom ñoo nootoon. 
 117. Nu indiloon leen ab téere bu bir
 118. Nu indiloon leen yoon wu jub wa xocc.
 119. Nu bàyyi woon leen nit ña di leen fàttaliku :
@@ -4035,7 +4037,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 128. Ba mu des jaami Yàlla ya daan sellal.
 129. Nu bàyyi nit ñuy mujj noonu di ko fàttaliku :
 130. “Jàmm yal na nekk ci njabootug Ilyaas”.
-131. Noonu la Nuy feye ñiy rafetal, 360
+131. Noonu la Nuy feye ñiy rafetal, 
 132. bokk na ci Sunu jaam ñi gëm.
 133. Lóot it bokk na ci Yonent yi.
 134. [Fàttalikul] ba Nu ko musalee mook njabootam gépp,
@@ -4050,7 +4052,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 143. Dugankoon ak li mu bokkoon ca ña doon sàbbaal Yàlla,
 144. kon dey dana sax ca biir [jën wa] ba bisub dekkiwaat ba di ñëw.
 145. Nu sànni ko ca teges ga te muy ku ràgg.
-146. Nu daldi fay saxal gàncaxug beraf, 361
+146. Nu daldi fay saxal gàncaxug beraf, 
 147. Nu yebal ko muy Yonent ci téeméeri junniy nit mbaa lu ko ëpp.
 148. Ba ñu gëmee, xéewalal Nanu leen fa ab diir.
 149. Laajleen baxam : “Ndax Yàlla moo ame doom yu jigéen, ñoom ñuy am doom yu góor ?
@@ -4065,7 +4067,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 158. Ñu di ko askanale ci jinne yi, ndax jinne yi xam nañu ne danañu teew ci kanamu [Yàlla].
 159. Tudd naa sellug Yàlla ga. Kawe na lool la ñu koy melal !
 160. Ba mu des jaami Yàlla yiy sellal.
-161. Yéen ak li ngeen di jaamu, 362
+161. Yéen ak li ngeen di jaamu, 
 162. kenn duleen ci fitnaal,
 163. ku dul kuy nar a xoyomu ci Safara.
 164. Amul kenn ci [Malaaka yi] lu dul ne am na wàccuwaay wu ñu xam ;
@@ -4080,7 +4082,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 173. te it Sunuy xarekat ñooy not.
 174. nanga leen dummóoyu ab diir ;
 175. te nga seetluleen : danañu gis de !
-176. Moo ndax ñoom dañuy yàkkamti sunu mbugal ? 363
+176. Moo ndax ñoom dañuy yàkkamti sunu mbugal ? 
 177. Su wàccee ci seenub ëtt, ñoom ña ñu doon fàttali, ndaw suba gu bon !
 178. nanga leen dummóoyu ab diir ;
 179. te nga seetluleen : danañu gis de !
@@ -4094,7 +4096,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Saad. Maa ngi giiñ ci Alxuraan, miy boroom tur ci ne :
 2. Ña weddi ña nga cag rëy-rëylu ak kaŋ-kaŋ !
 3. Aka bari ñu nu faagaagal ca ña leen jiitu woon, ñu daan yuuxu, walla te du ñu man a raw?
-4. (Waa Màkka) daana yéeme ci waaraatekat bii leen digal te bokk ci ñoom, yéefar ya daan wax naan : “Kii dey ab njibarkat la bu di ab fenaakoon, 364
+4. (Waa Màkka) daana yéeme ci waaraatekat bii leen digal te bokk ci ñoom, yéefar ya daan wax naan : “Kii dey ab njibarkat la bu di ab fenaakoon, 
 5. Moo ndax dafa bëgg a def Yàlla yii muy jenn Yàlla ? Aa lii dey mbir mu yéeme la”.
 6. Kilifa ya ne leen : “Demleen, te muñ jàpp ci seen Yàlla yii : lii daal la nu bëgg.
 7. Nun masunoo dégg lii ci diine ji fi mujj wàcc (Iisaa) ; lii daal ay sos rekk la !
@@ -4107,7 +4109,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 14. Ñoom ñépp weddi woon yonnent ya. Nu daldi leen mbugël !
 15. Ñoom xaaruñu lu dul genn xaacu, gu dul tóllantiku wol.
 16. Ñuy wax naan : “Yaw sunu Boroom, gaawal jox nu sunu wàll balaa wañoo ba”.
-17. Muñal lii ñuy wax ; te ngay fàttaliku Sunu jaam ba Daawuda ma doonoon boroom doole, Moom ku faral daan dellu ci Boroomam la woon. 365
+17. Muñal lii ñuy wax ; te ngay fàttaliku Sunu jaam ba Daawuda ma doonoon boroom doole, Moom ku faral daan dellu ci Boroomam la woon. 
 18. Tàggataloon Nanu ko, tundi doj yi nu daan ànd ak moom, di sàbbaal Yàlla subaak ngoon,
 19. picc yépp it dañuy dajaloo, di delloo kañ [Yàlla].
 20. Dëgaralal Nanu ko nguuram jox ko xam-xamu xereñe ràññee ak xam-xamu àtte.
@@ -4119,7 +4121,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 26. “Éy yaw Daawuda, def Nanu la ngay sunu kuutlaay ci kaw suuf si. Na ngay àtte diggënte nit ñi ci dëgg te bul topp mukk bànneex : su ko defee dana la féewale ak yoonu Yàlla”. Te ñiy féewook yoon danañu am mbugël mu tar mitti ngir lañu fàtte bisub wañoo ba (Bis Pénc ba).
 27. Te bindunu asamaan ak suuf ak li nekk ci seen diggënte cig neen. Loolu la yéefar ya njortu. Te yéefar yaa ngaay tuskare ca biir safara !
 28. Moo ndax dañuy jëflaantéek yàqkat yi nekk ci suuf ? walla danuy jëflaantéek ña ragal Yàlla kem ni ñuy jëflaantéek kàccoor yi ?
-29. [Lii] ab Téere la bu Nuy wàcce ci yaw bu barkeel nak, ngir ñuy settantal ay laayaam ak it ngir woroomi xel yi man ciy fàttalikoo! 366
+29. [Lii] ab Téere la bu Nuy wàcce ci yaw bu barkeel nak, ngir ñuy settantal ay laayaam ak it ngir woroomi xel yi man ciy fàttalikoo! 
 30. May Nanu Daawuda (doomam ja) Sulaymaan, - ndaw jaam bu baax ! – Ku daan dellu ca boroomam la.
 31. (Fàttalikul) ngoon ga, ñu ko gaarale fasi naari góor ya,
 32. Sulaymaan dellu wax ne : “Cëy man, maa ngi fees dell ak bëgg (àddina sii) mu fàbbi maa ba jant bi so te fàttalikuwuma sama Boroom.
@@ -4147,7 +4149,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 54. Lii moo di sunu xéewal gi te du jeex mukk.
 55. Yëgal it ne ! ñay bew am nañu wàccuwaay wu yées,
 56. Mooy Safara su ñuy xoyomoo. ndaw kër gu bon !
-57. Mi ngi nii ! Nu cay tokamtiku : ndox muy tàng ak a wañax, 368
+57. Mi ngi nii ! Nu cay tokamtiku : ndox muy tàng ak a wañax, 
 58. ak yeneeni xeeti mbugël yu mu témbóol.
 59. Ñii ay mbooloo la ñu ñuy buuxanteek yéen, kenn dalaluleen. Te ñooy xoyomu ca Safara.
 60. Ñuy wax naan : “Yéen kay la kenn dul dalal, lii, Yéen la ñu ko waajal”. Te ndaw saxuwaay bu bon !
@@ -4160,7 +4162,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 67. Waxal ne : “Xibaar bu rëy la,
 68. waaye yéen dumóoyu ngeen ko.
 69. Amuma woon xam-xam ca xulóob kilifa ya gën a kawe.
-70. Li nu may soloo doonul lu dul ne man mii ab xuppe kat laa waaraatekat bu bir”. 369
+70. Li nu may soloo doonul lu dul ne man mii ab xuppe kat laa waaraatekat bu bir”. 
 71. (Fàttalitul) ba sa Boroom waxee Malaaka ya ne leen : “Man de maa ngi sàkk mbindéef ci ban.
 72. Suma ko móolee ba ëf ci Sama Ruu, na ngeen daldi rot, sujuudal ko”.
 73. Malaaka ya yépp daldi sujuud,
@@ -4175,7 +4177,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 82. “[Ibliis ne ko] giiñ naa ci sa màgg gi ne ! Danaa leen lajj loo ñoom ñépp,
 83. ba mu des sa jaam ñiy sellal”.
 84. (Yàlla) daldi wax ne : “Maa ngi waat, ci dëgg ne dëgg laay wax,
-85. Danaa feesal Safara ci yaw ak ña la topp ñépp”. 370
+85. Danaa feesal Safara ci yaw ak ña la topp ñépp”. 
 86. Waxal ne : “Laajumaleen ci ag pey ; te it yanuwuma ci.
 87. [Alxuraan] jii daal ag fàttali la ñeel waa àddina si yépp.
 88. Te dangeen xam ay xibaaram ci ndiir su yàggatul ! ”.
@@ -4198,7 +4200,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 13. Waxal ne : “Ragal naa, su ma mettee sama Boroom, (dajeek) mbugëlam bis bu màgg”.
 14. Waxal ne : “Yàlla laay jaamu, te di Ko sellalal sama diine.
 15. Jaamuleen, lu leen soob (bàyyi Yàlla)! ” – Waxal ne : “ña yàqule, ñooy ña ñàkk seen bopp ak seen njaboot, ca Bis Pénc ba”. Loolu mooy yàqule tigi.
-16. Am na ci seen kaw, ay muuraayi safara, ak ci seen suuf ay laltaayi safara. Loolu la Yàlla di ragalloo jaamam ñi. “Éy yéen Samay jaam, ragalleen ma ! ” 372
+16. Am na ci seen kaw, ay muuraayi safara, ak ci seen suuf ay laltaayi safara. Loolu la Yàlla di ragalloo jaamam ñi. “Éy yéen Samay jaam, ragalleen ma ! ” 
 17. Ñay moytandikoo jaamuy xërëm, tey dellu ca Yàlla, danañu am mbégte ! Bégalal Sama jaam ñi
 18. Ña nga xam ne dañuy déglu Wax, tey topp la ca gën a rafet. Ñoom la Yàlla gindi te ñooy woroom xel ya !
 19. Ka baatub mbugël yay ci moom,... ndax yaw yaay xettali ku nekk ca biir safara ?
@@ -4209,7 +4211,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 24. Moo ndax ki am bugël mi gën a gën a bon ( niróo na ak ka dugg Àjjana), bu Bis Pénc baa bu boobaa tooñkat ya... Dañu naan leen : “Tokamtikuleen li ngeen daan fàggu”.
 25. Xeet ya leen fi jiitu woon weddi woon nañu (Yonnent yi), mbugël ma dikkëlleen fuñu ko foogewul.
 26. Yàlla musal na leen mbugëlu toroxtaane ci dundug àddina sii. Te mbugëlu àllaaxira, moo, gën a rëy, cëy bu ñu xamoon !
-27. saddalal Nanu nit ñi ay léebu ci Alxuraan jii, ndax amaana ñuy fàttaliku. 373
+27. saddalal Nanu nit ñi ay léebu ci Alxuraan jii, ndax amaana ñuy fàttaliku. 
 28. Mooy Alxuraan ju di [làmmiñu] araab, amul lugg-luggal, ndax amaana ñuy ragal Yàlla !
 29. Yàllaa ngi sadd léebu jenn waay ju am digaale yu bari tey ŋaayoo : ndax niróonaak waa ju am benn digaale bu mu jubóol ? Yàlla rekk yayoo cant ! Li am moo di ne li ëpp ci ñoom xamuñu (misaalum kuy jaamu Yàlla ak ku koy bokkaale).
 30. Yaw dangay dee ñoom it dañuy dee ;
@@ -4221,7 +4223,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 36. Moo ndax Yàlla dafa doyul [wéruwaay] ci ab jaamam ? Bay tax ñu di la tiitale ci leneen lu dul Moom. Képp ku Yàlla natt ci moom réer kenn du ku gindi.
 37. Te it képp ku Yàlla namm ci moom njub, kenn du ko réerël. Moo ndax Yàlla dafa dul boroom Kàttan di boroomuk Fayu ? Axakañ !
 38. Soo leen laajoon : “Ku bind asamaan yeek suuf si ? ”, Ñu ni la : “Yàlla”. Waxal ne : “Xanaa gisu leen li ngéen di jaamu bàyyi Yàlla ; ci ne su Yàlla nammee ci man lor, ndax ñoom kon danañu man a teggi lor ja ? Walla su Yàlla nammoon ci man yërmaande, ndax kenn danañu man a fanq yërmaande ja ? ” – waxal ne : “Yàlla doy na ma : ci moom la wéerukat ya di wéeru”
-39. Waxal ne : “Éy yéen samaw nit, liggéeyleen lu ngeen man, man it [maa ngi liggéey]. Dangeen xalset a xam 374
+39. Waxal ne : “Éy yéen samaw nit, liggéeyleen lu ngeen man, man it [maa ngi liggéey]. Dangeen xalset a xam 
 40. ana kan la mbugël di dikk toroxal ko ; ak ci kaw kan la mbugëlam dëggële di wàcc”.
 41. Wàcce Nanu ci yaw Téere ba, ci dëgg, ngir nit ñi. Ku gindiku boppam ; ku réer it boppam. Seenub lijjënti warula
 42. Yàlla mooy faat bakkan bu ñuy dee ak ya deewul ci biiri nelaw. Mooy téye ya mu namm ñu dee, di boyal ya ca des jëme ko ca dig ba mu ko àppal. Ay kéemaan a ngi ci biir loolu ngir aw nit ñuy xalaat.
@@ -4233,7 +4235,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 48. seen ñaawtéef ya ñu fàggu woon feeñ, la ñu daan ñaawalaatee muur leen.
 49. Saa su nit amee lor ju ko dab, danuy daldi woo. Tey ñaan waaye saa su nu ko teggee may ko xeewël, muy wax naan : “lii ci [sama] xam-xam laa ko ame”. Ab nattu la, de; waaye li ëpp ci ñoom xamuñu.
 50. Ña leen fi jiitu woon waxoon na ñu ko. Te taxul la ñu daan fàggu jariñ leen dara ;
-51. Faf sax la gënoon a ñaaw a la ñu daan fàggu moo leen dal. Te ñii itam li gën a ñaaw ca la ñu doon fàggu dana dal ci seen kaw te duñu ko man a teggi. 375
+51. Faf sax la gënoon a ñaaw a la ñu daan fàggu moo leen dal. Te ñii itam li gën a ñaaw ca la ñu doon fàggu dana dal ci seen kaw te duñu ko man a teggi. 
 52. Xanaa dañoo xamul ne Yàlla mooy yaatalal ku ko soob wërsëgam di ko xatal it ? Ay kiiman a ngi ci biir loolu ngir aw nit ñu gëm.
 53. Waxal ne : “Éy yéen Sama jaam ñi yàq seen bopp, buleen naagu ci yërmandey Yàlla. Ndax Yàlla dana jégële bakkaar yépp. Mooy Jégëlaakoon ba, di Jaglewaakoon ba”.
 54. Delluleen ci seen Boroom, te jébël ko seen bopp, balaa mbugël di dal ci seen kaw te kenn duleen ca dimbali.
@@ -4245,7 +4247,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 60. Bu Bis Pénc baa, dangay gis ña fenal Yàlla, seen xar kanam ya ñuul kukk. Moo ndax wàccuwaayi yéefar ya nekkul ca biir Safara ? (Axakañ)
 61. Yàlla dana musël ña ragal Yàlla te texel leen [ca Àjjana]. Lu bon du leen fa laal te it duñu fa jàq.
 62. Yàlla moo sàkk bind lépp, te it Mooy lijjënti lépp it.
-63. Moo moom caabiy asamaan yeek suuf si ; ñay weddi kàdduy Yàlla, ñooy ña yàqule. 376
+63. Moo moom caabiy asamaan yeek suuf si ; ñay weddi kàdduy Yàlla, ñooy ña yàqule. 
 64. Waxal ne : “Yéen ñi réer, ndax dangeen may digël may jaamu lu dul Yàlla ? ”
 65. Te, soloona Nu la ak (Yonnent ya la jiitu woon) ci ne : “Saa soo bokkaalee , sa jëf dana sippiku; nga bokk ci ñu yàqule ña.
 66. Jaamujil Yàlla, tey sant”.
@@ -4257,7 +4259,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 72. “Ñu ne, [leen] dugguleen, wunti Safara, ngeen béel fa”. Rëy-rëylu kat tee ka bon ab saxuwaay !
 73. Ñooy jiital ña ragaloon seen Boroom jëme leen Àjjana. Ñu, di ay mbooloo bu ñu fa àggee wunt ya ubbeeku, ña koy wattu ne leen : “Jàmm rekk yal na nekk ci yéen ! Yéen dey baax ngeen : dugguleen ci, te dangeen ciy béel”.
 74. Ñuy wax naan : “Noo ngi sant Yàlla mi nu dëggëlal digëm bi te donale nu suuf si ! Tey noo ngi xéyoo ci Àjjana nu mu nu neexe”. Ay waay gii pey a neex !
-75. Nga gis Malaaka yaa ngay wër (Aras), di sàbbaal seen cantug Boroom. Ñu wax naan : “Xeeti cant, ñeel na Yàlla miy Boroom àddina si”. 377
+75. Nga gis Malaaka yaa ngay wër (Aras), di sàbbaal seen cantug Boroom. Ñu wax naan : “Xeeti cant, ñeel na Yàlla miy Boroom àddina si”. 
 
 ## Saar 40 : JÉGËLEKAT BA 85 laaya - Laata Gàddaay ga
 
@@ -4270,7 +4272,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 6. Noonu it la sa kàddug Boroom yaye ci kaw yéefar yi : “Ñoom ñooy waa Safara”.
 7. Ña yanu Aras ak ña ko wër ña ngay sàbbaal di kañ seen Boroom, di ko gëm tey jéggalu ñi gëm naan ko : “Yaw sunu Boroom ! sa yërmaande yaatu na man a daj ñépp ak sa xam-xam. Kon jéggëlal ña daan tuub tey topp sa yoon wi te nga fegalleen mbugëlu Safara.
 8. Yaw sunu Boroom ! Tàbballeen àjjana Aden ja nga leen digoon, ak képp ku baaxoon ci seeni baay ak i maam, ak seeni soxna ak seeni sët, yaw yaa di boroom Kàttan, di ku Xereñ.
-9. Te nga fegalleen [mbugëlu] ñaawtéef yi. Képp koo fegal [mbugëlum] ñaawtéef, Yërëm nga ko tigi”. Te loolu mooy texe gu mag ga. 378
+9. Te nga fegalleen [mbugëlu] ñaawtéef yi. Képp koo fegal [mbugëlum] ñaawtéef, Yërëm nga ko tigi”. Te loolu mooy texe gu mag ga. 
 10. Ña weddi nag ñoom dañu leen woo naan leen : “jéppig Yàlla moo gën a rëy ni ngeen jéppee seen bopp, ba ñu leen daan woo jëme leen ci ngëm dangeen daan weddi”.
 11. ñuy wax naan : “Yaw sunu Boroom, rey nga nu ñaari yoon, dundal nga nu ñaari yoon : nangu nanu sunuy bàkkaar. ndax lii man nanu tee génn” ?
 12. “...Amul ndax bu ñu masaan a woo Yàlla doŋŋ ngeen weddi ; bu ñu ko bokkaalewaale ak leneen, ngeen gëm koo. (Tey jii), àtte ba Yàllaa ko yor, moo di ku Kawe, te di ku Màgg”.
@@ -4282,7 +4284,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 18. na nga leen xupp ci bis buy jige si, ba xol yi di nekk ci put yi, (ngir tiit ak njàqare). Te bu boobaa tooñkat yi du ñu fa am xarit, mbaa ku leen di tinu ñu di ko topp.
 19. Xam na worug ay gët, luy nëbbu ci biir dënn yi.
 20. Yàlla mooy àtte ci dëgg, ña ñu koy bokkaaleel du nu àtte dara. Te Yàlla kuy Dégg la, kuy Gis la.
-21. Moo ndax da ñoo doxul ci suuf, tey seetlu mujug ña leen fi jiitu woon te ëppoon doole ak i alal ? Yàlla faagaagaloon leen ngir seeni bàkkar. Te kenn manu leen woon fegal mbugëlu Yàlla mii. 379
+21. Moo ndax da ñoo doxul ci suuf, tey seetlu mujug ña leen fi jiitu woon te ëppoon doole ak i alal ? Yàlla faagaagaloon leen ngir seeni bàkkar. Te kenn manu leen woon fegal mbugëlu Yàlla mii. 
 22. Li ko waral, moo di ñoom seeni Yonnent, da ñu leen daan indil ay lay yu leer ñu weddi. Yàlla daldi leen faagaagal, Yàlla boroom doole la di ku Tar mbugël.
 23. Yónni woon nanu Muusaa ak sunuy laaya boole ko ak ay firnde yu leer,
 24. jëmële ko ca Firawna, ak Haamaana ak Qaaruuna. Ñuy wax naan : “Kii ab njibarkat bu di ! ab fenaakoon la ! ”
@@ -4292,7 +4294,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 28. Mu am waaju gëm te bokk ca waa kër Firawna, daldi wax ne : “Ndax dangeen a bëgg rey waa joo xam ne li mu wax lépp moo di ne : “Yàllaay sama Boroom” ? Te indil na leen ay firnde yu bawoo ca Yàlla. Su fekkee day fen, fenam ya du ko moy ; su waxee dëgg, ngeen dor a xam ne li mu leen dig dana dal seen kow”. Te, Yàlla du gindi mukk fenkat buy yàq (waaja da doon nëbbu ngëmam) !
 29. “Yéen samaw nit, tey yéen a ngi gore, am lool doole ci kaw suuf si (réew yi). Waaye ana kan moo nuy man a dimbali ci mbugëlum Yàlla su nu digëlee ? ” Firawna daldi ne : “Wanumaleen lu dul li ma gis. Te it duma leen teg fudul ci yoonu njub”.
 30. Ka gëmoon daldi waxaat ne : "Yéen samaw nit, ragal naa ci yéen lu mel ni bis ba farandoo ya doon xare.
-31. Lu melni lëgg-lëggub nitu Nooh, ak Aad ak Samuud, ak ña leen mujjoon”. Te Yàlla bëggul ag tooñ ci jaamam ñi. 380
+31. Lu melni lëgg-lëggub nitu Nooh, ak Aad ak Samuud, ak ña leen mujjoon”. Te Yàlla bëggul ag tooñ ci jaamam ñi. 
 32. “Éy yéen samaw nit, ragal naa ci yéen bisub wootante ba,
 33. Bis ba ngeen di wane sànku, te dungeen am ku leen di aar ci Yàlla”. ku Yàlla natt ci moom réer, kenn du ko man a gindi.
 34. “Yuusuf, indaloon na leen ay firnde yu leer naññ, te de ñu leen di sikki-sàkka ca la mu indiwoon. Ba mu faatoo, ngeen wax naan : “Yàlla yónniwaatul beneen Yonnent ginnaawam”. Noonu la Yàlla di réerale ñiy yàq tey sikki-sàkka.
@@ -4304,7 +4306,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 40. Képp kuy def ñaawtéef dees na ko fay kem la mu def ; waaye képp kuy def yiw, di góor mbaa muy jigéen, te fekk mu gëm, ñoom ñooy dugg Àjjana di fa jot xéewël yu amul waññ.
 41. Éy yéen samaw nit, ana lan moo tax ma di leen woo jëme leen ci mucc, te yéen ngeen di ma woo jëmale ma Safara ?
 42. Yéen a ngi may woo ngir ma weddi Yàlla di ko bokkaaleek lu ma amul benn xam-xam, te man maa ngi leen di woo jëme leen ci Yàlla miy boroom Kàttan, tey Jégëlaakoon ba.
-43. Sikkuwul ne li ngeen may woo jëmale amuñu luy tax ñu war leen a woo ci àddina sii waxantumaalaak ca àllaaxira. Te it ca Yàlla lañuy dellu, te itam yaqkat ya ñooy wa Safara. 381
+43. Sikkuwul ne li ngeen may woo jëmale amuñu luy tax ñu war leen a woo ci àddina sii waxantumaalaak ca àllaaxira. Te it ca Yàlla lañuy dellu, te itam yaqkat ya ñooy wa Safara. 
 44. Yàggatul ne dangeen fàttaliku ji lii ma leen di wax ; te wéer naa samay mbir ci Yàlla. Ndax, kuy Gis jaamam ñi la.
 45. Yàlla fegal na ko ñaawtéef ya ñu doon fexe, daldi sóob njabootug Firwana gën jaa tar i mbugël :
 46. ñu di leen , gaaral ci Safara suba ak ngoon. Bu Bis Pénc baa (da naa digle) : “Ñu dugël njabootug Firawna ca gën jaa tar i mbugël”.
@@ -4315,7 +4317,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 51. Nun, Yàlla dananu dimbali (jox ndam), Sunuy Yonnent, ak ñi gëm, ci dundug àddina sii ak bu seede ya taxawee (Bis Pénc ba),
 52. bis ba nga xam ne tooñkat ya, seenug doglu ngànt du leen jariñ dara te am rëb dal na leen te it am nañu fa kër gu bon (soof).
 53. Indil Nanu, Muusaa njub, te donale Nanu giiru Banii-Israayiila, Téere ba,
-54. mu di njub ak ug fàttali ngir ñu di woroom i xel (di xalaat). 382
+54. mu di njub ak ug fàttali ngir ñu di woroom i xel (di xalaat). 
 55. Na nga muñ, (te xam ne) digub Yàlla dëgg la, te it na ngay jéggalu say bàkkar tey sàbbaal sa Boroom di ko sant, ci ngoon si ak ci suba si.
 56. Ñay dàggasante ci laayay Yàlla ya ci lu àndul ak firnde yu ñu leen jox, rëy-rëylu doŋŋ a nekk ca seen dënn ya. Te seen aajo du ca fajoo. Na ngay muslu ci Yàlla, moom Mooy aji Dégg, di aji Gis.
 57. Bindug asamaan yeek suuf si moo gën a rëy bindug nit ñi. Waaye li ëpp ci nit ñi xamuñu.
@@ -4327,7 +4329,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 63. Noonu la ñu daan weddi kàdduy Yàlla di dumóoyoo [yoonu] Yàlla.
 64. Yàlla mi leen defal suuf si muy laltaay defal leen asamaan si muy mbaar mu móol leen rafetal seeni melo , - wërsëgal leen ci yu teey yi ! Koo koo di seen Boroom ; Yàlla barkeel na, Moom Miy Boroom àddina si!
 65. Mooy kiy dund. Amul jeneen Yàlla judul moom. Na ngeen koy jaamu, te di ko sellal diine ji. Cant ñeel na Yàlla, Miy Boroom àddina si !
-66. Waxal ne : “Tere na nu ma, may jaamu li ngeen di jaamu te du Yàlla, waxtu wa ma ay lay yu leer nàññ digëlee te bawoo ci sama Boroom, te it digaléef na ma jébël sama bopp Yàlla miy Boroom àddina si”. 383
+66. Waxal ne : “Tere na nu ma, may jaamu li ngeen di jaamu te du Yàlla, waxtu wa ma ay lay yu leer nàññ digëlee te bawoo ci sama Boroom, te it digaléef na ma jébël sama bopp Yàlla miy Boroom àddina si”. 
 67. Mooy ki leen bind ci suuf, te jaarale leen ci toqu maniyy, ak ci lumbu deret door leen a génne ngeen di ay xale mu def leen ngeen di ay mag yu war a maggat kumur, - am na ci yéen ñuy faatu balaa loolu lépp di am, - ku ca nekk it am na ab dig bu ñu ko àppal, ak it ngir ngeen xellu (xalaat).
 68. Mooy dundal mooy rey. saa su dogoo ci mbir, danaan ko : “nekkal”, mu daldi nekk.
 69. Xanaa gisuloo ñiy dàggasante ci laayay Yàlla yi ni ñu leen di walbatee?
@@ -4338,7 +4340,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 74. bàyyi Yàlla (jaamuwuleen ko) ? ” “Ñu tontu ne, réer nañu. Nun kay, lu jiitu tey, masunoo woo di jaamu dara”. Noonu la Yàlla di sànke yéefar ya.
 75. Lii moo di peyug li ngeen daan bég ci suuf si (àddina), te du woon dëgg, ngeen daan ca maare.
 76. Dugguleen ci wunti Safara te ngeen béel fa. Ña rëy-rëylu woon seenub dëkkuwaay bon na !
-77. Na ngay muñ (te xam ne). Digub Yàlla dëgg la. Amaana Nu wan la lenn ci li Nu leen di tëkkoo mbaa nu faat la (balaa loolu di am)... ak lu man a xew ñoom ñépp ci nun la nuy dellusi. 384
+77. Na ngay muñ (te xam ne). Digub Yàlla dëgg la. Amaana Nu wan la lenn ci li Nu leen di tëkkoo mbaa nu faat la (balaa loolu di am)... ak lu man a xew ñoom ñépp ci nun la nuy dellusi. 
 78. Yónni woon Nanu ay Yonnent yu la jiitu woon. am na ci ñu ñu la nettali ; am na ci ñu ñu la nettaliwul. Amul benn yonnent bu sañ a indi [kimaan laaya] lu dul ne da ca am ndigëlul Yàlla. Saa su ndigëlul Yàlla agsee, mbir yépp àttewo ci dëgg ; fenkat yi daldi yàqule.
 79. Yàlla mi leen defaral mala yi ngir ngeen di ci war te di ca lekk,
 80. te am ngeen ci ay njariñ ak it ngeen di ca faj ay aajo yu leen soxal. Ngeen di ca yéeg di ànd ak ñoom di war ci gaal yi.
@@ -4385,7 +4387,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 32. (wàccuwaayu teraanga) bu bawoo ca Jéggëlekat ba, di ab Jaglewaakoonu yërmande”.
 33. Ana kan moo gën a rafet ay wax kuy woote jëme ci Yàlla, tey jëf yiw tey wax naan : “ Ci jullit ñi laa bokk ? ”
 34. Lu rafet ak lu ñaaw du ñu yem. Na ngeen jiñe (ab safaan) ci lu baax ; (soo ko defee) ki nga gënoon a noonoo dafay jekki di sa xaritu benn bakkan.
-35. Lii nag kenn du ko am ku dul ñuy muñ kenn it du ko am ku dul boroom cër bu duun. 388
+35. Lii nag kenn du ko am ku dul ñuy muñ kenn it du ko am ku dul boroom cër bu duun. 
 36. Amaana leeg-leeg bu la saytaane jaxjaxee (waaye bu boobaa), na nga sàkku ci Yàlla mu mësal la ; Moo di, aji Dégg ja, aji xam ja.
 37. Bokk na ci ay kéemaanam, guddi ak bëccëg, ak jant beek weer wi : buleen sujuudal jant bi, waxantumalaak weer wi, waaye na ngeen di sujuud ngir Yàlla mi leen bind, ndegam Moom ngeen di jaamu.
 38. Bu ñu rëy-rëyloo... (ba defuñu ko) Malaaka ya nekk ca sa Boroom ñoom dañuy sàbbaal, guddeek bëccëg, te duñu ko bàyyi !
@@ -4395,7 +4397,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 42. Ay caaxaan [du ko dikke fenn], du ci kanamam mbaa ci ginnaawam : dañu koo wàcce mu bawoo ca (Yàlla) miy aji Xereñ, di Yayoowaakoonu cant.
 43. Deesul a wax lenn lu ñu waxutoon Yonnent ya la jiitu woon. Sa Boroom, ku Am njégël la te di Boroom mbugël mu mitti.
 44. Bu Nu ko defoon muy weneen làkk (wu dul araab), danañuy wax naan : “Ana lutax faramfànce wu ñu ay laayaam? Yonnentub araab ak làkk wudul araab (nu muy ame)? ” Waxal ne : “njub la ak saafara, ñeel ñi gëm”. Ñi gëmul nag ñoom, ay saañ nekk ci seeni nopp def ngumba ci seeni (gët xel) ; te ñoom na nga leen di woowe ca barab bu sori.
-45. Joxoon Nanu Muussaa Téere ba. Mu am ñu ca wuute. Bu ca sa kàddug Boroom jiituwul woon, dana fekk ñu àtte woon seen diggënte. Te it ñoom, ñi ngi sikki-sàkka ci ay mbiram. 389
+45. Joxoon Nanu Muussaa Téere ba. Mu am ñu ca wuute. Bu ca sa kàddug Boroom jiituwul woon, dana fekk ñu àtte woon seen diggënte. Te it ñoom, ñi ngi sikki-sàkka ci ay mbiram. 
 46. Képp kuy jëf yiw, boppam la koy defal. Képp kuy jëf ñaawtéef it, te ci kawam lay dal. Sa Boroom, du tooñ, benn jaamam.
 47. Ca moom la xam-xamu Waxtu wa di dellu (moom rekk xam). Amul menn meññat muy génn ciw xottam, amul it jenn jigéen juy ëmbu walla muy imbi lu dul am na ca xam-xam bu mat sëkk. Te bu keroogee bis ba mu leen di woo naan : “Ana ña ngeen ma daan bokkaaleel ? ”, ñu naan ko: “Noo ngi lay birëlal ne kenn seede wu ko ci nun” !
 48. Lañu daan jaamu ca àddina réer leen ; ñu daldi xam nag ne amatuñu rawukaay.
@@ -4418,7 +4420,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 7. Noonu la nu la soloo (Alxuraan jiy làmmiñu araab), ngir nga xupp ci ndayi dëkk ya (waa Màkka) ak dëkk ya ko wër ak it nga waar leen ci Bisub daje ba, - (bis pénc ba) sikkuwul bu boobaa - Ab kurél dafay nekk ca àjjana beneen kurél ba nekk ca biir Safara.
 8. Su sooboon Yàlla, Mu def leen wenn xeet. Waaye Mooy dugël ku Ko neex ci biir yërmandéem. Te tooñkat yi nag ñoom duñu am wéeruwaay, waxantumalaak ku leen di dimbali.
 9. Walla ñoom dañoo far am wéeruwaay yu dul Yàlla ? Wéeruwaay tigi mooy Yàlla ; te mooy dekkal ñu dee woon ña te moo di ki man lépp lu ne.
-10. Te lépp lu ngeen am ag juuyoo, Yàlla yor àtte ba. Koo koo di Yàlla sama Boroom; ci Moom laay wéeru te it moom la doyloo. 391
+10. Te lépp lu ngeen am ag juuyoo, Yàlla yor àtte ba. Koo koo di Yàlla sama Boroom; ci Moom laay wéeru te it moom la doyloo. 
 11. Moo bind (sàkk) asamaan yeek suuf si. Defaralal na leen y soxna [jële ko] ci seeni jëmm ak ay mala yu di ay tóollént ( góor ak jigéen); te ci loolu la leen di yokki (jurante). Amul lenn lu mel ni moom (Yàlla) ; mooy aji Dégg, di aji Gis.
 12. Moo ame caabi [ndami] asamaan yeek suuf si. Mooy yaatalal wërsëg ku ko soob, moo ko koy xatalal it. Te, Moo di ku xam lépp lu nekk.
 13. Diine ji mu tëral (ngeen war koo dund), mooy la mu dénkoon Nooh, ak la Nu la soloo (yaw Muhammad), ak li nu dénkoon Ibraahiima, ak Muusaa ak Iisaa(te moo di) : “na ngeen taxawal diine; te buleen cay teqalikoo”. Li ngeen di woo bokkaalekat yi bëg leen caa jëmële dafa diis ci ñoom lool. Yàlla mooy jigeel boppam ku ko soob te it mooy gindi képp ku koy jébbël boppam .
@@ -4428,7 +4430,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 17. Moo di Yàlla mi wàcce Téere ba ci dëgg, ak nattukaay ba (balaas ya). Ana loo ci xam ? te amaana waxtu wa di lu jigeñ ?
 18. Ña ko gëmul ña nga koy yàkkamti ; waaye ña gëm ñoom dañu koy ragal te xam nañu ne mooy dëgg tigi. Ñay werante ci mbirum waxtu wa (Bis Pénc ba) ña nga ci réer gu sore.
 19. Yàlla kuy ñeewanti jaamam ñi la. Mooy wërsëgël ku ko soob. te moo di boroom Doole ja, boroom Kàttan ga.
-20. Képp ku namm ruuj [toolu] dundug àllaaxira, Dananu ko dollil ruujeefam. Képp it ku namm ruuj [toolu] dundug àddina, Dananu ko nangul ; waaye du am benn cër ca àllaaxira. 392
+20. Képp ku namm ruuj [toolu] dundug àllaaxira, Dananu ko dollil ruujeefam. Képp it ku namm ruuj [toolu] dundug àddina, Dananu ko nangul ; waaye du am benn cër ca àllaaxira. 
 21. Am ñoom da ñoo am bokkaale yu leen tërëlal diine ju bokkewul ak li Yàlla digle ? Du gan kon, ak kàddu gu xas jib ba noppi, kon àtteef na seen diggënte. Te tooñkat ya ñoom am nañu mbugël mu mitti .
 22. Danga gis tooñkat ya ñu tiit lool ngir la ñu daan def, (mu di mbugël) muy dal ci seen kaw. Waaye ña gëmoon te daan def yiw, ñoom ña nga ca biir dëri àjjana ya, ñu fay am la ñu bëgg ci seen Boroom. Loolu moo di ngëneel la gën a rëy !
 23. Loolu moo di [xibaar bu neex] bi Yàlla di bégale jaamam ña gëm tey jëf yiw ! waxal ne : “Du ma leen laaj genn pey lu dul dëgëral gi ci diggënte ag mbokkoo”. Képp ku def lu rafet, Dananu ko ko dollil lu gën a rafet (mu di ab neexal). Yàlla jégëlaakoon la kuy sant la (delloo njukël).
@@ -4438,7 +4440,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 27. Bu Yàlla yaatalaloon wërsëg jaamam [ñépp], kon dañuy bew ; ba tax na, mu di ko wàcce di ko yemale na mu ko soobee. Ndax Yàlla ku Xàmmee la kuy Gis la Jaamam ñi.
 28. Moo (leen) di wàcceel taw ginnaaw bu ñu yàkke xont, te mooy tasaare Yërmaandeem. Mooy Kilifa gi, di Yayoowaakoonu cant.
 29. Bokk na ci ay kéemaanam bindug asamaan yeek suuf ak ndundët yi mu tasaare (nuy duggat). Te man na leen dajale saa su Ko soobee.
-30. Bépp lor ju leen dal yéen a ko jëf. Yàlla dafay jéggale yu bari. 393
+30. Bépp lor ju leen dal yéen a ko jëf. Yàlla dafay jéggale yu bari. 
 31. Munuleen a raw Yàlla ci suuf si ; te it du ngeen am geneen kilifa, waxantumalaa ndimbal kudul Yàlla.
 32. Bokk na ci ay kéemaanam (firndéem), gaal yuy daw ci géej, tollu ni ay tundu doj.
 33. Su ko neexee, Mu téye ngilaw, ñu ne tekk ca ndox ma. Ay kéemaan na ngi ci biir loolu ngir [nit] kuy muñ tey sant (dello njukël).
@@ -4477,7 +4479,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 9. Te soo leen laajee : “Kan moo bind asamaan yeek suuf ? ” Dañu naan : “Yàlla, miy boroom Kàttan di ku Xam moo leen bind”.
 10. Yàlla mi leen defal suuf si muy laltaay defaral na leen ci ay yoon ngir ngeen man cee ginduku ;
 11. Mooy kiy wàccee am ndox ci asamaan si di ko yemale Ñu di ca naatal ay dëkk yu bekkooroon. noonu it ngeen di dekkiwaate ;
-12. Moo bind tóolent yépp, defaral ay gaal, amal yu ngeen di war, 396
+12. Moo bind tóolent yépp, defaral ay gaal, amal yu ngeen di war, 
 13. ngeen di def ñoŋŋ ca kaw, ngeen di fàttaliku xéewali Yàlla, su ngeen yemoo ca kaw ne ñoŋŋ, te it na ngeen di wax naan : “Tudd nanu sellug ki nu tàggatalal lii (wépp waruwaay) te manalu nu ko woon sunu bopp.
 14. Te dañuy wëlbatiku jëm ci sunu Boroom”.
 15. Nit ñi dañuy mbokkale yàlla ak lenn ci jaamam ñi. Te nit xarabaatekat la bu bir !
@@ -4489,7 +4491,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 21. Walla, da Nu leen joxoon ab Téere ca la ko jiitu woon ba tax ñu ŋoyoon ca ?
 22. Li ñu wax kay moo di : “Fekkoon nanu sunuy maam am diine, kon nag (wat ci watiit) ñoom la ñuy toppandoo”.
 23. (Noonu it la daan deme) ndax masunoo yónni waa ab xuppekat (waaraatekat) cib dëkk lu dul ne ne kilifa ya danuy wax naan : “Sunuy maam amoon nañu diine te nun ñoom la ñuy roy”.
-24. Mu wax leen ne : “Ndax indilu ma leen lu gën a jub la seen baay ya nekkoon ? ” Ñu tontu ne ko : “Nun kat gëmu nu lii ñu la yónni”. 397
+24. Mu wax leen ne : “Ndax indilu ma leen lu gën a jub la seen baay ya nekkoon ? ” Ñu tontu ne ko : “Nun kat gëmu nu lii ñu la yónni”. 
 25. Nu daldi fayu ca seen kaw. Xoolal (settantal) naka la mujjug weddikat ya deme.
 26. (Fàttalikul) Ibraahiima ba mu waxee baayam aku nitam : “Man mii ku deñ laa ci lii ngeen di jaamu,
 27. ba mu des (Yàlla) mi ma sàkk bind ma, te moo may gindi”.
@@ -4514,7 +4516,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 46. Yónni woon Nanu Muusaa ak Sunuy kéemaan, ci Firawna ak gàngooram ga. Mu ne leen: “Man ndawul Boroom àddina si laa”.
 47. Ba mu dikkee ca ñoom ànd ak Sunuy firnde (kéemaan), ndeketeyoo dañu koy reetaan.
 48. Kéemtaan gu mujj a ñëw ëpp ga ko jiitu woon. Ba noppi nu toftal ca teg léen ay jafe-jafe, ngir amaana ñu dellu ginaaw.
-49. Ñu wax (Muusaa AS) ne ko : “Éy njibarkat ! Ñaanal nu sa boroom ci li nga séq ak moom ( mu teggil nu jafe-jafe yi). Soo ko defee nu jubook yaw”. 399
+49. Ñu wax (Muusaa AS) ne ko : “Éy njibarkat ! Ñaanal nu sa boroom ci li nga séq ak moom ( mu teggil nu jafe-jafe yi). Soo ko defee nu jubook yaw”. 
 50. Ba nu teggee jafe-jafe ya, da ñoo tiri lépp la ñu digéwoon.
 51. Firawna daldi dajale aw nitam ne leen: “moo sama gaa ñi ! Ndax moomu ma nguurug Misra ak dex yii di dawdawaan ci sama ron? Xanaa du ngéen gis ?
 52. Xanaa man sax maa wara gën waaju doyadi jii nga xam ne xawut a man a wax ( lu nit di xam )?
@@ -4527,7 +4529,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 59. Moom de (Muusaa) ab jaam rekk la bu Nu jox xeewal def ko muy roytéef ci wa Bani Israayiil.
 60. Bu Nu sooboon , Nu def ci yéen ay Malaaka yuy ayayloo ci kaw suuf si.
 61. Te firnde lay doon ci (Bis Pénc ba) waxtu wa. Buleen ci am sikki-sàkka. Te na ngeen ma topp : yoon wu jub xocc waa ngi nii.
-62. Buleen nangu mukk Saytaane di leen wëlbati ! Ndax seenub noon la (bu nëbbutuwul) fes. 400
+62. Buleen nangu mukk Saytaane di leen wëlbati ! Ndax seenub noon la (bu nëbbutuwul) fes. 
 63. Ba Iisaa dikkee and ak i firnde, nee na leen : “Indil naa leen xam-xamu xereñ ak it ngir ma leeralal len lenn ci li ngeen di juubuu. Ragalleen Yàlla te topp ma.
 64. Yàlla moo di sama Boroom di seen Boroom. Na ngeen ko jaamu. Lii mooy yoon wu jub wa xocc.
 65. Kurél ya juuyoo ci seen biir. Ña daan tooñ toskare nañu ci mbugëlu bis bu mitti !
@@ -4541,7 +4543,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 73. Am ngeen fa ay fuytéef yu bari ngeen di ca lekk”.
 74. Tooñkat yaa ngi, ci biir mbugalum Safara béel ca,
 75. kenn duleen ko mas a woyafal te dañu naan fa xuum ne muq ngir jaaxle.
-76. Du ut ne Nun noo leen tooñ, waaye ñoom ñoo tooñ (seen bopp). 401
+76. Du ut ne Nun noo leen tooñ, waaye ñoom ñoo tooñ (seen bopp). 
 77. ña ngay woo : “ Maalik (bëkknéegu safara)! naan ko nanu sa Boroom jéggëli book ! ” muy tontu naan : “Yéen kay, ci [mbugël mii] ngeen di sax dëgg” !
 78. “Indiloon Nanu leen dëgg; waaye ñi ëpp ci yéen dañoo bañ Dëgg”.
 79. Walla, Ñoom dañoo fexe ay mbir [ak lu man a xew] ? Nun nooy sottal mbir yi ñu alku !
@@ -4553,7 +4555,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 85. Te itam barkeel na Moom mi am nguurug asamaan yeek suuf si ak li nekk ci seen diggënte. Moo ame it xam-xam bi làmboo waxtu wa (Bis Pénc ba). Te it ca moom ngeen di dellu.
 86. Ñay jaamu leneen lu dul moom duñu am benn man-man ci tinu (rammu), ba mu des ñay seede ci dëgg te di ñu xàmmee.
 87. Soo leen laajoon ana kan moo leen bind, ñu ne la : “Yàlla”. Kon naka la ñu koy dumóoyoo ?
-88. Waxi Yonnent ba moo di : “Éy sama Boroom, ñii daal ay nit la ñu ñu gëmul”. 402
+88. Waxi Yonnent ba moo di : “Éy sama Boroom, ñii daal ay nit la ñu ñu gëmul”. 
 89. Dumóoyuleen yaw ; tey wax : “Jàmm ! ” Danañu xalset a xam.
 
 ## Saar 44 : SAXAR SA 59 laaya - Laata Gàddaay ga
@@ -4626,7 +4628,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 2. Wàccug Téere bi ma nga bawoo ca Yàlla, ji am Tedd nga ( Kàttan sañ-sañ), di ku Xereñ.
 3. Ay kéemtaan a ngi ci asamaan yeek suuf si yuy soxal way gëm ñi.
 4. Ay kéemtaan it, yuy soxal ñi amug wóolu nekk na ci bind, bi ngéen ame ay ci lépp luy dukkat ca anam ya muy giire.
-5. Ak ci jëllasanteb guddi gi ak bëccëg bi, ak ci xeewal gi Yàlla wàcce mu bawoo ci asamaan si [Taw] di ci dundal suuf si (Naataange) ginnaaw ba mu bekkooree, ak ci ni muy soppaxndikoo ngelaw yi, ay kéemtaan la yuy soxal ñi xellu. 407
+5. Ak ci jëllasanteb guddi gi ak bëccëg bi, ak ci xeewal gi Yàlla wàcce mu bawoo ci asamaan si [Taw] di ci dundal suuf si (Naataange) ginnaaw ba mu bekkooree, ak ci ni muy soppaxndikoo ngelaw yi, ay kéemtaan la yuy soxal ñi xellu. 
 6. Yooyu ñooy firndey Yàlla nu di la ko jàngal mu tegu ci dëgg. Kon ana jan wax la ñuy man a gëm ginnaaw bu Yàlla ak firndeem Yii jàllee?
 7. Képp ku dib duuraakoon defaakoonub bàkkaar toskare na ca xuri sawara !
 8. Daan dégg ñuy jàng laayay Yàlla yi ( Alxuraan) mu féttéerlu di jaayub dayo, melni ku ko déggul. (Kookee na xam ne ) mbugal mu mettee (nga koy xaar).
@@ -4637,7 +4639,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 13. Moo leen tàggatal lépp lu nekk ci asamaan yeek suuf si, Ay kéemtaan a ngi ci yuy soxal ñiy xalaat.
 14. Waxal ñi gëm ne leen na ñuy jégël ñi yaakaarul bisi Yàlla ya ci ne Yàlla dana àtte fay xeet wu nekk ci kem la ñu daan fàggu.
 15. Képp kuy jëf yiw, moom caak ; képp kuy jëf lu bon it, moom caak. Ndax yéen ñépp ca seen boroom ngeen di dellu.
-16. Indiloon Nanu waa giiru Banii-Israayiil Téere ba, ak ngor ga, ak yonnenta ga, wërsëgëloon Nanu leen ci àddina si yépp ; 408
+16. Indiloon Nanu waa giiru Banii-Israayiil Téere ba, ak ngor ga, ak yonnenta ga, wërsëgëloon Nanu leen ci àddina si yépp ; 
 17. joxoon Nanu leen ay firnde yu leer ci ndigël yi. Wuutewuñu woon lu dul ba ñu amee xam- xam cig bew, ci seen diggënte. Te sa Boroom dana àtte seen diggënte, bu Bis Pénc baa, ca la ñu daan juuyoo.
 18. Topp ginnaaw ba teg Nanu la ci yoonu ndigël. Na nga koy topp te bul di topp bànneexu ñiy xamadi.
 19. Ndax ñoom du ñu la jariñ ci Yàlla tus. te tooñkat ya ku nekk ma ngay wéeru ci moroomam ; waaye Yàlla tigi mooy wéeruwaayu ñi ragal Yàlla.
@@ -4648,7 +4650,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 24. Ñuy wax naan : “lii daal du lenn lu dul su nu dundug àddina : danuy dee di dund te yàggaayu jamono rekk moo nuy ràpploo”. Waaye amuñu ci loolu benn xam-xam : dañuy njortu doŋŋ.
 25. Te saa su ñu jàngee Sunuy laaya ci ñoom, seen lay du doon lenn lu dul di wax naan: “Délloosilleen nu sunuy maam (ya deewoon) ndegam li ngeen di wax dëgg la”.
 26. Waxal ne : “Yàllaa leen di dundal soog leen a rey. Ba noppi mu leen di dajale bu Bis Pénc baa, sikk amul ci loolu, waaye li ëpp ci nit ñi xamuñu.
-27. Yàllaa moom nguurug asamaan yeek suuf si. Te saa su Bis Pénc ba taxawee, bu keroogee, yéefar yi danañu yàqule. 409
+27. Yàllaa moom nguurug asamaan yeek suuf si. Te saa su Bis Pénc ba taxawee, bu keroogee, yéefar yi danañu yàqule. 
 28. Ca ngay gise xeet wu nërméelu. Xeet wu ca nekk ñu di ko woo (ngir jox ko ab téereem ba ay jëfëm nekk). Te naan ko bis niki tey dees na leen fay li ngeen daan jëf.
 29. Sunub Téere bii nag. Di àddu ci yéen dëgg ndax ci la nu daan bind li ngeen daan jëf”.
 30. Ña gëmoon te daan jëf yiw, sa Boroom dana leen tàbbal ci biir yërmaandeem. loolu moo di texe gu màgg ga.
@@ -4680,7 +4682,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 15. Dénk nanu nit (mu wara rafetal) jëme ko ci ñaari waajuram : ndayama ko ëmb ci coono, imbi ko ci coono ; fa ëmb ba dale ba ca feral ga fanweeri weer la ; ba sax moom saa su dëgëree ba am ñeent fukki at, muy wax naan : “yaw sama Boroom ! Yenkeewal ma may mana sant ci sa xéewël yi Nga ma xéewale ak sama ñaari waajur, ak itam may man a jëf (jëf ju yiw joo gëram). Te nga yéwénalal ma ci sama njërtiit , Man dey tuub naa dellu ci Yaw te itam Man mii ci jullit ñi laa bokk” (ñi jébbale séen bopp).
 16. Ñooñee ñoo di ña nga xam ne dananu leen nangul la gëna rafet ca lañu daan jëf te da nanu leen faral séeni ñaawtéef , te it dananu leen limaale ca waa Àjjana, muy dig bu dëggu banu leen daan dig.
 17. Kuy wax ñaari waajuram naan leen : “Kuf ma leen te naan leen ! Ndax dangeen may dig ne danaa génnaat dellu àddina te ña wéyoon masuñoo génnaat ? ” Ñoom ñaar ña ngay sàkku ndimbalul Yàlla ngir ag delloom, [ñu di ko wax naan]: “Soo delluwul ginnaaw ci lii nga ne toskare dal na la ! Digub Yàlla dëgg la de”. Moom it mu tontuwaat ne : “Lii du lenn lu dul feni mag ñu jëkk ña”.
-18. Ñoom ñooñee la wax ja dal ca séen kaw (menn mbugël) mooy xeet ya leen jiitu woon ci jinne yeek nit ñi. Ñoom dañoo yàqule woon. 412
+18. Ñoom ñooñee la wax ja dal ca séen kaw (menn mbugël) mooy xeet ya leen jiitu woon ci jinne yeek nit ñi. Ñoom dañoo yàqule woon. 
 19. Kenn ku nekk am na lu tollook lamuy jëf, ñu nar leen a faye la ñu jëfoon te kenn du leen ca tooñ (ci wàññi natt ba).
 20. Bu keroogee bis ba ñuy gaaral ña weddi ci kaw Safara (naan leen) : “jeexaloon ngeen séen yu neex ya ca jamono ba ngeen nekkee daan dund ca àddina : te pëcëxóowoon ngeen ko, bis bi niki tey dees na leen faye mbugalum toroxtaane, ngir ni ngeen daan saay-saayee.
 21. Fàttalikul mbokkum waa Aad ña (Huud) ba muy waar aw nitam ca barabu Al Ahqaaf – te fekkoon na waaraatekat ya jar fa la ko jiitu woon ak ginnaawam - [daan leen wax naan]: “Yàlla doŋŋ ngeen war a jaamu (waaye su ngeen jaamoo leneen lu dul moom). Man dey ragal naa ci yéen mbugëlum bis bu màgg ñàng”.
@@ -4702,7 +4704,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 ## Saar 47 : MUHAMMAD 38 - Laaya – Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
-1. Ña weddi tey dumóoyu yoonu Yàlla, (tax na) ba sànk na séen jëf. 414
+1. Ña weddi tey dumóoyu yoonu Yàlla, (tax na) ba sànk na séen jëf. 
 2. Ña gëmoon te daan jëf yiw te ñoo daan gëm la ñu daan wàcce ci Muhammad (Alxuraan) – te mooy dëgg ga bawoo ca séen Boroom – Faralal na leen séen ñaawtéef te it yéwénal na leen séen mbir.
 3. Li wér moo di ne ñiy weddi dañoo topp Neen ñi gëm nag ñoom dañoo topp Dëgg gu bawoo ca séen Boroom. Noonu la Yàlla di séddale nit séeni léebu.
 4. Te saa su ngeen fa dajeetee ak ñay weddi (ci jamonoy xare) dóorleen ci loos yi. Saa su ngeen leen noote nag, na ngeen leen jéng bu daŋ a daŋ. Su leen soobee, ngeen baal leen dem, wala ngeen laaj leen njotu, ba baa xare ba di giif. Lool nag, bu sooboon Yàlla, Dana feyyu ci kaw yéefar yi, waaye danay faral nattuwante ci ñeneen ña ca des. Te itam ña ñuy roy ci yoonu Yàlla (ña doon jullit), Séeni jëf du réer.
@@ -4713,7 +4715,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 9. Li ko waral moo di ne dañoo sibóon li Yàlla daan wàcce ci moom it. Mu daldi sippi séeni jëf (neenal ko).
 10. Moo xanaa dañoo wërul ca réew yi (suuf si) bay xool naka la mujjug ña leen jiitu deme woon ? Yàlla da leen nappaaje (faag leen). Noonu it la yéefar yi di mujje.
 11. Dafa fekk ne Yàlla mooy méngóo di Aar ñi gëm ; yéefar yi nag ñoom amu ñu ku leen di aar.
-12. Yàlla dana tàbbal ñi gëmoon te daan jëfe yiw, Àjjana yoo xam ne ay dex ñooy daw ci suufam ronu leen. Ña weddiwoon ñoom dañu daan bànneexu ak daan lekk ni jur gi di lekke ; te safaraay séen saxuwaay. 415
+12. Yàlla dana tàbbal ñi gëmoon te daan jëfe yiw, Àjjana yoo xam ne ay dex ñooy daw ci suufam ronu leen. Ña weddiwoon ñoom dañu daan bànneexu ak daan lekk ni jur gi di lekke ; te safaraay séen saxuwaay. 
 13. Ak i bari dëkk, yu ëppoon doole fuuf sa dëkk bii ñu la génne, te dañu leen faagaagal, te amul kenn ku leen musal.
 14. Moo ndax kiy topp firnde yu leer yu tukkee ci Boroomam niróok naak ñay jàppe séeni ñaawtéef lu rafet tey topp séeni bànneex.
 15. Nirële melow Àjjana ja ñuy dig ña ragal Yàlla (di watandiku) : am na ci biiram ay dexi ndox yu dul forox, ak ay dexi meew yu dul soppiku, ak ay dexi ñoll yu neex ca ña koy naan, ak ay dexi lem yu sell. Te dañu fay am wépp xëti meññeef, boole kook njegëluk seen Boroom. Moo ndax loolu niroo naak ña béel ca biir Safara te ñu di leen nàndale ndox muy wañax muy daggate séeni butit ? Mukk yemuñu.
@@ -4724,7 +4726,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 20. Ña gëm ña ngay wax naan : “Cëy ! Bu aw saar wàccatiwoon ! ” Te fekk na saa suñu wàccee aw saar wu leer nàññ te digal ca xare, da ngay daldi gis naaféq ya di la xool ni ñuy xoole dee (ngir ragal). Li gën a yell ci ñoom moo di.
 21. topp (jëf) ak wax ju yiw. Su, ndigal la xasee dugg, ñoom dey suñu dëggaloon (ndigalul Yàlla) jëfe ko), mooy gën ci ñoom (fuuf).
 22. Moo ndax, su ngeen dëddoo baña xare ji loolu du jur ak yàq ci suuf si ak ngeen di dog séenug mbokk ?
-23. Ñooñu la Yàlla di rëbb, tëx loo na leen te gumba loo na séenub gis. 416
+23. Ñooñu la Yàlla di rëbb, tëx loo na leen te gumba loo na séenub gis. 
 24. Moo ndax ñoom dañu dul settantal Alxuraan ? Wala séeni xol moo tojul ?
 25. Ña murtad weddi ginnaaw ba leen njub ga feeñee, Saytaane legna leen te di leen fàbbi.
 26. Li ko waral moo di dañuy wax yéefar yi naan leen : “dananu leen topp ci yennati mbir”. Te Yàlla xam na li ñuy nëbb.
@@ -4736,7 +4738,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 32. Ña daan weddi tey dumóoyu yoonu Yàlla te daan sonal Yonenta bi ginaaw (ba ñu xamee) njub ga mu leer nàññ, manuñoo wàññi Yàlla dara. Te dana sippi seen jëf.
 33. eey yéen ñi gëm ! Topp leen Yàlla tey topp Yonent bi, te bu leen di neenal séeni jëf.
 34. Ña daan weddi tey dumóoyu yoonu Yàlla ba dee ca diy yéefar, Yàlla duleen jéggal.
-35. Bu leen di doyadi tey woote maslaa te yéen a gën a kawe, Yàlla itam yéen la àndal, te it séenug (peyug jëf) dara du ci wàññiku. 417
+35. Bu leen di doyadi tey woote maslaa te yéen a gën a kawe, Yàlla itam yéen la àndal, te it séenug (peyug jëf) dara du ci wàññiku. 
 36. Dundug Àddina sii am po la ak i caaxaan ; bu ngeen gëmee te ragal Yàlla di wattandiku , Dina leen jox séenug pey te duleen laaj séeni alal.
 37. Buleen ko Yàlla laajoon, kon dangeen di nay te kon dana génne seeni dëxëñ teg mbañeel gi séen diggante .
 38. Yéen a ngi nii ñu di leen woo ngir ngeen di joxey alal ci yoonu Yàlla. Am na ci yéen ñuy nay a joxe. Te képp kuy nay a joxe boppam la koy def. Yàlla di ku woomal te yéen ay ñi ñàkk. Te su ngeen dumóoyoo , Dana wuutal ñeneen nit ñu dul yéen, te du ñu mel ni yéen.
@@ -4758,7 +4760,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 12. Yéen kay (yéefar yi) dangeen a jortoon ne Yonenta bi ak jullit ñi dunu déllusi ci séeni njaboot . Loolu neexoon lool ci séeni xol ; ngeen daan njortu ay njortu yu ñaaw. Te it ngeen di aw nit ñu toskare”.
 13. Képp ku gëmul Yàlla ak Yonentam (na bir ne yéefar la)... te waajal na nu yéefar ya aw safara wu tàng.
 14. Yàllaa moom nguuruk asamaan yeek suuf si. Mooy jéggal ku ko soob tey mboogël ku ko soob. Yàlla, ab Jéggëlaakoon la ab Jaglewaakoon la.
-15. Ñay fuuyu (te bokk ci giiri araab yi) dana nuy wax, saa su ñu jëmee ca màng ga (alal ya nu nangoo xaybar) ngir jël ko; “Naan leen bàyyi leen nu nu topp leen”. Danuy bëgg soppi waxi Yàlli. Waxleen ne : “Dungeen nu topp: ndax loolu la Yàlla wax cag njaalbéen”. Dana nu xalset wax (ñoom naaféq yi) naa : “Dangeen ñoo iñaane”. Li am kay moo di ne lim bu néew bu bokk ca ñoom ñooy ña xam. 419
+15. Ñay fuuyu (te bokk ci giiri araab yi) dana nuy wax, saa su ñu jëmee ca màng ga (alal ya nu nangoo xaybar) ngir jël ko; “Naan leen bàyyi leen nu nu topp leen”. Danuy bëgg soppi waxi Yàlli. Waxleen ne : “Dungeen nu topp: ndax loolu la Yàlla wax cag njaalbéen”. Dana nu xalset wax (ñoom naaféq yi) naa : “Dangeen ñoo iñaane”. Li am kay moo di ne lim bu néew bu bokk ca ñoom ñooy ña xam. 
 16. Waxal ñiy fuuyu ci araab yi ne leen : “Dees na leen woo jëme leen ci aw nit ñu am qadar ju tar ñàng . Dingeen di xeex ak ñoom wala ñu jébbale seen bopp. Su ngeen toppee, ndigalul Yàlla dana leen jox pey gu jekk, su ngeen lànkee nag kom ni ñu lànke woon cig njaalbéen, Yàlla dana leen mbugël mu mitti”.
 17. Bakkaarub baña xare du dal ci kaw gumba, du dal it ci kaw ku lompoñ (làggi) du dal it ci kaw ku wopp. Te képp kuy topp Yàlla akub Yonentam, Dana ko tàbbal Àjjana joo xam ne ay dex dana daw ci suufam. Képp ku lànk, Dana ko mbugal mbugal mu mitti.
 18. Yàlla gërëm na jullit ñi jamono ja ñuy jaayanteek yaw ca ron garab ga. Xamoon na li nekk ci seen biiri xol, mu daldi wàcce dal ci seen kaw, daldi leen yoole ak ubbi gu jige (yewenóo)
@@ -4768,7 +4770,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 22. Te sax bu yéefar yi xeexoon ak yéen danuy daw ; te dunu am kenn ku ñuy wéeru waxantumalaa ndimbal.
 23. Mooy doxalinu Yàlla wi daan am na ka jekk. Te doxalinu Yàlla kenn du ko soppali.
 24. Mooy ki leen fegaloon sen yoxo moo feg it seeni yoxo yéen ci ñoom ca biir xuru Màkka wa (ba xarewooleen), ginnaaw ba mu leen joxee ndam ca kaw yéefar ya. Yàlla gis na la ngeen doon def.
-25. Ñoom ñoo di ña weddi woon te daan tere seen digganteek Jàkk ju ñu Wormaal ja dox it seen digganteek fa ñuy rendee hadyu. Dogan ko nag jullit ñu góor ñaak jullit ñu jigéen ña fa nekk te xamee wu leen ba manoon leen reyaale ca biir yéefar ya, te kon dey ñàkk xam dana leen yóbbe bàkkaar... Waaye Yàlla mooy tàbbal ku ko soob ci Yërmaandeem. Waaye su fekkoon ne yéefar yi dañoo beddiku dana leen mbugël mbugël mu mitti. 420
+25. Ñoom ñoo di ña weddi woon te daan tere seen digganteek Jàkk ju ñu Wormaal ja dox it seen digganteek fa ñuy rendee hadyu. Dogan ko nag jullit ñu góor ñaak jullit ñu jigéen ña fa nekk te xamee wu leen ba manoon leen reyaale ca biir yéefar ya, te kon dey ñàkk xam dana leen yóbbe bàkkaar... Waaye Yàlla mooy tàbbal ku ko soob ci Yërmaandeem. Waaye su fekkoon ne yéefar yi dañoo beddiku dana leen mbugël mbugël mu mitti. 
 26. Ngir yéefar ya ëmbu nañu ag rëy, rëy goo xam ne réer moo ko laltaay... Yàlla moom daldinay wàcce ag dal ci Yonentam ba (Muhammad) ak ca jullit ña (sahaaba ya), mu taqale leen ak baatub ragal Yàlla (“Laa Ilaaha illa Laahu Muhammadu rasuulu Laahi”), te ñoo ko gënoon a yayoo ci waa Màkka. Yàlla xam na lépp lu ne.
 27. Yàlla dëggal na Yonentam ba géwénta ga ci dëgg : ci ne ko da ngeen dugg ca Al Masjid Al Haraam ca Màkka bu soobee Yàlla, ngeen diy waay wóolu, ngeen di waay watu seen kawar képp wala ngeen diy waay jempu seeni kawar, te du ngeen tiit. Yàlla xam na (ci yéwénóo ga) (ay njariñ) yu ngeen xamul. Moo defaat leneen lu dul loolu ak ubbi gu jigeñ (yoonóog Hudayba).
 28. Moom moo yónni Yonentam ba (Muhammad) cig njub ak diiney dëgg (Islaam) ngir mu am ndam ci kaw diine yépp. Yàlla doy na sëkk seede.
@@ -4777,7 +4779,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 ## Saar 49 : DËKKUWAAY YA 18 - Laaya - Ginnaaw Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
-1. Eey yéen ñi gëm ! Bu leen di jiitu Yàllaa kub Yonentaam. Te ngeen ragal Yàlla di ko watandiku. Ndax Yàlla ku dégg la kuy xam la. 421
+1. Eey yéen ñi gëm ! Bu leen di jiitu Yàllaa kub Yonentaam. Te ngeen ragal Yàlla di ko watandiku. Ndax Yàlla ku dégg la kuy xam la. 
 2. Eey yéen ñi gëm! Bu leen di yékkati seen kàddu ci kaw kàddug Yonenta bi, bu leen koy jollmbeeru ay wax, kon ni ngeen di jooruwantee bu (ngeen ko defee), yéen nangay sippi seeni jëf te yëguleen ko.
 3. Ñay suufeel seeni kàddu ci Yonenta bi ñooñee la Yàlla nattu seen xol (fekk ko mu jooy jëm ci ragal Yàlla). Dana ñu am njégël ak pey gu màgg.
 4. Ña lay woo (yaw Muhammad) di ko jooru di ko jéllóo ci ginnaaw dëkuwaay yi , li ëpp ci ñoom doonu ñu ñu ami xel di ca xalaat.
@@ -4787,7 +4789,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 8. mooy ngëneel lu bawoo fa Yàlla di xéewël. Yàlla Ku Xam la ku Xereñ la.
 9. Su ñaari kuréel ci jullit ñi di xeexoo, na ngeen yéwénal seeni diggante. Su fekkee ne benn ba moo jalgati tooñ ba ca des, na ngeen xeex ak bay tooñ, ba baa muy dellu ci ndigalul Yàlla. Bu, delloo ci ndigal nag, na ngeen leen jubale te ngeen maandu Yàlla safoona ñu maandu ña.
 10. Way gëm ña ay mbokk la ñu. Na ngeen di yéwénal seen digganteek seen mbokk, te ngeen ragal Yàlla, ndax amaana yëramees leen.
-11. Eey yéen ñi gëm ! Bu benn nit di faral a reetaan (yéjji) beneen nit : ndax amaana ña ñuy reetaan gën ñay reetaane. Bu ku góor di def bu ku jigéen it di def. Bu leen di saagaante. Bu leen di safaaney tur, turu caay-caay yellut ci ku gëm. (te ña koy def) te tuubuñu ko réccu ko... Ñoom ñoo di tooñkat ya. 422
+11. Eey yéen ñi gëm ! Bu benn nit di faral a reetaan (yéjji) beneen nit : ndax amaana ña ñuy reetaan gën ñay reetaane. Bu ku góor di def bu ku jigéen it di def. Bu leen di saagaante. Bu leen di safaaney tur, turu caay-caay yellut ci ku gëm. (te ña koy def) te tuubuñu ko réccu ko... Ñoom ñoo di tooñkat ya. 
 12. Eey yéen ñi gëm! Teetleen (moytu) njortu yu bari ndax yenn njortu yi bàkkaar la. Buleen di yëdóonte ; buleen di jëwante. Moo ndax kenn ci yéen bëgg naa lekk yàppu mbokkam mu dée ? Bëgguleen ko kay. Kon nag nangeen ragal Yàlla di ko watandiku. Yàlla kuy Nanguwaakoonu tuub la, Jaglewaakoon la.
 13. Eey yéen nit ñi ! Noo leen bind ci góor ak jigéen, def Nanu leen ngeen di ay giir ak i xeet, ngir ngeen xamante. Waaye ki gën a tedd ci yéen, fa Yàlla, moo di ki gën a ragal Yàlla ci yéen. Yàlla de Ku xam la Ku xàmmee la.
 14. Araab yi neenañu : “Gëm nanu”. Waxal ne : “Gëmaguleen . Waaye nañu wax ne : jébbale nanu sunu bopp, te sax ngëm ga duggagul seeni xol batey. Waaye su ngeen toppee Yàllaakub Yonentam, seen jëf jooju tus du leen ci moy”. Yàlla Jegëlaakoon la ab Jaglewaakoon la.
@@ -4798,7 +4800,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 ## Saar 50 : QAAF 45 - Laaya - Laata Gàddaay ga
 
-Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 423
+Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 
 1. Qaaf. Ak ci Alxuraan ju tedd ji ( laay giñ) !
 2. Waaye dañoo yéemu ba ñu amee waaraatekat bu bokk ci ñom ; digël leen yéefar ya di wax naan : “Lii dey mbir mu yéeme la”.
 3. Ana ! Luy xew bu ñu deewee ba doon suuf...? Moo ndaw dellu guy sori waay ” !
@@ -4811,7 +4813,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 423
 10. tàndarma yu gudd am cëgg yu rankaloo (menn gàcc),
 11. muy wërsëgu jaam ñi. Ci ndox la Nuy dekkale suuf naatal ko. Noonu it la dekkiwaat ga di deme.
 12. Ca la leen jiitu woon, nitu Nooh , ak waa Rasi ak waa Samuud weddiwoon nañu,
-13. ak waa Aad ak Firawna ak mbokki Lóot, 424
+13. ak waa Aad ak Firawna ak mbokki Lóot, 
 14. ak waa Aykata ak nitu Tubba’a. Ñépp weddiwoon Yonent ya. Samag tëkku dal leen (di mbugël).
 15. Nga ne ma lan ? Nun Yàlla danoo sonn ca bind gu jëkk ga ? Ñii kay ñi ngi cim lënt ci mbirum dekkiwaat (ku sos dekkil jaaxalu ko).
 16. Nun Yàlla Noo sàkk nit bind ko te it xam Nanu liy jax-jaxi ci am xolam te sax Nun Noo ko gën a jegeñ buum giy téye ab xol
@@ -4825,7 +4827,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 423
 24. “Yéen ñaar, sànni leen ca safara weddiwaakoon ya daan féttérlu,
 25. ña daan tere aw yiw, te daan jalgati, daan sikki-sàkka,
 26. ka daan jéem a woote jeneen Yàlla di ko booleek Yàlla. Sànni leen ko ci mbugal mu tar ma”.
-27. Nekkaaleem ja (Saytaane) ngay wax naan : “sama Boroom, man dey bewloowuma ko ; waaye moom dafa nekkoon ci ag réer gu tar”. 425
+27. Nekkaaleem ja (Saytaane) ngay wax naan : “sama Boroom, man dey bewloowuma ko ; waaye moom dafa nekkoon ci ag réer gu tar”. 
 28. (Yàlla daldi ne leen) : “Bu leen fi xulóo ! Lii lépp waxoon naa leen ko.
 29. Wax ja du sippiku fi man ; te it Duma tooñ benn jaam”.
 30. Bu keroogee ba Nuy laaj Safara naan ko ; “Ndax fees nga ? ” Safara naan : “Dolli ma” ?
@@ -4838,7 +4840,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 423
 37. Ak fàttali nekk na ci biir loolu ñeel képp ku am ub xol, tey déglu booleek teewlu doon seede.
 38. Man Yàlla, Maa bind asamaan yeek suuf ak li nekk ci seen diggante diirub juróom-benni fan, te Amuma ci benn coono.
 39. Nangay muñ li ñuy wax : te nangay kañ di sàbbaal sa Boroom di ko sant balaa jant bi fenk ak balaa muy so ;
-40. guddi gi it dee ko sàbbaal, ak ci ginnaaw julli gu nekk 426
+40. guddi gi it dee ko sàbbaal, ak ci ginnaaw julli gu nekk 
 41. Yaw (Yonent) bi déglul , bu keroogee ba Wootekat ba (Israafiil) di wootee fu jige,
 42. bis ba nga xam ne danañu dégg xaacu ga. Te bóobule Bis moo di bisub Dekkiwaat ba.
 43. Nun Yàlla (Man Yàlla) Maay dundal di rey, te ci Man la lépp di mujj,
@@ -4852,7 +4854,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 2. Ak ca niir yay ëmbu ndoxum taw !
 3. Ak ci gaal yay daw ci kaw ndox !
 4. Ak ca Malaaka yay séddale mbir yi (wërsëk, ak taw) !
-5. (Maa ngi) giñ ne liñu leen di digu lu dëggu la. 427
+5. (Maa ngi) giñ ne liñu leen di digu lu dëggu la. 
 6. Te it bisub Penc ba lu nekk la lu am la du jaas.
 7. Ak ci asamaan si di borom mbub taar !
 8. Yéen (yéefar yi) yéen a ngi ci ay wax yu féewóo.
@@ -4867,7 +4869,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 17. bu guddi jotaan, lu néew lañu ca daan nelaw,
 18. bu njël masaana jot danuy jéggalu [seen Boroom] ;
 19. seen alal it, daa nañu ci joxe ñiy yalwaan ak ñu ñàkk ña.
-20. Ay kéemaan yuy taxa waaroo ngi ci suuf si ñeel ñu gëm Yàlla tigi ; 428
+20. Ay kéemaan yuy taxa waaroo ngi ci suuf si ñeel ñu gëm Yàlla tigi ; 
 21. ak ci seeni jëmm (am nay kéemaan). Moo ndax dangeen dul gis ?
 22. Seen wërsëg (taw) mi ngi ci asamaan si ak linu leen di dig.
 23. Giiñ naa ci Boroom asamaan ak suuf ! Ne loolu dëgg la lu am la ni jibug seeni kàddu.
@@ -4896,7 +4898,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 46. Nitu Nooh, it bu jëkk. Dañoo saay-saayoon.
 47. Te asamaan, Nun Noo ko tabax ci Sunu Kàttan : te it Noo koy yàkkali.
 48. Suuf si, It Noo ko lal. Ndaw ku man a maasale !
-49. Mépp mbir lenn lu nekk wutal Nanu ko [tóolent]. Ngir ngeen man caa fàttalikoo ? 430
+49. Mépp mbir lenn lu nekk wutal Nanu ko [tóolent]. Ngir ngeen man caa fàttalikoo ? 
 50. “Fëx leen daw wuti seen Boroom. Man dey, ab waarekatam laa bu bir.
 51. Te it bu leen jéema wut jeneen Yàlla. Man mii dey ab xuppekat laa bu bawoo fa moom, buy leeral di biral”.
 52. Noonu rekk la daan deme amul benn Yonent bu masa ñëw ci la leen jiitu tu du aw nitam dañuy wax ne : “Ab njabarkat la walla ab dof la” !
@@ -4925,7 +4927,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 11. Bu keroogee, weddikat danañu toskare,
 12. ña daan nuur ci am po
 13. bis bu ñu leen gëyti-gëytee rëgët leen jëme Safara :
-14. Naan leen Safara si ngeen daan weddee ngi nii. 432
+14. Naan leen Safara si ngeen daan weddee ngi nii. 
 15. Waaw lii ak njabar la ? Am dangeena gisul bu baax ?
 16. Xoyomleen ci biir ! Ngeen muñ ak ngeen ñàkk a muñ , ñoo ci yem képp : ci yéen ak lu man a xew dangay jot peyug la ngeen daan jëf.
 17. Ña ragaloon Yàlla ña nga ca biir Àjjana ya ak i xéewël,
@@ -4939,7 +4941,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 25. ku nekk jàkkaarlook moroomam tey laajante ;
 26. Ñanga naan : “Nun dey ba nu nekkee Àddina danoo ragaloon [Yàlla] ;
 27. Yàlla daldi nuy baaxe fegal nu mbugalum Samuum.
-28. Nun dey bu jëkk, ca Àddina danu ko daan woo di ko ñaan. Moom Yàlla, moo di Aji-baax ji , di Jaglewaakoon bi yërmaandeem”. 433
+28. Nun dey bu jëkk, ca Àddina danu ko daan woo di ko ñaan. Moom Yàlla, moo di Aji-baax ji , di Jaglewaakoon bi yërmaandeem”. 
 29. Fàttalikul sa xéewali Boroom tax na ba doonoo buxaaba waxantumalaa ab dof ;
 30. Walla ñuy wax naan : “Kii waykat la ! Leegi tey mu dee jeexal”.
 31. Waxal ne: “Xaarleen ! Man itam Maa ngi ànd ak ànd ag yéen di xaar”.
@@ -4953,7 +4955,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 39. Walla book Yàlla moom moo am ay doom yu jigéen, yéen ngeen am yu góor ? (mukk)
 40. Moo ndax dangeen leen di laaj ag pey, te ñoom nu diis gann ak i bor ?
 41. Walla ñoom ñoo ame Mbóot yi di ko bind ?
-42. Wala ñoom dañoo am ay pexe ? Te kat pexe yépp ña ko def lay raas. 434
+42. Wala ñoom dañoo am ay pexe ? Te kat pexe yépp ña ko def lay raas. 
 43. Walla ñoom dañoo am jeneen Yàlla ju dul Yàlla ? (Mukk) Tuddnaa Sellam ga soree na lool ak liñu koy bokkaale !
 44. Su ñu gIisaan mbugël sax muy wàcce asamaan, dañu naan : “Niir yu dajaloo la”.
 45. Bàyyileen , ba ñu dajeek bis ba ñu leen di mbugël,
@@ -4967,7 +4969,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Maa ngi giñ ci biddiwub (dëlóoñ ba) !
 2. (Ci ni) seen àndandoo ji (Muhammad) réerul te it juumul
-3. te itam du àddu mukk ci bànneex ; 435
+3. te itam du àddu mukk ci bànneex ; 
 4. du lenn lu dul ak soloo gu ñu koy soloo.
 5. [Jibriil] boroom kàttan gu tar ga moo ko jàngal,
 6. mu di ku taaru te yemoo,
@@ -4982,7 +4984,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 15. foofee la jannatu “al Maawaa” nekk :
 16. la koy muur muur na ko (di lalub wurus).
 17. Da koo gis dëgg bët ya jéllul jaawalewul.
-18. Gis tigi ca kéemtaani Boroomam ya gën a màgg. 436
+18. Gis tigi ca kéemtaani Boroomam ya gën a màgg. 
 19. Waaw xërëmu Laata ak Uzzaa lu ñu leen di niru,
 20. ak Manaat xërëm ba ca des, te ñetteel leen ?
 21. Moo ndax yéen a am doom yu góor moom Yàlla mu am ay jigéen ?
@@ -4995,7 +4997,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 28. te ñoom amuñu ca benn xam-xam : seeni njortu rekk la ñuy topp, te njortu moom jotewul dara ak dëgg.
 29. dëdul, képp kuy dumóoyu Sunug fàttali te dundug àddina rekk ñor ko.
 30. Foofu la seen xam-xam yem. Waaye sa Boroom Moo gën a xam ku réere aw yoonam Moo gën a xam it ku gindiku.
-31. Yàlla moom yi nekk ci asamaan yeek suuf si dana fay ña daan jëf jëf yu ñaaw kem la ñu daan jëf, dana fay it ña daan rafetal seen jëf pey gu gën a rafet, 437
+31. Yàlla moom yi nekk ci asamaan yeek suuf si dana fay ña daan jëf jëf yu ñaaw kem la ñu daan jëf, dana fay it ña daan rafetal seen jëf pey gu gën a rafet, 
 32. ña nga xam ne dañuy moytu bàkkaar yu mag ya ak ñawtéef. Te it moo gën a xam li nekk ci yéen ngir moom Moo leen sose ci suuf def leen ngeen di ay liir ci seen biiri nday. Buleen di tagg seen bopp; (moom Yàlla) Moo gën a xam ana kan moo ragal Yàlla.
 33. Moo xanaa gisuloo ka dumóoyu fuuyu,
 34. muy joxe tuuti faf ko bàyyi ?
@@ -5010,7 +5012,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 43. te moom Mooy reetaanloo di jooyloo,
 44. te it moom Mooy rey mooy dekkal,
 45. te moom Moo bind ñaari tóolent , yu di góor ak jigéen,
-46. muy bawoo ci toq maniyu wu wàcci ci njurukaay 438
+46. muy bawoo ci toq maniyu wu wàcci ci njurukaay 
 47. moom moo waral it sosuwaat ga dekkiwaat,
 48. te moom Mooy woomalale.
 49. Te mooy boroom biddiw ba Si’raa,
@@ -5025,7 +5027,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 58. Kuddul Yàlla manul a tee mu am.
 59. Moo ndax ! Ci waxtaan wii ngeen di béegraay ?
 60. Di ci reetaan te jooyuleen ?
-61. ngeen di nuur rekk ci càggante. 439
+61. ngeen di nuur rekk ci càggante. 
 62. Sàbbaalleen Yàlla te ngeen jaamu Ko.
 
 ## Saar 54 : WEER WI 55 - Laaya - Laata Gàddaay ga
@@ -5039,7 +5041,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 6. Nangeen leen dumóoyu. Bu keroogee ba wootekat ba di woote jëm ci mbir mu naqari,
 7. ñuy jatt seeni gis ba, di génne ci bàmmeel yi dañuy melni ay soccent yu ñu tasaare,
 8. sëggël seeni doq, jëm ca, wootekatu ba. Yéefër yaa nga naan : “Lii dey bis bu jafeñ la”.
-9. Nitu Nooh, ña leen jiitu woon weddi woon nañu. Ñoom it weddi woon nañu sunub jaam daldi wax ne: “Kii ab dof la ! ” daldi koy bàyyi. 440
+9. Nitu Nooh, ña leen jiitu woon weddi woon nañu. Ñoom it weddi woon nañu sunub jaam daldi wax ne: “Kii ab dof la ! ” daldi koy bàyyi. 
 10. mu woo Boroomam ñaan ko ne : “Man dey sonal nañu ma. Dimbalima”.
 11. Nu daldi ubbi wunti asamaan si ci am ndox muy dottiku,
 12. nu daldi ballal suuf ak ay bëti ndox. Ndox ya daldi gëndóo daj ci ndigal lu ñu natale.
@@ -5053,7 +5055,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 20. dadoon sempi nit ñi ni ay dàtti tàndarma di buure.
 21. Naka mu Sama mbugël ak Samag xuppaate ?
 22. Yombal Nanu Alxuraan ngir ñu fàttalikoo ca. Moo kon ndax kenn dana ca jàjjoo ?
-23. Waa Samuud weddi woon nañu fàtteli ga? 441
+23. Waa Samuud weddi woon nañu fàtteli ga? 
 24. Ñuy wax naan : “Jenn waay ni nun nu di ko topp ? Kon dey nu sànku te réer.
 25. Moo ndax dañu koo coqate moom doŋŋ ci nun yónni ko ? Kii daal ab fentaakoon la, bu yées”.
 26. Xalset nañu xam bu ëllëgee, ana kan mooy fentaakoon bu yées ba.
@@ -5067,7 +5069,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 34. Yabal Nanu ca ñoom ngelawu callmeer (mu faagaagal leen), ba mu des njabootug Lóot ñoom musël Nanu leen ca njël,
 35. mudi xéewal gu bawoo ci Nun : noonu Lanuy faye képp kuy sant.
 36. Daan na leen xupp ci Sunu mbugël. Waaye teewul ñu daan werante ci loolu.
-37. Dañoo, sàkkoo saay-saaye ganam ña. Nu daldi fatt seen gët ne leen “Mosleen Sama mbugël ak Samak xupp”. 442
+37. Dañoo, sàkkoo saay-saaye ganam ña. Nu daldi fatt seen gët ne leen “Mosleen Sama mbugël ak Samak xupp”. 
 38. Mu foog leen, suba teel, ak mbugël mu ñu dootul tàggool.
 39. Mosleen Samak mbugël ak Samag xuppe.
 40. Yombal Nanu Alxuraan ngir ñu fàttalikoo ca. Mo ndax kon kenn dana ca jàjjoo ?
@@ -5082,7 +5084,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 49. Noo bind lépp lu nekk cig natale,
 50. amul sunu menn mbir [ndigal] ; [lu dul ne] dafay mel ni xefiinu bët.
 51. Faagaagal Nanu, ay xeet yu mel ni yéen. Mo ndax kon kenn du fàttaliku jàjj ?
-52. Te lépp lu ñu defoon bind Nanu ko ca téere ya, 443
+52. Te lépp lu ñu defoon bind Nanu ko ca téere ya, 
 53. lépp, lu ndaw ak lu mag, karmat nañu ko ca.
 54. Ña ragal Yàlla ña nga ca àjjana yu am i dex,
 55. ca kërug dëgg ga, fa Buur Bu am kàttan ba.
@@ -5096,7 +5098,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 4. Moo ko jàngal waxiin wu leer.
 5. Jant beek weer wi ne rojj yemoo
 6. garab yi ak ñax mi dañuy sujuud.
-7. Moom moo kaweel asamaan. Teg ca ay nattukaayam màndaxe (balaas), 444
+7. Moom moo kaweel asamaan. Teg ca ay nattukaayam màndaxe (balaas), 
 8. buleen di naxe mukk ci màndaxe natt :
 9. Nangeen di natt cig maandute buleen njuuj-njaaj.
 10. Moo tàllal, suuf ñiy dunde :
@@ -5110,7 +5112,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 18. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ?
 19. Moo dajale ñaari géej ya ;
 20. def na aw dig ca seen diggante ba duñu jaxasoo.
-21. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ? 445
+21. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ? 
 22. Te ñaari [géej]: yooyu peme da ciy génne ak ganjar.
 23. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ?
 24. Moo moom gaal yiy tëmbu ci biir géej niki ay tundi doj ;
@@ -5125,7 +5127,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 33. Eey yéen mbooleem jinne yi ak nit ñi ! Su ngeen manee lañbatu ci biir déeléy asamaan yeek suuf si, lañbatuleen. Waaye du ngeen mana kër-këri mukk ba génn kiiraayal Yàlla.
 34. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ?
 35. Dees na leen xala sotti safara ak biteex, te kenn du leen dimbali.
-36. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ? 446
+36. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ? 
 37. Su asamaan si xottikoo ruy mel ni beteex.
 38. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ?
 39. Bu keroogee, nit ak jinne, kenn deesu ko laaj bàkkaaram.
@@ -5140,7 +5142,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 48. Yu am car yu dëll meññ gacc.
 49. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ?
 50. Am na fa ñaari bëti ndox yuy daw-dawaan.
-51. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ? 447
+51. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ? 
 52. Nekk na ca biir ci xeetu fuytéef wu nekk ñaari wirgó
 53. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ?
 54. ñangay sóonu ci ay laltaay yu dëll yoo xam ne biir ga sooy la, te it meññatum ñaar dër ya day yoore.
@@ -5154,7 +5156,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 62. Ci dër yooyu amaat na yeneen ñaari dër.
 63. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ?
 64. Ñu di ñaari dër yu naat lool nëtëx.
-65. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ? 448
+65. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ? 
 66. Nekk na ci seen biir ñaari bëti ndox yuy jol di fuur.
 67. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ?
 68. am na ci biiram ay fuytéef, ak i tàndarma, ak rummaan.
@@ -5169,7 +5171,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 77. Yéen nit ak jinne ana naka ngeen di man a weddee seen xeewali Boroom ?
 78. Saw turu Boroom Baarkeel na, moom miy Boroom Màgg ak Teraanga ji !
 
-## Saar 56 : XEW-XEW BA 449 96 - Laaya - Laata Gàddaay ga
+## Saar 56 : XEW-XEW BA 96 - Laaya - Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Saa su xew-xew ba tàbbee (bis pénc ba),
@@ -5183,7 +5185,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 9. Ak waa càmmoñ – ana ñan ñooy waa càmmoñ ?
 10. Ak ña jiitu woon ci ndigal te ñooy jiitu ba fàww
 11. Ñooñee ñooy ña gëna jigeñ Yàlla
-12. ca biir Àjjanay xeewu ja, 450
+12. ca biir Àjjanay xeewu ja, 
 13. lim bu takku ca ña jiitu woon,
 14. ak lim bu néew ca ña mujjoon,
 15. ci kaw ay lal yu ñu sadd [wurus ak peme],
@@ -5199,7 +5201,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 25. Duñu fa dégg mukk ay waxi neen walla wax ju sew ;
 26. lu dul dañuy wax rekk naan : “Jàmm nga am aa jàmm rekk! ”
 27. Ak waa ndeyjoor ; ana ñan ñoo di waa ndeyjoor ?
-28. [ñoom ñanga ca]: déem yu amul dég, 451
+28. [ñoom ñanga ca]: déem yu amul dég, 
 29. ak ci garabi banaana yu meññet ma rangaloo,
 30. ak ci biir keppaar yu nu yiif yaatu
 31. ak ci [wetu] ndox muy sottiku te tëa dakk,
@@ -5214,7 +5216,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 40. ak mbooloo ma nu tànn ci ñu mujj,
 41. Ak waa càmmoñ; ana ñan ñoo di waa càmmoñ ?
 42. ña nga ca biir cóolóolul ndox may wañax,
-43. ak ca ron kërug saxaar su ñuul kukk 452
+43. ak ca ron kërug saxaar su ñuul kukk 
 44. seddul, neexul lewetul.
 45. Ñoom ba ñuy dund ca àddina da ñu daan fuukarewu.
 46. Dañoo nuuran ci bàkkaar ba gëna màgg mu di bokkaale Yàlla
@@ -5229,7 +5231,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 55. ngeen di ca dëtëm ni giléem gu mar.
 56. Ñam woowule ñu leen di teeroo, bu bis Pénc baa.
 57. Nun noo leen sàkk bind leen. Ana lan moo tax manuleen a gëm dekkiwaat ?
-58. Xanaa gisuleen maniyyu mi ngeen sotti : 453
+58. Xanaa gisuleen maniyyu mi ngeen sotti : 
 59. yéen a koy bind: walla Nun (Yàlla) noo koy sos ?
 60. Nun noo natt ag dee ci yéen dogal ko te kenn du ko man a fanq. Te it lottu nu
 61. te wuutal leen ñeneen rey leen yéen, dekkilaat leen fu ngeen xamul.
@@ -5244,7 +5246,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 70. Sunu neexoon, Nu sëccël ko mu wex xàtt ak xorom. Moo xanaa dungeen sant ?
 71. Xanaa gisuleen Safara wi ngeen di taaloo ?
 72. Moo ndax yéen a sos garab gi walla Nun noo ko sos sàkk ko ?
-73. Def nanu ko mu di ag fàttali (ci safaraw ëllëg), di jumtukaay ci képp ku ko ittewoo. 454
+73. Def nanu ko mu di ag fàttali (ci safaraw ëllëg), di jumtukaay ci képp ku ko ittewoo. 
 74. Na ngay sàbbaal sa Boroom, bu Màgg bi !
 75. Déet !... maa ngi giiñ ci wàccuwaayi biddiw yi.
 76. Su ngeen xamoon lii, ngiiñ lu màgg la de.
@@ -5259,7 +5261,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 85. fekk na booba Nun Yàlla noo ko gëna jigeñ waaye du ngeen gis.
 86. Bu ngeen, jortee ne ameeluleen Yàlla dara,
 87. ana lan moo tax kon delloosiwuleen [ruuh ga], ndegam ñu dëggu ngeen ?
-88. Su fekkee ne koo ku dafa jige woon (Yàlla), 455
+88. Su fekkee ne koo ku dafa jige woon (Yàlla), 
 89. dana (am) noflaay, ak àjjanay xéewël.
 90. Su fekkee ne nag dafa bokk ci waa ndeyjoor,
 91. dees na ko [teeroo]: “Jàmm ju” bawoo ca waa ndeyjoor.
@@ -5273,7 +5275,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Ñi nekk ci biir asamaan yeek suuf si ñi ngi sàbbaal Yàlla miy boroom Kàttan gi, te di ku Xereñ.
-2. Mooy boroom nguurug asamaan yeek suuf. Mooy dundal mooy rey, te Man na lépp lu ne. 456
+2. Mooy boroom nguurug asamaan yeek suuf. Mooy dundal mooy rey, te Man na lépp lu ne. 
 3. Mooy ki Jëkk mooy ki Mujj, mooy ki Fés mooy ki Nëbbu te moo Xam lépp lu ne.
 4. Mooy ki bind asamaan yeek suuf si ci biir juróom-benni fann ba noppi Mu yemoo ca kaw Gàngunaay ga (Aras); Xam na lépp luy dugg ci biir suuf ak lu caay génne, ak lépp luy wàcc bawoo asamaan ak lu cay yéek, te Moom mi ngi and ak yéen fu ngeen man di nekk. Te Yàlla kuy gis la li ngeen di def.
 5. Mooy Boroom nguurug asamaan yeek suuf si . Te ca Yàlla la mbir yépp di mujj.
@@ -5283,7 +5285,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 9. Moom mooy wàcce ay kàddu yu leer ca jaamam ba, ngir mu génne leen cig lëndëm tàbbal leen cig leer; te Yàlla dey ku leen ñeewanti la, Jagléwaakoon la.
 10. Ana lu leen dal ba munuleen joxe alal ci yoonu Yàlla, te Yàllaa moom ndono yi nekk ci asamaan yeek suuf si ? Ña joxe seen alal lu jiitu (fathu Makkata) xare boole ca duñu yem ak kenn ñoom dañuy am pey gu màgg ak daraja yu kawe... ëppëlee ko ña joxe ginnaaw xare be te sax xare woon nañu . Ñoom ñépp, la Yàlla dig neexal bu duun, te Yàlla ku deñ-kumpa la ci li ngeen di def.
 11. Ana kan mooy nangoo lebal Yàlla bor bu rafet, Mu fulandikul ko ko, te it dana am ag pey gu màgg.
-12. (Bu keroog) (bis pénc baa) dangeen gis way gëm ña, leer ga dox seen diggante di jolli ci kanam ak ndeyjoor ; (ñu naan leen) : “Bégleen tey : am ngeen ay àjjana yu dex ya di daw ci suufam te dangeen fay béel”. Loolu mooy texe gu mag ga. 457
+12. (Bu keroog) (bis pénc baa) dangeen gis way gëm ña, leer ga dox seen diggante di jolli ci kanam ak ndeyjoor ; (ñu naan leen) : “Bégleen tey : am ngeen ay àjjana yu dex ya di daw ci suufam te dangeen fay béel”. Loolu mooy texe gu mag ga. 
 13. Bu keroogee ba naaféq yu góor yi ak naaféq yu jigéen yi, di wax ñi gëm naan leen : “Xoolleen nu ndax nu man a niitu: ci seenug leer”. Ñu ne leen: “Delluleen ginnaaw, wutig leer”. Daldi doxale seen diggante ñag boo xam ne biir ga yërmaande la (fareek ña gëm), biti ba di mbugël (fareek naaféq ya)
 14. “(Naaféq yaa ngay) woote naan xanaa àndunu woon ak yéen ? ” jullit ña ne. “Axakañ, waaye yéen a fitnaal seen bopp, daan fexeel (ñi gëm) daan werante, faggu ba faf mbirum Yàlla agsi saytaane nax leen.
 15. Bis niki tey, kenn du jël ci yéen ag njotu kenn it du ko jëll ca ña weddi. Seenub saxuwaay Safara moom ngeen mengóol: dootu leen tàggoo. Ndaw mujj gu bon !
@@ -5293,7 +5295,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 19. Ña gëm Yàlla ak Yonentam ñooñee ñooy ña dëggu tey seede fa seen Boroom. Am nañu seenug pey ak seenug leer, yéefar yay weddi Sunuy firnde nag, ñoom ñoo di waa safara.
 20. Xamleen ne dundug àddina am po la, ak i caaxaan, ak gànjar ak fuukareente, ak ëppalantey alal ak i doom. Mu mel ni waame : wu dotti yéem lool yéefar yi, gàncax ga naat seet seet mboq ; sooy mi yàqu. Te àllaxira, mbugël mu tar moo fa am, ak njégël gu bawoo fa Yàlla ak ngëramam. Dundug àddina du lenn lu dul taar buy naje.
 21. Dawleen jëkënte jëm ci njégëluk seen Boroom ak ca Àjjana joo xam ne yaatuwaayam tollu na ni yaatuwaayu asamaan ak suuf, te dañu koy waajalal ñi gëm Yàlla ak Yonentam. Loolu ngënéelul Yàllaa. Te Yàlla Mooy Boroom ngëneel lu màgg la.
-22. Amul menn musiba muy dal ci kaw suuf si walla seen kaw jëmm yi, lu dul ne bind Nanu ko ci ab Téere ba nu ko laata sàkk ; te loolu lu yomb Yàlla la, 458
+22. Amul menn musiba muy dal ci kaw suuf si walla seen kaw jëmm yi, lu dul ne bind Nanu ko ci ab Téere ba nu ko laata sàkk ; te loolu lu yomb Yàlla la, 
 23. ngir ngeen baña yoqat ñanki ci li leer, te it baña bokk ci damoo li mu leen jox. Yàlla safoowul képp kuy damoowaakoon buy fuukare wu.
 24. Ña nay tey digël nit ñi ñuy nay. Képp ku dumóoyu... Yàlla moom ku doyloo boppam la di ku Yayoo cant.
 25. Yónni Nanu sunuy Yonenta ci ay firnde yu leer, wàcce ay Téere boolekook ñoom ak i balaas yu màndaxe, ngir nit ñi taxawal maandute. Wàcce Nanu weñ gu ñuul, mu am kàttan gu tar, ak ay njariñ ñeel nit ñi, ak it ngir Yàlla xam, ana kan moo koy dimbalil ay Yonentam, ci kumpa. Yàlla ku am doole la di Boroom Kàttan.
@@ -5312,7 +5314,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 5. Ñay juuyook Yàlla ak ub Yonentam dees na leen toroxal kem niñu toroxale woon ña leen fi jiitu woon. Te wàcce nanu ay firnde yu leer nàññ, yéefar yi am nañu mbugël mu and ak toroxtaane,
 6. bu keroog bis pénc baa ba Yàlla dékkal leen ñoom ñépp, dana leen xibaar la ñu jëfoon ndax Yàlla moom takkoon na ko ñoom it ñu fàtte ko. Yàlla kuy seede la ci lépp lu ne.
 7. Xanaa gisuloo Yàlla xam na li nekk ci asamaan yeek suuf si ? Amul fenn fu ñuy déeyoo sekkare muy ñatt te du moom Yàlla moo leen ñeenteel, du caageen juróom te du ut moo leen juróom-benneel, du lu gëna bari wala lu gëna néew loolu, lu dul ne mi ngi and ak ñoom fu ñu man a nekk. Te, Dana leen xibaar, lépp lu ñu daan jëf, bu bis pénc baa, Yàlla ku xam lépp la.
-8. Xanaa gisuloo ñañu tere woon (Yahuud ya) ? Ba noppi, ñoom ñu dellu di ko def, di déeyoo ciy bàkkaar, ak ug nooneel ak moy Yonenta bi. Bu ñu dikkee fi yaw, nuyu la ak nuyoo boo xam ne Yàlla nuyoo wu la ko, te ña ngay wax ci seen xol naan : “Lu tax Yàlla dinu mbugël ci li nuy wax ? ” Bàyyi leen ak Safara, Danañu ca xoyomu. Ndaw mujj gu bon ! 460
+8. Xanaa gisuloo ñañu tere woon (Yahuud ya) ? Ba noppi, ñoom ñu dellu di ko def, di déeyoo ciy bàkkaar, ak ug nooneel ak moy Yonenta bi. Bu ñu dikkee fi yaw, nuyu la ak nuyoo boo xam ne Yàlla nuyoo wu la ko, te ña ngay wax ci seen xol naan : “Lu tax Yàlla dinu mbugël ci li nuy wax ? ” Bàyyi leen ak Safara, Danañu ca xoyomu. Ndaw mujj gu bon ! 
 9. eey yéen ñi gëm ! Su ngeen dee déeyooti, buleen di déeyoo mukk ci luy bàkkaar , walla ak noonoo walla moy Yonenta bi, nangeen di déeyoo ci topp Yàlla ak ragal ko. Te nangeen ragal Yàlla mi nga xam ne dees na leen pang yéen ñépp jëmleen ca moom ( bu bis pénc baa).
 10. Déeyoo moom [liggéeyub] saytaane doŋŋ la ngir man a tiit loo ñi gëm. Te manuleen a lor dara lu dul ci kàttanu Yàllu. Ñi gëm nañuy doyloo te wéeru ci Yàlla.
 11. Eey yéen ñi gëm ! bu ñu leen waxee ne yaatleleen ci jataay yi : “Na ngeen daldi yaatal”,. Kon dey Yàlla dana leen yaatalal Bu ñu leen waxee ne jógleen, nangeen daldi jóg (su ngeen ko defee). Yàlla dana yékkatil ñi gëm te bokk ci yéen ak ña am xam-xam (ay daraja yu kawe). Te Yàlla ku deñ-kumpa la ci li ngeen di def.
@@ -5323,7 +5325,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 16. Jàppe woon nañu seen ngiñ ya muy pakk, ñuy gàllankor yoonu Yàlla. Danañu am mbugël muy toroxal.
 17. Seen alal yeek, seen doom yi do leen jariñ manuleen fegal dara ci Yàlla. Ñoom ñoo di waa safara te danu fay béel.
 18. Bu keroogee ba Yàlla dekkal leen ñoom ñépp, su ku defee ñu di ko giiñël ni ñu leen daan giiñale yéen, dañuy jortu ne ñi ngi ci dara. Te ñoom ay fenkat la ñu.
-19. Saytaane man-manee na leen ba fàtteloo leen tudd Yàlla. Ñoo di kureelub Saytaane ndaxam kureelu Saytaane ñooy ña yàqule tigi. 461
+19. Saytaane man-manee na leen ba fàtteloo leen tudd Yàlla. Ñoo di kureelub Saytaane ndaxam kureelu Saytaane ñooy ña yàqule tigi. 
 20. Ñay juuyook Yàlla ak ub Yonentam ñoom ñooy ña torox.
 21. Yàlla bind na ne : “Tigi, Man, maak Samay Yonent nooy not”. Yàlla Ku bari doole la di Ku bari kàttan.
 22. Doo fekk mukk, aw nit ñu gëm Yàlla ak Bis bu mujj ba, ñuy soppanteek kuy juuyook Yàlla ak ub Yonentam, doonte la sax dafay seen baay, walla muy seen doom, walla muy seen mbokk walla ñu bokk giir. Ñooñu Yàlla def na ci seen biir xol ya ngëm dimbali leen ci bu baax. Te dina leen tàbbal ay àjjana yu ay dex di daw ci suufam, ñu béel fa. Yàlla gëram na leen ñoom it gëram nañu ko. Ñooñu ñoo di kurelub Yàlla. Te ndaxam moos kureelub Yàlla ñooy am ndam.
@@ -5333,7 +5335,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Ñi nekk ci Asamaan yeek suuf si ñi ngi sàbbaal Yàlla, te moo di boroom kàttan gi, di Ku xereñ ki.
 2. Te mooy Yàlla moo génnee woon ña weddi te bokk ci, ñoñ Téere (Yahuudi Madiina), ci seen kër ca njaalbeenuk màng ga (Jëm Saam). Jortuleen woon ne danañu génn, ñoom (Yahudd ya it) jortoon nañu ne seeni tata dana leen aar. (Yàlla) daldi nay tàbbal tiitange ci seen xol,. Ñu tàmbalee gental seen kër ya ci seeni yoxo, ak yoxoy jullit ñi. Xalamleen (xalaat), yéen ñi am am njis mu leer.
-3. Su Yàlla dogalul woon seenug génn (réew mi), kon dey Mu mbugël leen ci àddina ; te bu àllaaxiraa it ñu am mbugëlum Safara. 462
+3. Su Yàlla dogalul woon seenug génn (réew mi), kon dey Mu mbugël leen ci àddina ; te bu àllaaxiraa it ñu am mbugëlum Safara. 
 4. Li ko waral moo di ne ñoom dañoo juuyoo woon ak Yàlla ak ub Yonentam. Te nag képp kuy juuyook Yàlla... moom di boroom mbugël mu tar.
 5. Tàndarma gu ngeen man a dog walla ngeen bàyyi ko mu taxaw, ci ndigalul Yàlla la ame ak it ngir mu gàcceel saay-saay sa (Yahuud ya).
 6. Li ngeen nangoo ci ñoom (alal) te xeexuleen Yàllaa ko baaxe ab Yonentam ; waaye nag Yàlla mooy bal ay Yonentam ci kaw ku ko soob te Yàlla ku am kàttan la ci def lépp lu ne.
@@ -5343,7 +5345,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 10. [Bokk na ci ñi yayoo alal jooju] ña dikk seen ginnaaw tey wax naan : “Yaw sunu Boroom, jéggalnu, nook sunu mbokk yi ñu jiitu ci ngëm ; te bul bàyyi genn mbañeel ci sunuy xol jëm ci ñi gëm. Yaw sunu Boroom, Kuy ñewenti nga Kuy Jaglewaakoon nga sa Yërmënde”.
 11. Xanaa gisuloo ña naaféq ña ngay wax ak seeni mbokk ya weddi ci ñoñ Téere naan leen : “Bu ñu leen génnee, dananu génn ànd ak yéen te dunu topp kenn ci lu leen di lor yéen ; te kuy xex ak yéen, nun yéen la nuy jàppale”. Te Yàlla seede na ne ñoom ay fenkat la ñu.
 12. Bu ñu leen génnee woon, ñoom duñu génn mukk di ànd ak ñoom ; bu ñu doon xeex it , dunu leen jàppale ; sax dañuy mujj daw ; te duñu am ndam.
-13. Ñoom naaféq yi seen jëmm yii la ñu gën a ragal ci Yàlla. Ndax ñoom dañoo xamul. 463
+13. Ñoom naaféq yi seen jëmm yii la ñu gën a ragal ci Yàlla. Ndax ñoom dañoo xamul. 
 14. Duñuy xeex ak yéen mukk (ñoom naaféq ya) lu dul biir dëkk yu ñu tata ci ginnaaw ay ñag. Seenug noonoo ci seen biir lu tar la. Danga foog ne ñu ànd lañu, te seeni xol dañoo féewoo. Li ko waral moo di ne dañoo amul ay xol di ko jariñoo.
 15. danoo melni ñi leen jigeñ, te jiitu woon leen (Yéefëri Makka), mos nañu alkaande seen jëf te danañu am mbugël mu tar ;
 16. dafay melni rekk Saytaane ba muy wax ak nit naan ko : “Weddil”. Ba mu weddee, mu ne ko : “Man kat deñ naa ci yaw ndax man damaa ragal Yàlla, miy Boroom àddina si”.
@@ -5354,7 +5356,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 21. Sunu wàcce woon Alxuraan jii ci kaw aw doj, kon dey nga gis ko muy toroxlu daldi moñoxoo ngir ragal Yàlla. Yooyu ay léeb la yu nuy saddal nit ñi ngir ñu man caa xalaate.
 22. Moom mooy Yàlla ji nga xam ne. Amul jeneen Yàlla ju dul moom, Moo xam kumpa ak li Feeñ. Mooy, Yëramaakoon bi, di Jaglewaakoon bi.
 23. Moom Mooy, Yàlla ji nga xam ne. Amul jeneen Yàlla ju dul moom ; mooy Boroom bi, di Ku Sell ki, di Jàmm ji, di Ku Wóor ki, di Ku Peek lépp, di Boroom Kàttan gi, di Ponkal mi, di Ku Rëy ki. Tudd naa Sellam gi ! Soree na lool ak li ñu koy bokkaaleel.
-24. Moom Mooy Yàlla, Bindkat biy sos, tey Melal. Mooy boroom tur yi gën a rafet. Mbooleem li nekk ci asamaan yeek suuf si dañu koy sàbbaal di ko kañ. Moom moo di boroom Kàttan gi, di Ku Xereñ ki. 464
+24. Moom Mooy Yàlla, Bindkat biy sos, tey Melal. Mooy boroom tur yi gën a rafet. Mbooleem li nekk ci asamaan yeek suuf si dañu koy sàbbaal di ko kañ. Moom moo di boroom Kàttan gi, di Ku Xereñ ki. 
 
 ## Saar 60 : JIGÉEN JU ÑUY SEETLU JA 13 - Laaya – Laata Gàddaay ga
 
@@ -5364,7 +5366,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 3. Te bu Bis Pénc baa seeni doom walla seeni mbokk dunuleen fa jariñ, [Yàlla] dana fa teqale seen diggante, te Yàlla kuy Gis la li ngeen di def.
 4. Am ngeen, royukaay wu rafet ci Ibraahiima ak ña àndoon ak moom, (fàttalikul) ba ñu waxee seen nit ña ne leen : “Deñ nanu ci, yéen ak li ngeen di jaamu te du Yàlla. Weddi nanu leen. Sunu digganteek yéen it, mbañeel ak ug noonoo moo fiy dox ba fàwwu, lu dul bu ngeen gëmee Yàlla doŋŋ”. Ba mu des waxi Ibraahiima ak baayam ne ko : “Danaa la, jéggalul [Yàlla] waaye amaluma la dara ci Yàlla”. “Yaw sunu Boroom, Yaw la nu doyloo te ci Yaw la nuy delu. Te ci Yaw la lépp di Mujj.
 5. Yaw sunu Boroom, bul nu def mukk [sànje] ci loxoy yéefar yi ; te nanga nu jéggal, Yaw, yaa di Boroom Kàttan gi, di Ku Xereñ ki”
-6. Ñoom am ngeen ci ñoom royuwaay wu rafet, mu ñeel képp ku yaakaar Yàlla ak Bis bu mujj ba : képp ku dumóoyu nag... na xam ne Yàlla ku doyloo boppam Yayoowaakoonu cant la. 465
+6. Ñoom am ngeen ci ñoom royuwaay wu rafet, mu ñeel képp ku yaakaar Yàlla ak Bis bu mujj ba : képp ku dumóoyu nag... na xam ne Yàlla ku doyloo boppam Yayoowaakoonu cant la. 
 7. Amaana bu Yàlla defee ci seen diggante ak ñi ngeen noonooloon ag bëggënte. Yàlla Ku Man la te Yàlla Jéggëlaakoon Jaglewaakoon la.
 8. Yàlla duleen tere ngeen di maslaa ak di laamisook ñi xeexul ak yéen ci seen diine te génnewuñuleen seeni kër. Yàlla safoona way maandu yi.
 9. Ñi leen Yàlla di tere kay ñooy ñiy xeex ak yéen ci diine, di leen génnee ci seeni kër walla ña leen cay jàppale. Buleen xaritoo mukk ak ñoom képp kuy xaritook ñoom ñooy tooñkat yi.
@@ -5385,7 +5387,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 7. Ana kan moo gën a doon tooñkat kuy duural Yàlla ay fen, te ña nga koy woo jëme ko ci Lislaam ? Yàlla dey du gindi aw nit ñu di ay tooñkat.
 8. Ñoom dañoo bëgg fay leerug Yàlla ci seeni gimiñ, te Yàlla moom kuy mottali la ag leeram doontele sax Yéefër yi dañuy bañ.
 9. Moom moo yónni ab Yonentam ci njub ak diiney dëgg, ngir mu kawe mbooleem diine yi, doonte la sax Yéefër yi dañuy bañ.
-10. Eey yéen ñi gëm ! Moo ndax du ma leen tektal ci am njoló mu leen di musël ci mbugël mu mitti ? 467
+10. Eey yéen ñi gëm ! Moo ndax du ma leen tektal ci am njoló mu leen di musël ci mbugël mu mitti ? 
 11. Dangeen di gëm Yàlla ak ub Yonentam tey xare ci yoonu Yàlla ak seeni alal ak seeni bakkan, looloo gën ci yéen de, cëy bu ngeen xamoon !
 12. kon dey dana leen jéggal seeni bàkkaar te it dana leen tàbbal ay Àjjana yu ay dex di daw ci suufam, ak ay dëkkuwaay yu teey ci Àjjanay adan ? Loolu mooy texe gu mag ga
 13. dana leen defal it yeneeni mbir yu ngeen bëgg : ndimbal [lu bawoo] fa Yàlla ak ndam lu jige. Bégalal jullit ñi ci xibaar bu neex bi.
@@ -5396,7 +5398,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Ñi nekk ci asamaan yeek suuf si ña ngay sàbbaal Yàlla, miy Buur, bu Sell, di Boroom Kàttan, di Ku xereñ.
 2. Moom mooy ki yónni ci araab yi ab Yonent bu bokk ci ñoom bu leen di jàngal ay Laayam, di leen jàngal Alxuraan ak Sunna, te ñoom bu jëkkoon ña nga woon ci réer gu sore,
-3. ak ci ñeneen ñoo xam ne dabaguñuleen. Te moom Yàlla Mooy boroom Kàttan, di Ku Xereñ. 468
+3. ak ci ñeneen ñoo xam ne dabaguñuleen. Te moom Yàlla Mooy boroom Kàttan, di Ku Xereñ. 
 4. Loolu ngënéelul Yàlla la moo koy jox ku ko soob. Te Yàlla mooy boroom Ngënéel lu màgg li.
 5. Misaalum ñi ñu wàcceeloon Tawraat te jëfewunu ko ñi ngi melni mbaam mu sëfi téere. Aka bon misaalum nit ñooñu nga xam ne dañoo weddi kàdduy Yàlla te Yàlla du gindi mukk aw nit ñu di ay tooñkat.
 6. Waxal ne : "Eey yéen Yahuud yi ! Su fekkee ne nii ngeen méngook Yàllaay, kon ñaan leen dee, su fekkee ne dëggu ngeen”.
@@ -5408,7 +5410,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 ## Saar 63 : NAAFÉQ YA 11 - Laaya – Gannaaw Gàddaay ga
 
-Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 469
+Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 
 1. Su naaféq ya dikkee ci yaw danuy wax naan : “Noo ngi seede ne yaw Yonent Yàlla nga” ; Yàlla xam na ne yaw ab Yonentam nga ; te Yàlla seede na ne naaféq ya ay fenkat la ñu.
 2. Def nañu seeni ngiñ muy pakk ñuy gàllankoor ci yoonu Yàlla. Ñoom dey la ñuy def ñaaw na !
 3. (La ko def) moo di ne dañoo gëmoon, weddiwaat. Ñu fatt seeni xol, ba xamatuñu dara.
@@ -5419,7 +5421,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 469
 8. Danañuy wax naan : “Sunu delloo Madiina, ña am doole danañu génne ña néew doole ”. Te Yàlla rekk am doole mook ab Yonentam ak way gëm ña. Waaye naaféq ya xamuñu.
 9. Eey yéen ñi gëm ! Bu leen seeni alal ak seeni doom fàbbi ci tudd Yàlla. Képp kuy def loolu... (na xam ne) ñoom ñooy yàqule.
 10. Te nangeen di joxe ci alal ji nu leen wërsëgël balaa dee di dikkël kenn ci yéen muy wax naan : “Cëy sama Boroom ! muñal ma as ndiir : ndax ma man a saraxe ba bokk ca ñu yiw ñi”.
-11. Te Yàlla moom du yeexe benn bakkan saasu ab digam agsee. Te Yàlla ku deñ-kumpa la ci li ngeen di def. 470
+11. Te Yàlla moom du yeexe benn bakkan saasu ab digam agsee. Te Yàlla ku deñ-kumpa la ci li ngeen di def. 
 
 ## Saar 64 : YÀQULE GU MAG GA 18 - Laaya – Laata Gàddaay ga
 
@@ -5431,7 +5433,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 5. Moo xanaa xibaari yéefar ya jiitu woon da leen dikkalul, mosoon nañu musiba mu di peyug seeni jëf ; te am nañu mbugël mu mitti.
 6. la ko waral moo di ne seeni Yonent da leen daan dikkël ak ay firndeyu leer ñuy wax naan : “Moo nit ñii ñoo ñuy gindee ? ” Daal di weddi dumóoyu Yàlla bàyyi leen te Yàlla ku doyloo boppam la Yayoowaakoonu cant la.
 7. Yéefër yi neena ñooy kenn duleen dekkal. Waxal ne : “Axakañ! Dees na leen dekkal ; xibaar leen la ngeen jëfoon. Te loolu lu yomb la ci Yàlla”.
-8. Gëmleen Yàlla ak ub Yonentam, ak leer gi nu wàcce [Alxuraan]. Te Yàlla kat ku deñ- kumpa la ci li ngeen di def. 471
+8. Gëmleen Yàlla ak ub Yonentam, ak leer gi nu wàcce [Alxuraan]. Te Yàlla kat ku deñ- kumpa la ci li ngeen di def. 
 9. Te bu keroogee ba mu leen di Dajale, ca bisub daje ba bis boobee mooy bisub yàqule gu mag ga (ca yéefar ya). (Waaye) képp ku gëm tey jëf yiw, Dana ko faral ay ñaaytéefam te dana ko tàbbal Àjjana yu ay dex ñooy daw ci suufam, te dañu fay béel fàww. Loolu moo di texe gu mag ga !
 10. Yéefër yiy weddi Sunuy Laaya, ñooñu ñoo di waa Safara te danu fay béel. Ndaw saxuwaay bu bon !
 11. Amul menn musiba muy dal kenn lu dul ci ndigalul Yàlla. Képp ku gëm Yàlla, [Yàlla] dana gindi xolam. Te Yàlla xam na lépp.
@@ -5452,7 +5454,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 4. Jigéen ñi mbaragatul, ñoom seen yidda ñetti weer lay doon. Ak ñi mbaragagul. Ñi ëmbu doom, seen yidda mi ngi yem ca ba ñu imbee seen ëmb. Te képp kuy ragal Yàlla, Dana ko defal ak yombal ciy mbiram.
 5. Loolu moo di ndigëlul Yàlla li mu wàcce ci yéen. Te képp kuy ragal Yàlla, dana ko jéggal ay ñaawtéefam jox ko pey gu màgg.
 6. Nangeen di dëkkël jigéen ñi ca fa ngeen dëkk yéen, ca nangeen ko mane. Buleen leen bunduxataal ngir xatal leen. Su fekkee ne dañoo ëmb, na ngeen leen di dundal ba baa ñuy imbi. Suñu, leen nàmpalalee seen doom, nangeen ko fay. Nangeen diisoo ci njekk. Su ngeen ca juuyoo, kon, na ko keneen nàmpal.
-7. Ku am alal na joxee na mu woomale ; ku amul alal it na joxee ci kem na ko Yàlla wërsëgële. Yàlla du ga kenn ci lu mu manul, Yàlla dana def yombal ci ginnaaw ag jafe. 473
+7. Ku am alal na joxee na mu woomale ; ku amul alal it na joxee ci kem na ko Yàlla wërsëgële. Yàlla du ga kenn ci lu mu manul, Yàlla dana def yombal ci ginnaaw ag jafe. 
 8. Aka bari ay dëkk yu moyoon seen ndigëlu boroom ak i Yonentam ! Nu nattu leen nattu bu tar, mbugal leen mbugal mu mitti.
 9. Mosnañu musibam seeni mbir. Ñu mujj yàqule.
 10. Yàlla waajal na leen mbugël mu tar. Kon book ragal-leen Yàlla, yéen woroom xel yi, natt gëm. Yàlla wàcce na ci yéen ag fàttali,
@@ -5463,7 +5465,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Éy yaw Yonent bi ! Ana lu tax, ngay araamal lu la Yàlla daganalal, nga di ca sàkku ngëram loo say soxna ? (Waaye) Yàlla moom Jéggalaakoon la, Jagléwaakoon la.
-2. Yàlla fartal na ci yéen, daganal seeni ngiñ. Yàlla di seen Boroom ; te Ku Xam la Ku Xereñ la . 474
+2. Yàlla fartal na ci yéen, daganal seeni ngiñ. Yàlla di seen Boroom ; te Ku Xam la Ku Xereñ la . 
 3. Ba Yonent bi joxee sekkare lennat ci soxnaam ba ñu ko tasaaree te Yàlla wuññil ko lenn la, dëddu leneen la. Ba mu ko xibaare soxna sa mu ne ko : “ku la ko xibaar ? ” Mu ne ko : “Yàlla mi Xam, te deñ Kumpa ci lépp mooma ko xibaar”.
 4. Yéen ñaari soxna yi su ngeen tuubee (moo gën) ndax seeni xol jeng na. Su ngeen takktoo (Yonent bi), Yàlla farnaak moom, ak Jibriil ak jullit ñu yiw ñi, ak Malaaka yi di ko dimbali.
 5. Te itam su leen fasee, Boroomam dana ko jox ay soxna yu leen gën, yu di ay jullit, yu gëm, yuy topp ndigal, ñuy tuub, ñuy jaamu, ñuy woor, di ay jeeg mba ay janq.
@@ -5473,7 +5475,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 9. Éy yaw Yonent bi ! Xeexal ak Yéefër yi ak Naaféq yi te na nga tar ci ñoom. Safaraay doon seenug muj, ndaw muj gu bon !
 10. Yàlla saddna leebu Yéefër yi ci soxnas Lóot ak soxnas Nooh. Nekkoon nañu ci ron sunu ñaari jaam yu yiw. Waaye ñu worleen dem àndeek Yéefër ya (la ñuy doon ay Yonent taxul ñu manal leen ci Yàlla dara. Dees na [leen] ne : “Tàbbileen Safara, ànd ak way tàbbi ña”,
 11. Yàlla saddna léebu way gëm ña, ci soxnas Firawna, ba mu waxee ne “Yaw sama Boroom, tabaxal ma kër fa yaw ca Àjjana, te nga musël ma ci Firawna ak jëfam; nga musël ma it ci nit ña di ay tooñkat”.
-12. Ak ci, Mariyaama, doomi Imraana mi ñoŋaloon boppam ; Nu af ca ci sunu ruu. Mu dëkëloon kàdduy Boroomam ak i téereem : te bokkoon ca toppakat ya (daan jaamu Yàlla). 475
+12. Ak ci, Mariyaama, doomi Imraana mi ñoŋaloon boppam ; Nu af ca ci sunu ruu. Mu dëkëloon kàdduy Boroomam ak i téereem : te bokkoon ca toppakat ya (daan jaamu Yàlla). 
 
 ## Saar 67: NGUUR GA 12 - Laaya – Laata Gàddaay ga
 
@@ -5500,7 +5502,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 20. Ana kan moo leen man a wutal ay xarekat yu leen di taxwu te du Yàlla ? Yéefër yi ci woro la ñu nekk.
 21. Ana kan moo leen di wërsëgal su (Yàlla) téyee wërsëgëm ? Ñoom da ñoo sànku.
 22. Moo ndax ? Waajiy dëpp xarkanamam moo gën a gindiku kiy dox ne sàtt ca kaw yoon wa jub xocc.
-23. Waxal ne: “Moom moo leen sàkk defal leen dégg, ak ub gis ak i xol”. Te néewaana ngeen sant delloo njukël ! 477
+23. Waxal ne: “Moom moo leen sàkk defal leen dégg, ak ub gis ak i xol”. Te néewaana ngeen sant delloo njukël !
 24. Waxal ne : “It moo leen ji ci suuf si, te ca moom ngeen di mujj ñu pang leen”.
 25. Ñuy wax naan : “Dig ba kañ lay doon su fekkee ne ñu dëggu ngeen ? ”.
 26. Waxal ne : “Xam-xamub loolu ma nga ca Yàlla. Man nag ab xuppekat buy leeral laa”.
@@ -5513,7 +5515,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Nuun. Ak Xalima ga ak la ñuy bind !
-2. Sa xéewali Boroom (yaw Muhammad), tax na ba dofoo. 478
+2. Sa xéewali Boroom (yaw Muhammad), tax na ba dofoo. 
 3. Te itam, am nga pey gu dootul dog.
 4. Te yaa ngi làmboo, ak jikko yu màgg.
 5. Danga gis ñoom it danañu gis.
@@ -5528,7 +5530,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 14. Mu nekk di boroom alal ak i doom.
 15. Saa su ñu jàngee fi kanamam Sunuy Laaya, muy wax naan : “Léebi ñu jëkk ña la”.
 16. Dananu ko wutal màndarga ci suku [bakkanam].
-17. Natu nanu leen kom ni nu nattuwoon woroom tool ya ba ñu diisóo ne ba ñu xëy góob ko, 479
+17. Natu nanu leen kom ni nu nattuwoon woroom tool ya ba ñu diisóo ne ba ñu xëy góob ko, 
 18. te settee wu ñu woon : “Dogalub Yàlla”.
 19. Mu am lu bawoo fa sa Boroom dikk wër si ko (faagaagal tool ba) fekk ñoom nelaw nañu,
 20. ba bët setee, mu melni luñu déqi.
@@ -5542,7 +5544,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 28. Ka ca gën a yiw ne leen : “Ndax nee wu ma leen : Ngeen di sàbbaal seen Boroom di ko kañ ! ”
 29. Ñu daldi ne : “Tudd nanu selluk sunu Boroom ! Nun dey, ay tooñkat lanu woon”.
 30. Ku nekk dëgmal morom ja, ñuy yeddante.
-31. Ñuy wax naan : “Ngalla ! Nun danoo bew. 480
+31. Ñuy wax naan : “Ngalla ! Nun danoo bew. 
 32. Aka neexoon Yàlla nangu sunu tuub wuutalal nu ko ak tool yu ko gën. Sunu Boroom la nu xemmem”.
 33. Noonu la mbugal ma deme woon ; te mbugalum àllaaxira maay gëna rëy, cëy bu ñu xamoon !
 34. Ña ragal Yàlla dey ñoom am nanu Àjjanay xéewal fa seen Boroom.
@@ -5555,7 +5557,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 41. Wala dañoo am ñu ñuy bokkaale ? Kon, nañu indi seen bokkaale ndegam nu dëggu la nu !
 42. Bu keroogee ba ñuy wuññi ab yeel [tiitaange] nu def leen woo ngir ñu Sujud te du ñu ko man.
 43. Ñuy xiin-xiini ne muq ak gàcce te kat ba ca ba ñuy dund daayees na léen woo ngir ñuy sujood (jullig) te booba dara dalut léen.
-44. Bàyyee ma ak ñiy jàppe waxtaan wii ( Alxuraan) ay fen dina nu léen taxañe fu ñu dul xam. 481
+44. Bàyyee ma ak ñiy jàppe waxtaan wii ( Alxuraan) ay fen dina nu léen taxañe fu ñu dul xam. 
 45. Dama léen di dënniirlu waaye sama pexe naaxsaay.
 46. Moo ndax da nga léen di laaj ag pey te ñu fees dell ak i bor.
 4. Wala dañoo xam mbóot ba di ko bind.
@@ -5564,7 +5566,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 50. Yàlla daldi ko tànn boole ko nit ñu yiwe ña.
 51. Ña weddi saayu ñu déggée (Alxuraan) dina ñu lay xawa xeelu te naan kii ab dof la kat. 52- (Alxuraan) du lenn lu dul (ab téeré ) buy fàttali bindéef yi.
 
-## Saar 69 : JOXOÑUB DËGG BA 52 - Laaya – Laata Gàddaay ga 482
+## Saar 69 : JOXOÑUB DËGG BA 52 - Laaya – Laata Gàddaay ga 
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Joxoñub dëgg ba.
@@ -5591,7 +5593,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 22. ca Àjjana ju kawe
 23. meññatam ma day yoore.
 24. “Lekkleen te naan muy peyug la ngeen jiitaloon”.
-25. Ña ñuy joxe seen téere ci càmmoñ, danuy wax naan : “Aka neexoon ! Jotuma sama téere, 484
+25. Ña ñuy joxe seen téere ci càmmoñ, danuy wax naan : “Aka neexoon ! Jotuma sama téere, 
 26. te ma ba ña xam luy sama màndaxe...
 27. Aka neexoon, ma dee farit.
 28. Sama alal ja jariñuma dara.
@@ -5606,7 +5608,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 37. defkati njaaxum ya rekk koy lekk”.
 38. Déet... Maa ngi giñ ci li ngeen di gis,
 39. Ak ci li ngeen gisul,
-40. ci ne [Alxuraan] waxi ab Yonent la bu tedd, 485
+40. ci ne [Alxuraan] waxi ab Yonent la bu tedd, 
 41. du waxu ab waykat ; li ngeen gëm néew na,
 42. du waxi it ab buxaaba, aka néew lu ngeen di fàttaliku.
 43. Dafa wàcc bawoo ci boroom àddina si.
@@ -5635,7 +5637,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 10. benn xarit dootul laajte xaritam,
 11. danañuy gisante. Su boobaa tooñkat bi danaa siiw jot boppam, joxe njabootam,
 12. ak soxnaam, ak mbokkam,
-13. ak askanam wa ko yiir, 487
+13. ak askanam wa ko yiir, 
 14. ak sax far képp ku nekk ci kaw suuf, ngir mu mana mucc.
 15. Mukk dootul raw Safara
 16. (Tàng) bay wësëm kaaŋum bopp.
@@ -5650,7 +5652,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 25. mu ñéel yalwaankat yeek ñu ñakk ñi ;
 26. ak ñiy dëggël Bis Pénc bi,
 27. ak ñiy ragal seen mbugalum Boroom
-28. te, sa mbugalum Boroom kenn du ca naagu ; 488
+28. te, sa mbugalum Boroom kenn du ca naagu ; 
 29. ak ñiy sàmm seen pëy
 30. lu dul ca seeni soxna ak seeni jébéer, ñoom kenn yeddu leen,
 31. képp kuy sàkku [bànneex] ci lu moy loolu, ñoo ñaa di way jalgati ya ;
@@ -5665,7 +5667,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 40. Déedéet !... Maa ngi giñ ci Boroom Penku ak Sowu yi ci ne Nun boroom Kàttan la nu.
 41. Ci soppi wuutale leen ak ñeneen ñu leen gën, te kenn du ko fanq.
 42. Bàyyileen ñu nuur (ci kéefër) aka fo ba baa ñuy dajeek bis ba ñu leen daan digu,
-43. bu keroogee, ba ñuy génn bàmmeel ya gaaw melni ku jëm ciy xërëm ; 489
+43. bu keroogee, ba ñuy génn bàmmeel ya gaaw melni ku jëm ciy xërëm ; 
 44. seen gët ya sajju, ñu torox ngir gàcce. Bis boobee mooy ba ñu leen daan dig (tëkoo)!
 
 ## Saar 71 : NOOH 28 - Laaya – Laata Gàddaay ga
@@ -5678,7 +5680,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 5. (Nooh) : “Yaw sama Boroom ! woo naa samaw nit, guddeek bëcëg.
 6. Te sama woote bi dolli wu leen lu dul féew.
 7. Te man saasu ma leen di woo ngir Nga jégël leen, dañuy def séeni waaraam ci séeni biiri nopp, daldi muuroo séeni sér, daldi jomlu.
-8. Topp, woonaa leen cig jooru. 490
+8. Topp, woonaa leen cig jooru. 
 9. Topp, biralalnaa leen, yalolnaa leen.
 10. Ma wax leen ne : “Jégëluleen seen Boroom, Moom dey Jégëlaakoon la,
 11. kon dey dana yabal asamaan si, mu duttil leen taw,
@@ -5693,7 +5695,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 20. ngir ngeen mana sóobu ca yoonam yu dàndante ya”.
 21. Nooh daldi wax ne : “Yaw sama Boroom, (samaw nit) moy na ñu ma dem toppi koo xam ne alalam ak i doomam jariñu ko lu dul yàqule.
 22. Ña ngay fexe pexe yu rëy,
-23. tey wax naan : “Buleen bàyyi seeni Yàlli bu leen bàyyi Wud, Mbaa Suwaa’, ak Yaquusa, ak Ya’uuqa ak Nasra. 491
+23. tey wax naan : “Buleen bàyyi seeni Yàlli bu leen bàyyi Wud, Mbaa Suwaa’, ak Yaquusa, ak Ya’uuqa ak Nasra. 
 24. Te réeral nañu ñu bari. Te bul dolli tooñkat ya lu dul ag réer.
 25. Ci sababu seen ñaawtéef ya, labaleef na leen, tàbbalees leen safara, te amu ñu fa fekku ñu fa ku leen di dimbali, ku dul Yàlla”.
 26. Nooh wax na ne : “Yaw sama Boroom, bul bàyyi ci kaw suuf si benn yéefar bu koy dëkke.
@@ -5705,7 +5707,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Waxal ne : “Soloof na ma am na mbooleem jinne muy déglu, bay wax naan : “Nun dey dégg nanu Ñjàngum [Alxuraan] mu yéeme,
 2. dafay gindee jëme ci njub. Nu daldi koy gëm, te dunu bokkaale dara ci sunu Boroom.
-3. Te sunu Boroom - màggam ga sell na - jàppewul kenn muy soxnaam, waxatumalaa doomam ! 492
+3. Te sunu Boroom - màggam ga sell na - jàppewul kenn muy soxnaam, waxatumalaa doomam ! 
 4. Sunu kannas ma [Ibliis] moodaan wax ay njaxum ci Yàlla.
 5. Te foog na ne nit ak jinne amul kenn ku cay fenal Yàlla.
 6. Amoon ci nit, aw gaay ñu daan sàkku ay muslaay ci aw gaay ñu bokk ci jinne yi ñu faf leen dolli jaaxle (njaaxum).
@@ -5719,7 +5721,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 14. Am na ci nun ay jullit, am na it ci nun ay tooñkat. Ña nga xam ne ñoom dañoo tuub defi jullit ñoo ñaa làmboo njub.
 15. Tooñkat ya nag, ñoom ñoo di mattum safara.
 16. Te kat su ñu jaaroon ca yoon wu jub xocc wa, Danaa leen nàndale, ndox mu neex,
-17. ngir nu nattu leen ca. Képp ku dumóoyu baña fàttaliku Boroomam, (Yàlla) dana ko sóob ci mbugël muy dolliku saa su nekk. 493
+17. ngir nu nattu leen ca. Képp ku dumóoyu baña fàttaliku Boroomam, (Yàlla) dana ko sóob ci mbugël muy dolliku saa su nekk. 
 18. Jàkka yi Yàlla moo leen moom : buleen fay woo kenn di ko booleek Yàlla.
 19. Te kat ba jaamub Yàlla bi taxawee di ñaan Boroomam, xawnañoo raj-rajloo ca kawam.
 20. Waxal ne : “Maa ngi ñaan sama Boroom te duma ko bokkaaleek kenn”.
@@ -5732,7 +5734,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 27. lu dul ku mu gëram ci Yonent te dakoy booleek ñu koy wattu kanam ak ginnaaw,
 28. ngir mu xam ne jotal nañu seen Yonentub Boroom. Te it peeg na lépp lu ne ci ab lim (xam na na mu day”.
 
-## Saar 73 : KU ÑU SÀNG KA 494 20 - Laaya – Laata Gàddaay ga
+## Saar 73 : KU ÑU SÀNG KA 20 - Laaya – Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Éy ! yaw, ku ñu sàng ki !
@@ -5746,7 +5748,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 9. mooy boroom Penkook Sowu. Amul jeneen Yàlla ju dul moom. Na nga wéeru ci moom.
 10. Muñal li ñuy wax ; te nga gàddaay leen gàddaay gu rafet (bañ leena faale).
 11. Bàyyi maak ñiy weddi ak ñi am alal ; te nga muñal leen tuuti :
-12. Noo ngi leen di waajal Safara wu ànd ak jéng, 495
+12. Noo ngi leen di waajal Safara wu ànd ak jéng, 
 13. ak aw ñam wuy fot loo, ànd ak mbugël mu mitti.
 14. Bu keroogee bis ba suuf seek doj yi dëgg-dëgg tundu yi mel ni suufus ber mokk.
 15. Yónni nanu ci yéen ab Yonent muy seede, kem ni nu yónnee woon ca Firawna ab Yonent.
@@ -5758,7 +5760,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 ## Saar 74 : KU ÑU MUUR KI 56 - Laaya – Laata Gàddaay ga
 
-Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 496
+Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 
 1. Éey, yaw Ku ñu muur ki!
 2. Neel ñokket jóg tey xuppe.
 3. Te na ngay màggal sa Boroom.
@@ -5773,7 +5775,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 496
 12. te ma joxoñ ko alal ju yaatu,
 13. ak doom yu ko daan wéttali,
 14. te Ma dindiloon ko bépp jafe-jafe.
-15. te mo daan xemmeem saa su nekk Ma di ko dolli. 497
+15. te mo daan xemmeem saa su nekk Ma di ko dolli. 
 16. Te kat des na ! Ndax moom da daan lànk di bañ (Al xuraan) ji.
 17. Danaa ko sonale yéegu tundu.
 18. Moom day xalaat. Na daldi soobu.
@@ -5788,7 +5790,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 496
 27. Ana kan moo lay xamal luy Saqar ?
 28. Du bàyyi dara ;
 29. Dafay alawtiku ab der di ko xëmël.
-30. Fukki (Malaaka) ak juróom-ñanant koy wattu. 498
+30. Fukki (Malaaka) ak juróom-ñanant koy wattu. 
 31. Ay Malaaka rekk ay wattu Safara. Te, lu ñuy bari bari nekku wu ñu fa lu dul fitnaal yéefar yi, ak tiiñal ñoñ Téere, ak dolli ngëmug ña gëmoon, ak it ñoñ Téere ak way gëm ña baña dengi-dengi ; ak it ngir yéefar yaak ña seeni xol wopp di wax naan : “Ana lu Yàlla namm ci misaal mii ? ” Noonu la Yàlla réerële ku ko soob di gindi it ku ko soob. Te sa xarekati Boroom, Moom doŋŋ leen xam. Te lii du lenn lu dul luy fàttali bindéef yi jàjj leen.
 32. Déet !... maa ngi giñ ci weer wi !
 33. Ak ci guddi su nee wërëñ !
@@ -5802,7 +5804,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 496
 41. ci mbirum tooñkat ya :
 42. “(Naan) Ana lan mooleen wara duggloo Safaraw Saqar ? ”
 43. Ñu tontu ne : “Nun kat danu daawul julli,
-44. te daawune leel miskiin yi, 499
+44. te daawune leel miskiin yi, 
 45. te danu daan ànd ak caaxankat ya,
 46. te danu daan weddi bis Penc bi,
 47. ba dee aksi ci sunu kaw”.
@@ -5816,7 +5818,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 496
 55. Kéep ku mu soob, na fàttaliku.
 56. Te manuñoo fàttaliku lu dul ci bu soobee Yàlla. Te moo gëna yayoo ci ragal ko ; te moom doŋŋa am njégël.
 
-## Saar 75 : DEKKIWAAT GA 40 - Laaya – Laata Gàddaay ga 500
+## Saar 75 : DEKKIWAAT GA 40 - Laaya – Laata Gàddaay ga 
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Maa ngi giñ ci bisub dekkiwaat ga !
@@ -5831,7 +5833,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 10. bu keroogee, nita ngay, wax naan : “Fees di rawe ? ”
 11. Déedéet ! Laquwaay amul de !
 12. Bis boobu kay, dellu ca sa Boroom, rekk ay am.
-13. Ca la ñuy xamale nit la mu jëkka def ba ci li mu mujjoon def (cig dundam). 501
+13. Ca la ñuy xamale nit la mu jëkka def ba ci li mu mujjoon def (cig dundam). 
 14. Li war moo di ne nit mooy seede boppam,
 15. dontela sax dafay jégalu ak miim.
 16. (Su Alxuraan) di wàcc (yaw Muhammad) bul di yëngël saw làmmiñ ngir gaawtoo ko :
@@ -5846,7 +5848,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 25. dangay foog ne njuuma la.
 26. Bu ruuga génnee ba ca bóli ga
 27. ñu ne ko: “Ana kan mooy mocckat ba ? ”
-28. Mu daldi xam nag ne dee dikk na, 502
+28. Mu daldi xam nag ne dee dikk na, 
 29. yeel ya daldi jaxasoo rawaasoo,
 30. Bu keroogee, ñu wommat la jaŋat-jaŋatee la jëm ca sa Boroom.
 31. Gëmul woon, te it daawuloon julli;
@@ -5875,7 +5877,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 10. Danoo ragal, ci sunu Boroom, bis bu ñàng te tëradi”.
 11. Yàlla daldi leen fegal ayu boobale bis, dajale leen ak naataangeek mbégte,
 12. mu faye leen lañu muñoon, Àjjana ak i sooy,
-13. dañuy sóonu ca lal ya, te dunu fa gis ab jant waxantumalaak ab sedd liw. 504
+13. dañuy sóonu ca lal ya, te dunu fa gis ab jant waxantumalaak ab sedd liw. 
 14. Keram ya da leen di muur, meññatam ma yóore tiim leen.
 15. Ñu di leen wër ak ay ndabi xaalis, ak ay koppi weer,
 16. ay koppi weeri xaalis, yu yem kepp.
@@ -5889,7 +5891,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 24. Muñal sa dogalub Boroom, te bul topp, ci ñoom, kenn kuy def bàkkaar walla mu di yéefar.
 25. Te na nga tudd sa turu Boroom, subaak ngoon ;
 26. te guddi gi it na nga Koy sujuudal ; te di ko sàbbaal [waxtuw] guddi lu bari.
-27. Ñoom dey da ñoo bëgg Àddina tey sàggane bis bu dis ginnaawal ko. 505
+27. Ñoom dey da ñoo bëgg Àddina tey sàggane bis bu dis ginnaawal ko. 
 28. Nun Noo leen bind. May leen kàttan, te Sunu sooboon, Nu wuutal fi ñeneen.
 29. Lii dey ag fàttali la. Képp ku mu soob man ngaa sóobu yoon jëm ca sa Boroom !
 30. Manu leen a sottal dara, te du dafa soob Yàlla. Moom ku Xam la ku Xereñ la.
@@ -5903,7 +5905,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 3. ak yiy gëwéeluy tasaare.
 4. Ak yiy teqale dëgg ak fen (Laaya yi) ,
 5. di sànni fàttali
-6. Di jélële walla muy xuppe ! 506
+6. Di jélële walla muy xuppe ! 
 7. La ñu leen di tëkóo fàwwu mu ay (xew).
 8. Bu ru raafee biddiw yi,
 9. daldi xar asamaan si,
@@ -5918,7 +5920,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 18. Noonu la ñuy def ak tooñkat ya.
 19. Bu keroogee xuru safara ñeel na ñay weddi.
 20. Moo ndax bindewunu leen ci ndox mu doyadi
-21. Nu daldi koy saxal ci barab wu wóor, 507
+21. Nu daldi koy saxal ci barab wu wóor, 
 22. ba ca ab diir bu ñu xam ?
 23. Nu daldi dogal cëy Noo mana dogal yemale.
 24. Bu keroogee xuru safara ñeel na ñay weddi.
@@ -5933,7 +5935,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 33. dañu melni ay giléem yu mboq.
 34. Bu keroogee xuru safara ñeel na ñay weddi.
 35. Bu bis baa du ñu mana àddu wax,
-36. kenn du leen may pose bu ñuy jéggaloo. 508
+36. kenn du leen may pose bu ñuy jéggaloo. 
 37. Bu keroogee xuru safara ñeel na ñay weddi.
 38. Lii mooy bisub àtte ba, boole nanu leen ak ñu jëkk ña.
 39. Su ngeen amee ay pexe, fexel leen Ma.
@@ -5962,7 +5964,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 8. Nu bind leen ngeen di ay tóllent,
 9. te def nanu seeni nelaw di seen nooflaay,
 10. te it def nanu guddi mu di kiiraay sutura,
-11. nu def bëcëg mu di yëngutu kaay, 510
+11. nu def bëcëg mu di yëngutu kaay, 
 12. tabax nanu juróom ñaari (asamaan) yu dëgër ñu tiim leen,
 13. poose nanu ci làmpu bu leer (jant bi),
 14. wàcce nanu ci niir yi am ndox muy dottiku
@@ -5977,7 +5979,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 23. Danañu fa sax ay jamono yu yàgg.
 24. Dunu fa mos ab sedd waxantumalaa ag naan,
 25. Lu dul ndox muy wañax ak lay rogaate ca seen jëmm ya
-26. muy pey gu témbóo. 511
+26. muy pey gu témbóo. 
 27. Ñoom dañoo foogoon ne duñu leen màndaxe,
 28. ña weddiwoon sunuy Laaya,
 29. lépp lu ne peek nanu ko bind ko.
@@ -6006,7 +6008,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 8. Bu keroogee, dana am ay xol yu tiit,
 9. seenub gis sàjju ngir ragal.
 10. Ña ngay wax naan : “Ndax danuy dundaat ginnaaw dee,
-11. ak sax ginnaaw bu nu doonee ay yax yu funux ? ” 513
+11. ak sax ginnaaw bu nu doonee ay yax yu funux ? ” 
 12. Ña ngay wax naan : “loolu deey yàqule la ! ”
 13. loolu ab jàjj la,
 14. ñu jekki-jekki rekk ne jaww ci kaw suuf si dekkiwaat.
@@ -6021,7 +6023,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 23. daldi woo nit ña dajale leen,
 24. daldi wax ne : “Man maay sen boroom, bi gëna kawe”.
 25. Yàlla daldi koy faagaagal mbugalum àddina muy sar ba àllaaxira.
-26. Ag fàttalikoo ngi ci loolu ña ragal Yàlla. 514
+26. Ag fàttalikoo ngi ci loolu ña ragal Yàlla. 
 27. li ngeen sos moo gëna dëgër ? walla asamaan si ma tabax ?
 28. Kaweel na talaayam ba, te maasale ko ;
 29. Moo lëndamal guddi yi te leeral bëccëg yi.
@@ -6036,7 +6038,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 38. te bëggoon dundug àddina sii doŋŋ (di ko xëntéewóo),
 39. kookee, Safaraa di wàccuwaayam.
 40. Képp ku ragaloon ne dana taxaw ca Boroomam, te daan tere bakkanam bànneex (ay caaxaan),
-41. kookee àjjanaa di wàccuwaayam. 515
+41. kookee àjjanaa di wàccuwaayam. 
 42. Ña nga lay laaj bis pénc ba : “Kañ lay teeral”
 43. Ana ban xam-xam nga ci am ngir tontu leen ?
 44. Ab yemukaayam sa Boroom rekk ko xam.
@@ -6050,7 +6052,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 2. ba ko gumba ga digëlee.
 3. Xamoo : ndax dafa bëgg tuub ?
 4. walla muy fàttaliku man caa jariñoo ?
-5. Ka nga xam ne dafa woomal 516
+5. Ka nga xam ne dafa woomal 
 6. ba tax nga jublu ko.
 7. Lu laak moom ? (yaw muhammadu) ”
 8. Waaye ku la dikkëlati
@@ -6065,7 +6067,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 17. reyeef na nit ngir ngoreedeem !
 18. Ci lan la ko [Yàlla] bind ?
 19. Ci toqu maniyu la ko binde, dugal ay mbiram :
-20. daldi koy yombalal yoon wa ; 517
+20. daldi koy yombalal yoon wa ; 
 21. daldi koy rey, tàbbal ko ci bàmmeel ;
 22. te saa su Ko soobee mu dekkalaat Ko.
 23. Déedéet ! [Nit] moom matalul mukk la nu ko digëloon.
@@ -6080,7 +6082,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 32. mu di seen bànneex ak seenug jur.
 33. Bu bis pénc ba dikkee,
 34. bis ba nit di daw mbokkam,
-35. ak yaayam, ak baayam, 518
+35. ak yaayam, ak baayam, 
 36. ak soxnaam ak doomam,
 37. kenn ku nekk, bu keroogee, am mbir mu ko doy sëkk.
 38. bu keroogee, ay xarkanam yu naat,
@@ -6094,7 +6096,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Saa su ñu lëndamalee jant bi, Maa ngi giiñ
 2. ak saa su biddew yi rotee,
-3. ak tundi doj yi saa su ñuy randatu di dox, 519
+3. ak tundi doj yi saa su ñuy randatu di dox, 
 4. ak saa su nu, sàgganee geleemam ga ëmbu ba sori talatuñu ko,
 5. ak ndokmenta ya (rab yu aaytal ya), dajaloo ñu dekkalaat leen,
 6. ak saa su ñu taalee geej ya mu di safara,
@@ -6109,7 +6111,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 15. Déet !... Maa ngi giiñ ci biddiw yi fàq guddi
 16. tey daw di suux !
 17. ak ci guddi gi saa suy tàmbali!
-18. ak ci suba si saa suy fenk! 520
+18. ak ci suba si saa suy fenk! 
 19. Ci ne [Alxuraan jii] waxi ab Yonent la bu tedd (Jibriil),
 20. di boroom kàttan gu rëy, di ab xejj fa Boroom ganganaay ga Aras,
 21. di ku ñuy digël, ndigëlam ca kaw, di ku ñu woolu.
@@ -6138,7 +6140,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 11. yu tedd yuy bind,
 12. yuy xam li ngeen di def.
 13. Ñu baax ñaa ngi ca biir àjjanay xéewal,
-14. te itam kàccoor ya ñoom, ña nga ca biir safara jahiim 522
+14. te itam kàccoor ya ñoom, ña nga ca biir safara jahiim 
 15. danañu ca xoyomoo, bu bis Pénc baa
 16. te ñoom manuñu koo wuute.
 17. Ana lu lay xamal luy bis Pénc ?
@@ -6152,7 +6154,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 2. ñay natt peese di ëppal lay jëm ca ñoom,
 3. te su ñuy nattal keneen, wàññi ko.
 4. Xanaa ñoom dañoo jàpput ne dees na leen dekkilaat (ginnaaw dee),
-5. ca bis bu ñàng, 523
+5. ca bis bu ñàng, 
 6. bis ba nit ña di taxaw ci kanam Boroom Àddina si yépp ?
 7. Déet... ! Waaye téereb kàccoor yaa nga ca Sijjin de
 8. ana lan moo lay xamal luy Sijjin ?
@@ -6182,7 +6184,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 32. suñu leen masaana gis dañu daan wax ne : “Ñii dañoo sànku”.
 33. Te, yabalunu leen ca ñoom ngir ñu daan leen wattu.
 34. Tey jii nag, ñi gëm ñooy reetaan yéefar ya
-35. ña nga ne toŋŋ ca toogu ya, di xool. 525
+35. ña nga ne toŋŋ ca toogu ya, di xool. 
 36. Moo ndax yéefar ya am nañu yoolub la ñu daan def ?
 
 ## Saar 84 : XOTTIKU GA 25 - Laaya – Laata Gàddaay ga
@@ -6196,7 +6198,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 6. Éy yaw nit ! Yaa ngi def jëm ci sa boroom, te danga dajeek moom de.
 7. Képp ku ñu joxe téereem ci loxob ndeyjooram,
 8. dees na ko màndaxe mu jàppandal,
-9. muy walbatiku jëm cag njabootam di bég. 526
+9. muy walbatiku jëm cag njabootam di bég.
 10. Képp koo xam ne nag moom da ñu koo jox téereem ci ginnaawam,
 11. Ngalla moom kon,
 12. te dana xoyomoo safaraw Sa’iir.
@@ -6211,7 +6213,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 21. te suñu jàngee ci ñoom Alxuraan duñu sujuud ?
 22. Yéefër ya, ñoo koy weddi.
 23. Yàlla xam na la ñuy xalaat.
-24. Na gneen leen xibaar mbugël mu mitti ma. 527
+24. Na gneen leen xibaar mbugël mu mitti ma. 
 25. Ba mu des ña gëm tey jëf yiw : ñoom am na ñu pey gu dootul dog.
 
 ## Saar 85 : BIDDIW YU MAG YA 22 - Laaya – Laata Gàddaay ga
@@ -6224,7 +6226,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 5. ak ci safara wa am lu koy xamb,
 6. ca ba ñu toogee wër ko,
 7. te ñoom seede la ñu ca la ñu defoon way gëm ña,
-8. te fitnaale wu ñu leen ci lu dul ne da ñoo gëm Yàlla, boroom Kàttan ga, Yayoowaakooni cant ba, 528
+8. te fitnaale wu ñu leen ci lu dul ne da ñoo gëm Yàlla, boroom Kàttan ga, Yayoowaakooni cant ba, 
 9. Yàlla mi moom nguurug asamaan yeek suuf si. Te yàlla seede la ci lépp lu ne.
 10. Ña daan fitnaal jullit yu góor yaak yu jigéen ya, te tubu ñu ko, dananu am mbugëlum Jahanama ñu di leen ca lakk. (ca safaraam wa)
 11. Ña gëmoon te daan jëf yiw am nañu ay Àjjana yu ay dex di daw ci suufam. Loolu moo di texe gu mag ga.
@@ -6253,7 +6255,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 8. Yàllaa ka koo mana dekalaat.
 9. Bis bu sekerey mbóot di deefu ko wuññi (xol yi),
 10. Du ci am kàttan te deefu ko dimbali.
-11. Ci asamaan siy taw aka tawaat ! 530
+11. Ci asamaan siy taw aka tawaat ! 
 12. ak ci suuf siy toj sax gàncax !
 13. Alxuraan dafay teqale dëgg at fen,
 14. du ay kafi mbóosóor !
@@ -6267,7 +6269,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Sàbbaalal sa turu Boroom, bi Gëna kawe,
 2. Ki bind jekkal yemale,
 3. kiy dogal tey gindee,
-4. kiy génne ñax mi saxal ko, 531
+4. kiy génne ñax mi saxal ko, 
 5. di ko naatal dëlël ko.
 6. Dananu la jàngal (Alxuraan), te doo too ko fàtte
 7. lu dul la soob Yàlla. Moom moo xam li feeñ ak li nëbbu.
@@ -6282,7 +6284,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 16. Yeen, dangeena bëgg lool dundug àddina,
 17. te àllaaxira gën te moo gëna sax.
 18. Lii nekk na, ca téere yu jëkk ya,
-19. téerey Ibraahiima ak Muusaa. 532
+19. téerey Ibraahiima ak Muusaa. 
 
 ## Saar 88 : MUURAAKOON BA 26 - Laaya – Laata Gàddaay ga
 
@@ -6296,7 +6298,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 7. du rëyloo, du teggib xiif.
 8. Bu keroogee, ay xarkanam yu nooy,
 9. bég lool ca seeni jëf,
-10. ci biir ay Àjjana yu kawe, 533
+10. ci biir ay Àjjana yu kawe, 
 11. doo fa degg mukk waxi caaxaan.
 12. Am na fa, bëtu ndox buy daw-dawaan.
 13. Am na fa, ay lal yu kawe
@@ -6311,7 +6313,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 22. te nootoo leen.
 23. Lu ca dul ku dumóoyu tey weddi,
 24. Yàlla dana ko mbugël mbugël mu gëna rëy.
-25. Te ci Nun la ñuy déllusi. 534
+25. Te ci Nun la ñuy déllusi. 
 26. Ba noppi, te nun it nooy warloo laaj leen.
 
 ## Saar 89 : NJËL 30 - Laaya – Laata Gàddaay ga
@@ -6325,7 +6327,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 6. Xanaa gisoo naka la sa Boroom def waa Aad
 7. Iram, ma doon boroomi kenu,
 8. yoo xam ne kemam amul ci menn réew ?
-9. ak waa Saamud ña daan yatt xeer ya ca xur ya ? 535
+9. ak waa Saamud ña daan yatt xeer ya ca xur ya ? 
 10. ak Firawna, ma doonoon boroomi dàtt ?
 11. Ñoom, ñoo gënoona bew ci réew yi,
 12. te ñu bariloon fa lool ag yàq.
@@ -6353,7 +6355,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Déet !... Ma ngi giiñ ci dëkk bii !
 2. te yaw, sax ci dëkk bi nga dëkk
-3. Ak ci baay ak la mu jur ! 537
+3. Ak ci baay ak la mu jur ! 
 4. Noo, bind nit muy jànkonteeki coono.
 5. Moo ndax dafa defe ni kenn manul ci moom dara ?
 6. Ma ngay wax naan : “Sànk naa alal ju bari”.
@@ -6368,7 +6370,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 15. ab jirim mba mbokk mu jige
 16. walla ab miskiin bu fondóoñ.
 17. Ba noppi, bokk ca, ña gëm tey dénkante ci muñ, di dénkante it ci yërmaande.
-18. Ñooñee ñoo di waa ndeyjoor ; 538
+18. Ñooñee ñoo di waa ndeyjoor ; 
 19. ñay weddi sunuy Laaya ñoom ñoo di waa càmmoñ.
 20. Safara waa ngi di gand.
 
@@ -6382,7 +6384,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 5. Ak ci asamaan seek ka ko tabax !
 6. Ak ci suuf sek ka ko maasale !
 7. Ak ci ruu geek Ka ko yemale ;
-8. moom mi ko ràññatleel mbaax, ak mbon ! 539
+8. moom mi ko ràññatleel mbaax, ak mbon ! 
 9. képp ku ko sellal, daldi nay texe.
 10. te it, képp ku ko sàggane, daldi nay sooy.
 11. Waa Saamuud, seen bewte, tax na ñu weddi,
@@ -6396,7 +6398,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Ci guddi gi saa su muuree lépp ! maa ngi giñ
 2. Ak ci bëcëg bi saa su leeree !
-3. Ak ci ki sàkk, góor ak jigéen ! 540
+3. Ak ci ki sàkk, góor ak jigéen ! 
 4. Seen jëf wuute na.
 5. Képp kuy joxe te ragal (Yàlla)
 6. te mu dëggël yoolub àllaaxira
@@ -6426,7 +6428,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 5. Te sa Boroom dana la jox, ba nga doyal.
 6. Moo ndax fekku la ngay jirim ? Mu fat la !
 7. Ak it ndax fekku la nga réer ? Mu gindila.
-8. Moo ndax fekku la nga ñàkk ? Mu woomalal la. 542
+8. Moo ndax fekku la nga ñàkk ? Mu woomalal la. 
 9. Jirim, nag, bu ko di xorñooñal.
 10. Te laajkat it, bu ko di delloo.
 11. Te it na ngay waxtaane, sa xéewalu Boroom.
@@ -6440,7 +6442,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 4. Te yékatil nanu la saw tur ?
 5. Jafe-jafe bu nekk, àndanaak ug yombal !
 6. Jafe-jafe bu nekk, àndanaak ug yombal !
-7. Te saa yoo féexee, jógël, (julli) 543
+7. Te saa yoo féexee, jógël, (julli) 
 8. te it na ngay xemmeem jëm ci sa Boroom.
 
 ## Saar 95 : GARABU FIGG 8 - Laaya – Laata Gàddaay ga
@@ -6468,7 +6470,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 8. (Xamal ne), sa Boroom mooy delluwaay ba.
 9. Xanaa gisoo waa jay tere
 10. ab jamub Yàlla (Muhammad) ci muy taxawal Julli ?
-11. Xanaa gisoo ni tey su nekkoon ci njub, 545
+11. Xanaa gisoo ni tey su nekkoon ci njub, 
 12. walla muy digale ragal Yàlla ?
 13. Xanaa gisoo su weddi woon tey dumóoyu ?
 14. Xanaa dafa xamul ne Yàllaa ngi gis ?
@@ -6482,7 +6484,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Wàcce nanu ko (Alxuraan) ci guddig dogal ba (Laylatul Qadri).
-2. Ana lan moo lay xamal laylatul Qadri ? 546
+2. Ana lan moo lay xamal laylatul Qadri ? 
 3. Laylatul Qadri moo gën junni weer.
 4. Ci guddi googu Malaaka ya, dañu cay wàcci àndak (Jibriil) ci seen ndigalu Boroom ci mépp mbir.
 5. Jàmm rekk la ba baa njël di jot (fajar sa di xar).
@@ -6495,7 +6497,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 3. ay téere nekk ci biir yu ame dayo bu màgg.
 4. Te gaa ña ñu joxoon téere masuñoo teqalikoo lu dul ginnaaw ba leen firnde ja dikkëlee.
 5. Te digaleefu leen, lu dul, na nuy jaamu Yàlla, bañ Koo bokkaale te di ko sellal, tey taxawal Julli di joxe asaka. Loolu mooy diiney njub ja.
-6. Ñay weddi te bokk ci ñoñ téere, ak Bokkaalekat ya ñoom ña nga ca biir Safaraw Jahanama, te danu fay béel. Ñoom ñii, ñoo yées ci bindeef yi. 547
+6. Ñay weddi te bokk ci ñoñ téere, ak Bokkaalekat ya ñoom ña nga ca biir Safaraw Jahanama, te danu fay béel. Ñoom ñii, ñoo yées ci bindeef yi. 
 7. Ñi gëm tey jëfu yiw, ñoom ñoo ñee ñoo gën ci bindeef yi.
 8. Seenug pey fa seen Boroom Àjjanay adan lay doon, yoo xam ne ay dex ñooy daw ci suufam, ñu béel fa. Yàlla gëram leen ñoom it ñu gëram ko. Loolu ku ragal Yàlla rekk koy am.
 
@@ -6509,7 +6511,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi
 5. ci la ko sa Boroom soloo.
 6. Bu keroogee, nit ñéppay génn kenn kenn ngir ñu wan leen seeni jëf.
 7. Képp ku jëf lu toll ni aw fepp te muy lu baax, dana ko gis,
-8. Képp ku jëf lu toll ni aw fepp su dee lu bon, dana ko gis. 548
+8. Képp ku jëf lu toll ni aw fepp su dee lu bon, dana ko gis. 
 
 ## Saar 100 : JAABKAT YA 11- Laaya – Laata Gàddaay ga
 
@@ -6523,7 +6525,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 7. te kat, moom, seede la ci loolu ;
 8. te kat moom ku tarla xérlool ci bëgg alal.
 9. Xanaa dafa xamul saa su ñu ko jaxasee ci biir bàmmeel,
-10. te wuñées li nekk ci biir dënn yi, 549
+10. te wuñées li nekk ci biir dënn yi, 
 11. bu keroogee, sa Boroom Ku deñ Kumpa la ci ñoom?
 
 ## Saar 101 : TOJ-TOJ BA 11 - Laaya – Laata Gàddaay ga
@@ -6537,7 +6539,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 6. képp ku peeseem diis (ci yiw)
 7. ma nga ko ca dundu gu neex ;
 8. képp ku peeseem wayaf (ci yiw),
-9. ma ngay jëm Haawiyatu. 550
+9. ma ngay jëm Haawiyatu. 
 10. Ana luy xamal lan mooy loolu Haawiyatu ?
 11. Aw Safara la wu tàng.
 
@@ -6551,8 +6553,8 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 5. Déedéet ! Cëy su ngeen amoon xam-xam bu wóor.
 6. Bu ngeen gisee, tigi, safaraw Jahiim.
 7. Te, dangeen ko gIisaat, ak bët yu wér.
-8. Te bu keroogee, def na leen laaj, xéewël ya. 551
-
+8. Te bu keroogee, def na leen laaj, xéewël ya.
+9. 
 ## Saar 103 : JAMONO 3 - Laaya – Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
@@ -6563,7 +6565,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 ## Saar 104 : ŊELEJU 9 - Laaya – Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
-1. Xuru safara ñeel na képp kuy ŋelejooka ragaju, 552
+1. Xuru safara ñeel na képp kuy ŋelejooka ragaju, 
 2. kuy dajale alal di ko lim,
 3. jàpp ne alalam jaa koy taxa sax (baña dee).
 4. Mukk ! dees na ko, mbaq ci biir Hutamatu.
@@ -6577,7 +6579,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Xanaa gisu leen ka sa Boroom def ak ña ame woon ñay ya.
-2. Moo ndax deful seen pexe ma mu naaxsaay ? 553
+2. Moo ndax deful seen pexe ma mu naaxsaay ? 
 3. moo yabal ca seen kaw ay njanaaw yu bari
 4. ñu di leen sànni ay doj yu ñu saaf?
 5. Mu def leen ñu mel ne am ñax mu ñu sàqami.
@@ -6604,7 +6606,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 ## Saar 108 : KAWSAR 3 - Laaya – Laata Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
-1. Jox Nanu la, déegub Kawsara. 555
+1. Jox Nanu la, déegub Kawsara. 
 2. Na ngay julli ngir sa Boroom te na ngay rendi.
 3. Ka lay bañ aka ñaawal, moo dog ci lépp lu baax.
 
@@ -6618,7 +6620,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 5. Te it yéen du ngeen jaamukati li may jaamu.
 6. Am ngeen seen diine man it am naa sama dine”.
 
-## Saar 110 : NDIMBAL 556 3 - Laaya – Gannaaw Gàddaay ga
+## Saar 110 : NDIMBAL 3 - Laaya – Gannaaw Gàddaay ga
 
 Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Saa su ndimbalu Yàlla dikkee ak ndam la,
@@ -6631,7 +6633,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 1. Ñaari yoxoy Abii Lahab dogg nañu te it dugg na.
 2. alalam ak la muy fàggu, du ko jariñ dara.
 3. Dana lakk ci biir Safara wuy bérax.
-4. ak jabaram ja daan yanu matt ma, 557
+4. ak jabaram ja daan yanu matt ma, 
 5. loosam wa, buumug rawa cay nekk (caq bu ñu soy).
 
 ## Saar 112 : SELLAL 4 - Laaya – Laata Gàddaay ga
@@ -6644,7 +6646,7 @@ Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi.
 
 ## Saar 113 : SUBA 5 - Laaya – Laata Gàddaay ga
 
-Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 558
+Ci turu Yàlla Yërëmaakoon bi, Jaglewaakoon bi. 
 1. Waxal ne : “Maa ngi sàkku muslaayi Boroom suba si,
 2. ci ayu li Mu bind,
 3. ak ci ayu lëndëm ga saa bu kukkee,
