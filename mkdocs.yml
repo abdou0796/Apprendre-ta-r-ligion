@@ -1,6 +1,6 @@
 site_name: Apprendre les enseignements islamiques de Cheikh Ahmadou Bamba Mbacké 
 theme:
-  name: material
+  name: mkdocs
 
 nav:
   - Accueil: index.md
