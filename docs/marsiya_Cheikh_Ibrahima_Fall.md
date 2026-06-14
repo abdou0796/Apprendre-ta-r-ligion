@@ -2,6 +2,8 @@
 
 **Seex Muusaa Ka** *(1891 - 1966)*
 
+<img width="752" height="1024" alt="IMG-20200629-WA0055" src="https://github.com/user-attachments/assets/0a5c012b-b9de-4001-9201-9f1bf6ffb441" />
+
 ---
 
 *Bismi-l-laahi-r-Rahmàni-r-Rahìmi*
