@@ -4,35 +4,44 @@
 
 *Aji-Taalif Ji*
 
-
 ---
 
-XARNU BI : Seex Muusaa Ka Werekaanu Bàmba (Yalna ngërëmul Yàlla ñeel leen) woy ko ci atum 1929, ndeysaan!
+**XARNU BI** : Seex Muusaa Ka Werekaanu Bàmba (Yalna ngërëmul Yàlla ñeel leen) woy ko ci atum 1929, ndeysaan!
 doon jamono ju taroon lool, ñàkk ab dund, mbay mu doxul, taw amul, ñàkk xaalis, muy jamono ju naqari
 wallaahi! jaam ñi yooy, tumurànke, xiif, jaaxle te soxla ndimbël lool, ba tax Werekaan wi jël xalimaam woo Yàlla ci
 barkeb Sëriñam bi mu yaakaar ni Yàlla man na léen a wallu ci barkeem, te def ko nag ci cakkutéeful Sëñ Daam Abdu
 Rahmaan Lóo ak i mag i taalibeem. Ba tax mu naan :
+
 « Awma màqaamam di la woo | Waaye mutiid yi ñoo ma woo | Ni tawatal te bu ñu woo | Saw làmmiñay
 wow xarnu bi. »
+
 Muni:"waaye muriit yi ñoom a woo, ni tawatal te bu ñu woo." Bu ñu woo [maanaam] kon woowal Yàlla ci barkeb
 Sunu Sëriñ.
+
 Muy woy wu Yàlla nangu it ndax waxees nani: ba mu noppee ci woy wi la jawal ca Barabu Sëriñ Tuubaa jàng ko fa,
 te fekkoon toogees na diir bu yàgg tawul, gàncax gi loof, niki mu ko yuuxoo ci woy wi, waaye ba mu jàngee woy wi ci
 Barabu Sëriñ Tuubaa bay génn, dees koo wutal lumu seeloo ndax taw bu bari.
+
 Loolu dey manees na ko jàppe firnde ci nangu gu Yàlla nangu woy wi, ngir loolu moo doon dàttub séen tawat.
 Waaye ginnaaw nangug woy wi yit, taar beek woyiin wee gënatee yéeme, ci bees ko tëkkalee ak woykat yi ci Araab
 mbaa sax weneen làkk.
+
 Ci nimu tënkoo ci saart i woy ak i tërëliinam, sàmmoonte ak galan (bahru) bi mu tànn, matal nattun yi (awzaan),
 jotale (balaaxa) te leer nàññ (bayaan ak ma`aanii), boole ci xoromu lool.
+
 Yéeme na! ni mu woyee woy wi, xamni bees koy déglu, man di yëg mettitu jamono ja, ak it aal ji mu ko doon woyee,
 lépp mu dëxëñaale ko ci woy wi, ba manees ko cee fekk. Loolu nag di nu won nooyug Wolof.
+
 Ginnaaw taar bi yit nimu féeñalee woomug Wolof ak sàmmoonte ak nos-wax (lëgg-lëgg/grammaire) ci woy wi yéeme
 na, ba lees ci man a jële ci ay baati Wolof, ak nosiinu baat yi, duun na lool, kon daal kuy yëggu ci suqali wolof mbaa
 yitte woo Wolof war gaa sant Seex Muusaa Ka, Yàl nanu ko Yàlla, aji-màgg ji, fayal ci barkeb Seexul Xadiim Sëriñam.
+
 BISMI-L-LAAHI AR-RAHMAANI AR-RAHIIMI
+
 «Wa izaa sa-alaka 'ibaadii 'annii fa-innii qariibun ajiibu da'wata-d-dii'ii, izaa da'aanii fa-ajib da'wata.
 rabbi innii lima anzëlta ilayya min xayrin faqiirun.
 rabbi yassir walaa tu'assir»
+
 Sëriñ bi noo gi deeti ñaan
 Faqiir dafay nangoo dagaan
 Nangul nu lépp lu nu ñaan
