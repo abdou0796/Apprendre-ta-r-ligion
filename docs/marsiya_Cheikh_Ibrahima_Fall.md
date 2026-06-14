@@ -25,19 +25,18 @@ Seex Bàmba dem ci « Wamsashi»  Seex Ibra dem ci « Tamsashi»
 Moo ñi fi des kuñuy dese ?  yeenu muriid naka pexe ?
 
 Ab séet du dem ba doomi dikkeem  Seex Ibra Faalay doom dikkeem
-
 moo rawi bokk, rawi doom  topp mi waaj leen mooy pexe
+
 Ab séet moroom yaay topp ma  sëriñ muriid yaay topp ma
-
 jéem leen a wàlli séen po ma  te ba po mii ngeen di fexe
+
 Seex Ibra gëm ga làndi na  moo tax mu dëddu àddina
-
 fekki na Bàmba sotti na  wàcci na aljanay texe
+
 Mas nay xibaar ag jébbuloom  ba wax ne Yàlla mi ko moom
-
 moo ko ne Bàmba moo la moom  raasi ko jox ko say pexe
-Tegtalko yoon wa ab muriid  di aw ba raw pexem Mariid
 
+Tegtalko yoon wa ab muriid  di aw ba raw pexem Mariid
 ba am ngërëm bariy muriid  te dootu ree di tex-texi
 
 Mu dal di dem Tayba-Daqaar  Ngir dégg Bàmba di fa xaar
@@ -56,19 +55,18 @@ Mu wax ko tegtal ya fa moom  Sëriñ Bàmba wan ko la fa moom
 mu xam ne jis na ka ko mom  mu dal di fab mbiram joxe
 
 Ma wax la bis ba ndax mu wóor  ñaar fukki fan ci weeru koor
-
 bisub dibéer la mbir ma wóor  Seex Ibra yaa rëyi pexe
+
 Mu sóobu far ba jiitu leen  Seex Bàmba ne kii ëpp na leen
-
 leeram gu rëy gi wër na leen  fum toll xol bay nux-nuxi
+
 Wax na ne tuuti kon mu dem  fekk Sëriñ bi lëm mbiram
-
 ba ken du jot ci baatinam  ludul ca bis ba ñuy texe
+
 Jaaraama Seexi Ibra Faal  Làmp bi Sayxii Bàmba taal
-
 leeral nga réewmi yaa kamaal  yal na nga dolliy beréxi
-Ba mu ñëwee Mbàkke-Kajoor  fekkon na daara ja di suur
 
+Ba mu ñëwee Mbàkke-Kajoor  fekkon na daara ja di suur
 moo jëkk a yalwaani di woor  ñu di ko ree di tex-texi
 
 Yendoo liggéey, fanaane root  gaa yay nelaw ba naa xuréet
@@ -87,19 +85,18 @@ Ba mu demee Mbàkke-Bawol  daf ne na waa kër ga ba wol
 naay soq tey rooti di wol  booleek liggéey di ko joxe
 
 Lu bàmba wax mu dal di naaw  fóorem ju rëy ja sant Saaw
-
 naa ko da ngay dellu gannaaw  jànggil muriitu du pexe
+
 Mbooleem muriid ya di ko soow  mu mel ne dof bu mat a yeew
-
 ba mujj far ñépp ne siiw  Meloom ya far di ko doxe
+
 Mu jiitu far amul moroom  far gëni bokk gëni doom
-
 jaaraama jaaraama xadiim  wàcc nga wàccaaleeg texe
+
 Yaw masulaa juuyook ndigal  naka nga jóg të nga ndugal
-
 ku aw sa mboor duñ ko mbugal  garmi yi yaa tax ñuy texe
-Yaa jëkk a jébbale sa xol  fekkon nga gaa ñay xorxoral
 
+Yaa jëkk a jébbale sa xol  fekkon nga gaa ñay xorxoral
 ñaley setal ñaley nëxal  yaa wane ngér mi ñiy doxe
 
 Yaa xam Sëriñ bi yaa xereñ  daawoo weranteekub sëriñ
@@ -118,19 +115,18 @@ Moo tax nga mel ne ag saxaar  ku nar a dem da na fa jaar
 kuy ñaani paas na seeti gaar  bum nég ba naa na ko pexe ?
 
 Ndegam da nga xebat sa paas  way-wata yaa nga fa garaas
-
 seetal ma wax jii te xiyaas  ndegam da ngaa am looy joxe
+
 Baayay saxaar doomay wata  kuy xamle Yàlla du fi të
-
 ku ji àndaar góob cay mata  jiyal ci taw buy béx-béxi
+
 Seex Bàmba taawloo Mustafaa  Seex Ibra taawbay Mustafaa
-
 Diggante Marwataak Safaa  Kuy aji warnafaa doxi
+
 Seex Bàmba am nam Faadilu  Seex Ibra am nam Faadilu
-
 ku xam na faale Faadilu  kon ag mujam du toroxi
-Seex Bàmba bégle nam Basiir  Seex Ibra bégle am Basiir
 
+Seex Bàmba bégle nam Basiir  Seex Ibra bégle am Basiir
 Mbég moo ci dem lekk ba suur  jegeel ma kay toggiy joxe
 
 Seex Bàmba am nam Abdulaay  Seex Ibra am am Abdulaay
@@ -149,44 +145,39 @@ Déglul ma lim fi ay ndamam  ba gaa yi dollee xam mbiram
 ba xol yi bég ba dellu gëm  leegi ragal yi yox-yoxi
 
 Jaaraama Ndey Saynabu Njaay  la Soxna Jaara yor di jaay
-
 yaa ko mosal waa Njare-Njaay  saw ŋàññ rot na yaa texe
+
 Diggante Njukki ak Njamatil  dañ daa dajey naani butéel
-
 yaa tax ñu jébbulu ca teel  Faal Njaga yaa rëyi pexe
+
 Mbulaki Sàqaki Sugeer  dañ daa falook a fali foor
+(2)  yaa tax ba dine di fa leer toxal nga póon mañ daa tuxe 
 
-(2)  yaa tax ba dine di fa leer
-toxal nga póon mañ daa tuxe  Doomi Dàmmeel ya fa newon
+Doomi Dàmmeel ya fa newon yaa dàm(m) mbir ma ñu newon  
+tay ñépp ñépp a ngi fi nun ken amatul lu muy fexe  
 
-yaa dàm(m) mbir ma ñu newon  tay ñépp ñépp a ngi fi nun
-ken amatul lu muy fexe  Yaa yóbbu Mbaaxaan ca Xafóor
+Yaa yóbbu Mbaaxaan ca Xafóor yaa tax ba xol ba dootu fuur  
+yaa tax mu sànni yatu nguur fab yatu gëm di laaj pexe  
 
-yaa tax ba xol ba dootu fuur  yaa tax mu sànni yatu nguur
-fab yatu gëm di laaj pexe  13
+Te xam ne mas naa yor junjung fumu jëm géwal ya naa kundung  
+muy xas di bàkku cid goroŋ tay mu yam ak nun ay pexe  
 
-Marsiyya Seex Ibra Faal -  Te xam ne mas naa yor junjung
-fumu jëm géwal ya naa kundung  muy xas di bàkku cid goroŋ
+Yaa tax ba Abdulaahi Xaar taxaw fi bunt di fa xaar  
+woyaflu bay lekk daqaar ngir sopp Bàmba miy joxe  
 
-tay mu yam ak nun ay pexe  Yaa tax ba Abdulaahi Xaar
-taxaw fi bunt di fa xaar  woyaflu bay lekk daqaar
+Te xam ne moo doon doomi buur lum mas a wax ñu dal di buur  
+la dale Mbaakol ba Kajoor moo amewoon seeni pexe  
 
-ngir sopp Bàmba miy joxe  Te xam ne moo doon doomi buur
-lum mas a wax ñu dal di buur  la dale Mbaakol ba Kajoor
+Yaa tax ba Soxna Mbenda Faal ak Gañsireeki Làlla Faal  
+gën doomi soxna yii fi taal diine ju rëy ji ñuy doxe  
 
-moo amewoon seeni pexe  Yaa tax ba Soxna Mbenda Faal
-ak Gañsireeki Làlla Faal  gën doomi soxna yii fi taal
+Te xam ne seeni baay a moom Fedarba taalagut kanoom  
+koo mas a jis ay jamonoom xolam ba daawul yox-yoxi  
 
-diine ju rëy ji ñuy doxe  Te xam ne seeni baay a moom
-Fedarba taalagut kanoom  koo mas a jis ay jamonoom
+Yaa tax ba Abdulaay ñaxib làmbi ndigal far na ko ub  
+la gaa ya giiroo moo ko xab tabax na ay kër di joxe  
 
-xolam ba daawul yox-yoxi  14
-- Marsiyya Seex Ibra Faal  Yaa tax ba Abdulaay ñaxib
-
-làmbi ndigal far na ko ub  la gaa ya giiroo moo ko xab
-tabax na ay kër di joxe  Te xam ne mas naa dox fi moom
-
-tay jii mu mat sëkk boroom  (3)
+Te xam ne mas naa dox fi moom tay jii mu mat sëkk boroom  (3)
 ka denci doomam dib goroom  lii doy na xarbaax duy pexe
 
 Seex Ibra Faal amul moroom  sàkk na mbër yuy roy ci moom
@@ -199,19 +190,18 @@ Ndar la ko doomi Jaara may  leeral na bopp jaara tay
 waykat wa Sàmba Jaara Mbay  moo tax dënnam bay bëx-bëxi
 
 Mu jóg fa agsi Ndànd-Faal  jàpp fa doomi Ngóone Faal
-
 def ko ne làmp bu ñu taal  tay Ngingineew moo fay fexe
+
 Leeram ga sar ba agsi Kees  ku ñëw mu duy la ba nga fees
-
 luy nit ku ñuul ak ku xees  ñéppay bawoo fa Ngaay-Mexe
+
 Sëriñ bi ñëw Njurbél mu ñëw  gàddaay këram ya te du daw
-
 guddeek bëccëg ñam ya di ñëw  Ba Bàmba xëy sàkk pexe
+
 [jant a ngi jooy weer a ngi jooy  mbooleem biddiw yépp a ngi jooy
-
 suuf ak asamaan a ngi jooy  ku nekk naan na ka pexe]
-Mbooleem muriid yépp gëlam  ken xamatul kuy Sëriñam
 
+Mbooleem muriid yépp gëlam  ken xamatul kuy Sëriñam
 kune na ngéej a dal di dem  àddina séppiy jëx-jëxi
 
 Mu dal di ŋoy ci Mustafaa  ngir xam ne am na listifaa
@@ -230,19 +220,18 @@ Ngërëm la Yonnen bay gëram  Abaabakar ma jëkk a gëm
 la Sayxu Bàmba di gëram  Seex Ibra mooy jëkk a texe
 
 Medaay ba Yonnen bay takkal  Abaabakar ngirug dëggal
-
 la Sayxu Bàmba di takkal  Seex Ibra Faal bisub texe
+
 Mànto ba Yonnen bay solal  Abaabakar yor paresol
-
 jël saadixiinaya tofal  yal na ko Bàmba fab joxe
+
 [Bàmba a ko jël dal di ko fal  mbooloo ma dar ko muy dëggal
-
 Jaaraama Seexi Ibra Faal  yaa jar a xam bisub texe]
+
 [Yaw ku la sopp daal di baax  yaw ku la weddi dootu baax
-
 waa joo gërëm muy gën di baax  kii ku bañ day toroxi]
-[Nan jéem a toppi ndigalam  te jéem a moytu ay tereem
 
+[Nan jéem a toppi ndigalam  te jéem a moytu ay tereem
 te jéem a roy ci ay jikkoom  moo am njariñ bisub texe]
 
 Muusaa la way wii wolafal  yal na ko Shayxii Bàmba ful
