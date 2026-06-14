@@ -154,7 +154,7 @@ Mbulaki Sàqaki Sugeer  dañ daa falook a fali foor
 (2)  yaa tax ba dine di fa leer toxal nga póon mañ daa tuxe 
 
 Doomi Dàmmeel ya fa newon yaa dàm(m) mbir ma ñu newon  
-tay ñépp ñépp a ngi fi nun ken amatul lu muy fexe  
+tay ñépp ñépp a ngi fi nun ken amatul lu muy fexe 
 
 Yaa yóbbu Mbaaxaan ca Xafóor yaa tax ba xol ba dootu fuur  
 yaa tax mu sànni yatu nguur fab yatu gëm di laaj pexe  
