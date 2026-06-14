@@ -4,6 +4,8 @@
 
 *Aji-Taalif Ji*
 
+<img width="868" height="495" alt="Capture d’écran 2026-06-14 à 17 25 14" src="https://github.com/user-attachments/assets/f9295205-706a-4914-b57c-545b5b6537db" />
+
 ---
 
 **XARNU BI** : Seex Muusaa Ka Werekaanu Bàmba (Yalna ngërëmul Yàlla ñeel leen) woy ko ci atum 1929, ndeysaan!
