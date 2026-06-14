@@ -153,28 +153,28 @@ yaa tax ñu jébbulu ca teel  Faal Njaga yaa rëyi pexe
 Mbulaki Sàqaki Sugeer  dañ daa falook a fali foor
 (2)  yaa tax ba dine di fa leer toxal nga póon mañ daa tuxe 
 
-Doomi Dàmmeel ya fa newon yaa dàm(m) mbir ma ñu newon  
+Doomi Dàmmeel ya fa newon yaa dàm(m) mbir ma ñu newon
 tay ñépp ñépp a ngi fi nun ken amatul lu muy fexe 
 
-Yaa yóbbu Mbaaxaan ca Xafóor yaa tax ba xol ba dootu fuur  
+Yaa yóbbu Mbaaxaan ca Xafóor yaa tax ba xol ba dootu fuur 
 yaa tax mu sànni yatu nguur fab yatu gëm di laaj pexe  
 
-Te xam ne mas naa yor junjung fumu jëm géwal ya naa kundung  
+Te xam ne mas naa yor junjung fumu jëm géwal ya naa kundung 
 muy xas di bàkku cid goroŋ tay mu yam ak nun ay pexe  
 
-Yaa tax ba Abdulaahi Xaar taxaw fi bunt di fa xaar  
+Yaa tax ba Abdulaahi Xaar taxaw fi bunt di fa xaar 
 woyaflu bay lekk daqaar ngir sopp Bàmba miy joxe  
 
-Te xam ne moo doon doomi buur lum mas a wax ñu dal di buur  
+Te xam ne moo doon doomi buur lum mas a wax ñu dal di buur 
 la dale Mbaakol ba Kajoor moo amewoon seeni pexe  
 
-Yaa tax ba Soxna Mbenda Faal ak Gañsireeki Làlla Faal  
+Yaa tax ba Soxna Mbenda Faal ak Gañsireeki Làlla Faal 
 gën doomi soxna yii fi taal diine ju rëy ji ñuy doxe  
 
-Te xam ne seeni baay a moom Fedarba taalagut kanoom  
+Te xam ne seeni baay a moom Fedarba taalagut kanoom 
 koo mas a jis ay jamonoom xolam ba daawul yox-yoxi  
 
-Yaa tax ba Abdulaay ñaxib làmbi ndigal far na ko ub  
+Yaa tax ba Abdulaay ñaxib làmbi ndigal far na ko ub
 la gaa ya giiroo moo ko xab tabax na ay kër di joxe  
 
 Te xam ne mas naa dox fi moom tay jii mu mat sëkk boroom  (3)
