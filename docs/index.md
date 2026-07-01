@@ -22,7 +22,6 @@ Puisse ce site être un lieu d’apprentissage, de réflexion et d’élévation
 
 [🔗 Linked In](https://www.linkedin.com/in/abdouguene/ )  
 
-[🔗 RPubs](https://rpubs.com/abdou96 )  
 
 ![IMG-20200629-WA0055](https://github.com/user-attachments/assets/7460b53e-54f7-4336-987e-4c43c0a3d9ac)
 
