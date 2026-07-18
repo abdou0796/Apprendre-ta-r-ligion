@@ -12,7 +12,7 @@
 
 ---
 
-àddina ndax day bëgg a jeex  am gaa yu baax yeey bëgg a jeex
+Addina ndax day bëgg a jeex  am gaa yu baax yeey bëgg a jeex
 am mbër yu ndaw yeey bëgg a seex  Moo gaa yi xam naka pexe ?
 
 ka xamlewon ag tarbiya  ak ka xamon ag tarbiya
